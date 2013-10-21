@@ -17,4 +17,4 @@ Dados públicos compartilhados entre os colaboradores
 
 # releases
 
-resultados de cada sprint
+Resultados de cada sprint
