@@ -7,11 +7,11 @@ serverUser=$2
 
 mkdir $folder
 #substituir src/...blah
-cp -r src/edubrasil/WebContent/* $folder/
+cp -r src/* $folder/
 
 #zip da pagina
 rm $folder.zip
-zip -r $folder.zip maisedu
+zip -r $folder.zip maissaude
 
 #transferindo dados pro servidor
 #fazendo no lab, substituir futuramento pelo serverName e serverUser utilizado no servidor
@@ -20,5 +20,5 @@ ssh $serverUser@${serverName} "rm -r /var/www/$folder/*; unzip /tmp/$folder.zip 
 
 #removendo o diretorio e zip gerados
 rm -rf $folder.zip
-rm -rf maisedu
+rm -rf maissaude
 
