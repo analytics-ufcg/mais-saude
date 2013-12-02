@@ -17,7 +17,6 @@ function resetMap(dataset) {
 	var todas_cidades = dataset.map(function(d){return d.NOME_MUNICIPIO;}).unique().sort(sortComparer);
 	var div_municipios = d3.select("#Municípios");
 
-
 	//laço que itera em todas as cidades do mapa
 	for (var i = 0; i < todas_cidades.length; i++) {
 
@@ -28,7 +27,9 @@ function resetMap(dataset) {
 
 
 		var cidadeID = div_municipios.select("#" + cidade);
-		cidadeID.attr("class", "fil5 str2");
+		cidadeID.style("fill", "#FFFFFF");
+		cidadeID.style("stroke", "#838281");
+		cidadeID.style("stroke-width",76);
 
 		//mouse over
 		cidadeID.on("mouseover", function(d) {
@@ -196,7 +197,6 @@ function getDesvioIndicador(indicador, colunaDesvio, cidade, dataset) {
 // Retorna a cor do desvio resultante
 function getClassColor(desvioResult) {
 
-
 	if (desvioResult == "NA" ) {
 			return "none";
 	}
@@ -220,16 +220,3 @@ function getClassColor(desvioResult) {
 		
 	}
 }
-
-function mover(d) {
-	  var el = d3.select(this)	  
-			.style("fill-opacity", 0.3)
-			;
-	}
-
-//Mouseout function
-function mout(d) { 
-	var el = d3.select(this)
-	   .style("fill-opacity", 1)
-	  ;
-};
