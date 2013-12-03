@@ -1,0 +1,893 @@
+COD_UF;NOME_UF;COD_MUNICIPIO;ANO;COD_MESO;NOME_MESO;COD_MICRO;NOME_MICRO;NOME_MUNICIPIO;INDICADOR_020
+25;Paraíba;250010;2008;2501;Sert�o Paraibano;250107;Serra do Teixeira;Água Branca;66.47
+25;Paraíba;250020;2008;2501;Sert�o Paraibano;250105;Pianc�;Aguiar;59.3
+25;Paraíba;250030;2008;2503;Agreste Paraibano;250315;Brejo Paraibano;Alagoa Grande;69.09
+25;Paraíba;250040;2008;2503;Agreste Paraibano;250315;Brejo Paraibano;Alagoa Nova;72.68
+25;Paraíba;250050;2008;2503;Agreste Paraibano;250316;Guarabira;Alagoinha;58.47
+25;Paraíba;250053;2008;2502;Borborema;250211;Cariri Oriental;Alcantil;51.56
+25;Paraíba;250057;2008;2503;Agreste Paraibano;250312;Curimata� Ocidental;Algod�o de Janda�ra;78.33
+25;Paraíba;250060;2008;2504;Mata Paraibana;250423;Litoral Sul;Alhandra;67.27
+25;Paraíba;250070;2008;2501;Sert�o Paraibano;250102;Cajazeiras;S�o Jo�o do Rio do Peixe;30.85
+25;Paraíba;250073;2008;2502;Borborema;250210;Cariri Ocidental;Amparo;34.69
+25;Paraíba;250077;2008;2501;Sert�o Paraibano;250103;Sousa;Aparecida;39.06
+25;Paraíba;250080;2008;2503;Agreste Paraibano;250316;Guarabira;Ara�agi;58.4
+25;Paraíba;250090;2008;2503;Agreste Paraibano;250312;Curimata� Ocidental;Arara;72.53
+25;Paraíba;250100;2008;2503;Agreste Paraibano;250313;Curimata� Oriental;Araruna;65.92
+25;Paraíba;250110;2008;2503;Agreste Paraibano;250315;Brejo Paraibano;Areia;68.25
+25;Paraíba;250115;2008;2501;Sert�o Paraibano;250104;Patos;Areia de Bara�nas;58.49
+25;Paraíba;250120;2008;2503;Agreste Paraibano;250314;Esperan�a;Areial;62
+25;Paraíba;250130;2008;2503;Agreste Paraibano;250319;Umbuzeiro;Aroeiras;72.94
+25;Paraíba;250135;2008;2502;Borborema;250210;Cariri Ocidental;Assun��o;68.25
+25;Paraíba;250140;2008;2504;Mata Paraibana;250420;Litoral Norte;Ba�a da Trai��o;66.85
+25;Paraíba;250150;2008;2503;Agreste Paraibano;250315;Brejo Paraibano;Bananeiras;63.93
+25;Paraíba;250153;2008;2502;Borborema;250209;Serid� Oriental Paraibano;Bara�na;75.86
+25;Paraíba;250157;2008;2502;Borborema;250211;Cariri Oriental;Barra de Santana;64.46
+25;Paraíba;250160;2008;2503;Agreste Paraibano;250312;Curimata� Ocidental;Barra de Santa Rosa;66.05
+25;Paraíba;250170;2008;2502;Borborema;250211;Cariri Oriental;Barra de S�o Miguel;49.25
+25;Paraíba;250180;2008;2504;Mata Paraibana;250422;Jo�o Pessoa;Bayeux;54.83
+25;Paraíba;250190;2008;2503;Agreste Paraibano;250316;Guarabira;Bel�m;50.79
+25;Paraíba;250200;2008;2501;Sert�o Paraibano;250101;Catol� do Rocha;Bel�m do Brejo do Cruz;41
+25;Paraíba;250205;2008;2501;Sert�o Paraibano;250102;Cajazeiras;Bernardino Batista;57.38
+25;Paraíba;250210;2008;2501;Sert�o Paraibano;250106;Itaporanga;Boa Ventura;56.99
+25;Paraíba;250215;2008;2503;Agreste Paraibano;250317;Campina Grande;Boa Vista;56.31
+25;Paraíba;250220;2008;2501;Sert�o Paraibano;250102;Cajazeiras;Bom Jesus;45.65
+25;Paraíba;250230;2008;2501;Sert�o Paraibano;250101;Catol� do Rocha;Bom Sucesso;15.07
+25;Paraíba;250240;2008;2501;Sert�o Paraibano;250102;Cajazeiras;Bonito de Santa F�;51.31
+25;Paraíba;250250;2008;2502;Borborema;250211;Cariri Oriental;Boqueir�o;65.02
+25;Paraíba;250260;2008;2501;Sert�o Paraibano;250105;Pianc�;Igaracy;62.79
+25;Paraíba;250270;2008;2503;Agreste Paraibano;250315;Brejo Paraibano;Borborema;56.63
+25;Paraíba;250280;2008;2501;Sert�o Paraibano;250101;Catol� do Rocha;Brejo do Cruz;37.4
+25;Paraíba;250290;2008;2501;Sert�o Paraibano;250101;Catol� do Rocha;Brejo dos Santos;17.24
+25;Paraíba;250300;2008;2504;Mata Paraibana;250423;Litoral Sul;Caapor�;59.31
+25;Paraíba;250310;2008;2502;Borborema;250211;Cariri Oriental;Cabaceiras;63.44
+25;Paraíba;250320;2008;2504;Mata Paraibana;250422;Jo�o Pessoa;Cabedelo;43.41
+25;Paraíba;250330;2008;2501;Sert�o Paraibano;250102;Cajazeiras;Cachoeira dos �ndios;52.99
+25;Paraíba;250340;2008;2501;Sert�o Paraibano;250104;Patos;Cacimba de Areia;37.7
+25;Paraíba;250350;2008;2503;Agreste Paraibano;250313;Curimata� Oriental;Cacimba de Dentro;72.4
+25;Paraíba;250355;2008;2501;Sert�o Paraibano;250107;Serra do Teixeira;Cacimbas;66.89
+25;Paraíba;250360;2008;2503;Agreste Paraibano;250316;Guarabira;Cai�ara;56.56
+25;Paraíba;250370;2008;2501;Sert�o Paraibano;250102;Cajazeiras;Cajazeiras;38.78
+25;Paraíba;250375;2008;2501;Sert�o Paraibano;250103;Sousa;Cajazeirinhas;56.25
+25;Paraíba;250380;2008;2503;Agreste Paraibano;250318;Itabaiana;Caldas Brand�o;54.32
+25;Paraíba;250390;2008;2502;Borborema;250210;Cariri Ocidental;Camala�;65.88
+25;Paraíba;250400;2008;2503;Agreste Paraibano;250317;Campina Grande;Campina Grande;55.28
+25;Paraíba;250403;2008;2504;Mata Paraibana;250420;Litoral Norte;Capim;73.12
+25;Paraíba;250407;2008;2502;Borborema;250211;Cariri Oriental;Cara�bas;32.39
+25;Paraíba;250410;2008;2501;Sert�o Paraibano;250102;Cajazeiras;Carrapateira;42.5
+25;Paraíba;250415;2008;2503;Agreste Paraibano;250313;Curimata� Oriental;Casserengue;69.6
+25;Paraíba;250420;2008;2501;Sert�o Paraibano;250105;Pianc�;Catingueira;58.82
+25;Paraíba;250430;2008;2501;Sert�o Paraibano;250101;Catol� do Rocha;Catol� do Rocha;25
+25;Paraíba;250435;2008;2502;Borborema;250211;Cariri Oriental;Caturit�;64.38
+25;Paraíba;250440;2008;2501;Sert�o Paraibano;250106;Itaporanga;Concei��o;65.8
+25;Paraíba;250450;2008;2501;Sert�o Paraibano;250103;Sousa;Condado;59.52
+25;Paraíba;250460;2008;2504;Mata Paraibana;250422;Jo�o Pessoa;Conde;64.2
+25;Paraíba;250470;2008;2502;Borborema;250210;Cariri Ocidental;Congo;49.25
+25;Paraíba;250480;2008;2501;Sert�o Paraibano;250105;Pianc�;Coremas;50
+25;Paraíba;250485;2008;2502;Borborema;250210;Cariri Ocidental;Coxixola;80
+25;Paraíba;250490;2008;2504;Mata Paraibana;250421;Sap�;Cruz do Esp�rito Santo;61.17
+25;Paraíba;250500;2008;2502;Borborema;250209;Serid� Oriental Paraibano;Cubati;77.87
+25;Paraíba;250510;2008;2503;Agreste Paraibano;250312;Curimata� Ocidental;Cuit�;46.57
+25;Paraíba;250520;2008;2503;Agreste Paraibano;250316;Guarabira;Cuitegi;55.46
+25;Paraíba;250523;2008;2504;Mata Paraibana;250420;Litoral Norte;Cuit� de Mamanguape;58.23
+25;Paraíba;250527;2008;2504;Mata Paraibana;250420;Litoral Norte;Curral de Cima;67.71
+25;Paraíba;250530;2008;2501;Sert�o Paraibano;250106;Itaporanga;Curral Velho;57.78
+25;Paraíba;250535;2008;2503;Agreste Paraibano;250312;Curimata� Ocidental;Dami�o;76.81
+25;Paraíba;250540;2008;2501;Sert�o Paraibano;250107;Serra do Teixeira;Desterro;66.46
+25;Paraíba;250550;2008;2501;Sert�o Paraibano;250103;Sousa;Vista Serrana;38.33
+25;Paraíba;250560;2008;2501;Sert�o Paraibano;250106;Itaporanga;Diamante;49.07
+25;Paraíba;250570;2008;2503;Agreste Paraibano;250313;Curimata� Oriental;Dona In�s;61.93
+25;Paraíba;250580;2008;2503;Agreste Paraibano;250316;Guarabira;Duas Estradas;59.65
+25;Paraíba;250590;2008;2501;Sert�o Paraibano;250105;Pianc�;Emas;59.09
+25;Paraíba;250600;2008;2503;Agreste Paraibano;250314;Esperan�a;Esperan�a;62.37
+25;Paraíba;250610;2008;2503;Agreste Paraibano;250317;Campina Grande;Fagundes;78.41
+25;Paraíba;250620;2008;2502;Borborema;250209;Serid� Oriental Paraibano;Frei Martinho;55.81
+25;Paraíba;250625;2008;2503;Agreste Paraibano;250319;Umbuzeiro;Gado Bravo;80.15
+25;Paraíba;250630;2008;2503;Agreste Paraibano;250316;Guarabira;Guarabira;47.67
+25;Paraíba;250640;2008;2503;Agreste Paraibano;250318;Itabaiana;Gurinh�m;68.97
+25;Paraíba;250650;2008;2502;Borborema;250211;Cariri Oriental;Gurj�o;65.91
+25;Paraíba;250660;2008;2501;Sert�o Paraibano;250106;Itaporanga;Ibiara;37.5
+25;Paraíba;250670;2008;2501;Sert�o Paraibano;250107;Serra do Teixeira;Imaculada;56.63
+25;Paraíba;250680;2008;2503;Agreste Paraibano;250318;Itabaiana;Ing�;63.73
+25;Paraíba;250690;2008;2503;Agreste Paraibano;250318;Itabaiana;Itabaiana;47.41
+25;Paraíba;250700;2008;2501;Sert�o Paraibano;250106;Itaporanga;Itaporanga;37.81
+25;Paraíba;250710;2008;2504;Mata Paraibana;250420;Litoral Norte;Itapororoca;60.15
+25;Paraíba;250720;2008;2503;Agreste Paraibano;250318;Itabaiana;Itatuba;76.36
+25;Paraíba;250730;2008;2504;Mata Paraibana;250420;Litoral Norte;Jacara�;60.48
+25;Paraíba;250740;2008;2501;Sert�o Paraibano;250101;Catol� do Rocha;Jeric�;26.6
+25;Paraíba;250750;2008;2504;Mata Paraibana;250422;Jo�o Pessoa;Jo�o Pessoa;42.97
+25;Paraíba;250760;2008;2503;Agreste Paraibano;250318;Itabaiana;Juarez T�vora;68.89
+25;Paraíba;250770;2008;2502;Borborema;250209;Serid� Oriental Paraibano;Juazeirinho;71.65
+25;Paraíba;250780;2008;2502;Borborema;250208;Serid� Ocidental Paraibano;Junco do Serid�;69.57
+25;Paraíba;250790;2008;2504;Mata Paraibana;250421;Sap�;Juripiranga;59.42
+25;Paraíba;250800;2008;2501;Sert�o Paraibano;250107;Serra do Teixeira;Juru;53.62
+25;Paraíba;250810;2008;2501;Sert�o Paraibano;250101;Catol� do Rocha;Lagoa;32.65
+25;Paraíba;250820;2008;2503;Agreste Paraibano;250316;Guarabira;Lagoa de Dentro;63.71
+25;Paraíba;250830;2008;2503;Agreste Paraibano;250317;Campina Grande;Lagoa Seca;64.18
+25;Paraíba;250840;2008;2501;Sert�o Paraibano;250103;Sousa;Lastro;41.82
+25;Paraíba;250850;2008;2502;Borborema;250210;Cariri Ocidental;Livramento;67.74
+25;Paraíba;250855;2008;2503;Agreste Paraibano;250316;Guarabira;Logradouro;48.21
+25;Paraíba;250860;2008;2504;Mata Paraibana;250422;Jo�o Pessoa;Lucena;61.29
+25;Paraíba;250870;2008;2501;Sert�o Paraibano;250104;Patos;M�e d'�gua;57.69
+25;Paraíba;250880;2008;2501;Sert�o Paraibano;250103;Sousa;Malta;60
+25;Paraíba;250890;2008;2504;Mata Paraibana;250420;Litoral Norte;Mamanguape;65.53
+25;Paraíba;250900;2008;2501;Sert�o Paraibano;250107;Serra do Teixeira;Mana�ra;63.85
+25;Paraíba;250905;2008;2504;Mata Paraibana;250420;Litoral Norte;Marca��o;68.63
+25;Paraíba;250910;2008;2504;Mata Paraibana;250421;Sap�;Mari;55.71
+25;Paraíba;250915;2008;2501;Sert�o Paraibano;250103;Sousa;Mariz�polis;30.84
+25;Paraíba;250920;2008;2503;Agreste Paraibano;250317;Campina Grande;Massaranduba;70.65
+25;Paraíba;250930;2008;2504;Mata Paraibana;250420;Litoral Norte;Mataraca;70.78
+25;Paraíba;250933;2008;2503;Agreste Paraibano;250315;Brejo Paraibano;Matinhas;71.74
+25;Paraíba;250937;2008;2501;Sert�o Paraibano;250101;Catol� do Rocha;Mato Grosso;21.57
+25;Paraíba;250939;2008;2501;Sert�o Paraibano;250107;Serra do Teixeira;Matur�ia;60.36
+25;Paraíba;250940;2008;2503;Agreste Paraibano;250318;Itabaiana;Mogeiro;59.62
+25;Paraíba;250950;2008;2503;Agreste Paraibano;250314;Esperan�a;Montadas;64.63
+25;Paraíba;250960;2008;2501;Sert�o Paraibano;250102;Cajazeiras;Monte Horebe;55.26
+25;Paraíba;250970;2008;2502;Borborema;250210;Cariri Ocidental;Monteiro;42.09
+25;Paraíba;250980;2008;2503;Agreste Paraibano;250316;Guarabira;Mulungu;60.61
+25;Paraíba;250990;2008;2503;Agreste Paraibano;250319;Umbuzeiro;Natuba;73.74
+25;Paraíba;251000;2008;2501;Sert�o Paraibano;250103;Sousa;Nazarezinho;28.7
+25;Paraíba;251010;2008;2503;Agreste Paraibano;250312;Curimata� Ocidental;Nova Floresta;62.19
+25;Paraíba;251020;2008;2501;Sert�o Paraibano;250105;Pianc�;Nova Olinda;66.27
+25;Paraíba;251030;2008;2502;Borborema;250209;Serid� Oriental Paraibano;Nova Palmeira;66.67
+25;Paraíba;251040;2008;2501;Sert�o Paraibano;250105;Pianc�;Olho d'�gua;61.02
+25;Paraíba;251050;2008;2503;Agreste Paraibano;250312;Curimata� Ocidental;Olivedos;54
+25;Paraíba;251060;2008;2502;Borborema;250210;Cariri Ocidental;Ouro Velho;53.7
+25;Paraíba;251065;2008;2502;Borborema;250210;Cariri Ocidental;Parari;34.21
+25;Paraíba;251070;2008;2501;Sert�o Paraibano;250104;Patos;Passagem;66.67
+25;Paraíba;251080;2008;2501;Sert�o Paraibano;250104;Patos;Patos;49.12
+25;Paraíba;251090;2008;2501;Sert�o Paraibano;250103;Sousa;Paulista;50.79
+25;Paraíba;251100;2008;2501;Sert�o Paraibano;250106;Itaporanga;Pedra Branca;56.14
+25;Paraíba;251110;2008;2502;Borborema;250209;Serid� Oriental Paraibano;Pedra Lavrada;76.64
+25;Paraíba;251120;2008;2504;Mata Paraibana;250423;Litoral Sul;Pedras de Fogo;56.67
+25;Paraíba;251130;2008;2501;Sert�o Paraibano;250105;Pianc�;Pianc�;49.58
+25;Paraíba;251140;2008;2502;Borborema;250209;Serid� Oriental Paraibano;Picu�;66.24
+25;Paraíba;251150;2008;2504;Mata Paraibana;250421;Sap�;Pilar;64.71
+25;Paraíba;251160;2008;2503;Agreste Paraibano;250315;Brejo Paraibano;Pil�es;63.38
+25;Paraíba;251170;2008;2503;Agreste Paraibano;250316;Guarabira;Pil�ezinhos;64.29
+25;Paraíba;251180;2008;2503;Agreste Paraibano;250316;Guarabira;Pirpirituba;55.43
+25;Paraíba;251190;2008;2504;Mata Paraibana;250423;Litoral Sul;Pitimbu;66.47
+25;Paraíba;251200;2008;2503;Agreste Paraibano;250312;Curimata� Ocidental;Pocinhos;68.39
+25;Paraíba;251203;2008;2501;Sert�o Paraibano;250102;Cajazeiras;Po�o Dantas;46.27
+25;Paraíba;251207;2008;2501;Sert�o Paraibano;250102;Cajazeiras;Po�o de Jos� de Moura;59.65
+25;Paraíba;251210;2008;2501;Sert�o Paraibano;250103;Sousa;Pombal;38.7
+25;Paraíba;251220;2008;2502;Borborema;250210;Cariri Ocidental;Prata;44.07
+25;Paraíba;251230;2008;2501;Sert�o Paraibano;250107;Serra do Teixeira;Princesa Isabel;39.29
+25;Paraíba;251240;2008;2503;Agreste Paraibano;250317;Campina Grande;Puxinan�;70.75
+25;Paraíba;251250;2008;2503;Agreste Paraibano;250317;Campina Grande;Queimadas;55.14
+25;Paraíba;251260;2008;2501;Sert�o Paraibano;250104;Patos;Quixab�;65.63
+25;Paraíba;251270;2008;2503;Agreste Paraibano;250312;Curimata� Ocidental;Rem�gio;67.31
+25;Paraíba;251272;2008;2504;Mata Paraibana;250420;Litoral Norte;Pedro R�gis;70.53
+25;Paraíba;251274;2008;2503;Agreste Paraibano;250313;Curimata� Oriental;Riach�o;64.52
+25;Paraíba;251275;2008;2503;Agreste Paraibano;250318;Itabaiana;Riach�o do Bacamarte;66.67
+25;Paraíba;251276;2008;2504;Mata Paraibana;250421;Sap�;Riach�o do Po�o;52.94
+25;Paraíba;251278;2008;2502;Borborema;250211;Cariri Oriental;Riacho de Santo Ant�nio;38.1
+25;Paraíba;251280;2008;2501;Sert�o Paraibano;250101;Catol� do Rocha;Riacho dos Cavalos;16
+25;Paraíba;251290;2008;2504;Mata Paraibana;250420;Litoral Norte;Rio Tinto;67.9
+25;Paraíba;251300;2008;2502;Borborema;250208;Serid� Ocidental Paraibano;Salgadinho;70.21
+25;Paraíba;251310;2008;2503;Agreste Paraibano;250318;Itabaiana;Salgado de S�o F�lix;68.07
+25;Paraíba;251315;2008;2503;Agreste Paraibano;250319;Umbuzeiro;Santa Cec�lia;66.95
+25;Paraíba;251320;2008;2501;Sert�o Paraibano;250103;Sousa;Santa Cruz;32.89
+25;Paraíba;251330;2008;2501;Sert�o Paraibano;250102;Cajazeiras;Santa Helena;40
+25;Paraíba;251335;2008;2501;Sert�o Paraibano;250106;Itaporanga;Santa In�s;32
+25;Paraíba;251340;2008;2502;Borborema;250208;Serid� Ocidental Paraibano;Santa Luzia;54.39
+25;Paraíba;251350;2008;2501;Sert�o Paraibano;250106;Itaporanga;Santana de Mangueira;51.28
+25;Paraíba;251360;2008;2501;Sert�o Paraibano;250105;Pianc�;Santana dos Garrotes;47.22
+25;Paraíba;251365;2008;2501;Sert�o Paraibano;250102;Cajazeiras;Santar�m;45.45
+25;Paraíba;251370;2008;2504;Mata Paraibana;250422;Jo�o Pessoa;Santa Rita;52.18
+25;Paraíba;251380;2008;2501;Sert�o Paraibano;250104;Patos;Santa Teresinha;51.79
+25;Paraíba;251385;2008;2502;Borborema;250211;Cariri Oriental;Santo Andr�;84.38
+25;Paraíba;251390;2008;2501;Sert�o Paraibano;250101;Catol� do Rocha;S�o Bento;45.89
+25;Paraíba;251392;2008;2501;Sert�o Paraibano;250103;Sousa;S�o Bentinho;80
+25;Paraíba;251394;2008;2502;Borborema;250211;Cariri Oriental;S�o Domingos do Cariri;63.64
+25;Paraíba;251396;2008;2501;Sert�o Paraibano;250103;Sousa;S�o Domingos;42.86
+25;Paraíba;251398;2008;2501;Sert�o Paraibano;250103;Sousa;S�o Francisco;25
+25;Paraíba;251400;2008;2502;Borborema;250211;Cariri Oriental;S�o Jo�o do Cariri;63.64
+25;Paraíba;251410;2008;2502;Borborema;250210;Cariri Ocidental;S�o Jo�o do Tigre;48.44
+25;Paraíba;251420;2008;2501;Sert�o Paraibano;250103;Sousa;S�o Jos� da Lagoa Tapada;38.14
+25;Paraíba;251430;2008;2501;Sert�o Paraibano;250106;Itaporanga;S�o Jos� de Caiana;69.72
+25;Paraíba;251440;2008;2501;Sert�o Paraibano;250104;Patos;S�o Jos� de Espinharas;55.1
+25;Paraíba;251445;2008;2504;Mata Paraibana;250421;Sap�;S�o Jos� dos Ramos;61.25
+25;Paraíba;251450;2008;2501;Sert�o Paraibano;250102;Cajazeiras;S�o Jos� de Piranhas;42.31
+25;Paraíba;251455;2008;2501;Sert�o Paraibano;250107;Serra do Teixeira;S�o Jos� de Princesa;45.16
+25;Paraíba;251460;2008;2501;Sert�o Paraibano;250104;Patos;S�o Jos� do Bonfim;66.67
+25;Paraíba;251465;2008;2501;Sert�o Paraibano;250101;Catol� do Rocha;S�o Jos� do Brejo do Cruz;25
+25;Paraíba;251470;2008;2502;Borborema;250208;Serid� Ocidental Paraibano;S�o Jos� do Sabugi;76.6
+25;Paraíba;251480;2008;2502;Borborema;250210;Cariri Ocidental;S�o Jos� dos Cordeiros;48.21
+25;Paraíba;251490;2008;2502;Borborema;250208;Serid� Ocidental Paraibano;S�o Mamede;63.7
+25;Paraíba;251500;2008;2504;Mata Paraibana;250421;Sap�;S�o Miguel de Taipu;51.75
+25;Paraíba;251510;2008;2503;Agreste Paraibano;250314;Esperan�a;S�o Sebasti�o de Lagoa de Ro�a;61.7
+25;Paraíba;251520;2008;2502;Borborema;250210;Cariri Ocidental;S�o Sebasti�o do Umbuzeiro;49.18
+25;Paraíba;251530;2008;2504;Mata Paraibana;250421;Sap�;Sap�;61.13
+25;Paraíba;251540;2008;2502;Borborema;250209;Serid� Oriental Paraibano;Serid�;83.85
+25;Paraíba;251550;2008;2502;Borborema;250210;Cariri Ocidental;Serra Branca;43.07
+25;Paraíba;251560;2008;2503;Agreste Paraibano;250316;Guarabira;Serra da Raiz;65.63
+25;Paraíba;251570;2008;2501;Sert�o Paraibano;250106;Itaporanga;Serra Grande;48.15
+25;Paraíba;251580;2008;2503;Agreste Paraibano;250317;Campina Grande;Serra Redonda;59.8
+25;Paraíba;251590;2008;2503;Agreste Paraibano;250315;Brejo Paraibano;Serraria;69.23
+25;Paraíba;251593;2008;2503;Agreste Paraibano;250316;Guarabira;Sert�ozinho;60
+25;Paraíba;251597;2008;2504;Mata Paraibana;250421;Sap�;Sobrado;56.38
+25;Paraíba;251600;2008;2503;Agreste Paraibano;250313;Curimata� Oriental;Sol�nea;68.65
+25;Paraíba;251610;2008;2503;Agreste Paraibano;250312;Curimata� Ocidental;Soledade;71.56
+25;Paraíba;251615;2008;2503;Agreste Paraibano;250312;Curimata� Ocidental;Soss�go;74.55
+25;Paraíba;251620;2008;2501;Sert�o Paraibano;250103;Sousa;Sousa;27.84
+25;Paraíba;251630;2008;2502;Borborema;250210;Cariri Ocidental;Sum�;42.97
+25;Paraíba;251640;2008;2503;Agreste Paraibano;250313;Curimata� Oriental;Tacima;58.27
+25;Paraíba;251650;2008;2502;Borborema;250210;Cariri Ocidental;Tapero�;69.48
+25;Paraíba;251660;2008;2501;Sert�o Paraibano;250107;Serra do Teixeira;Tavares;38.71
+25;Paraíba;251670;2008;2501;Sert�o Paraibano;250107;Serra do Teixeira;Teixeira;62.06
+25;Paraíba;251675;2008;2502;Borborema;250209;Serid� Oriental Paraibano;Ten�rio;80
+25;Paraíba;251680;2008;2501;Sert�o Paraibano;250102;Cajazeiras;Triunfo;49.62
+25;Paraíba;251690;2008;2501;Sert�o Paraibano;250102;Cajazeiras;Uira�na;31.16
+25;Paraíba;251700;2008;2503;Agreste Paraibano;250319;Umbuzeiro;Umbuzeiro;50.78
+25;Paraíba;251710;2008;2502;Borborema;250208;Serid� Ocidental Paraibano;V�rzea;67.57
+25;Paraíba;251720;2008;2501;Sert�o Paraibano;250103;Sousa;Vieir�polis;25.4
+25;Paraíba;251740;2008;2502;Borborema;250210;Cariri Ocidental;Zabel�;NA
+25;Paraíba;250010;2009;2501;Sert�o Paraibano;250107;Serra do Teixeira;Água Branca;55.74
+25;Paraíba;250020;2009;2501;Sert�o Paraibano;250105;Pianc�;Aguiar;53.09
+25;Paraíba;250030;2009;2503;Agreste Paraibano;250315;Brejo Paraibano;Alagoa Grande;66.95
+25;Paraíba;250040;2009;2503;Agreste Paraibano;250315;Brejo Paraibano;Alagoa Nova;70.78
+25;Paraíba;250050;2009;2503;Agreste Paraibano;250316;Guarabira;Alagoinha;61.51
+25;Paraíba;250053;2009;2502;Borborema;250211;Cariri Oriental;Alcantil;37.7
+25;Paraíba;250057;2009;2503;Agreste Paraibano;250312;Curimata� Ocidental;Algod�o de Janda�ra;76.47
+25;Paraíba;250060;2009;2504;Mata Paraibana;250423;Litoral Sul;Alhandra;60.52
+25;Paraíba;250070;2009;2501;Sert�o Paraibano;250102;Cajazeiras;S�o Jo�o do Rio do Peixe;36.55
+25;Paraíba;250073;2009;2502;Borborema;250210;Cariri Ocidental;Amparo;41.94
+25;Paraíba;250077;2009;2501;Sert�o Paraibano;250103;Sousa;Aparecida;32.2
+25;Paraíba;250080;2009;2503;Agreste Paraibano;250316;Guarabira;Ara�agi;50.97
+25;Paraíba;250090;2009;2503;Agreste Paraibano;250312;Curimata� Ocidental;Arara;80.11
+25;Paraíba;250100;2009;2503;Agreste Paraibano;250313;Curimata� Oriental;Araruna;67.9
+25;Paraíba;250110;2009;2503;Agreste Paraibano;250315;Brejo Paraibano;Areia;70.7
+25;Paraíba;250115;2009;2501;Sert�o Paraibano;250104;Patos;Areia de Bara�nas;53.49
+25;Paraíba;250120;2009;2503;Agreste Paraibano;250314;Esperan�a;Areial;70.48
+25;Paraíba;250130;2009;2503;Agreste Paraibano;250319;Umbuzeiro;Aroeiras;72.09
+25;Paraíba;250135;2009;2502;Borborema;250210;Cariri Ocidental;Assun��o;69.84
+25;Paraíba;250140;2009;2504;Mata Paraibana;250420;Litoral Norte;Ba�a da Trai��o;62.86
+25;Paraíba;250150;2009;2503;Agreste Paraibano;250315;Brejo Paraibano;Bananeiras;58.17
+25;Paraíba;250153;2009;2502;Borborema;250209;Serid� Oriental Paraibano;Bara�na;54.55
+25;Paraíba;250157;2009;2502;Borborema;250211;Cariri Oriental;Barra de Santana;61.02
+25;Paraíba;250160;2009;2503;Agreste Paraibano;250312;Curimata� Ocidental;Barra de Santa Rosa;63.01
+25;Paraíba;250170;2009;2502;Borborema;250211;Cariri Oriental;Barra de S�o Miguel;56.12
+25;Paraíba;250180;2009;2504;Mata Paraibana;250422;Jo�o Pessoa;Bayeux;48.3
+25;Paraíba;250190;2009;2503;Agreste Paraibano;250316;Guarabira;Bel�m;46.96
+25;Paraíba;250200;2009;2501;Sert�o Paraibano;250101;Catol� do Rocha;Bel�m do Brejo do Cruz;23
+25;Paraíba;250205;2009;2501;Sert�o Paraibano;250102;Cajazeiras;Bernardino Batista;59.68
+25;Paraíba;250210;2009;2501;Sert�o Paraibano;250106;Itaporanga;Boa Ventura;38.95
+25;Paraíba;250215;2009;2503;Agreste Paraibano;250317;Campina Grande;Boa Vista;55.73
+25;Paraíba;250220;2009;2501;Sert�o Paraibano;250102;Cajazeiras;Bom Jesus;43.4
+25;Paraíba;250230;2009;2501;Sert�o Paraibano;250101;Catol� do Rocha;Bom Sucesso;9.21
+25;Paraíba;250240;2009;2501;Sert�o Paraibano;250102;Cajazeiras;Bonito de Santa F�;60.47
+25;Paraíba;250250;2009;2502;Borborema;250211;Cariri Oriental;Boqueir�o;61.76
+25;Paraíba;250260;2009;2501;Sert�o Paraibano;250105;Pianc�;Igaracy;57.73
+25;Paraíba;250270;2009;2503;Agreste Paraibano;250315;Brejo Paraibano;Borborema;47.13
+25;Paraíba;250280;2009;2501;Sert�o Paraibano;250101;Catol� do Rocha;Brejo do Cruz;30.84
+25;Paraíba;250290;2009;2501;Sert�o Paraibano;250101;Catol� do Rocha;Brejo dos Santos;18.29
+25;Paraíba;250300;2009;2504;Mata Paraibana;250423;Litoral Sul;Caapor�;58.74
+25;Paraíba;250310;2009;2502;Borborema;250211;Cariri Oriental;Cabaceiras;53.85
+25;Paraíba;250320;2009;2504;Mata Paraibana;250422;Jo�o Pessoa;Cabedelo;45.99
+25;Paraíba;250330;2009;2501;Sert�o Paraibano;250102;Cajazeiras;Cachoeira dos �ndios;50
+25;Paraíba;250340;2009;2501;Sert�o Paraibano;250104;Patos;Cacimba de Areia;46.94
+25;Paraíba;250350;2009;2503;Agreste Paraibano;250313;Curimata� Oriental;Cacimba de Dentro;73.55
+25;Paraíba;250355;2009;2501;Sert�o Paraibano;250107;Serra do Teixeira;Cacimbas;72.97
+25;Paraíba;250360;2009;2503;Agreste Paraibano;250316;Guarabira;Cai�ara;45.74
+25;Paraíba;250370;2009;2501;Sert�o Paraibano;250102;Cajazeiras;Cajazeiras;38.53
+25;Paraíba;250375;2009;2501;Sert�o Paraibano;250103;Sousa;Cajazeirinhas;36.67
+25;Paraíba;250380;2009;2503;Agreste Paraibano;250318;Itabaiana;Caldas Brand�o;50
+25;Paraíba;250390;2009;2502;Borborema;250210;Cariri Ocidental;Camala�;38.14
+25;Paraíba;250400;2009;2503;Agreste Paraibano;250317;Campina Grande;Campina Grande;51.62
+25;Paraíba;250403;2009;2504;Mata Paraibana;250420;Litoral Norte;Capim;67.14
+25;Paraíba;250407;2009;2502;Borborema;250211;Cariri Oriental;Cara�bas;38.03
+25;Paraíba;250410;2009;2501;Sert�o Paraibano;250102;Cajazeiras;Carrapateira;37.5
+25;Paraíba;250415;2009;2503;Agreste Paraibano;250313;Curimata� Oriental;Casserengue;78.3
+25;Paraíba;250420;2009;2501;Sert�o Paraibano;250105;Pianc�;Catingueira;64.94
+25;Paraíba;250430;2009;2501;Sert�o Paraibano;250101;Catol� do Rocha;Catol� do Rocha;16.08
+25;Paraíba;250435;2009;2502;Borborema;250211;Cariri Oriental;Caturit�;68.35
+25;Paraíba;250440;2009;2501;Sert�o Paraibano;250106;Itaporanga;Concei��o;68.06
+25;Paraíba;250450;2009;2501;Sert�o Paraibano;250103;Sousa;Condado;57.64
+25;Paraíba;250460;2009;2504;Mata Paraibana;250422;Jo�o Pessoa;Conde;61.61
+25;Paraíba;250470;2009;2502;Borborema;250210;Cariri Ocidental;Congo;43.42
+25;Paraíba;250480;2009;2501;Sert�o Paraibano;250105;Pianc�;Coremas;41.47
+25;Paraíba;250485;2009;2502;Borborema;250210;Cariri Ocidental;Coxixola;54.17
+25;Paraíba;250490;2009;2504;Mata Paraibana;250421;Sap�;Cruz do Esp�rito Santo;60.51
+25;Paraíba;250500;2009;2502;Borborema;250209;Serid� Oriental Paraibano;Cubati;72.81
+25;Paraíba;250510;2009;2503;Agreste Paraibano;250312;Curimata� Ocidental;Cuit�;49.48
+25;Paraíba;250520;2009;2503;Agreste Paraibano;250316;Guarabira;Cuitegi;47.62
+25;Paraíba;250523;2009;2504;Mata Paraibana;250420;Litoral Norte;Cuit� de Mamanguape;69.32
+25;Paraíba;250527;2009;2504;Mata Paraibana;250420;Litoral Norte;Curral de Cima;68.92
+25;Paraíba;250530;2009;2501;Sert�o Paraibano;250106;Itaporanga;Curral Velho;41.46
+25;Paraíba;250535;2009;2503;Agreste Paraibano;250312;Curimata� Ocidental;Dami�o;63.77
+25;Paraíba;250540;2009;2501;Sert�o Paraibano;250107;Serra do Teixeira;Desterro;62.2
+25;Paraíba;250550;2009;2501;Sert�o Paraibano;250103;Sousa;Vista Serrana;45.28
+25;Paraíba;250560;2009;2501;Sert�o Paraibano;250106;Itaporanga;Diamante;48.19
+25;Paraíba;250570;2009;2503;Agreste Paraibano;250313;Curimata� Oriental;Dona In�s;71.28
+25;Paraíba;250580;2009;2503;Agreste Paraibano;250316;Guarabira;Duas Estradas;61.02
+25;Paraíba;250590;2009;2501;Sert�o Paraibano;250105;Pianc�;Emas;68.33
+25;Paraíba;250600;2009;2503;Agreste Paraibano;250314;Esperan�a;Esperan�a;56.8
+25;Paraíba;250610;2009;2503;Agreste Paraibano;250317;Campina Grande;Fagundes;74.58
+25;Paraíba;250620;2009;2502;Borborema;250209;Serid� Oriental Paraibano;Frei Martinho;67.5
+25;Paraíba;250625;2009;2503;Agreste Paraibano;250319;Umbuzeiro;Gado Bravo;73.05
+25;Paraíba;250630;2009;2503;Agreste Paraibano;250316;Guarabira;Guarabira;41.52
+25;Paraíba;250640;2009;2503;Agreste Paraibano;250318;Itabaiana;Gurinh�m;65.12
+25;Paraíba;250650;2009;2502;Borborema;250211;Cariri Oriental;Gurj�o;69.57
+25;Paraíba;250660;2009;2501;Sert�o Paraibano;250106;Itaporanga;Ibiara;46.15
+25;Paraíba;250670;2009;2501;Sert�o Paraibano;250107;Serra do Teixeira;Imaculada;52.88
+25;Paraíba;250680;2009;2503;Agreste Paraibano;250318;Itabaiana;Ing�;65.66
+25;Paraíba;250690;2009;2503;Agreste Paraibano;250318;Itabaiana;Itabaiana;46.63
+25;Paraíba;250700;2009;2501;Sert�o Paraibano;250106;Itaporanga;Itaporanga;36.04
+25;Paraíba;250710;2009;2504;Mata Paraibana;250420;Litoral Norte;Itapororoca;57.89
+25;Paraíba;250720;2009;2503;Agreste Paraibano;250318;Itabaiana;Itatuba;70.76
+25;Paraíba;250730;2009;2504;Mata Paraibana;250420;Litoral Norte;Jacara�;67.15
+25;Paraíba;250740;2009;2501;Sert�o Paraibano;250101;Catol� do Rocha;Jeric�;19.69
+25;Paraíba;250750;2009;2504;Mata Paraibana;250422;Jo�o Pessoa;Jo�o Pessoa;40.95
+25;Paraíba;250760;2009;2503;Agreste Paraibano;250318;Itabaiana;Juarez T�vora;70.94
+25;Paraíba;250770;2009;2502;Borborema;250209;Serid� Oriental Paraibano;Juazeirinho;78.55
+25;Paraíba;250780;2009;2502;Borborema;250208;Serid� Ocidental Paraibano;Junco do Serid�;70.54
+25;Paraíba;250790;2009;2504;Mata Paraibana;250421;Sap�;Juripiranga;61.05
+25;Paraíba;250800;2009;2501;Sert�o Paraibano;250107;Serra do Teixeira;Juru;48
+25;Paraíba;250810;2009;2501;Sert�o Paraibano;250101;Catol� do Rocha;Lagoa;14.04
+25;Paraíba;250820;2009;2503;Agreste Paraibano;250316;Guarabira;Lagoa de Dentro;64.04
+25;Paraíba;250830;2009;2503;Agreste Paraibano;250317;Campina Grande;Lagoa Seca;64.34
+25;Paraíba;250840;2009;2501;Sert�o Paraibano;250103;Sousa;Lastro;30
+25;Paraíba;250850;2009;2502;Borborema;250210;Cariri Ocidental;Livramento;63.64
+25;Paraíba;250855;2009;2503;Agreste Paraibano;250316;Guarabira;Logradouro;57.63
+25;Paraíba;250860;2009;2504;Mata Paraibana;250422;Jo�o Pessoa;Lucena;60.21
+25;Paraíba;250870;2009;2501;Sert�o Paraibano;250104;Patos;M�e d'�gua;61.11
+25;Paraíba;250880;2009;2501;Sert�o Paraibano;250103;Sousa;Malta;66.3
+25;Paraíba;250890;2009;2504;Mata Paraibana;250420;Litoral Norte;Mamanguape;59.38
+25;Paraíba;250900;2009;2501;Sert�o Paraibano;250107;Serra do Teixeira;Mana�ra;66.23
+25;Paraíba;250905;2009;2504;Mata Paraibana;250420;Litoral Norte;Marca��o;62.58
+25;Paraíba;250910;2009;2504;Mata Paraibana;250421;Sap�;Mari;50.84
+25;Paraíba;250915;2009;2501;Sert�o Paraibano;250103;Sousa;Mariz�polis;35.51
+25;Paraíba;250920;2009;2503;Agreste Paraibano;250317;Campina Grande;Massaranduba;76.33
+25;Paraíba;250930;2009;2504;Mata Paraibana;250420;Litoral Norte;Mataraca;61.04
+25;Paraíba;250933;2009;2503;Agreste Paraibano;250315;Brejo Paraibano;Matinhas;73.24
+25;Paraíba;250937;2009;2501;Sert�o Paraibano;250101;Catol� do Rocha;Mato Grosso;25
+25;Paraíba;250939;2009;2501;Sert�o Paraibano;250107;Serra do Teixeira;Matur�ia;68.81
+25;Paraíba;250940;2009;2503;Agreste Paraibano;250318;Itabaiana;Mogeiro;64.55
+25;Paraíba;250950;2009;2503;Agreste Paraibano;250314;Esperan�a;Montadas;64.95
+25;Paraíba;250960;2009;2501;Sert�o Paraibano;250102;Cajazeiras;Monte Horebe;45.71
+25;Paraíba;250970;2009;2502;Borborema;250210;Cariri Ocidental;Monteiro;42.46
+25;Paraíba;250980;2009;2503;Agreste Paraibano;250316;Guarabira;Mulungu;56.67
+25;Paraíba;250990;2009;2503;Agreste Paraibano;250319;Umbuzeiro;Natuba;73.55
+25;Paraíba;251000;2009;2501;Sert�o Paraibano;250103;Sousa;Nazarezinho;35.77
+25;Paraíba;251010;2009;2503;Agreste Paraibano;250312;Curimata� Ocidental;Nova Floresta;67.44
+25;Paraíba;251020;2009;2501;Sert�o Paraibano;250105;Pianc�;Nova Olinda;67.96
+25;Paraíba;251030;2009;2502;Borborema;250209;Serid� Oriental Paraibano;Nova Palmeira;60
+25;Paraíba;251040;2009;2501;Sert�o Paraibano;250105;Pianc�;Olho d'�gua;58.56
+25;Paraíba;251050;2009;2503;Agreste Paraibano;250312;Curimata� Ocidental;Olivedos;67.44
+25;Paraíba;251060;2009;2502;Borborema;250210;Cariri Ocidental;Ouro Velho;40.74
+25;Paraíba;251065;2009;2502;Borborema;250210;Cariri Ocidental;Parari;48.39
+25;Paraíba;251070;2009;2501;Sert�o Paraibano;250104;Patos;Passagem;68.75
+25;Paraíba;251080;2009;2501;Sert�o Paraibano;250104;Patos;Patos;47.94
+25;Paraíba;251090;2009;2501;Sert�o Paraibano;250103;Sousa;Paulista;40.12
+25;Paraíba;251100;2009;2501;Sert�o Paraibano;250106;Itaporanga;Pedra Branca;53.85
+25;Paraíba;251110;2009;2502;Borborema;250209;Serid� Oriental Paraibano;Pedra Lavrada;73.33
+25;Paraíba;251120;2009;2504;Mata Paraibana;250423;Litoral Sul;Pedras de Fogo;56.67
+25;Paraíba;251130;2009;2501;Sert�o Paraibano;250105;Pianc�;Pianc�;56
+25;Paraíba;251140;2009;2502;Borborema;250209;Serid� Oriental Paraibano;Picu�;53.05
+25;Paraíba;251150;2009;2504;Mata Paraibana;250421;Sap�;Pilar;64.86
+25;Paraíba;251160;2009;2503;Agreste Paraibano;250315;Brejo Paraibano;Pil�es;61.07
+25;Paraíba;251170;2009;2503;Agreste Paraibano;250316;Guarabira;Pil�ezinhos;62.5
+25;Paraíba;251180;2009;2503;Agreste Paraibano;250316;Guarabira;Pirpirituba;49.32
+25;Paraíba;251190;2009;2504;Mata Paraibana;250423;Litoral Sul;Pitimbu;62.2
+25;Paraíba;251200;2009;2503;Agreste Paraibano;250312;Curimata� Ocidental;Pocinhos;75.6
+25;Paraíba;251203;2009;2501;Sert�o Paraibano;250102;Cajazeiras;Po�o Dantas;40.91
+25;Paraíba;251207;2009;2501;Sert�o Paraibano;250102;Cajazeiras;Po�o de Jos� de Moura;40.54
+25;Paraíba;251210;2009;2501;Sert�o Paraibano;250103;Sousa;Pombal;30.32
+25;Paraíba;251220;2009;2502;Borborema;250210;Cariri Ocidental;Prata;38.03
+25;Paraíba;251230;2009;2501;Sert�o Paraibano;250107;Serra do Teixeira;Princesa Isabel;37.45
+25;Paraíba;251240;2009;2503;Agreste Paraibano;250317;Campina Grande;Puxinan�;69
+25;Paraíba;251250;2009;2503;Agreste Paraibano;250317;Campina Grande;Queimadas;59.05
+25;Paraíba;251260;2009;2501;Sert�o Paraibano;250104;Patos;Quixab�;74.07
+25;Paraíba;251270;2009;2503;Agreste Paraibano;250312;Curimata� Ocidental;Rem�gio;70.38
+25;Paraíba;251272;2009;2504;Mata Paraibana;250420;Litoral Norte;Pedro R�gis;68.24
+25;Paraíba;251274;2009;2503;Agreste Paraibano;250313;Curimata� Oriental;Riach�o;44.74
+25;Paraíba;251275;2009;2503;Agreste Paraibano;250318;Itabaiana;Riach�o do Bacamarte;61.29
+25;Paraíba;251276;2009;2504;Mata Paraibana;250421;Sap�;Riach�o do Po�o;50.94
+25;Paraíba;251278;2009;2502;Borborema;250211;Cariri Oriental;Riacho de Santo Ant�nio;45.71
+25;Paraíba;251280;2009;2501;Sert�o Paraibano;250101;Catol� do Rocha;Riacho dos Cavalos;24.19
+25;Paraíba;251290;2009;2504;Mata Paraibana;250420;Litoral Norte;Rio Tinto;59.6
+25;Paraíba;251300;2009;2502;Borborema;250208;Serid� Ocidental Paraibano;Salgadinho;68
+25;Paraíba;251310;2009;2503;Agreste Paraibano;250318;Itabaiana;Salgado de S�o F�lix;60.14
+25;Paraíba;251315;2009;2503;Agreste Paraibano;250319;Umbuzeiro;Santa Cec�lia;52.14
+25;Paraíba;251320;2009;2501;Sert�o Paraibano;250103;Sousa;Santa Cruz;18.56
+25;Paraíba;251330;2009;2501;Sert�o Paraibano;250102;Cajazeiras;Santa Helena;50.62
+25;Paraíba;251335;2009;2501;Sert�o Paraibano;250106;Itaporanga;Santa In�s;28.57
+25;Paraíba;251340;2009;2502;Borborema;250208;Serid� Ocidental Paraibano;Santa Luzia;56.22
+25;Paraíba;251350;2009;2501;Sert�o Paraibano;250106;Itaporanga;Santana de Mangueira;50
+25;Paraíba;251360;2009;2501;Sert�o Paraibano;250105;Pianc�;Santana dos Garrotes;45.61
+25;Paraíba;251365;2009;2501;Sert�o Paraibano;250102;Cajazeiras;Santar�m;42.42
+25;Paraíba;251370;2009;2504;Mata Paraibana;250422;Jo�o Pessoa;Santa Rita;50.41
+25;Paraíba;251380;2009;2501;Sert�o Paraibano;250104;Patos;Santa Teresinha;47.76
+25;Paraíba;251385;2009;2502;Borborema;250211;Cariri Oriental;Santo Andr�;69.7
+25;Paraíba;251390;2009;2501;Sert�o Paraibano;250101;Catol� do Rocha;S�o Bento;41.12
+25;Paraíba;251392;2009;2501;Sert�o Paraibano;250103;Sousa;S�o Bentinho;56.86
+25;Paraíba;251394;2009;2502;Borborema;250211;Cariri Oriental;S�o Domingos do Cariri;53.85
+25;Paraíba;251396;2009;2501;Sert�o Paraibano;250103;Sousa;S�o Domingos;45.45
+25;Paraíba;251398;2009;2501;Sert�o Paraibano;250103;Sousa;S�o Francisco;10.81
+25;Paraíba;251400;2009;2502;Borborema;250211;Cariri Oriental;S�o Jo�o do Cariri;57.63
+25;Paraíba;251410;2009;2502;Borborema;250210;Cariri Ocidental;S�o Jo�o do Tigre;60.61
+25;Paraíba;251420;2009;2501;Sert�o Paraibano;250103;Sousa;S�o Jos� da Lagoa Tapada;33.1
+25;Paraíba;251430;2009;2501;Sert�o Paraibano;250106;Itaporanga;S�o Jos� de Caiana;55
+25;Paraíba;251440;2009;2501;Sert�o Paraibano;250104;Patos;S�o Jos� de Espinharas;55.07
+25;Paraíba;251445;2009;2504;Mata Paraibana;250421;Sap�;S�o Jos� dos Ramos;52.33
+25;Paraíba;251450;2009;2501;Sert�o Paraibano;250102;Cajazeiras;S�o Jos� de Piranhas;39.78
+25;Paraíba;251455;2009;2501;Sert�o Paraibano;250107;Serra do Teixeira;S�o Jos� de Princesa;54.76
+25;Paraíba;251460;2009;2501;Sert�o Paraibano;250104;Patos;S�o Jos� do Bonfim;58.33
+25;Paraíba;251465;2009;2501;Sert�o Paraibano;250101;Catol� do Rocha;S�o Jos� do Brejo do Cruz;25
+25;Paraíba;251470;2009;2502;Borborema;250208;Serid� Ocidental Paraibano;S�o Jos� do Sabugi;56.1
+25;Paraíba;251480;2009;2502;Borborema;250210;Cariri Ocidental;S�o Jos� dos Cordeiros;45
+25;Paraíba;251490;2009;2502;Borborema;250208;Serid� Ocidental Paraibano;S�o Mamede;50.79
+25;Paraíba;251500;2009;2504;Mata Paraibana;250421;Sap�;S�o Miguel de Taipu;60.98
+25;Paraíba;251510;2009;2503;Agreste Paraibano;250314;Esperan�a;S�o Sebasti�o de Lagoa de Ro�a;61.62
+25;Paraíba;251520;2009;2502;Borborema;250210;Cariri Ocidental;S�o Sebasti�o do Umbuzeiro;38.98
+25;Paraíba;251530;2009;2504;Mata Paraibana;250421;Sap�;Sap�;53.15
+25;Paraíba;251540;2009;2502;Borborema;250209;Serid� Oriental Paraibano;Serid�;83.52
+25;Paraíba;251550;2009;2502;Borborema;250210;Cariri Ocidental;Serra Branca;58.67
+25;Paraíba;251560;2009;2503;Agreste Paraibano;250316;Guarabira;Serra da Raiz;28.3
+25;Paraíba;251570;2009;2501;Sert�o Paraibano;250106;Itaporanga;Serra Grande;54
+25;Paraíba;251580;2009;2503;Agreste Paraibano;250317;Campina Grande;Serra Redonda;73.33
+25;Paraíba;251590;2009;2503;Agreste Paraibano;250315;Brejo Paraibano;Serraria;70
+25;Paraíba;251593;2009;2503;Agreste Paraibano;250316;Guarabira;Sert�ozinho;58.06
+25;Paraíba;251597;2009;2504;Mata Paraibana;250421;Sap�;Sobrado;48.98
+25;Paraíba;251600;2009;2503;Agreste Paraibano;250313;Curimata� Oriental;Sol�nea;60.96
+25;Paraíba;251610;2009;2503;Agreste Paraibano;250312;Curimata� Ocidental;Soledade;71.49
+25;Paraíba;251615;2009;2503;Agreste Paraibano;250312;Curimata� Ocidental;Soss�go;70
+25;Paraíba;251620;2009;2501;Sert�o Paraibano;250103;Sousa;Sousa;25.1
+25;Paraíba;251630;2009;2502;Borborema;250210;Cariri Ocidental;Sum�;44.84
+25;Paraíba;251640;2009;2503;Agreste Paraibano;250313;Curimata� Oriental;Tacima;60.33
+25;Paraíba;251650;2009;2502;Borborema;250210;Cariri Ocidental;Tapero�;62.33
+25;Paraíba;251660;2009;2501;Sert�o Paraibano;250107;Serra do Teixeira;Tavares;41.25
+25;Paraíba;251670;2009;2501;Sert�o Paraibano;250107;Serra do Teixeira;Teixeira;57.92
+25;Paraíba;251675;2009;2502;Borborema;250209;Serid� Oriental Paraibano;Ten�rio;77.78
+25;Paraíba;251680;2009;2501;Sert�o Paraibano;250102;Cajazeiras;Triunfo;31.73
+25;Paraíba;251690;2009;2501;Sert�o Paraibano;250102;Cajazeiras;Uira�na;47.72
+25;Paraíba;251700;2009;2503;Agreste Paraibano;250319;Umbuzeiro;Umbuzeiro;51.41
+25;Paraíba;251710;2009;2502;Borborema;250208;Serid� Ocidental Paraibano;V�rzea;61.76
+25;Paraíba;251720;2009;2501;Sert�o Paraibano;250103;Sousa;Vieir�polis;38.1
+25;Paraíba;251740;2009;2502;Borborema;250210;Cariri Ocidental;Zabel�;NA
+25;Paraíba;250010;2010;2501;Sert�o Paraibano;250107;Serra do Teixeira;Água Branca;47.62
+25;Paraíba;250020;2010;2501;Sert�o Paraibano;250105;Pianc�;Aguiar;39.44
+25;Paraíba;250030;2010;2503;Agreste Paraibano;250315;Brejo Paraibano;Alagoa Grande;66.67
+25;Paraíba;250040;2010;2503;Agreste Paraibano;250315;Brejo Paraibano;Alagoa Nova;68.62
+25;Paraíba;250050;2010;2503;Agreste Paraibano;250316;Guarabira;Alagoinha;56.19
+25;Paraíba;250053;2010;2502;Borborema;250211;Cariri Oriental;Alcantil;34.29
+25;Paraíba;250057;2010;2503;Agreste Paraibano;250312;Curimata� Ocidental;Algod�o de Janda�ra;62
+25;Paraíba;250060;2010;2504;Mata Paraibana;250423;Litoral Sul;Alhandra;58.29
+25;Paraíba;250070;2010;2501;Sert�o Paraibano;250102;Cajazeiras;S�o Jo�o do Rio do Peixe;38.2
+25;Paraíba;250073;2010;2502;Borborema;250210;Cariri Ocidental;Amparo;37.78
+25;Paraíba;250077;2010;2501;Sert�o Paraibano;250103;Sousa;Aparecida;30.19
+25;Paraíba;250080;2010;2503;Agreste Paraibano;250316;Guarabira;Ara�agi;53.77
+25;Paraíba;250090;2010;2503;Agreste Paraibano;250312;Curimata� Ocidental;Arara;68.55
+25;Paraíba;250100;2010;2503;Agreste Paraibano;250313;Curimata� Oriental;Araruna;61.22
+25;Paraíba;250110;2010;2503;Agreste Paraibano;250315;Brejo Paraibano;Areia;71.35
+25;Paraíba;250115;2010;2501;Sert�o Paraibano;250104;Patos;Areia de Bara�nas;60
+25;Paraíba;250120;2010;2503;Agreste Paraibano;250314;Esperan�a;Areial;63.25
+25;Paraíba;250130;2010;2503;Agreste Paraibano;250319;Umbuzeiro;Aroeiras;66.78
+25;Paraíba;250135;2010;2502;Borborema;250210;Cariri Ocidental;Assun��o;72.58
+25;Paraíba;250140;2010;2504;Mata Paraibana;250420;Litoral Norte;Ba�a da Trai��o;55.86
+25;Paraíba;250150;2010;2503;Agreste Paraibano;250315;Brejo Paraibano;Bananeiras;59.44
+25;Paraíba;250153;2010;2502;Borborema;250209;Serid� Oriental Paraibano;Bara�na;52.38
+25;Paraíba;250157;2010;2502;Borborema;250211;Cariri Oriental;Barra de Santana;63.87
+25;Paraíba;250160;2010;2503;Agreste Paraibano;250312;Curimata� Ocidental;Barra de Santa Rosa;62.5
+25;Paraíba;250170;2010;2502;Borborema;250211;Cariri Oriental;Barra de S�o Miguel;33.94
+25;Paraíba;250180;2010;2504;Mata Paraibana;250422;Jo�o Pessoa;Bayeux;44.7
+25;Paraíba;250190;2010;2503;Agreste Paraibano;250316;Guarabira;Bel�m;43.62
+25;Paraíba;250200;2010;2501;Sert�o Paraibano;250101;Catol� do Rocha;Bel�m do Brejo do Cruz;29.36
+25;Paraíba;250205;2010;2501;Sert�o Paraibano;250102;Cajazeiras;Bernardino Batista;48.44
+25;Paraíba;250210;2010;2501;Sert�o Paraibano;250106;Itaporanga;Boa Ventura;33.33
+25;Paraíba;250215;2010;2503;Agreste Paraibano;250317;Campina Grande;Boa Vista;56.1
+25;Paraíba;250220;2010;2501;Sert�o Paraibano;250102;Cajazeiras;Bom Jesus;46.34
+25;Paraíba;250230;2010;2501;Sert�o Paraibano;250101;Catol� do Rocha;Bom Sucesso;9.33
+25;Paraíba;250240;2010;2501;Sert�o Paraibano;250102;Cajazeiras;Bonito de Santa F�;47.5
+25;Paraíba;250250;2010;2502;Borborema;250211;Cariri Oriental;Boqueir�o;56.6
+25;Paraíba;250260;2010;2501;Sert�o Paraibano;250105;Pianc�;Igaracy;53.66
+25;Paraíba;250270;2010;2503;Agreste Paraibano;250315;Brejo Paraibano;Borborema;58.23
+25;Paraíba;250280;2010;2501;Sert�o Paraibano;250101;Catol� do Rocha;Brejo do Cruz;25.56
+25;Paraíba;250290;2010;2501;Sert�o Paraibano;250101;Catol� do Rocha;Brejo dos Santos;8.99
+25;Paraíba;250300;2010;2504;Mata Paraibana;250423;Litoral Sul;Caapor�;56.56
+25;Paraíba;250310;2010;2502;Borborema;250211;Cariri Oriental;Cabaceiras;57.53
+25;Paraíba;250320;2010;2504;Mata Paraibana;250422;Jo�o Pessoa;Cabedelo;40.16
+25;Paraíba;250330;2010;2501;Sert�o Paraibano;250102;Cajazeiras;Cachoeira dos �ndios;41.43
+25;Paraíba;250340;2010;2501;Sert�o Paraibano;250104;Patos;Cacimba de Areia;36.96
+25;Paraíba;250350;2010;2503;Agreste Paraibano;250313;Curimata� Oriental;Cacimba de Dentro;67.67
+25;Paraíba;250355;2010;2501;Sert�o Paraibano;250107;Serra do Teixeira;Cacimbas;69.1
+25;Paraíba;250360;2010;2503;Agreste Paraibano;250316;Guarabira;Cai�ara;48.96
+25;Paraíba;250370;2010;2501;Sert�o Paraibano;250102;Cajazeiras;Cajazeiras;35.02
+25;Paraíba;250375;2010;2501;Sert�o Paraibano;250103;Sousa;Cajazeirinhas;41.94
+25;Paraíba;250380;2010;2503;Agreste Paraibano;250318;Itabaiana;Caldas Brand�o;43.33
+25;Paraíba;250390;2010;2502;Borborema;250210;Cariri Ocidental;Camala�;45.19
+25;Paraíba;250400;2010;2503;Agreste Paraibano;250317;Campina Grande;Campina Grande;48.67
+25;Paraíba;250403;2010;2504;Mata Paraibana;250420;Litoral Norte;Capim;58.56
+25;Paraíba;250407;2010;2502;Borborema;250211;Cariri Oriental;Cara�bas;41.43
+25;Paraíba;250410;2010;2501;Sert�o Paraibano;250102;Cajazeiras;Carrapateira;29.63
+25;Paraíba;250415;2010;2503;Agreste Paraibano;250313;Curimata� Oriental;Casserengue;66.96
+25;Paraíba;250420;2010;2501;Sert�o Paraibano;250105;Pianc�;Catingueira;68.18
+25;Paraíba;250430;2010;2501;Sert�o Paraibano;250101;Catol� do Rocha;Catol� do Rocha;20.47
+25;Paraíba;250435;2010;2502;Borborema;250211;Cariri Oriental;Caturit�;50
+25;Paraíba;250440;2010;2501;Sert�o Paraibano;250106;Itaporanga;Concei��o;57.74
+25;Paraíba;250450;2010;2501;Sert�o Paraibano;250103;Sousa;Condado;44.87
+25;Paraíba;250460;2010;2504;Mata Paraibana;250422;Jo�o Pessoa;Conde;59.9
+25;Paraíba;250470;2010;2502;Borborema;250210;Cariri Ocidental;Congo;36.05
+25;Paraíba;250480;2010;2501;Sert�o Paraibano;250105;Pianc�;Coremas;36.77
+25;Paraíba;250485;2010;2502;Borborema;250210;Cariri Ocidental;Coxixola;62.5
+25;Paraíba;250490;2010;2504;Mata Paraibana;250421;Sap�;Cruz do Esp�rito Santo;57.24
+25;Paraíba;250500;2010;2502;Borborema;250209;Serid� Oriental Paraibano;Cubati;66.36
+25;Paraíba;250510;2010;2503;Agreste Paraibano;250312;Curimata� Ocidental;Cuit�;46.23
+25;Paraíba;250520;2010;2503;Agreste Paraibano;250316;Guarabira;Cuitegi;64.96
+25;Paraíba;250523;2010;2504;Mata Paraibana;250420;Litoral Norte;Cuit� de Mamanguape;61.7
+25;Paraíba;250527;2010;2504;Mata Paraibana;250420;Litoral Norte;Curral de Cima;68.35
+25;Paraíba;250530;2010;2501;Sert�o Paraibano;250106;Itaporanga;Curral Velho;60.87
+25;Paraíba;250535;2010;2503;Agreste Paraibano;250312;Curimata� Ocidental;Dami�o;62.92
+25;Paraíba;250540;2010;2501;Sert�o Paraibano;250107;Serra do Teixeira;Desterro;60.18
+25;Paraíba;250550;2010;2501;Sert�o Paraibano;250103;Sousa;Vista Serrana;41.67
+25;Paraíba;250560;2010;2501;Sert�o Paraibano;250106;Itaporanga;Diamante;43.75
+25;Paraíba;250570;2010;2503;Agreste Paraibano;250313;Curimata� Oriental;Dona In�s;55.56
+25;Paraíba;250580;2010;2503;Agreste Paraibano;250316;Guarabira;Duas Estradas;48.21
+25;Paraíba;250590;2010;2501;Sert�o Paraibano;250105;Pianc�;Emas;50
+25;Paraíba;250600;2010;2503;Agreste Paraibano;250314;Esperan�a;Esperan�a;57.77
+25;Paraíba;250610;2010;2503;Agreste Paraibano;250317;Campina Grande;Fagundes;69.95
+25;Paraíba;250620;2010;2502;Borborema;250209;Serid� Oriental Paraibano;Frei Martinho;52.27
+25;Paraíba;250625;2010;2503;Agreste Paraibano;250319;Umbuzeiro;Gado Bravo;66.05
+25;Paraíba;250630;2010;2503;Agreste Paraibano;250316;Guarabira;Guarabira;42.14
+25;Paraíba;250640;2010;2503;Agreste Paraibano;250318;Itabaiana;Gurinh�m;51.27
+25;Paraíba;250650;2010;2502;Borborema;250211;Cariri Oriental;Gurj�o;76.32
+25;Paraíba;250660;2010;2501;Sert�o Paraibano;250106;Itaporanga;Ibiara;48.05
+25;Paraíba;250670;2010;2501;Sert�o Paraibano;250107;Serra do Teixeira;Imaculada;54.44
+25;Paraíba;250680;2010;2503;Agreste Paraibano;250318;Itabaiana;Ing�;64.12
+25;Paraíba;250690;2010;2503;Agreste Paraibano;250318;Itabaiana;Itabaiana;39.86
+25;Paraíba;250700;2010;2501;Sert�o Paraibano;250106;Itaporanga;Itaporanga;32.18
+25;Paraíba;250710;2010;2504;Mata Paraibana;250420;Litoral Norte;Itapororoca;55.35
+25;Paraíba;250720;2010;2503;Agreste Paraibano;250318;Itabaiana;Itatuba;68.71
+25;Paraíba;250730;2010;2504;Mata Paraibana;250420;Litoral Norte;Jacara�;55.91
+25;Paraíba;250740;2010;2501;Sert�o Paraibano;250101;Catol� do Rocha;Jeric�;24.07
+25;Paraíba;250750;2010;2504;Mata Paraibana;250422;Jo�o Pessoa;Jo�o Pessoa;39.43
+25;Paraíba;250760;2010;2503;Agreste Paraibano;250318;Itabaiana;Juarez T�vora;57.5
+25;Paraíba;250770;2010;2502;Borborema;250209;Serid� Oriental Paraibano;Juazeirinho;64.31
+25;Paraíba;250780;2010;2502;Borborema;250208;Serid� Ocidental Paraibano;Junco do Serid�;54.84
+25;Paraíba;250790;2010;2504;Mata Paraibana;250421;Sap�;Juripiranga;50.34
+25;Paraíba;250800;2010;2501;Sert�o Paraibano;250107;Serra do Teixeira;Juru;33.78
+25;Paraíba;250810;2010;2501;Sert�o Paraibano;250101;Catol� do Rocha;Lagoa;20
+25;Paraíba;250820;2010;2503;Agreste Paraibano;250316;Guarabira;Lagoa de Dentro;65.81
+25;Paraíba;250830;2010;2503;Agreste Paraibano;250317;Campina Grande;Lagoa Seca;61.61
+25;Paraíba;250840;2010;2501;Sert�o Paraibano;250103;Sousa;Lastro;33.96
+25;Paraíba;250850;2010;2502;Borborema;250210;Cariri Ocidental;Livramento;50.39
+25;Paraíba;250855;2010;2503;Agreste Paraibano;250316;Guarabira;Logradouro;51.11
+25;Paraíba;250860;2010;2504;Mata Paraibana;250422;Jo�o Pessoa;Lucena;55.22
+25;Paraíba;250870;2010;2501;Sert�o Paraibano;250104;Patos;M�e d'�gua;62.07
+25;Paraíba;250880;2010;2501;Sert�o Paraibano;250103;Sousa;Malta;59.21
+25;Paraíba;250890;2010;2504;Mata Paraibana;250420;Litoral Norte;Mamanguape;61.42
+25;Paraíba;250900;2010;2501;Sert�o Paraibano;250107;Serra do Teixeira;Mana�ra;51.63
+25;Paraíba;250905;2010;2504;Mata Paraibana;250420;Litoral Norte;Marca��o;64.75
+25;Paraíba;250910;2010;2504;Mata Paraibana;250421;Sap�;Mari;55.28
+25;Paraíba;250915;2010;2501;Sert�o Paraibano;250103;Sousa;Mariz�polis;27.96
+25;Paraíba;250920;2010;2503;Agreste Paraibano;250317;Campina Grande;Massaranduba;66.18
+25;Paraíba;250930;2010;2504;Mata Paraibana;250420;Litoral Norte;Mataraca;56.12
+25;Paraíba;250933;2010;2503;Agreste Paraibano;250315;Brejo Paraibano;Matinhas;59.42
+25;Paraíba;250937;2010;2501;Sert�o Paraibano;250101;Catol� do Rocha;Mato Grosso;24.24
+25;Paraíba;250939;2010;2501;Sert�o Paraibano;250107;Serra do Teixeira;Matur�ia;65.31
+25;Paraíba;250940;2010;2503;Agreste Paraibano;250318;Itabaiana;Mogeiro;49.33
+25;Paraíba;250950;2010;2503;Agreste Paraibano;250314;Esperan�a;Montadas;58.02
+25;Paraíba;250960;2010;2501;Sert�o Paraibano;250102;Cajazeiras;Monte Horebe;56.79
+25;Paraíba;250970;2010;2502;Borborema;250210;Cariri Ocidental;Monteiro;40.13
+25;Paraíba;250980;2010;2503;Agreste Paraibano;250316;Guarabira;Mulungu;51.54
+25;Paraíba;250990;2010;2503;Agreste Paraibano;250319;Umbuzeiro;Natuba;61.17
+25;Paraíba;251000;2010;2501;Sert�o Paraibano;250103;Sousa;Nazarezinho;31.87
+25;Paraíba;251010;2010;2503;Agreste Paraibano;250312;Curimata� Ocidental;Nova Floresta;61.78
+25;Paraíba;251020;2010;2501;Sert�o Paraibano;250105;Pianc�;Nova Olinda;59.38
+25;Paraíba;251030;2010;2502;Borborema;250209;Serid� Oriental Paraibano;Nova Palmeira;58.14
+25;Paraíba;251040;2010;2501;Sert�o Paraibano;250105;Pianc�;Olho d'�gua;65.6
+25;Paraíba;251050;2010;2503;Agreste Paraibano;250312;Curimata� Ocidental;Olivedos;57.89
+25;Paraíba;251060;2010;2502;Borborema;250210;Cariri Ocidental;Ouro Velho;27.66
+25;Paraíba;251065;2010;2502;Borborema;250210;Cariri Ocidental;Parari;62.96
+25;Paraíba;251070;2010;2501;Sert�o Paraibano;250104;Patos;Passagem;63.64
+25;Paraíba;251080;2010;2501;Sert�o Paraibano;250104;Patos;Patos;47.93
+25;Paraíba;251090;2010;2501;Sert�o Paraibano;250103;Sousa;Paulista;31.41
+25;Paraíba;251100;2010;2501;Sert�o Paraibano;250106;Itaporanga;Pedra Branca;48.57
+25;Paraíba;251110;2010;2502;Borborema;250209;Serid� Oriental Paraibano;Pedra Lavrada;66.38
+25;Paraíba;251120;2010;2504;Mata Paraibana;250423;Litoral Sul;Pedras de Fogo;51.52
+25;Paraíba;251130;2010;2501;Sert�o Paraibano;250105;Pianc�;Pianc�;48.79
+25;Paraíba;251140;2010;2502;Borborema;250209;Serid� Oriental Paraibano;Picu�;49.65
+25;Paraíba;251150;2010;2504;Mata Paraibana;250421;Sap�;Pilar;55.19
+25;Paraíba;251160;2010;2503;Agreste Paraibano;250315;Brejo Paraibano;Pil�es;56.52
+25;Paraíba;251170;2010;2503;Agreste Paraibano;250316;Guarabira;Pil�ezinhos;48.42
+25;Paraíba;251180;2010;2503;Agreste Paraibano;250316;Guarabira;Pirpirituba;54.55
+25;Paraíba;251190;2010;2504;Mata Paraibana;250423;Litoral Sul;Pitimbu;58.69
+25;Paraíba;251200;2010;2503;Agreste Paraibano;250312;Curimata� Ocidental;Pocinhos;66.21
+25;Paraíba;251203;2010;2501;Sert�o Paraibano;250102;Cajazeiras;Po�o Dantas;40.26
+25;Paraíba;251207;2010;2501;Sert�o Paraibano;250102;Cajazeiras;Po�o de Jos� de Moura;33.33
+25;Paraíba;251210;2010;2501;Sert�o Paraibano;250103;Sousa;Pombal;30.85
+25;Paraíba;251220;2010;2502;Borborema;250210;Cariri Ocidental;Prata;28.33
+25;Paraíba;251230;2010;2501;Sert�o Paraibano;250107;Serra do Teixeira;Princesa Isabel;35.12
+25;Paraíba;251240;2010;2503;Agreste Paraibano;250317;Campina Grande;Puxinan�;68.34
+25;Paraíba;251250;2010;2503;Agreste Paraibano;250317;Campina Grande;Queimadas;52.88
+25;Paraíba;251260;2010;2501;Sert�o Paraibano;250104;Patos;Quixab�;54.55
+25;Paraíba;251270;2010;2503;Agreste Paraibano;250312;Curimata� Ocidental;Rem�gio;63.83
+25;Paraíba;251272;2010;2504;Mata Paraibana;250420;Litoral Norte;Pedro R�gis;60.47
+25;Paraíba;251274;2010;2503;Agreste Paraibano;250313;Curimata� Oriental;Riach�o;48.48
+25;Paraíba;251275;2010;2503;Agreste Paraibano;250318;Itabaiana;Riach�o do Bacamarte;60
+25;Paraíba;251276;2010;2504;Mata Paraibana;250421;Sap�;Riach�o do Po�o;61.11
+25;Paraíba;251278;2010;2502;Borborema;250211;Cariri Oriental;Riacho de Santo Ant�nio;48.84
+25;Paraíba;251280;2010;2501;Sert�o Paraibano;250101;Catol� do Rocha;Riacho dos Cavalos;14.77
+25;Paraíba;251290;2010;2504;Mata Paraibana;250420;Litoral Norte;Rio Tinto;59.41
+25;Paraíba;251300;2010;2502;Borborema;250208;Serid� Ocidental Paraibano;Salgadinho;53.19
+25;Paraíba;251310;2010;2503;Agreste Paraibano;250318;Itabaiana;Salgado de S�o F�lix;63.1
+25;Paraíba;251315;2010;2503;Agreste Paraibano;250319;Umbuzeiro;Santa Cec�lia;53.68
+25;Paraíba;251320;2010;2501;Sert�o Paraibano;250103;Sousa;Santa Cruz;27.38
+25;Paraíba;251330;2010;2501;Sert�o Paraibano;250102;Cajazeiras;Santa Helena;31.94
+25;Paraíba;251335;2010;2501;Sert�o Paraibano;250106;Itaporanga;Santa In�s;36.36
+25;Paraíba;251340;2010;2502;Borborema;250208;Serid� Ocidental Paraibano;Santa Luzia;57.28
+25;Paraíba;251350;2010;2501;Sert�o Paraibano;250106;Itaporanga;Santana de Mangueira;45.56
+25;Paraíba;251360;2010;2501;Sert�o Paraibano;250105;Pianc�;Santana dos Garrotes;30.53
+25;Paraíba;251365;2010;2501;Sert�o Paraibano;250102;Cajazeiras;Santar�m;42.11
+25;Paraíba;251370;2010;2504;Mata Paraibana;250422;Jo�o Pessoa;Santa Rita;52.39
+25;Paraíba;251380;2010;2501;Sert�o Paraibano;250104;Patos;Santa Teresinha;60.27
+25;Paraíba;251385;2010;2502;Borborema;250211;Cariri Oriental;Santo Andr�;61.11
+25;Paraíba;251390;2010;2501;Sert�o Paraibano;250101;Catol� do Rocha;S�o Bento;31.77
+25;Paraíba;251392;2010;2501;Sert�o Paraibano;250103;Sousa;S�o Bentinho;44
+25;Paraíba;251394;2010;2502;Borborema;250211;Cariri Oriental;S�o Domingos do Cariri;29.79
+25;Paraíba;251396;2010;2501;Sert�o Paraibano;250103;Sousa;S�o Domingos;46.34
+25;Paraíba;251398;2010;2501;Sert�o Paraibano;250103;Sousa;S�o Francisco;18.6
+25;Paraíba;251400;2010;2502;Borborema;250211;Cariri Oriental;S�o Jo�o do Cariri;63.77
+25;Paraíba;251410;2010;2502;Borborema;250210;Cariri Ocidental;S�o Jo�o do Tigre;46.88
+25;Paraíba;251420;2010;2501;Sert�o Paraibano;250103;Sousa;S�o Jos� da Lagoa Tapada;29.07
+25;Paraíba;251430;2010;2501;Sert�o Paraibano;250106;Itaporanga;S�o Jos� de Caiana;46.24
+25;Paraíba;251440;2010;2501;Sert�o Paraibano;250104;Patos;S�o Jos� de Espinharas;48.39
+25;Paraíba;251445;2010;2504;Mata Paraibana;250421;Sap�;S�o Jos� dos Ramos;43.9
+25;Paraíba;251450;2010;2501;Sert�o Paraibano;250102;Cajazeiras;S�o Jos� de Piranhas;36.54
+25;Paraíba;251455;2010;2501;Sert�o Paraibano;250107;Serra do Teixeira;S�o Jos� de Princesa;25.42
+25;Paraíba;251460;2010;2501;Sert�o Paraibano;250104;Patos;S�o Jos� do Bonfim;73.47
+25;Paraíba;251465;2010;2501;Sert�o Paraibano;250101;Catol� do Rocha;S�o Jos� do Brejo do Cruz;14.81
+25;Paraíba;251470;2010;2502;Borborema;250208;Serid� Ocidental Paraibano;S�o Jos� do Sabugi;50
+25;Paraíba;251480;2010;2502;Borborema;250210;Cariri Ocidental;S�o Jos� dos Cordeiros;35.71
+25;Paraíba;251490;2010;2502;Borborema;250208;Serid� Ocidental Paraibano;S�o Mamede;56.04
+25;Paraíba;251500;2010;2504;Mata Paraibana;250421;Sap�;S�o Miguel de Taipu;65.52
+25;Paraíba;251510;2010;2503;Agreste Paraibano;250314;Esperan�a;S�o Sebasti�o de Lagoa de Ro�a;62.25
+25;Paraíba;251520;2010;2502;Borborema;250210;Cariri Ocidental;S�o Sebasti�o do Umbuzeiro;46.94
+25;Paraíba;251530;2010;2504;Mata Paraibana;250421;Sap�;Sap�;51.37
+25;Paraíba;251540;2010;2502;Borborema;250209;Serid� Oriental Paraibano;Serid�;81.22
+25;Paraíba;251550;2010;2502;Borborema;250210;Cariri Ocidental;Serra Branca;51.22
+25;Paraíba;251560;2010;2503;Agreste Paraibano;250316;Guarabira;Serra da Raiz;53.33
+25;Paraíba;251570;2010;2501;Sert�o Paraibano;250106;Itaporanga;Serra Grande;21.15
+25;Paraíba;251580;2010;2503;Agreste Paraibano;250317;Campina Grande;Serra Redonda;62.07
+25;Paraíba;251590;2010;2503;Agreste Paraibano;250315;Brejo Paraibano;Serraria;62.2
+25;Paraíba;251593;2010;2503;Agreste Paraibano;250316;Guarabira;Sert�ozinho;41.77
+25;Paraíba;251597;2010;2504;Mata Paraibana;250421;Sap�;Sobrado;49.21
+25;Paraíba;251600;2010;2503;Agreste Paraibano;250313;Curimata� Oriental;Sol�nea;59.46
+25;Paraíba;251610;2010;2503;Agreste Paraibano;250312;Curimata� Ocidental;Soledade;60.81
+25;Paraíba;251615;2010;2503;Agreste Paraibano;250312;Curimata� Ocidental;Soss�go;60
+25;Paraíba;251620;2010;2501;Sert�o Paraibano;250103;Sousa;Sousa;22.19
+25;Paraíba;251630;2010;2502;Borborema;250210;Cariri Ocidental;Sum�;45.08
+25;Paraíba;251640;2010;2503;Agreste Paraibano;250313;Curimata� Oriental;Tacima;60.83
+25;Paraíba;251650;2010;2502;Borborema;250210;Cariri Ocidental;Tapero�;61.57
+25;Paraíba;251660;2010;2501;Sert�o Paraibano;250107;Serra do Teixeira;Tavares;39.06
+25;Paraíba;251670;2010;2501;Sert�o Paraibano;250107;Serra do Teixeira;Teixeira;57.09
+25;Paraíba;251675;2010;2502;Borborema;250209;Serid� Oriental Paraibano;Ten�rio;71.43
+25;Paraíba;251680;2010;2501;Sert�o Paraibano;250102;Cajazeiras;Triunfo;38.79
+25;Paraíba;251690;2010;2501;Sert�o Paraibano;250102;Cajazeiras;Uira�na;55.19
+25;Paraíba;251700;2010;2503;Agreste Paraibano;250319;Umbuzeiro;Umbuzeiro;58.47
+25;Paraíba;251710;2010;2502;Borborema;250208;Serid� Ocidental Paraibano;V�rzea;66.67
+25;Paraíba;251720;2010;2501;Sert�o Paraibano;250103;Sousa;Vieir�polis;30.91
+25;Paraíba;251740;2010;2502;Borborema;250210;Cariri Ocidental;Zabel�;NA
+25;Paraíba;250010;2011;2501;Sert�o Paraibano;250107;Serra do Teixeira;Água Branca;57.14
+25;Paraíba;250020;2011;2501;Sert�o Paraibano;250105;Pianc�;Aguiar;48.53
+25;Paraíba;250030;2011;2503;Agreste Paraibano;250315;Brejo Paraibano;Alagoa Grande;64.14
+25;Paraíba;250040;2011;2503;Agreste Paraibano;250315;Brejo Paraibano;Alagoa Nova;64.77
+25;Paraíba;250050;2011;2503;Agreste Paraibano;250316;Guarabira;Alagoinha;57.59
+25;Paraíba;250053;2011;2502;Borborema;250211;Cariri Oriental;Alcantil;45.71
+25;Paraíba;250057;2011;2503;Agreste Paraibano;250312;Curimata� Ocidental;Algod�o de Janda�ra;64.15
+25;Paraíba;250060;2011;2504;Mata Paraibana;250423;Litoral Sul;Alhandra;55.53
+25;Paraíba;250070;2011;2501;Sert�o Paraibano;250102;Cajazeiras;S�o Jo�o do Rio do Peixe;31.3
+25;Paraíba;250073;2011;2502;Borborema;250210;Cariri Ocidental;Amparo;41.86
+25;Paraíba;250077;2011;2501;Sert�o Paraibano;250103;Sousa;Aparecida;21.78
+25;Paraíba;250080;2011;2503;Agreste Paraibano;250316;Guarabira;Ara�agi;54.76
+25;Paraíba;250090;2011;2503;Agreste Paraibano;250312;Curimata� Ocidental;Arara;65.93
+25;Paraíba;250100;2011;2503;Agreste Paraibano;250313;Curimata� Oriental;Araruna;57.37
+25;Paraíba;250110;2011;2503;Agreste Paraibano;250315;Brejo Paraibano;Areia;66.32
+25;Paraíba;250115;2011;2501;Sert�o Paraibano;250104;Patos;Areia de Bara�nas;48.28
+25;Paraíba;250120;2011;2503;Agreste Paraibano;250314;Esperan�a;Areial;50.57
+25;Paraíba;250130;2011;2503;Agreste Paraibano;250319;Umbuzeiro;Aroeiras;66.46
+25;Paraíba;250135;2011;2502;Borborema;250210;Cariri Ocidental;Assun��o;61.19
+25;Paraíba;250140;2011;2504;Mata Paraibana;250420;Litoral Norte;Ba�a da Trai��o;56.7
+25;Paraíba;250150;2011;2503;Agreste Paraibano;250315;Brejo Paraibano;Bananeiras;49.54
+25;Paraíba;250153;2011;2502;Borborema;250209;Serid� Oriental Paraibano;Bara�na;53.7
+25;Paraíba;250157;2011;2502;Borborema;250211;Cariri Oriental;Barra de Santana;58.54
+25;Paraíba;250160;2011;2503;Agreste Paraibano;250312;Curimata� Ocidental;Barra de Santa Rosa;56.54
+25;Paraíba;250170;2011;2502;Borborema;250211;Cariri Oriental;Barra de S�o Miguel;46.59
+25;Paraíba;250180;2011;2504;Mata Paraibana;250422;Jo�o Pessoa;Bayeux;44.81
+25;Paraíba;250190;2011;2503;Agreste Paraibano;250316;Guarabira;Bel�m;45.16
+25;Paraíba;250200;2011;2501;Sert�o Paraibano;250101;Catol� do Rocha;Bel�m do Brejo do Cruz;29.11
+25;Paraíba;250205;2011;2501;Sert�o Paraibano;250102;Cajazeiras;Bernardino Batista;36.36
+25;Paraíba;250210;2011;2501;Sert�o Paraibano;250106;Itaporanga;Boa Ventura;40.74
+25;Paraíba;250215;2011;2503;Agreste Paraibano;250317;Campina Grande;Boa Vista;50.45
+25;Paraíba;250220;2011;2501;Sert�o Paraibano;250102;Cajazeiras;Bom Jesus;30.77
+25;Paraíba;250230;2011;2501;Sert�o Paraibano;250101;Catol� do Rocha;Bom Sucesso;5.66
+25;Paraíba;250240;2011;2501;Sert�o Paraibano;250102;Cajazeiras;Bonito de Santa F�;50.46
+25;Paraíba;250250;2011;2502;Borborema;250211;Cariri Oriental;Boqueir�o;62.39
+25;Paraíba;250260;2011;2501;Sert�o Paraibano;250105;Pianc�;Igaracy;45.83
+25;Paraíba;250270;2011;2503;Agreste Paraibano;250315;Brejo Paraibano;Borborema;61.11
+25;Paraíba;250280;2011;2501;Sert�o Paraibano;250101;Catol� do Rocha;Brejo do Cruz;25.31
+25;Paraíba;250290;2011;2501;Sert�o Paraibano;250101;Catol� do Rocha;Brejo dos Santos;6.67
+25;Paraíba;250300;2011;2504;Mata Paraibana;250423;Litoral Sul;Caapor�;53.48
+25;Paraíba;250310;2011;2502;Borborema;250211;Cariri Oriental;Cabaceiras;57.14
+25;Paraíba;250320;2011;2504;Mata Paraibana;250422;Jo�o Pessoa;Cabedelo;41.84
+25;Paraíba;250330;2011;2501;Sert�o Paraibano;250102;Cajazeiras;Cachoeira dos �ndios;43.87
+25;Paraíba;250340;2011;2501;Sert�o Paraibano;250104;Patos;Cacimba de Areia;47.92
+25;Paraíba;250350;2011;2503;Agreste Paraibano;250313;Curimata� Oriental;Cacimba de Dentro;62.62
+25;Paraíba;250355;2011;2501;Sert�o Paraibano;250107;Serra do Teixeira;Cacimbas;62.88
+25;Paraíba;250360;2011;2503;Agreste Paraibano;250316;Guarabira;Cai�ara;46.94
+25;Paraíba;250370;2011;2501;Sert�o Paraibano;250102;Cajazeiras;Cajazeiras;32.42
+25;Paraíba;250375;2011;2501;Sert�o Paraibano;250103;Sousa;Cajazeirinhas;45.07
+25;Paraíba;250380;2011;2503;Agreste Paraibano;250318;Itabaiana;Caldas Brand�o;50.68
+25;Paraíba;250390;2011;2502;Borborema;250210;Cariri Ocidental;Camala�;51.16
+25;Paraíba;250400;2011;2503;Agreste Paraibano;250317;Campina Grande;Campina Grande;46.87
+25;Paraíba;250403;2011;2504;Mata Paraibana;250420;Litoral Norte;Capim;50
+25;Paraíba;250407;2011;2502;Borborema;250211;Cariri Oriental;Cara�bas;50
+25;Paraíba;250410;2011;2501;Sert�o Paraibano;250102;Cajazeiras;Carrapateira;38.46
+25;Paraíba;250415;2011;2503;Agreste Paraibano;250313;Curimata� Oriental;Casserengue;64.89
+25;Paraíba;250420;2011;2501;Sert�o Paraibano;250105;Pianc�;Catingueira;61.04
+25;Paraíba;250430;2011;2501;Sert�o Paraibano;250101;Catol� do Rocha;Catol� do Rocha;15.69
+25;Paraíba;250435;2011;2502;Borborema;250211;Cariri Oriental;Caturit�;52.7
+25;Paraíba;250440;2011;2501;Sert�o Paraibano;250106;Itaporanga;Concei��o;58.44
+25;Paraíba;250450;2011;2501;Sert�o Paraibano;250103;Sousa;Condado;35.59
+25;Paraíba;250460;2011;2504;Mata Paraibana;250422;Jo�o Pessoa;Conde;55.97
+25;Paraíba;250470;2011;2502;Borborema;250210;Cariri Ocidental;Congo;29.87
+25;Paraíba;250480;2011;2501;Sert�o Paraibano;250105;Pianc�;Coremas;33.99
+25;Paraíba;250485;2011;2502;Borborema;250210;Cariri Ocidental;Coxixola;37.5
+25;Paraíba;250490;2011;2504;Mata Paraibana;250421;Sap�;Cruz do Esp�rito Santo;52.03
+25;Paraíba;250500;2011;2502;Borborema;250209;Serid� Oriental Paraibano;Cubati;67.65
+25;Paraíba;250510;2011;2503;Agreste Paraibano;250312;Curimata� Ocidental;Cuit�;46.88
+25;Paraíba;250520;2011;2503;Agreste Paraibano;250316;Guarabira;Cuitegi;54.02
+25;Paraíba;250523;2011;2504;Mata Paraibana;250420;Litoral Norte;Cuit� de Mamanguape;66.67
+25;Paraíba;250527;2011;2504;Mata Paraibana;250420;Litoral Norte;Curral de Cima;63.16
+25;Paraíba;250530;2011;2501;Sert�o Paraibano;250106;Itaporanga;Curral Velho;50
+25;Paraíba;250535;2011;2503;Agreste Paraibano;250312;Curimata� Ocidental;Dami�o;63.64
+25;Paraíba;250540;2011;2501;Sert�o Paraibano;250107;Serra do Teixeira;Desterro;45.45
+25;Paraíba;250550;2011;2501;Sert�o Paraibano;250103;Sousa;Vista Serrana;41.46
+25;Paraíba;250560;2011;2501;Sert�o Paraibano;250106;Itaporanga;Diamante;41.3
+25;Paraíba;250570;2011;2503;Agreste Paraibano;250313;Curimata� Oriental;Dona In�s;54.9
+25;Paraíba;250580;2011;2503;Agreste Paraibano;250316;Guarabira;Duas Estradas;40
+25;Paraíba;250590;2011;2501;Sert�o Paraibano;250105;Pianc�;Emas;48.15
+25;Paraíba;250600;2011;2503;Agreste Paraibano;250314;Esperan�a;Esperan�a;58.57
+25;Paraíba;250610;2011;2503;Agreste Paraibano;250317;Campina Grande;Fagundes;66.67
+25;Paraíba;250620;2011;2502;Borborema;250209;Serid� Oriental Paraibano;Frei Martinho;54.84
+25;Paraíba;250625;2011;2503;Agreste Paraibano;250319;Umbuzeiro;Gado Bravo;61.76
+25;Paraíba;250630;2011;2503;Agreste Paraibano;250316;Guarabira;Guarabira;39.44
+25;Paraíba;250640;2011;2503;Agreste Paraibano;250318;Itabaiana;Gurinh�m;53.89
+25;Paraíba;250650;2011;2502;Borborema;250211;Cariri Oriental;Gurj�o;60.98
+25;Paraíba;250660;2011;2501;Sert�o Paraibano;250106;Itaporanga;Ibiara;37.33
+25;Paraíba;250670;2011;2501;Sert�o Paraibano;250107;Serra do Teixeira;Imaculada;55.64
+25;Paraíba;250680;2011;2503;Agreste Paraibano;250318;Itabaiana;Ing�;57.45
+25;Paraíba;250690;2011;2503;Agreste Paraibano;250318;Itabaiana;Itabaiana;44.89
+25;Paraíba;250700;2011;2501;Sert�o Paraibano;250106;Itaporanga;Itaporanga;31.6
+25;Paraíba;250710;2011;2504;Mata Paraibana;250420;Litoral Norte;Itapororoca;56.65
+25;Paraíba;250720;2011;2503;Agreste Paraibano;250318;Itabaiana;Itatuba;66.87
+25;Paraíba;250730;2011;2504;Mata Paraibana;250420;Litoral Norte;Jacara�;56.87
+25;Paraíba;250740;2011;2501;Sert�o Paraibano;250101;Catol� do Rocha;Jeric�;25.24
+25;Paraíba;250750;2011;2504;Mata Paraibana;250422;Jo�o Pessoa;Jo�o Pessoa;38.69
+25;Paraíba;250760;2011;2503;Agreste Paraibano;250318;Itabaiana;Juarez T�vora;68.94
+25;Paraíba;250770;2011;2502;Borborema;250209;Serid� Oriental Paraibano;Juazeirinho;64.44
+25;Paraíba;250780;2011;2502;Borborema;250208;Serid� Ocidental Paraibano;Junco do Serid�;47.12
+25;Paraíba;250790;2011;2504;Mata Paraibana;250421;Sap�;Juripiranga;54.55
+25;Paraíba;250800;2011;2501;Sert�o Paraibano;250107;Serra do Teixeira;Juru;36.03
+25;Paraíba;250810;2011;2501;Sert�o Paraibano;250101;Catol� do Rocha;Lagoa;19.44
+25;Paraíba;250820;2011;2503;Agreste Paraibano;250316;Guarabira;Lagoa de Dentro;54.87
+25;Paraíba;250830;2011;2503;Agreste Paraibano;250317;Campina Grande;Lagoa Seca;59.36
+25;Paraíba;250840;2011;2501;Sert�o Paraibano;250103;Sousa;Lastro;14.29
+25;Paraíba;250850;2011;2502;Borborema;250210;Cariri Ocidental;Livramento;56.04
+25;Paraíba;250855;2011;2503;Agreste Paraibano;250316;Guarabira;Logradouro;44
+25;Paraíba;250860;2011;2504;Mata Paraibana;250422;Jo�o Pessoa;Lucena;60.66
+25;Paraíba;250870;2011;2501;Sert�o Paraibano;250104;Patos;M�e d'�gua;56
+25;Paraíba;250880;2011;2501;Sert�o Paraibano;250103;Sousa;Malta;53.23
+25;Paraíba;250890;2011;2504;Mata Paraibana;250420;Litoral Norte;Mamanguape;61.15
+25;Paraíba;250900;2011;2501;Sert�o Paraibano;250107;Serra do Teixeira;Mana�ra;44.92
+25;Paraíba;250905;2011;2504;Mata Paraibana;250420;Litoral Norte;Marca��o;53.55
+25;Paraíba;250910;2011;2504;Mata Paraibana;250421;Sap�;Mari;47.92
+25;Paraíba;250915;2011;2501;Sert�o Paraibano;250103;Sousa;Mariz�polis;25.32
+25;Paraíba;250920;2011;2503;Agreste Paraibano;250317;Campina Grande;Massaranduba;62.89
+25;Paraíba;250930;2011;2504;Mata Paraibana;250420;Litoral Norte;Mataraca;65.43
+25;Paraíba;250933;2011;2503;Agreste Paraibano;250315;Brejo Paraibano;Matinhas;67.61
+25;Paraíba;250937;2011;2501;Sert�o Paraibano;250101;Catol� do Rocha;Mato Grosso;3.33
+25;Paraíba;250939;2011;2501;Sert�o Paraibano;250107;Serra do Teixeira;Matur�ia;42.17
+25;Paraíba;250940;2011;2503;Agreste Paraibano;250318;Itabaiana;Mogeiro;56.83
+25;Paraíba;250950;2011;2503;Agreste Paraibano;250314;Esperan�a;Montadas;59.49
+25;Paraíba;250960;2011;2501;Sert�o Paraibano;250102;Cajazeiras;Monte Horebe;41.57
+25;Paraíba;250970;2011;2502;Borborema;250210;Cariri Ocidental;Monteiro;40.3
+25;Paraíba;250980;2011;2503;Agreste Paraibano;250316;Guarabira;Mulungu;56
+25;Paraíba;250990;2011;2503;Agreste Paraibano;250319;Umbuzeiro;Natuba;70.29
+25;Paraíba;251000;2011;2501;Sert�o Paraibano;250103;Sousa;Nazarezinho;19.1
+25;Paraíba;251010;2011;2503;Agreste Paraibano;250312;Curimata� Ocidental;Nova Floresta;57.05
+25;Paraíba;251020;2011;2501;Sert�o Paraibano;250105;Pianc�;Nova Olinda;48.11
+25;Paraíba;251030;2011;2502;Borborema;250209;Serid� Oriental Paraibano;Nova Palmeira;57.78
+25;Paraíba;251040;2011;2501;Sert�o Paraibano;250105;Pianc�;Olho d'�gua;51.65
+25;Paraíba;251050;2011;2503;Agreste Paraibano;250312;Curimata� Ocidental;Olivedos;69.05
+25;Paraíba;251060;2011;2502;Borborema;250210;Cariri Ocidental;Ouro Velho;32
+25;Paraíba;251065;2011;2502;Borborema;250210;Cariri Ocidental;Parari;44
+25;Paraíba;251070;2011;2501;Sert�o Paraibano;250104;Patos;Passagem;66.67
+25;Paraíba;251080;2011;2501;Sert�o Paraibano;250104;Patos;Patos;45.39
+25;Paraíba;251090;2011;2501;Sert�o Paraibano;250103;Sousa;Paulista;38.82
+25;Paraíba;251100;2011;2501;Sert�o Paraibano;250106;Itaporanga;Pedra Branca;43.4
+25;Paraíba;251110;2011;2502;Borborema;250209;Serid� Oriental Paraibano;Pedra Lavrada;67.33
+25;Paraíba;251120;2011;2504;Mata Paraibana;250423;Litoral Sul;Pedras de Fogo;51.43
+25;Paraíba;251130;2011;2501;Sert�o Paraibano;250105;Pianc�;Pianc�;42.33
+25;Paraíba;251140;2011;2502;Borborema;250209;Serid� Oriental Paraibano;Picu�;50.17
+25;Paraíba;251150;2011;2504;Mata Paraibana;250421;Sap�;Pilar;59.07
+25;Paraíba;251160;2011;2503;Agreste Paraibano;250315;Brejo Paraibano;Pil�es;60.76
+25;Paraíba;251170;2011;2503;Agreste Paraibano;250316;Guarabira;Pil�ezinhos;52.7
+25;Paraíba;251180;2011;2503;Agreste Paraibano;250316;Guarabira;Pirpirituba;48.12
+25;Paraíba;251190;2011;2504;Mata Paraibana;250423;Litoral Sul;Pitimbu;66.42
+25;Paraíba;251200;2011;2503;Agreste Paraibano;250312;Curimata� Ocidental;Pocinhos;64.56
+25;Paraíba;251203;2011;2501;Sert�o Paraibano;250102;Cajazeiras;Po�o Dantas;50
+25;Paraíba;251207;2011;2501;Sert�o Paraibano;250102;Cajazeiras;Po�o de Jos� de Moura;47.27
+25;Paraíba;251210;2011;2501;Sert�o Paraibano;250103;Sousa;Pombal;24.65
+25;Paraíba;251220;2011;2502;Borborema;250210;Cariri Ocidental;Prata;35
+25;Paraíba;251230;2011;2501;Sert�o Paraibano;250107;Serra do Teixeira;Princesa Isabel;32.12
+25;Paraíba;251240;2011;2503;Agreste Paraibano;250317;Campina Grande;Puxinan�;60.31
+25;Paraíba;251250;2011;2503;Agreste Paraibano;250317;Campina Grande;Queimadas;54.96
+25;Paraíba;251260;2011;2501;Sert�o Paraibano;250104;Patos;Quixab�;57.69
+25;Paraíba;251270;2011;2503;Agreste Paraibano;250312;Curimata� Ocidental;Rem�gio;62.45
+25;Paraíba;251272;2011;2504;Mata Paraibana;250420;Litoral Norte;Pedro R�gis;69.05
+25;Paraíba;251274;2011;2503;Agreste Paraibano;250313;Curimata� Oriental;Riach�o;54.55
+25;Paraíba;251275;2011;2503;Agreste Paraibano;250318;Itabaiana;Riach�o do Bacamarte;46.77
+25;Paraíba;251276;2011;2504;Mata Paraibana;250421;Sap�;Riach�o do Po�o;66.15
+25;Paraíba;251278;2011;2502;Borborema;250211;Cariri Oriental;Riacho de Santo Ant�nio;30.95
+25;Paraíba;251280;2011;2501;Sert�o Paraibano;250101;Catol� do Rocha;Riacho dos Cavalos;18.26
+25;Paraíba;251290;2011;2504;Mata Paraibana;250420;Litoral Norte;Rio Tinto;54.89
+25;Paraíba;251300;2011;2502;Borborema;250208;Serid� Ocidental Paraibano;Salgadinho;59.57
+25;Paraíba;251310;2011;2503;Agreste Paraibano;250318;Itabaiana;Salgado de S�o F�lix;58.78
+25;Paraíba;251315;2011;2503;Agreste Paraibano;250319;Umbuzeiro;Santa Cec�lia;49.44
+25;Paraíba;251320;2011;2501;Sert�o Paraibano;250103;Sousa;Santa Cruz;24
+25;Paraíba;251330;2011;2501;Sert�o Paraibano;250102;Cajazeiras;Santa Helena;39.19
+25;Paraíba;251335;2011;2501;Sert�o Paraibano;250106;Itaporanga;Santa In�s;25
+25;Paraíba;251340;2011;2502;Borborema;250208;Serid� Ocidental Paraibano;Santa Luzia;50
+25;Paraíba;251350;2011;2501;Sert�o Paraibano;250106;Itaporanga;Santana de Mangueira;56.72
+25;Paraíba;251360;2011;2501;Sert�o Paraibano;250105;Pianc�;Santana dos Garrotes;25.37
+25;Paraíba;251365;2011;2501;Sert�o Paraibano;250102;Cajazeiras;Santar�m;43.33
+25;Paraíba;251370;2011;2504;Mata Paraibana;250422;Jo�o Pessoa;Santa Rita;48.3
+25;Paraíba;251380;2011;2501;Sert�o Paraibano;250104;Patos;Santa Teresinha;30.88
+25;Paraíba;251385;2011;2502;Borborema;250211;Cariri Oriental;Santo Andr�;43.33
+25;Paraíba;251390;2011;2501;Sert�o Paraibano;250101;Catol� do Rocha;S�o Bento;33.26
+25;Paraíba;251392;2011;2501;Sert�o Paraibano;250103;Sousa;S�o Bentinho;40.32
+25;Paraíba;251394;2011;2502;Borborema;250211;Cariri Oriental;S�o Domingos do Cariri;52.5
+25;Paraíba;251396;2011;2501;Sert�o Paraibano;250103;Sousa;S�o Domingos;41.3
+25;Paraíba;251398;2011;2501;Sert�o Paraibano;250103;Sousa;S�o Francisco;17.02
+25;Paraíba;251400;2011;2502;Borborema;250211;Cariri Oriental;S�o Jo�o do Cariri;56.1
+25;Paraíba;251410;2011;2502;Borborema;250210;Cariri Ocidental;S�o Jo�o do Tigre;53.97
+25;Paraíba;251420;2011;2501;Sert�o Paraibano;250103;Sousa;S�o Jos� da Lagoa Tapada;35.96
+25;Paraíba;251430;2011;2501;Sert�o Paraibano;250106;Itaporanga;S�o Jos� de Caiana;54.74
+25;Paraíba;251440;2011;2501;Sert�o Paraibano;250104;Patos;S�o Jos� de Espinharas;47.62
+25;Paraíba;251445;2011;2504;Mata Paraibana;250421;Sap�;S�o Jos� dos Ramos;56.98
+25;Paraíba;251450;2011;2501;Sert�o Paraibano;250102;Cajazeiras;S�o Jos� de Piranhas;40.75
+25;Paraíba;251455;2011;2501;Sert�o Paraibano;250107;Serra do Teixeira;S�o Jos� de Princesa;31.25
+25;Paraíba;251460;2011;2501;Sert�o Paraibano;250104;Patos;S�o Jos� do Bonfim;60.71
+25;Paraíba;251465;2011;2501;Sert�o Paraibano;250101;Catol� do Rocha;S�o Jos� do Brejo do Cruz;25
+25;Paraíba;251470;2011;2502;Borborema;250208;Serid� Ocidental Paraibano;S�o Jos� do Sabugi;54.35
+25;Paraíba;251480;2011;2502;Borborema;250210;Cariri Ocidental;S�o Jos� dos Cordeiros;34.43
+25;Paraíba;251490;2011;2502;Borborema;250208;Serid� Ocidental Paraibano;S�o Mamede;45
+25;Paraíba;251500;2011;2504;Mata Paraibana;250421;Sap�;S�o Miguel de Taipu;69.23
+25;Paraíba;251510;2011;2503;Agreste Paraibano;250314;Esperan�a;S�o Sebasti�o de Lagoa de Ro�a;55.9
+25;Paraíba;251520;2011;2502;Borborema;250210;Cariri Ocidental;S�o Sebasti�o do Umbuzeiro;42.86
+25;Paraíba;251530;2011;2504;Mata Paraibana;250421;Sap�;Sap�;56.1
+25;Paraíba;251540;2011;2502;Borborema;250209;Serid� Oriental Paraibano;Serid�;77.01
+25;Paraíba;251550;2011;2502;Borborema;250210;Cariri Ocidental;Serra Branca;55.19
+25;Paraíba;251560;2011;2503;Agreste Paraibano;250316;Guarabira;Serra da Raiz;41.18
+25;Paraíba;251570;2011;2501;Sert�o Paraibano;250106;Itaporanga;Serra Grande;39.02
+25;Paraíba;251580;2011;2503;Agreste Paraibano;250317;Campina Grande;Serra Redonda;64.36
+25;Paraíba;251590;2011;2503;Agreste Paraibano;250315;Brejo Paraibano;Serraria;54
+25;Paraíba;251593;2011;2503;Agreste Paraibano;250316;Guarabira;Sert�ozinho;43.1
+25;Paraíba;251597;2011;2504;Mata Paraibana;250421;Sap�;Sobrado;53.85
+25;Paraíba;251600;2011;2503;Agreste Paraibano;250313;Curimata� Oriental;Sol�nea;55.56
+25;Paraíba;251610;2011;2503;Agreste Paraibano;250312;Curimata� Ocidental;Soledade;64.04
+25;Paraíba;251615;2011;2503;Agreste Paraibano;250312;Curimata� Ocidental;Soss�go;80.77
+25;Paraíba;251620;2011;2501;Sert�o Paraibano;250103;Sousa;Sousa;18.56
+25;Paraíba;251630;2011;2502;Borborema;250210;Cariri Ocidental;Sum�;37.18
+25;Paraíba;251640;2011;2503;Agreste Paraibano;250313;Curimata� Oriental;Tacima;52.53
+25;Paraíba;251650;2011;2502;Borborema;250210;Cariri Ocidental;Tapero�;57.85
+25;Paraíba;251660;2011;2501;Sert�o Paraibano;250107;Serra do Teixeira;Tavares;39.38
+25;Paraíba;251670;2011;2501;Sert�o Paraibano;250107;Serra do Teixeira;Teixeira;46.15
+25;Paraíba;251675;2011;2502;Borborema;250209;Serid� Oriental Paraibano;Ten�rio;55.77
+25;Paraíba;251680;2011;2501;Sert�o Paraibano;250102;Cajazeiras;Triunfo;43.27
+25;Paraíba;251690;2011;2501;Sert�o Paraibano;250102;Cajazeiras;Uira�na;30.88
+25;Paraíba;251700;2011;2503;Agreste Paraibano;250319;Umbuzeiro;Umbuzeiro;69.29
+25;Paraíba;251710;2011;2502;Borborema;250208;Serid� Ocidental Paraibano;V�rzea;51.52
+25;Paraíba;251720;2011;2501;Sert�o Paraibano;250103;Sousa;Vieir�polis;18.75
+25;Paraíba;251740;2011;2502;Borborema;250210;Cariri Ocidental;Zabel�;NA

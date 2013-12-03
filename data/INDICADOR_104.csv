@@ -1,0 +1,1339 @@
+"COD_UF","NOME_UF","COD_MUNICIPIO","ANO","COD_MESO","NOME_MESO","COD_MICRO","NOME_MICRO","NOME_MUNICIPIO","INDICADOR_104"
+25,"Paraíba",250010,2007,2501,"Sertão Paraibano",250107,"Serra do Teixeira","Água Branca",0.00278488780284414
+25,"Paraíba",250010,2008,2501,"Sertão Paraibano",250107,"Serra do Teixeira","Água Branca",0.00433725304400782
+25,"Paraíba",250010,2009,2501,"Sertão Paraibano",250107,"Serra do Teixeira","Água Branca",0.0136387677628727
+25,"Paraíba",250010,2010,2501,"Sertão Paraibano",250107,"Serra do Teixeira","Água Branca",0.00179194639514144
+25,"Paraíba",250010,2011,2501,"Sertão Paraibano",250107,"Serra do Teixeira","Água Branca",0.00107321534556111
+25,"Paraíba",250010,2012,2501,"Sertão Paraibano",250107,"Serra do Teixeira","Água Branca",0.0190614204979962
+25,"Paraíba",250020,2007,2501,"Sertão Paraibano",250105,"Piancó","Aguiar",0.0277296597759162
+25,"Paraíba",250020,2008,2501,"Sertão Paraibano",250105,"Piancó","Aguiar",0.0185397884951432
+25,"Paraíba",250020,2009,2501,"Sertão Paraibano",250105,"Piancó","Aguiar",0.0130001166135345
+25,"Paraíba",250020,2010,2501,"Sertão Paraibano",250105,"Piancó","Aguiar",0.108889385029693
+25,"Paraíba",250020,2011,2501,"Sertão Paraibano",250105,"Piancó","Aguiar",0.111637411708243
+25,"Paraíba",250020,2012,2501,"Sertão Paraibano",250105,"Piancó","Aguiar",0.0202946678173103
+25,"Paraíba",250030,2007,2503,"Agreste Paraibano",250315,"Brejo Paraibano","Alagoa Grande",0.0172775133715452
+25,"Paraíba",250030,2008,2503,"Agreste Paraibano",250315,"Brejo Paraibano","Alagoa Grande",0.00471404465002383
+25,"Paraíba",250030,2009,2503,"Agreste Paraibano",250315,"Brejo Paraibano","Alagoa Grande",0.00559166221027788
+25,"Paraíba",250030,2010,2503,"Agreste Paraibano",250315,"Brejo Paraibano","Alagoa Grande",0.00355489241684622
+25,"Paraíba",250030,2011,2503,"Agreste Paraibano",250315,"Brejo Paraibano","Alagoa Grande",0.00520566076934196
+25,"Paraíba",250030,2012,2503,"Agreste Paraibano",250315,"Brejo Paraibano","Alagoa Grande",0.0177522249330956
+25,"Paraíba",250040,2007,2503,"Agreste Paraibano",250315,"Brejo Paraibano","Alagoa Nova",0.00257941736393494
+25,"Paraíba",250040,2008,2503,"Agreste Paraibano",250315,"Brejo Paraibano","Alagoa Nova",0.000541553976459243
+25,"Paraíba",250040,2009,2503,"Agreste Paraibano",250315,"Brejo Paraibano","Alagoa Nova",0.00660362355314678
+25,"Paraíba",250040,2010,2503,"Agreste Paraibano",250315,"Brejo Paraibano","Alagoa Nova",0.0178967065246969
+25,"Paraíba",250040,2011,2503,"Agreste Paraibano",250315,"Brejo Paraibano","Alagoa Nova",0.00431544849801125
+25,"Paraíba",250040,2012,2503,"Agreste Paraibano",250315,"Brejo Paraibano","Alagoa Nova",0.0103750681050716
+25,"Paraíba",250050,2007,2503,"Agreste Paraibano",250316,"Guarabira","Alagoinha",3.3282550979575e-05
+25,"Paraíba",250050,2008,2503,"Agreste Paraibano",250316,"Guarabira","Alagoinha",0.00232696189809777
+25,"Paraíba",250050,2009,2503,"Agreste Paraibano",250316,"Guarabira","Alagoinha",0.0252915908214326
+25,"Paraíba",250050,2010,2503,"Agreste Paraibano",250316,"Guarabira","Alagoinha",0.00193971780046564
+25,"Paraíba",250050,2011,2503,"Agreste Paraibano",250316,"Guarabira","Alagoinha",0.0152972259060978
+25,"Paraíba",250050,2012,2503,"Agreste Paraibano",250316,"Guarabira","Alagoinha",0.0245303339420151
+25,"Paraíba",250053,2007,2502,"Borborema",250211,"Cariri Oriental","Alcantil",0.00837224661759294
+25,"Paraíba",250053,2008,2502,"Borborema",250211,"Cariri Oriental","Alcantil",0.00838122518563033
+25,"Paraíba",250053,2009,2502,"Borborema",250211,"Cariri Oriental","Alcantil",0.00117633366304884
+25,"Paraíba",250053,2010,2502,"Borborema",250211,"Cariri Oriental","Alcantil",0.00317360702012103
+25,"Paraíba",250053,2011,2502,"Borborema",250211,"Cariri Oriental","Alcantil",0.0147595624412905
+25,"Paraíba",250053,2012,2502,"Borborema",250211,"Cariri Oriental","Alcantil",0.00167035782479708
+25,"Paraíba",250057,2007,2503,"Agreste Paraibano",250312,"Curimataú Ocidental","Algodão de Jandaíra",0.0188609331643567
+25,"Paraíba",250057,2008,2503,"Agreste Paraibano",250312,"Curimataú Ocidental","Algodão de Jandaíra",0.0200997807226447
+25,"Paraíba",250057,2009,2503,"Agreste Paraibano",250312,"Curimataú Ocidental","Algodão de Jandaíra",0.010427546338266
+25,"Paraíba",250057,2010,2503,"Agreste Paraibano",250312,"Curimataú Ocidental","Algodão de Jandaíra",0.0065811311374945
+25,"Paraíba",250057,2011,2503,"Agreste Paraibano",250312,"Curimataú Ocidental","Algodão de Jandaíra",0.0101348058752907
+25,"Paraíba",250057,2012,2503,"Agreste Paraibano",250312,"Curimataú Ocidental","Algodão de Jandaíra",0.00486304401476193
+25,"Paraíba",250060,2007,2504,"Mata Paraibana",250423,"Litoral Sul","Alhandra",0.0147891491017021
+25,"Paraíba",250060,2008,2504,"Mata Paraibana",250423,"Litoral Sul","Alhandra",0.0373865879450799
+25,"Paraíba",250060,2009,2504,"Mata Paraibana",250423,"Litoral Sul","Alhandra",0.00385587567379208
+25,"Paraíba",250060,2010,2504,"Mata Paraibana",250423,"Litoral Sul","Alhandra",0.00433187237551005
+25,"Paraíba",250060,2011,2504,"Mata Paraibana",250423,"Litoral Sul","Alhandra",0.0115986122475851
+25,"Paraíba",250060,2012,2504,"Mata Paraibana",250423,"Litoral Sul","Alhandra",0.0166714044186084
+25,"Paraíba",250070,2007,2501,"Sertão Paraibano",250102,"Cajazeiras","São João do Rio do Peixe",0.00944689432718319
+25,"Paraíba",250070,2008,2501,"Sertão Paraibano",250102,"Cajazeiras","São João do Rio do Peixe",0.0042797389784887
+25,"Paraíba",250070,2009,2501,"Sertão Paraibano",250102,"Cajazeiras","São João do Rio do Peixe",0.00682873016150286
+25,"Paraíba",250070,2010,2501,"Sertão Paraibano",250102,"Cajazeiras","São João do Rio do Peixe",0.0133219417400536
+25,"Paraíba",250070,2011,2501,"Sertão Paraibano",250102,"Cajazeiras","São João do Rio do Peixe",0.0188048411637022
+25,"Paraíba",250070,2012,2501,"Sertão Paraibano",250102,"Cajazeiras","São João do Rio do Peixe",0.0479457419620375
+25,"Paraíba",250073,2007,2502,"Borborema",250210,"Cariri Ocidental","Amparo",0.006847431679025
+25,"Paraíba",250073,2008,2502,"Borborema",250210,"Cariri Ocidental","Amparo",0.0185812220636123
+25,"Paraíba",250073,2009,2502,"Borborema",250210,"Cariri Ocidental","Amparo",0.0609630746811318
+25,"Paraíba",250073,2010,2502,"Borborema",250210,"Cariri Ocidental","Amparo",0.03133692481471
+25,"Paraíba",250073,2011,2502,"Borborema",250210,"Cariri Ocidental","Amparo",0.00869105940121523
+25,"Paraíba",250073,2012,2502,"Borborema",250210,"Cariri Ocidental","Amparo",0.00178867423163307
+25,"Paraíba",250077,2007,2501,"Sertão Paraibano",250103,"Sousa","Aparecida",0.00633129043667807
+25,"Paraíba",250077,2008,2501,"Sertão Paraibano",250103,"Sousa","Aparecida",0.00964794064703062
+25,"Paraíba",250077,2009,2501,"Sertão Paraibano",250103,"Sousa","Aparecida",0.00504265788878024
+25,"Paraíba",250077,2010,2501,"Sertão Paraibano",250103,"Sousa","Aparecida",0.00413958153473174
+25,"Paraíba",250077,2011,2501,"Sertão Paraibano",250103,"Sousa","Aparecida",0.00421434396885009
+25,"Paraíba",250077,2012,2501,"Sertão Paraibano",250103,"Sousa","Aparecida",0.010904121073917
+25,"Paraíba",250080,2007,2503,"Agreste Paraibano",250316,"Guarabira","Araçagi",0.00107142173494783
+25,"Paraíba",250080,2008,2503,"Agreste Paraibano",250316,"Guarabira","Araçagi",0.00133593080860147
+25,"Paraíba",250080,2009,2503,"Agreste Paraibano",250316,"Guarabira","Araçagi",0.00298141298196342
+25,"Paraíba",250080,2010,2503,"Agreste Paraibano",250316,"Guarabira","Araçagi",0.00160013443542928
+25,"Paraíba",250080,2011,2503,"Agreste Paraibano",250316,"Guarabira","Araçagi",0.00107328355634222
+25,"Paraíba",250080,2012,2503,"Agreste Paraibano",250316,"Guarabira","Araçagi",0.00244907578971992
+25,"Paraíba",250090,2007,2503,"Agreste Paraibano",250312,"Curimataú Ocidental","Arara",0.000421079368357237
+25,"Paraíba",250090,2008,2503,"Agreste Paraibano",250312,"Curimataú Ocidental","Arara",0.0091714142157437
+25,"Paraíba",250090,2009,2503,"Agreste Paraibano",250312,"Curimataú Ocidental","Arara",0.00134503694339129
+25,"Paraíba",250090,2010,2503,"Agreste Paraibano",250312,"Curimataú Ocidental","Arara",0.00406418752273591
+25,"Paraíba",250090,2011,2503,"Agreste Paraibano",250312,"Curimataú Ocidental","Arara",0.0104908970814259
+25,"Paraíba",250090,2012,2503,"Agreste Paraibano",250312,"Curimataú Ocidental","Arara",0.00847186093350783
+25,"Paraíba",250100,2007,2503,"Agreste Paraibano",250313,"Curimataú Oriental","Araruna",0.00581548688601289
+25,"Paraíba",250100,2008,2503,"Agreste Paraibano",250313,"Curimataú Oriental","Araruna",0.00368453826687193
+25,"Paraíba",250100,2009,2503,"Agreste Paraibano",250313,"Curimataú Oriental","Araruna",0.0192186333127184
+25,"Paraíba",250100,2010,2503,"Agreste Paraibano",250313,"Curimataú Oriental","Araruna",0.0134546114455039
+25,"Paraíba",250100,2011,2503,"Agreste Paraibano",250313,"Curimataú Oriental","Araruna",0.0165987383770635
+25,"Paraíba",250100,2012,2503,"Agreste Paraibano",250313,"Curimataú Oriental","Araruna",0.00262811857807257
+25,"Paraíba",250110,2007,2503,"Agreste Paraibano",250315,"Brejo Paraibano","Areia",0.0232632050783069
+25,"Paraíba",250110,2008,2503,"Agreste Paraibano",250315,"Brejo Paraibano","Areia",0.00682447358642885
+25,"Paraíba",250110,2009,2503,"Agreste Paraibano",250315,"Brejo Paraibano","Areia",0.00775434594888041
+25,"Paraíba",250110,2010,2503,"Agreste Paraibano",250315,"Brejo Paraibano","Areia",0.00514864144183322
+25,"Paraíba",250110,2011,2503,"Agreste Paraibano",250315,"Brejo Paraibano","Areia",0.00366498990365317
+25,"Paraíba",250110,2012,2503,"Agreste Paraibano",250315,"Brejo Paraibano","Areia",4.99243018545373e-05
+25,"Paraíba",250115,2007,2501,"Sertão Paraibano",250104,"Patos","Areia de Baraúnas",0.0124841580506277
+25,"Paraíba",250115,2008,2501,"Sertão Paraibano",250104,"Patos","Areia de Baraúnas",0.00939904535927946
+25,"Paraíba",250115,2009,2501,"Sertão Paraibano",250104,"Patos","Areia de Baraúnas",0.0038751250427205
+25,"Paraíba",250115,2010,2501,"Sertão Paraibano",250104,"Patos","Areia de Baraúnas",0.019500438773197
+25,"Paraíba",250115,2011,2501,"Sertão Paraibano",250104,"Patos","Areia de Baraúnas",0.0379938003072126
+25,"Paraíba",250115,2012,2501,"Sertão Paraibano",250104,"Patos","Areia de Baraúnas",0.00879339082754725
+25,"Paraíba",250120,2007,2503,"Agreste Paraibano",250314,"Esperança","Areial",0.0274684317498192
+25,"Paraíba",250120,2008,2503,"Agreste Paraibano",250314,"Esperança","Areial",0.0234427362756953
+25,"Paraíba",250120,2009,2503,"Agreste Paraibano",250314,"Esperança","Areial",0.00129440747448955
+25,"Paraíba",250120,2010,2503,"Agreste Paraibano",250314,"Esperança","Areial",0.0122452433724569
+25,"Paraíba",250120,2011,2503,"Agreste Paraibano",250314,"Esperança","Areial",0.0187802116569901
+25,"Paraíba",250120,2012,2503,"Agreste Paraibano",250314,"Esperança","Areial",0.027500731735471
+25,"Paraíba",250130,2007,2503,"Agreste Paraibano",250319,"Umbuzeiro","Aroeiras",0.0144712510128745
+25,"Paraíba",250130,2008,2503,"Agreste Paraibano",250319,"Umbuzeiro","Aroeiras",0.0235291291440072
+25,"Paraíba",250130,2009,2503,"Agreste Paraibano",250319,"Umbuzeiro","Aroeiras",0.00422377581714503
+25,"Paraíba",250130,2010,2503,"Agreste Paraibano",250319,"Umbuzeiro","Aroeiras",0.00608736782058992
+25,"Paraíba",250130,2011,2503,"Agreste Paraibano",250319,"Umbuzeiro","Aroeiras",0.0116930910988916
+25,"Paraíba",250130,2012,2503,"Agreste Paraibano",250319,"Umbuzeiro","Aroeiras",0.0210006747457119
+25,"Paraíba",250135,2007,2502,"Borborema",250210,"Cariri Ocidental","Assunção",0.0274686407253695
+25,"Paraíba",250135,2008,2502,"Borborema",250210,"Cariri Ocidental","Assunção",0.00248467091858075
+25,"Paraíba",250135,2009,2502,"Borborema",250210,"Cariri Ocidental","Assunção",0.0111245109035559
+25,"Paraíba",250135,2010,2502,"Borborema",250210,"Cariri Ocidental","Assunção",0.00647160554486277
+25,"Paraíba",250135,2011,2502,"Borborema",250210,"Cariri Ocidental","Assunção",0.0113089222226513
+25,"Paraíba",250135,2012,2502,"Borborema",250210,"Cariri Ocidental","Assunção",0.00817564147876969
+25,"Paraíba",250140,2007,2504,"Mata Paraibana",250420,"Litoral Norte","Baía da Traição",0.0116262207505544
+25,"Paraíba",250140,2008,2504,"Mata Paraibana",250420,"Litoral Norte","Baía da Traição",0.0333447437797937
+25,"Paraíba",250140,2009,2504,"Mata Paraibana",250420,"Litoral Norte","Baía da Traição",0.00492538194330946
+25,"Paraíba",250140,2010,2504,"Mata Paraibana",250420,"Litoral Norte","Baía da Traição",0.00158593568382486
+25,"Paraíba",250140,2011,2504,"Mata Paraibana",250420,"Litoral Norte","Baía da Traição",0.00387516254700516
+25,"Paraíba",250140,2012,2504,"Mata Paraibana",250420,"Litoral Norte","Baía da Traição",0.00757644465889091
+25,"Paraíba",250150,2007,2503,"Agreste Paraibano",250315,"Brejo Paraibano","Bananeiras",0.0071970132514876
+25,"Paraíba",250150,2008,2503,"Agreste Paraibano",250315,"Brejo Paraibano","Bananeiras",0.0116630770198086
+25,"Paraíba",250150,2009,2503,"Agreste Paraibano",250315,"Brejo Paraibano","Bananeiras",0.00913339424950805
+25,"Paraíba",250150,2010,2503,"Agreste Paraibano",250315,"Brejo Paraibano","Bananeiras",0.00285403750428425
+25,"Paraíba",250150,2011,2503,"Agreste Paraibano",250315,"Brejo Paraibano","Bananeiras",0.0051494770240363
+25,"Paraíba",250150,2012,2503,"Agreste Paraibano",250315,"Brejo Paraibano","Bananeiras",0.0125925458495592
+25,"Paraíba",250153,2007,2502,"Borborema",250209,"Seridó Oriental Paraibano","Baraúna",0.00248262297929911
+25,"Paraíba",250153,2008,2502,"Borborema",250209,"Seridó Oriental Paraibano","Baraúna",0.00210783559384493
+25,"Paraíba",250153,2009,2502,"Borborema",250209,"Seridó Oriental Paraibano","Baraúna",0.00491356050944602
+25,"Paraíba",250153,2010,2502,"Borborema",250209,"Seridó Oriental Paraibano","Baraúna",0.00185258977644241
+25,"Paraíba",250153,2011,2502,"Borborema",250209,"Seridó Oriental Paraibano","Baraúna",0.00579507774569155
+25,"Paraíba",250153,2012,2502,"Borborema",250209,"Seridó Oriental Paraibano","Baraúna",0.0112313231593581
+25,"Paraíba",250157,2007,2502,"Borborema",250211,"Cariri Oriental","Barra de Santana",0.0184359714874073
+25,"Paraíba",250157,2008,2502,"Borborema",250211,"Cariri Oriental","Barra de Santana",0.0184598960342337
+25,"Paraíba",250157,2009,2502,"Borborema",250211,"Cariri Oriental","Barra de Santana",0.0105752175743389
+25,"Paraíba",250157,2010,2502,"Borborema",250211,"Cariri Oriental","Barra de Santana",0.0141442439582462
+25,"Paraíba",250157,2011,2502,"Borborema",250211,"Cariri Oriental","Barra de Santana",0.0155639418850507
+25,"Paraíba",250157,2012,2502,"Borborema",250211,"Cariri Oriental","Barra de Santana",0.0309191073623269
+25,"Paraíba",250160,2007,2503,"Agreste Paraibano",250312,"Curimataú Ocidental","Barra de Santa Rosa",0.0230536650959742
+25,"Paraíba",250160,2008,2503,"Agreste Paraibano",250312,"Curimataú Ocidental","Barra de Santa Rosa",0.0048106814269947
+25,"Paraíba",250160,2009,2503,"Agreste Paraibano",250312,"Curimataú Ocidental","Barra de Santa Rosa",0.000573248559181747
+25,"Paraíba",250160,2010,2503,"Agreste Paraibano",250312,"Curimataú Ocidental","Barra de Santa Rosa",0.00114962797260512
+25,"Paraíba",250160,2011,2503,"Agreste Paraibano",250312,"Curimataú Ocidental","Barra de Santa Rosa",0.00533271954103915
+25,"Paraíba",250160,2012,2503,"Agreste Paraibano",250312,"Curimataú Ocidental","Barra de Santa Rosa",0.00429784817290383
+25,"Paraíba",250170,2007,2502,"Borborema",250211,"Cariri Oriental","Barra de São Miguel",0.0138864819356036
+25,"Paraíba",250170,2008,2502,"Borborema",250211,"Cariri Oriental","Barra de São Miguel",0.0106532216548483
+25,"Paraíba",250170,2009,2502,"Borborema",250211,"Cariri Oriental","Barra de São Miguel",0.0100656314460388
+25,"Paraíba",250170,2010,2502,"Borborema",250211,"Cariri Oriental","Barra de São Miguel",0.0173496780161098
+25,"Paraíba",250170,2011,2502,"Borborema",250211,"Cariri Oriental","Barra de São Miguel",0.0126635908049987
+25,"Paraíba",250170,2012,2502,"Borborema",250211,"Cariri Oriental","Barra de São Miguel",0.00405533569887289
+25,"Paraíba",250180,2007,2504,"Mata Paraibana",250422,"João Pessoa","Bayeux",0.00242455823346729
+25,"Paraíba",250180,2008,2504,"Mata Paraibana",250422,"João Pessoa","Bayeux",0.00408437600762775
+25,"Paraíba",250180,2009,2504,"Mata Paraibana",250422,"João Pessoa","Bayeux",0.00229048226224025
+25,"Paraíba",250180,2010,2504,"Mata Paraibana",250422,"João Pessoa","Bayeux",0.00571968342897226
+25,"Paraíba",250180,2011,2504,"Mata Paraibana",250422,"João Pessoa","Bayeux",0.00737050614521432
+25,"Paraíba",250180,2012,2504,"Mata Paraibana",250422,"João Pessoa","Bayeux",0.00168000146765078
+25,"Paraíba",250190,2007,2503,"Agreste Paraibano",250316,"Guarabira","Belém",0.010548256315167
+25,"Paraíba",250190,2008,2503,"Agreste Paraibano",250316,"Guarabira","Belém",0.0114631941743892
+25,"Paraíba",250190,2009,2503,"Agreste Paraibano",250316,"Guarabira","Belém",0.0184974209631638
+25,"Paraíba",250190,2010,2503,"Agreste Paraibano",250316,"Guarabira","Belém",0.00688870772411118
+25,"Paraíba",250190,2011,2503,"Agreste Paraibano",250316,"Guarabira","Belém",0.0115054990602908
+25,"Paraíba",250190,2012,2503,"Agreste Paraibano",250316,"Guarabira","Belém",0.00747815627796207
+25,"Paraíba",250200,2007,2501,"Sertão Paraibano",250101,"Catolé do Rocha","Belém do Brejo do Cruz",0.106142618830315
+25,"Paraíba",250200,2008,2501,"Sertão Paraibano",250101,"Catolé do Rocha","Belém do Brejo do Cruz",0.129953133728512
+25,"Paraíba",250200,2009,2501,"Sertão Paraibano",250101,"Catolé do Rocha","Belém do Brejo do Cruz",0.00307703171043259
+25,"Paraíba",250200,2010,2501,"Sertão Paraibano",250101,"Catolé do Rocha","Belém do Brejo do Cruz",0.0120933741886441
+25,"Paraíba",250200,2011,2501,"Sertão Paraibano",250101,"Catolé do Rocha","Belém do Brejo do Cruz",0.0335960655306172
+25,"Paraíba",250200,2012,2501,"Sertão Paraibano",250101,"Catolé do Rocha","Belém do Brejo do Cruz",0.0292762989146122
+25,"Paraíba",250205,2007,2501,"Sertão Paraibano",250102,"Cajazeiras","Bernardino Batista",0.000484924168837668
+25,"Paraíba",250205,2008,2501,"Sertão Paraibano",250102,"Cajazeiras","Bernardino Batista",0.000767030021230371
+25,"Paraíba",250205,2009,2501,"Sertão Paraibano",250102,"Cajazeiras","Bernardino Batista",0.00107110893599517
+25,"Paraíba",250205,2010,2501,"Sertão Paraibano",250102,"Cajazeiras","Bernardino Batista",0.00632218673080211
+25,"Paraíba",250205,2011,2501,"Sertão Paraibano",250102,"Cajazeiras","Bernardino Batista",0.000414648755937287
+25,"Paraíba",250205,2012,2501,"Sertão Paraibano",250102,"Cajazeiras","Bernardino Batista",0.0226998434512293
+25,"Paraíba",250210,2007,2501,"Sertão Paraibano",250106,"Itaporanga","Boa Ventura",0.0876531695635385
+25,"Paraíba",250210,2008,2501,"Sertão Paraibano",250106,"Itaporanga","Boa Ventura",0.0180321545817642
+25,"Paraíba",250210,2009,2501,"Sertão Paraibano",250106,"Itaporanga","Boa Ventura",0.0181788343309327
+25,"Paraíba",250210,2010,2501,"Sertão Paraibano",250106,"Itaporanga","Boa Ventura",0.0406746744185158
+25,"Paraíba",250210,2011,2501,"Sertão Paraibano",250106,"Itaporanga","Boa Ventura",0.0110529848921011
+25,"Paraíba",250210,2012,2501,"Sertão Paraibano",250106,"Itaporanga","Boa Ventura",0.0232589849808571
+25,"Paraíba",250215,2007,2503,"Agreste Paraibano",250317,"Campina Grande","Boa Vista",0.00419611006600124
+25,"Paraíba",250215,2008,2503,"Agreste Paraibano",250317,"Campina Grande","Boa Vista",0.00268951192311968
+25,"Paraíba",250215,2009,2503,"Agreste Paraibano",250317,"Campina Grande","Boa Vista",0.00664429959516653
+25,"Paraíba",250215,2010,2503,"Agreste Paraibano",250317,"Campina Grande","Boa Vista",0.00691840406188265
+25,"Paraíba",250215,2011,2503,"Agreste Paraibano",250317,"Campina Grande","Boa Vista",0.00336131060543816
+25,"Paraíba",250215,2012,2503,"Agreste Paraibano",250317,"Campina Grande","Boa Vista",0.00168248538923835
+25,"Paraíba",250220,2007,2501,"Sertão Paraibano",250102,"Cajazeiras","Bom Jesus",NA
+25,"Paraíba",250220,2008,2501,"Sertão Paraibano",250102,"Cajazeiras","Bom Jesus",0.0222918461734348
+25,"Paraíba",250220,2009,2501,"Sertão Paraibano",250102,"Cajazeiras","Bom Jesus",0.00679551818025874
+25,"Paraíba",250220,2010,2501,"Sertão Paraibano",250102,"Cajazeiras","Bom Jesus",0.025835198771594
+25,"Paraíba",250220,2011,2501,"Sertão Paraibano",250102,"Cajazeiras","Bom Jesus",0.010210658629335
+25,"Paraíba",250220,2012,2501,"Sertão Paraibano",250102,"Cajazeiras","Bom Jesus",0.00486912541727291
+25,"Paraíba",250230,2007,2501,"Sertão Paraibano",250101,"Catolé do Rocha","Bom Sucesso",0.00104670193698049
+25,"Paraíba",250230,2008,2501,"Sertão Paraibano",250101,"Catolé do Rocha","Bom Sucesso",0.015732773232097
+25,"Paraíba",250230,2009,2501,"Sertão Paraibano",250101,"Catolé do Rocha","Bom Sucesso",0.0255698583743467
+25,"Paraíba",250230,2010,2501,"Sertão Paraibano",250101,"Catolé do Rocha","Bom Sucesso",0.0125509627422897
+25,"Paraíba",250230,2011,2501,"Sertão Paraibano",250101,"Catolé do Rocha","Bom Sucesso",0.0221036606474791
+25,"Paraíba",250230,2012,2501,"Sertão Paraibano",250101,"Catolé do Rocha","Bom Sucesso",0.0242618416679698
+25,"Paraíba",250240,2007,2501,"Sertão Paraibano",250102,"Cajazeiras","Bonito de Santa Fé",0.000270730498811007
+25,"Paraíba",250240,2008,2501,"Sertão Paraibano",250102,"Cajazeiras","Bonito de Santa Fé",0.0030778570646512
+25,"Paraíba",250240,2009,2501,"Sertão Paraibano",250102,"Cajazeiras","Bonito de Santa Fé",0.00149648217105735
+25,"Paraíba",250240,2010,2501,"Sertão Paraibano",250102,"Cajazeiras","Bonito de Santa Fé",0.0386821236571843
+25,"Paraíba",250240,2011,2501,"Sertão Paraibano",250102,"Cajazeiras","Bonito de Santa Fé",0.0464134880146543
+25,"Paraíba",250240,2012,2501,"Sertão Paraibano",250102,"Cajazeiras","Bonito de Santa Fé",0.130920782765813
+25,"Paraíba",250250,2007,2502,"Borborema",250211,"Cariri Oriental","Boqueirão",0.00779976510422266
+25,"Paraíba",250250,2008,2502,"Borborema",250211,"Cariri Oriental","Boqueirão",0.0176088986792644
+25,"Paraíba",250250,2009,2502,"Borborema",250211,"Cariri Oriental","Boqueirão",0.00675895463227875
+25,"Paraíba",250250,2010,2502,"Borborema",250211,"Cariri Oriental","Boqueirão",0.0115837179150644
+25,"Paraíba",250250,2011,2502,"Borborema",250211,"Cariri Oriental","Boqueirão",0.0163037294476195
+25,"Paraíba",250250,2012,2502,"Borborema",250211,"Cariri Oriental","Boqueirão",0.0221581940729841
+25,"Paraíba",250260,2007,2501,"Sertão Paraibano",250105,"Piancó","Igaracy",0.0289035363851551
+25,"Paraíba",250260,2008,2501,"Sertão Paraibano",250105,"Piancó","Igaracy",0.0190342697759538
+25,"Paraíba",250260,2009,2501,"Sertão Paraibano",250105,"Piancó","Igaracy",0.00755435451186338
+25,"Paraíba",250260,2010,2501,"Sertão Paraibano",250105,"Piancó","Igaracy",0.000245372946994918
+25,"Paraíba",250260,2011,2501,"Sertão Paraibano",250105,"Piancó","Igaracy",0.0222431875406568
+25,"Paraíba",250260,2012,2501,"Sertão Paraibano",250105,"Piancó","Igaracy",0.00110534598170891
+25,"Paraíba",250270,2007,2503,"Agreste Paraibano",250315,"Brejo Paraibano","Borborema",0.000500919720731078
+25,"Paraíba",250270,2008,2503,"Agreste Paraibano",250315,"Brejo Paraibano","Borborema",0.0118370898896118
+25,"Paraíba",250270,2009,2503,"Agreste Paraibano",250315,"Brejo Paraibano","Borborema",0.00379361122426979
+25,"Paraíba",250270,2010,2503,"Agreste Paraibano",250315,"Brejo Paraibano","Borborema",0.00777782047057019
+25,"Paraíba",250270,2011,2503,"Agreste Paraibano",250315,"Brejo Paraibano","Borborema",0.0207964846512986
+25,"Paraíba",250270,2012,2503,"Agreste Paraibano",250315,"Brejo Paraibano","Borborema",0.0160156814328323
+25,"Paraíba",250280,2007,2501,"Sertão Paraibano",250101,"Catolé do Rocha","Brejo do Cruz",0.01332201940372
+25,"Paraíba",250280,2008,2501,"Sertão Paraibano",250101,"Catolé do Rocha","Brejo do Cruz",0.0119835570068484
+25,"Paraíba",250280,2009,2501,"Sertão Paraibano",250101,"Catolé do Rocha","Brejo do Cruz",0.014280474348164
+25,"Paraíba",250280,2010,2501,"Sertão Paraibano",250101,"Catolé do Rocha","Brejo do Cruz",0.00212637881327338
+25,"Paraíba",250280,2011,2501,"Sertão Paraibano",250101,"Catolé do Rocha","Brejo do Cruz",0.0112898289153116
+25,"Paraíba",250280,2012,2501,"Sertão Paraibano",250101,"Catolé do Rocha","Brejo do Cruz",0.00481337772225413
+25,"Paraíba",250290,2007,2501,"Sertão Paraibano",250101,"Catolé do Rocha","Brejo dos Santos",0.00331562545171815
+25,"Paraíba",250290,2008,2501,"Sertão Paraibano",250101,"Catolé do Rocha","Brejo dos Santos",0.00631655012616773
+25,"Paraíba",250290,2009,2501,"Sertão Paraibano",250101,"Catolé do Rocha","Brejo dos Santos",0.0231747401574615
+25,"Paraíba",250290,2010,2501,"Sertão Paraibano",250101,"Catolé do Rocha","Brejo dos Santos",0.00226136039353292
+25,"Paraíba",250290,2011,2501,"Sertão Paraibano",250101,"Catolé do Rocha","Brejo dos Santos",0.0237859287132547
+25,"Paraíba",250290,2012,2501,"Sertão Paraibano",250101,"Catolé do Rocha","Brejo dos Santos",0.000877999924373211
+25,"Paraíba",250300,2007,2504,"Mata Paraibana",250423,"Litoral Sul","Caaporã",0.00906572277929297
+25,"Paraíba",250300,2008,2504,"Mata Paraibana",250423,"Litoral Sul","Caaporã",0.00434906900997265
+25,"Paraíba",250300,2009,2504,"Mata Paraibana",250423,"Litoral Sul","Caaporã",0.00421565640815708
+25,"Paraíba",250300,2010,2504,"Mata Paraibana",250423,"Litoral Sul","Caaporã",0.00642403332082748
+25,"Paraíba",250300,2011,2504,"Mata Paraibana",250423,"Litoral Sul","Caaporã",0.0101739385112705
+25,"Paraíba",250300,2012,2504,"Mata Paraibana",250423,"Litoral Sul","Caaporã",0.0156761136197353
+25,"Paraíba",250310,2007,2502,"Borborema",250211,"Cariri Oriental","Cabaceiras",0.00024430599487989
+25,"Paraíba",250310,2008,2502,"Borborema",250211,"Cariri Oriental","Cabaceiras",0.00153814041677282
+25,"Paraíba",250310,2009,2502,"Borborema",250211,"Cariri Oriental","Cabaceiras",0.00346129548654368
+25,"Paraíba",250310,2010,2502,"Borborema",250211,"Cariri Oriental","Cabaceiras",0.00916593342093092
+25,"Paraíba",250310,2011,2502,"Borborema",250211,"Cariri Oriental","Cabaceiras",0.0248329426644758
+25,"Paraíba",250310,2012,2502,"Borborema",250211,"Cariri Oriental","Cabaceiras",0.0171144626837877
+25,"Paraíba",250320,2007,2504,"Mata Paraibana",250422,"João Pessoa","Cabedelo",0.0154301866954295
+25,"Paraíba",250320,2008,2504,"Mata Paraibana",250422,"João Pessoa","Cabedelo",0.0127084175105345
+25,"Paraíba",250320,2009,2504,"Mata Paraibana",250422,"João Pessoa","Cabedelo",0.00600003659922702
+25,"Paraíba",250320,2010,2504,"Mata Paraibana",250422,"João Pessoa","Cabedelo",0.0101753010661054
+25,"Paraíba",250320,2011,2504,"Mata Paraibana",250422,"João Pessoa","Cabedelo",0.00635456963136869
+25,"Paraíba",250320,2012,2504,"Mata Paraibana",250422,"João Pessoa","Cabedelo",0.0073258924419456
+25,"Paraíba",250330,2007,2501,"Sertão Paraibano",250102,"Cajazeiras","Cachoeira dos Índios",0.00202299634725065
+25,"Paraíba",250330,2008,2501,"Sertão Paraibano",250102,"Cajazeiras","Cachoeira dos Índios",0.0141450804468399
+25,"Paraíba",250330,2009,2501,"Sertão Paraibano",250102,"Cajazeiras","Cachoeira dos Índios",0.00988068501582701
+25,"Paraíba",250330,2010,2501,"Sertão Paraibano",250102,"Cajazeiras","Cachoeira dos Índios",0.023407551256701
+25,"Paraíba",250330,2011,2501,"Sertão Paraibano",250102,"Cajazeiras","Cachoeira dos Índios",0.00263166229683894
+25,"Paraíba",250330,2012,2501,"Sertão Paraibano",250102,"Cajazeiras","Cachoeira dos Índios",0.0221770797855456
+25,"Paraíba",250340,2007,2501,"Sertão Paraibano",250104,"Patos","Cacimba de Areia",0.00407663647929491
+25,"Paraíba",250340,2008,2501,"Sertão Paraibano",250104,"Patos","Cacimba de Areia",0.00714903095396064
+25,"Paraíba",250340,2009,2501,"Sertão Paraibano",250104,"Patos","Cacimba de Areia",0.012956403585856
+25,"Paraíba",250340,2010,2501,"Sertão Paraibano",250104,"Patos","Cacimba de Areia",0.00533418630545432
+25,"Paraíba",250340,2011,2501,"Sertão Paraibano",250104,"Patos","Cacimba de Areia",0.0530454394583631
+25,"Paraíba",250340,2012,2501,"Sertão Paraibano",250104,"Patos","Cacimba de Areia",0.0494768001554507
+25,"Paraíba",250350,2007,2503,"Agreste Paraibano",250313,"Curimataú Oriental","Cacimba de Dentro",0.000328256478941582
+25,"Paraíba",250350,2008,2503,"Agreste Paraibano",250313,"Curimataú Oriental","Cacimba de Dentro",0.00100163084241537
+25,"Paraíba",250350,2009,2503,"Agreste Paraibano",250313,"Curimataú Oriental","Cacimba de Dentro",0.01515480540612
+25,"Paraíba",250350,2010,2503,"Agreste Paraibano",250313,"Curimataú Oriental","Cacimba de Dentro",0.0124337081315712
+25,"Paraíba",250350,2011,2503,"Agreste Paraibano",250313,"Curimataú Oriental","Cacimba de Dentro",0.00568764088829608
+25,"Paraíba",250350,2012,2503,"Agreste Paraibano",250313,"Curimataú Oriental","Cacimba de Dentro",0.00996693110433625
+25,"Paraíba",250355,2007,2501,"Sertão Paraibano",250107,"Serra do Teixeira","Cacimbas",0.000510707270046637
+25,"Paraíba",250355,2008,2501,"Sertão Paraibano",250107,"Serra do Teixeira","Cacimbas",0.0012054373568444
+25,"Paraíba",250355,2009,2501,"Sertão Paraibano",250107,"Serra do Teixeira","Cacimbas",0.00464865653829033
+25,"Paraíba",250355,2010,2501,"Sertão Paraibano",250107,"Serra do Teixeira","Cacimbas",0.0093532636730259
+25,"Paraíba",250355,2011,2501,"Sertão Paraibano",250107,"Serra do Teixeira","Cacimbas",0.00477387700651976
+25,"Paraíba",250355,2012,2501,"Sertão Paraibano",250107,"Serra do Teixeira","Cacimbas",0.00943945384998792
+25,"Paraíba",250360,2007,2503,"Agreste Paraibano",250316,"Guarabira","Caiçara",NA
+25,"Paraíba",250360,2008,2503,"Agreste Paraibano",250316,"Guarabira","Caiçara",0.00291702196202232
+25,"Paraíba",250360,2009,2503,"Agreste Paraibano",250316,"Guarabira","Caiçara",0.000418819626976605
+25,"Paraíba",250360,2010,2503,"Agreste Paraibano",250316,"Guarabira","Caiçara",0.00566453277677199
+25,"Paraíba",250360,2011,2503,"Agreste Paraibano",250316,"Guarabira","Caiçara",0.0107244916400589
+25,"Paraíba",250360,2012,2503,"Agreste Paraibano",250316,"Guarabira","Caiçara",0.00126809206052237
+25,"Paraíba",250370,2007,2501,"Sertão Paraibano",250102,"Cajazeiras","Cajazeiras",0.0149366446638497
+25,"Paraíba",250370,2008,2501,"Sertão Paraibano",250102,"Cajazeiras","Cajazeiras",0.00107625311257702
+25,"Paraíba",250370,2009,2501,"Sertão Paraibano",250102,"Cajazeiras","Cajazeiras",0.0117729758528631
+25,"Paraíba",250370,2010,2501,"Sertão Paraibano",250102,"Cajazeiras","Cajazeiras",0.0200214936657939
+25,"Paraíba",250370,2011,2501,"Sertão Paraibano",250102,"Cajazeiras","Cajazeiras",0.00464140144775705
+25,"Paraíba",250370,2012,2501,"Sertão Paraibano",250102,"Cajazeiras","Cajazeiras",0.00494359856464871
+25,"Paraíba",250375,2007,2501,"Sertão Paraibano",250103,"Sousa","Cajazeirinhas",0.0233086277680294
+25,"Paraíba",250375,2008,2501,"Sertão Paraibano",250103,"Sousa","Cajazeirinhas",0.00141784362789881
+25,"Paraíba",250375,2009,2501,"Sertão Paraibano",250103,"Sousa","Cajazeirinhas",0.00344540408798296
+25,"Paraíba",250375,2010,2501,"Sertão Paraibano",250103,"Sousa","Cajazeirinhas",0.000636738993388547
+25,"Paraíba",250375,2011,2501,"Sertão Paraibano",250103,"Sousa","Cajazeirinhas",0.0172051921245826
+25,"Paraíba",250375,2012,2501,"Sertão Paraibano",250103,"Sousa","Cajazeirinhas",0.0186808370223491
+25,"Paraíba",250380,2007,2503,"Agreste Paraibano",250318,"Itabaiana","Caldas Brandão",0.000213887855242247
+25,"Paraíba",250380,2008,2503,"Agreste Paraibano",250318,"Itabaiana","Caldas Brandão",0.000704025847296644
+25,"Paraíba",250380,2009,2503,"Agreste Paraibano",250318,"Itabaiana","Caldas Brandão",0.00042225674441725
+25,"Paraíba",250380,2010,2503,"Agreste Paraibano",250318,"Itabaiana","Caldas Brandão",NA
+25,"Paraíba",250380,2011,2503,"Agreste Paraibano",250318,"Itabaiana","Caldas Brandão",0.0195536849448769
+25,"Paraíba",250380,2012,2503,"Agreste Paraibano",250318,"Itabaiana","Caldas Brandão",0.00322885386627364
+25,"Paraíba",250390,2007,2502,"Borborema",250210,"Cariri Ocidental","Camalaú",0.00162764869740054
+25,"Paraíba",250390,2008,2502,"Borborema",250210,"Cariri Ocidental","Camalaú",0.00259754475687476
+25,"Paraíba",250390,2009,2502,"Borborema",250210,"Cariri Ocidental","Camalaú",0.0124981925466838
+25,"Paraíba",250390,2010,2502,"Borborema",250210,"Cariri Ocidental","Camalaú",0.000597694283731198
+25,"Paraíba",250390,2011,2502,"Borborema",250210,"Cariri Ocidental","Camalaú",0.0140842359623734
+25,"Paraíba",250390,2012,2502,"Borborema",250210,"Cariri Ocidental","Camalaú",0.00383944710102146
+25,"Paraíba",250400,2007,2503,"Agreste Paraibano",250317,"Campina Grande","Campina Grande",0.0132304245028712
+25,"Paraíba",250400,2008,2503,"Agreste Paraibano",250317,"Campina Grande","Campina Grande",0.0102113140089409
+25,"Paraíba",250400,2009,2503,"Agreste Paraibano",250317,"Campina Grande","Campina Grande",0.00310940863385482
+25,"Paraíba",250400,2010,2503,"Agreste Paraibano",250317,"Campina Grande","Campina Grande",0.00357393034394277
+25,"Paraíba",250400,2011,2503,"Agreste Paraibano",250317,"Campina Grande","Campina Grande",0.0146337405934532
+25,"Paraíba",250400,2012,2503,"Agreste Paraibano",250317,"Campina Grande","Campina Grande",0.0160207815171456
+25,"Paraíba",250403,2007,2504,"Mata Paraibana",250420,"Litoral Norte","Capim",0.00568598845526313
+25,"Paraíba",250403,2008,2504,"Mata Paraibana",250420,"Litoral Norte","Capim",0.00164372929939011
+25,"Paraíba",250403,2009,2504,"Mata Paraibana",250420,"Litoral Norte","Capim",0.000920670222977765
+25,"Paraíba",250403,2010,2504,"Mata Paraibana",250420,"Litoral Norte","Capim",0.00366665619045194
+25,"Paraíba",250403,2011,2504,"Mata Paraibana",250420,"Litoral Norte","Capim",0.00128161519515608
+25,"Paraíba",250403,2012,2504,"Mata Paraibana",250420,"Litoral Norte","Capim",0.00483591936265713
+25,"Paraíba",250407,2007,2502,"Borborema",250211,"Cariri Oriental","Caraúbas",0.0358960848790773
+25,"Paraíba",250407,2008,2502,"Borborema",250211,"Cariri Oriental","Caraúbas",0.0345610428467073
+25,"Paraíba",250407,2009,2502,"Borborema",250211,"Cariri Oriental","Caraúbas",0.000839046855111518
+25,"Paraíba",250407,2010,2502,"Borborema",250211,"Cariri Oriental","Caraúbas",0.0122496116770497
+25,"Paraíba",250407,2011,2502,"Borborema",250211,"Cariri Oriental","Caraúbas",0.0100225620617882
+25,"Paraíba",250407,2012,2502,"Borborema",250211,"Cariri Oriental","Caraúbas",0.0119079935550944
+25,"Paraíba",250410,2007,2501,"Sertão Paraibano",250102,"Cajazeiras","Carrapateira",0.00136751830433432
+25,"Paraíba",250410,2008,2501,"Sertão Paraibano",250102,"Cajazeiras","Carrapateira",0.019748084406407
+25,"Paraíba",250410,2009,2501,"Sertão Paraibano",250102,"Cajazeiras","Carrapateira",0.0107241546087279
+25,"Paraíba",250410,2010,2501,"Sertão Paraibano",250102,"Cajazeiras","Carrapateira",0.00156051782264052
+25,"Paraíba",250410,2011,2501,"Sertão Paraibano",250102,"Cajazeiras","Carrapateira",0.00383391584087929
+25,"Paraíba",250410,2012,2501,"Sertão Paraibano",250102,"Cajazeiras","Carrapateira",0.0121813075361517
+25,"Paraíba",250415,2007,2503,"Agreste Paraibano",250313,"Curimataú Oriental","Casserengue",0.00181752389704852
+25,"Paraíba",250415,2008,2503,"Agreste Paraibano",250313,"Curimataú Oriental","Casserengue",0.0222883779124849
+25,"Paraíba",250415,2009,2503,"Agreste Paraibano",250313,"Curimataú Oriental","Casserengue",0.00452650238034113
+25,"Paraíba",250415,2010,2503,"Agreste Paraibano",250313,"Curimataú Oriental","Casserengue",0.0052412142794941
+25,"Paraíba",250415,2011,2503,"Agreste Paraibano",250313,"Curimataú Oriental","Casserengue",0.00795550048136131
+25,"Paraíba",250415,2012,2503,"Agreste Paraibano",250313,"Curimataú Oriental","Casserengue",0.00907051265864056
+25,"Paraíba",250420,2007,2501,"Sertão Paraibano",250105,"Piancó","Catingueira",0.029839174116327
+25,"Paraíba",250420,2008,2501,"Sertão Paraibano",250105,"Piancó","Catingueira",0.0110203566162215
+25,"Paraíba",250420,2009,2501,"Sertão Paraibano",250105,"Piancó","Catingueira",0.0158647624784343
+25,"Paraíba",250420,2010,2501,"Sertão Paraibano",250105,"Piancó","Catingueira",0.010235806067851
+25,"Paraíba",250420,2011,2501,"Sertão Paraibano",250105,"Piancó","Catingueira",0.0194585782742891
+25,"Paraíba",250420,2012,2501,"Sertão Paraibano",250105,"Piancó","Catingueira",0.00805842391280392
+25,"Paraíba",250430,2007,2501,"Sertão Paraibano",250101,"Catolé do Rocha","Catolé do Rocha",0.0132609554446456
+25,"Paraíba",250430,2008,2501,"Sertão Paraibano",250101,"Catolé do Rocha","Catolé do Rocha",0.00514289850440619
+25,"Paraíba",250430,2009,2501,"Sertão Paraibano",250101,"Catolé do Rocha","Catolé do Rocha",0.00815644246764052
+25,"Paraíba",250430,2010,2501,"Sertão Paraibano",250101,"Catolé do Rocha","Catolé do Rocha",0.00234731225845599
+25,"Paraíba",250430,2011,2501,"Sertão Paraibano",250101,"Catolé do Rocha","Catolé do Rocha",0.0128519409469698
+25,"Paraíba",250430,2012,2501,"Sertão Paraibano",250101,"Catolé do Rocha","Catolé do Rocha",0.00851747655938053
+25,"Paraíba",250435,2007,2502,"Borborema",250211,"Cariri Oriental","Caturité",0.00930631363224026
+25,"Paraíba",250435,2008,2502,"Borborema",250211,"Cariri Oriental","Caturité",0.0225701092777699
+25,"Paraíba",250435,2009,2502,"Borborema",250211,"Cariri Oriental","Caturité",0.00135926906893398
+25,"Paraíba",250435,2010,2502,"Borborema",250211,"Cariri Oriental","Caturité",0.00294604853590201
+25,"Paraíba",250435,2011,2502,"Borborema",250211,"Cariri Oriental","Caturité",0.00645416709907154
+25,"Paraíba",250435,2012,2502,"Borborema",250211,"Cariri Oriental","Caturité",0.00814763600096664
+25,"Paraíba",250440,2007,2501,"Sertão Paraibano",250106,"Itaporanga","Conceição",0.00334183174521452
+25,"Paraíba",250440,2008,2501,"Sertão Paraibano",250106,"Itaporanga","Conceição",0.00531400009454842
+25,"Paraíba",250440,2009,2501,"Sertão Paraibano",250106,"Itaporanga","Conceição",0.00602109799975932
+25,"Paraíba",250440,2010,2501,"Sertão Paraibano",250106,"Itaporanga","Conceição",0.00385109046013256
+25,"Paraíba",250440,2011,2501,"Sertão Paraibano",250106,"Itaporanga","Conceição",0.0208221052126392
+25,"Paraíba",250440,2012,2501,"Sertão Paraibano",250106,"Itaporanga","Conceição",0.0411596482363073
+25,"Paraíba",250450,2007,2501,"Sertão Paraibano",250103,"Sousa","Condado",0.097119607835391
+25,"Paraíba",250450,2008,2501,"Sertão Paraibano",250103,"Sousa","Condado",0.0120983913604487
+25,"Paraíba",250450,2009,2501,"Sertão Paraibano",250103,"Sousa","Condado",0.00374585459608456
+25,"Paraíba",250450,2010,2501,"Sertão Paraibano",250103,"Sousa","Condado",0.015633408350191
+25,"Paraíba",250450,2011,2501,"Sertão Paraibano",250103,"Sousa","Condado",0.041402598242755
+25,"Paraíba",250450,2012,2501,"Sertão Paraibano",250103,"Sousa","Condado",0.0174712976575034
+25,"Paraíba",250460,2007,2504,"Mata Paraibana",250422,"João Pessoa","Conde",0.0207904733748027
+25,"Paraíba",250460,2008,2504,"Mata Paraibana",250422,"João Pessoa","Conde",0.00950514129508378
+25,"Paraíba",250460,2009,2504,"Mata Paraibana",250422,"João Pessoa","Conde",0.00549148652275278
+25,"Paraíba",250460,2010,2504,"Mata Paraibana",250422,"João Pessoa","Conde",0.00570080434167905
+25,"Paraíba",250460,2011,2504,"Mata Paraibana",250422,"João Pessoa","Conde",0.00328760246109247
+25,"Paraíba",250460,2012,2504,"Mata Paraibana",250422,"João Pessoa","Conde",0.00357606446670867
+25,"Paraíba",250470,2007,2502,"Borborema",250210,"Cariri Ocidental","Congo",0.00652701824909699
+25,"Paraíba",250470,2008,2502,"Borborema",250210,"Cariri Ocidental","Congo",0.0122796868094223
+25,"Paraíba",250470,2009,2502,"Borborema",250210,"Cariri Ocidental","Congo",0.00246709846457542
+25,"Paraíba",250470,2010,2502,"Borborema",250210,"Cariri Ocidental","Congo",0.0280223989591938
+25,"Paraíba",250470,2011,2502,"Borborema",250210,"Cariri Ocidental","Congo",0.0146885222427019
+25,"Paraíba",250470,2012,2502,"Borborema",250210,"Cariri Ocidental","Congo",0.0753186032315065
+25,"Paraíba",250480,2007,2501,"Sertão Paraibano",250105,"Piancó","Coremas",0.00982484549700747
+25,"Paraíba",250480,2008,2501,"Sertão Paraibano",250105,"Piancó","Coremas",0.0124218216474253
+25,"Paraíba",250480,2009,2501,"Sertão Paraibano",250105,"Piancó","Coremas",0.0226314126075955
+25,"Paraíba",250480,2010,2501,"Sertão Paraibano",250105,"Piancó","Coremas",0.0128488798446886
+25,"Paraíba",250480,2011,2501,"Sertão Paraibano",250105,"Piancó","Coremas",0.0334431967076047
+25,"Paraíba",250480,2012,2501,"Sertão Paraibano",250105,"Piancó","Coremas",0.0123398302513918
+25,"Paraíba",250485,2007,2502,"Borborema",250210,"Cariri Ocidental","Coxixola",0.0204137939454734
+25,"Paraíba",250485,2008,2502,"Borborema",250210,"Cariri Ocidental","Coxixola",0.0198310478430136
+25,"Paraíba",250485,2009,2502,"Borborema",250210,"Cariri Ocidental","Coxixola",0.00804148263071923
+25,"Paraíba",250485,2010,2502,"Borborema",250210,"Cariri Ocidental","Coxixola",0.00173143254703999
+25,"Paraíba",250485,2011,2502,"Borborema",250210,"Cariri Ocidental","Coxixola",0.022321918418331
+25,"Paraíba",250485,2012,2502,"Borborema",250210,"Cariri Ocidental","Coxixola",0.018146590869967
+25,"Paraíba",250490,2007,2504,"Mata Paraibana",250421,"Sapé","Cruz do Espírito Santo",0.00347917193927474
+25,"Paraíba",250490,2008,2504,"Mata Paraibana",250421,"Sapé","Cruz do Espírito Santo",0.000722992415587827
+25,"Paraíba",250490,2009,2504,"Mata Paraibana",250421,"Sapé","Cruz do Espírito Santo",0.00671734254603335
+25,"Paraíba",250490,2010,2504,"Mata Paraibana",250421,"Sapé","Cruz do Espírito Santo",0.00612009372545624
+25,"Paraíba",250490,2011,2504,"Mata Paraibana",250421,"Sapé","Cruz do Espírito Santo",0.018492262072514
+25,"Paraíba",250490,2012,2504,"Mata Paraibana",250421,"Sapé","Cruz do Espírito Santo",0.00368165348456956
+25,"Paraíba",250500,2007,2502,"Borborema",250209,"Seridó Oriental Paraibano","Cubati",0.0141355861759628
+25,"Paraíba",250500,2008,2502,"Borborema",250209,"Seridó Oriental Paraibano","Cubati",0.00302496465674144
+25,"Paraíba",250500,2009,2502,"Borborema",250209,"Seridó Oriental Paraibano","Cubati",0.00155148995058181
+25,"Paraíba",250500,2010,2502,"Borborema",250209,"Seridó Oriental Paraibano","Cubati",0.0119352132633303
+25,"Paraíba",250500,2011,2502,"Borborema",250209,"Seridó Oriental Paraibano","Cubati",0.00318590470208914
+25,"Paraíba",250500,2012,2502,"Borborema",250209,"Seridó Oriental Paraibano","Cubati",0.0138483747148746
+25,"Paraíba",250510,2007,2503,"Agreste Paraibano",250312,"Curimataú Ocidental","Cuité",0.00772387321623071
+25,"Paraíba",250510,2008,2503,"Agreste Paraibano",250312,"Curimataú Ocidental","Cuité",0.0056960338515338
+25,"Paraíba",250510,2009,2503,"Agreste Paraibano",250312,"Curimataú Ocidental","Cuité",0.0126052685803239
+25,"Paraíba",250510,2010,2503,"Agreste Paraibano",250312,"Curimataú Ocidental","Cuité",0.0106968995256934
+25,"Paraíba",250510,2011,2503,"Agreste Paraibano",250312,"Curimataú Ocidental","Cuité",0.0108450534415815
+25,"Paraíba",250510,2012,2503,"Agreste Paraibano",250312,"Curimataú Ocidental","Cuité",0.013506612540098
+25,"Paraíba",250520,2007,2503,"Agreste Paraibano",250316,"Guarabira","Cuitegi",0.00318255053845104
+25,"Paraíba",250520,2008,2503,"Agreste Paraibano",250316,"Guarabira","Cuitegi",0.0187288723411214
+25,"Paraíba",250520,2009,2503,"Agreste Paraibano",250316,"Guarabira","Cuitegi",0.00516522861990828
+25,"Paraíba",250520,2010,2503,"Agreste Paraibano",250316,"Guarabira","Cuitegi",0.000948796241930555
+25,"Paraíba",250520,2011,2503,"Agreste Paraibano",250316,"Guarabira","Cuitegi",0.012864114230504
+25,"Paraíba",250520,2012,2503,"Agreste Paraibano",250316,"Guarabira","Cuitegi",0.00471083485804963
+25,"Paraíba",250523,2007,2504,"Mata Paraibana",250420,"Litoral Norte","Cuité de Mamanguape",0.00118145968517323
+25,"Paraíba",250523,2008,2504,"Mata Paraibana",250420,"Litoral Norte","Cuité de Mamanguape",0.00114950191171837
+25,"Paraíba",250523,2009,2504,"Mata Paraibana",250420,"Litoral Norte","Cuité de Mamanguape",0.00544587761322104
+25,"Paraíba",250523,2010,2504,"Mata Paraibana",250420,"Litoral Norte","Cuité de Mamanguape",0.000115705512388208
+25,"Paraíba",250523,2011,2504,"Mata Paraibana",250420,"Litoral Norte","Cuité de Mamanguape",0.00926556931578138
+25,"Paraíba",250523,2012,2504,"Mata Paraibana",250420,"Litoral Norte","Cuité de Mamanguape",0.00641490059885501
+25,"Paraíba",250527,2007,2504,"Mata Paraibana",250420,"Litoral Norte","Curral de Cima",NA
+25,"Paraíba",250527,2008,2504,"Mata Paraibana",250420,"Litoral Norte","Curral de Cima",0.00610730123560462
+25,"Paraíba",250527,2009,2504,"Mata Paraibana",250420,"Litoral Norte","Curral de Cima",0.0122039034230509
+25,"Paraíba",250527,2010,2504,"Mata Paraibana",250420,"Litoral Norte","Curral de Cima",0.00298263198797981
+25,"Paraíba",250527,2011,2504,"Mata Paraibana",250420,"Litoral Norte","Curral de Cima",0.0199386902145167
+25,"Paraíba",250527,2012,2504,"Mata Paraibana",250420,"Litoral Norte","Curral de Cima",0.00421071916607373
+25,"Paraíba",250530,2007,2501,"Sertão Paraibano",250106,"Itaporanga","Curral Velho",0.00757664541681628
+25,"Paraíba",250530,2008,2501,"Sertão Paraibano",250106,"Itaporanga","Curral Velho",0.00263125834742831
+25,"Paraíba",250530,2009,2501,"Sertão Paraibano",250106,"Itaporanga","Curral Velho",0.015512832669353
+25,"Paraíba",250530,2010,2501,"Sertão Paraibano",250106,"Itaporanga","Curral Velho",0.0157869637749957
+25,"Paraíba",250530,2011,2501,"Sertão Paraibano",250106,"Itaporanga","Curral Velho",0.0188341039835118
+25,"Paraíba",250530,2012,2501,"Sertão Paraibano",250106,"Itaporanga","Curral Velho",0.00761372045104386
+25,"Paraíba",250535,2007,2503,"Agreste Paraibano",250312,"Curimataú Ocidental","Damião",0.00078328183088065
+25,"Paraíba",250535,2008,2503,"Agreste Paraibano",250312,"Curimataú Ocidental","Damião",0.00385727207885754
+25,"Paraíba",250535,2009,2503,"Agreste Paraibano",250312,"Curimataú Ocidental","Damião",0.00171890837645597
+25,"Paraíba",250535,2010,2503,"Agreste Paraibano",250312,"Curimataú Ocidental","Damião",0.00051732606371477
+25,"Paraíba",250535,2011,2503,"Agreste Paraibano",250312,"Curimataú Ocidental","Damião",0.000732128877268455
+25,"Paraíba",250535,2012,2503,"Agreste Paraibano",250312,"Curimataú Ocidental","Damião",0.00289552735528022
+25,"Paraíba",250540,2007,2501,"Sertão Paraibano",250107,"Serra do Teixeira","Desterro",0.00117422042841768
+25,"Paraíba",250540,2008,2501,"Sertão Paraibano",250107,"Serra do Teixeira","Desterro",0.00342143218309956
+25,"Paraíba",250540,2009,2501,"Sertão Paraibano",250107,"Serra do Teixeira","Desterro",0.00738918986763424
+25,"Paraíba",250540,2010,2501,"Sertão Paraibano",250107,"Serra do Teixeira","Desterro",0.0110531759229374
+25,"Paraíba",250540,2011,2501,"Sertão Paraibano",250107,"Serra do Teixeira","Desterro",0.0202835389816332
+25,"Paraíba",250540,2012,2501,"Sertão Paraibano",250107,"Serra do Teixeira","Desterro",0.00664928999083826
+25,"Paraíba",250550,2007,2501,"Sertão Paraibano",250103,"Sousa","Vista Serrana",0.00128654297891016
+25,"Paraíba",250550,2008,2501,"Sertão Paraibano",250103,"Sousa","Vista Serrana",0.00492679389382251
+25,"Paraíba",250550,2009,2501,"Sertão Paraibano",250103,"Sousa","Vista Serrana",0.00373514797180068
+25,"Paraíba",250550,2010,2501,"Sertão Paraibano",250103,"Sousa","Vista Serrana",0.00358555204140418
+25,"Paraíba",250550,2011,2501,"Sertão Paraibano",250103,"Sousa","Vista Serrana",0.00853608656104756
+25,"Paraíba",250550,2012,2501,"Sertão Paraibano",250103,"Sousa","Vista Serrana",0.0158516424255946
+25,"Paraíba",250560,2007,2501,"Sertão Paraibano",250106,"Itaporanga","Diamante",0.0786290122661061
+25,"Paraíba",250560,2008,2501,"Sertão Paraibano",250106,"Itaporanga","Diamante",0.028640859584847
+25,"Paraíba",250560,2009,2501,"Sertão Paraibano",250106,"Itaporanga","Diamante",0.119688103595474
+25,"Paraíba",250560,2010,2501,"Sertão Paraibano",250106,"Itaporanga","Diamante",0.0126157616916929
+25,"Paraíba",250560,2011,2501,"Sertão Paraibano",250106,"Itaporanga","Diamante",0.00788524418286387
+25,"Paraíba",250560,2012,2501,"Sertão Paraibano",250106,"Itaporanga","Diamante",0.0808155753874742
+25,"Paraíba",250570,2007,2503,"Agreste Paraibano",250313,"Curimataú Oriental","Dona Inês",0.0188116188836593
+25,"Paraíba",250570,2008,2503,"Agreste Paraibano",250313,"Curimataú Oriental","Dona Inês",0.0196370636806038
+25,"Paraíba",250570,2009,2503,"Agreste Paraibano",250313,"Curimataú Oriental","Dona Inês",0.0104272782067635
+25,"Paraíba",250570,2010,2503,"Agreste Paraibano",250313,"Curimataú Oriental","Dona Inês",0.000967526328885854
+25,"Paraíba",250570,2011,2503,"Agreste Paraibano",250313,"Curimataú Oriental","Dona Inês",0.00458230865247757
+25,"Paraíba",250570,2012,2503,"Agreste Paraibano",250313,"Curimataú Oriental","Dona Inês",0.0103723953685377
+25,"Paraíba",250580,2007,2503,"Agreste Paraibano",250316,"Guarabira","Duas Estradas",0.00412953462064888
+25,"Paraíba",250580,2008,2503,"Agreste Paraibano",250316,"Guarabira","Duas Estradas",0.0325796677621705
+25,"Paraíba",250580,2009,2503,"Agreste Paraibano",250316,"Guarabira","Duas Estradas",0.0119510635087579
+25,"Paraíba",250580,2010,2503,"Agreste Paraibano",250316,"Guarabira","Duas Estradas",0.0141318848176473
+25,"Paraíba",250580,2011,2503,"Agreste Paraibano",250316,"Guarabira","Duas Estradas",0.0276886776333509
+25,"Paraíba",250580,2012,2503,"Agreste Paraibano",250316,"Guarabira","Duas Estradas",0.018347358922012
+25,"Paraíba",250590,2007,2501,"Sertão Paraibano",250105,"Piancó","Emas",0.000276785234165715
+25,"Paraíba",250590,2008,2501,"Sertão Paraibano",250105,"Piancó","Emas",0.00364312349652114
+25,"Paraíba",250590,2009,2501,"Sertão Paraibano",250105,"Piancó","Emas",0.00582989243503156
+25,"Paraíba",250590,2010,2501,"Sertão Paraibano",250105,"Piancó","Emas",0.00201776191865298
+25,"Paraíba",250590,2011,2501,"Sertão Paraibano",250105,"Piancó","Emas",0.00382988470964621
+25,"Paraíba",250590,2012,2501,"Sertão Paraibano",250105,"Piancó","Emas",0.0364797920478864
+25,"Paraíba",250600,2007,2503,"Agreste Paraibano",250314,"Esperança","Esperança",0.00559958880146197
+25,"Paraíba",250600,2008,2503,"Agreste Paraibano",250314,"Esperança","Esperança",0.00910647110677275
+25,"Paraíba",250600,2009,2503,"Agreste Paraibano",250314,"Esperança","Esperança",0.00247617856971921
+25,"Paraíba",250600,2010,2503,"Agreste Paraibano",250314,"Esperança","Esperança",0.00251903647532672
+25,"Paraíba",250600,2011,2503,"Agreste Paraibano",250314,"Esperança","Esperança",0.00134653531079997
+25,"Paraíba",250600,2012,2503,"Agreste Paraibano",250314,"Esperança","Esperança",0.00608317574850476
+25,"Paraíba",250610,2007,2503,"Agreste Paraibano",250317,"Campina Grande","Fagundes",0.000627458107491287
+25,"Paraíba",250610,2008,2503,"Agreste Paraibano",250317,"Campina Grande","Fagundes",0.0125363425892147
+25,"Paraíba",250610,2009,2503,"Agreste Paraibano",250317,"Campina Grande","Fagundes",0.00837248777162703
+25,"Paraíba",250610,2010,2503,"Agreste Paraibano",250317,"Campina Grande","Fagundes",0.0159957554475197
+25,"Paraíba",250610,2011,2503,"Agreste Paraibano",250317,"Campina Grande","Fagundes",0.0135527442905363
+25,"Paraíba",250610,2012,2503,"Agreste Paraibano",250317,"Campina Grande","Fagundes",0.00510748176881396
+25,"Paraíba",250620,2007,2502,"Borborema",250209,"Seridó Oriental Paraibano","Frei Martinho",NA
+25,"Paraíba",250620,2008,2502,"Borborema",250209,"Seridó Oriental Paraibano","Frei Martinho",0.000138747656757866
+25,"Paraíba",250620,2009,2502,"Borborema",250209,"Seridó Oriental Paraibano","Frei Martinho",0.000586317808118066
+25,"Paraíba",250620,2010,2502,"Borborema",250209,"Seridó Oriental Paraibano","Frei Martinho",0.0012670865013583
+25,"Paraíba",250620,2011,2502,"Borborema",250209,"Seridó Oriental Paraibano","Frei Martinho",0.0177099301259773
+25,"Paraíba",250620,2012,2502,"Borborema",250209,"Seridó Oriental Paraibano","Frei Martinho",0.0162766293767519
+25,"Paraíba",250625,2007,2503,"Agreste Paraibano",250319,"Umbuzeiro","Gado Bravo",0.00423184390888472
+25,"Paraíba",250625,2008,2503,"Agreste Paraibano",250319,"Umbuzeiro","Gado Bravo",0.00670739612351035
+25,"Paraíba",250625,2009,2503,"Agreste Paraibano",250319,"Umbuzeiro","Gado Bravo",0.000715702410033952
+25,"Paraíba",250625,2010,2503,"Agreste Paraibano",250319,"Umbuzeiro","Gado Bravo",0.0131071689562805
+25,"Paraíba",250625,2011,2503,"Agreste Paraibano",250319,"Umbuzeiro","Gado Bravo",0.0117983209321015
+25,"Paraíba",250625,2012,2503,"Agreste Paraibano",250319,"Umbuzeiro","Gado Bravo",0.0101536991962383
+25,"Paraíba",250630,2007,2503,"Agreste Paraibano",250316,"Guarabira","Guarabira",0.020064521824329
+25,"Paraíba",250630,2008,2503,"Agreste Paraibano",250316,"Guarabira","Guarabira",0.0152309760409085
+25,"Paraíba",250630,2009,2503,"Agreste Paraibano",250316,"Guarabira","Guarabira",0.0097885689689958
+25,"Paraíba",250630,2010,2503,"Agreste Paraibano",250316,"Guarabira","Guarabira",0.00316187650555772
+25,"Paraíba",250630,2011,2503,"Agreste Paraibano",250316,"Guarabira","Guarabira",0.00501210778274122
+25,"Paraíba",250630,2012,2503,"Agreste Paraibano",250316,"Guarabira","Guarabira",0.0118284293205619
+25,"Paraíba",250640,2007,2503,"Agreste Paraibano",250318,"Itabaiana","Gurinhém",0.00647114767325816
+25,"Paraíba",250640,2008,2503,"Agreste Paraibano",250318,"Itabaiana","Gurinhém",0.00155133339949666
+25,"Paraíba",250640,2009,2503,"Agreste Paraibano",250318,"Itabaiana","Gurinhém",0.00271291511171087
+25,"Paraíba",250640,2010,2503,"Agreste Paraibano",250318,"Itabaiana","Gurinhém",0.00519357526634819
+25,"Paraíba",250640,2011,2503,"Agreste Paraibano",250318,"Itabaiana","Gurinhém",0.00513673095801422
+25,"Paraíba",250640,2012,2503,"Agreste Paraibano",250318,"Itabaiana","Gurinhém",0.0120978843845086
+25,"Paraíba",250650,2007,2502,"Borborema",250211,"Cariri Oriental","Gurjão",0.00149502929957674
+25,"Paraíba",250650,2008,2502,"Borborema",250211,"Cariri Oriental","Gurjão",0.00498364567078691
+25,"Paraíba",250650,2009,2502,"Borborema",250211,"Cariri Oriental","Gurjão",0.0026165952147742
+25,"Paraíba",250650,2010,2502,"Borborema",250211,"Cariri Oriental","Gurjão",0.00132700722519195
+25,"Paraíba",250650,2011,2502,"Borborema",250211,"Cariri Oriental","Gurjão",0.0259165147679458
+25,"Paraíba",250650,2012,2502,"Borborema",250211,"Cariri Oriental","Gurjão",0.00263457757880417
+25,"Paraíba",250660,2007,2501,"Sertão Paraibano",250106,"Itaporanga","Ibiara",0.00334704652219626
+25,"Paraíba",250660,2008,2501,"Sertão Paraibano",250106,"Itaporanga","Ibiara",0.00223938981499464
+25,"Paraíba",250660,2009,2501,"Sertão Paraibano",250106,"Itaporanga","Ibiara",0.0232884249123505
+25,"Paraíba",250660,2010,2501,"Sertão Paraibano",250106,"Itaporanga","Ibiara",0.00801554618858254
+25,"Paraíba",250660,2011,2501,"Sertão Paraibano",250106,"Itaporanga","Ibiara",0.00486994183465319
+25,"Paraíba",250660,2012,2501,"Sertão Paraibano",250106,"Itaporanga","Ibiara",0.000599365640402692
+25,"Paraíba",250670,2007,2501,"Sertão Paraibano",250107,"Serra do Teixeira","Imaculada",0.0124861817437562
+25,"Paraíba",250670,2008,2501,"Sertão Paraibano",250107,"Serra do Teixeira","Imaculada",0.00866638739998118
+25,"Paraíba",250670,2009,2501,"Sertão Paraibano",250107,"Serra do Teixeira","Imaculada",0.00535745536593203
+25,"Paraíba",250670,2010,2501,"Sertão Paraibano",250107,"Serra do Teixeira","Imaculada",0.000797133818691308
+25,"Paraíba",250670,2011,2501,"Sertão Paraibano",250107,"Serra do Teixeira","Imaculada",0.0066569968233514
+25,"Paraíba",250670,2012,2501,"Sertão Paraibano",250107,"Serra do Teixeira","Imaculada",0.0235980588504726
+25,"Paraíba",250680,2007,2503,"Agreste Paraibano",250318,"Itabaiana","Ingá",0.00570166159461341
+25,"Paraíba",250680,2008,2503,"Agreste Paraibano",250318,"Itabaiana","Ingá",0.0352100765006573
+25,"Paraíba",250680,2009,2503,"Agreste Paraibano",250318,"Itabaiana","Ingá",0.00671233958900471
+25,"Paraíba",250680,2010,2503,"Agreste Paraibano",250318,"Itabaiana","Ingá",0.000408864747717402
+25,"Paraíba",250680,2011,2503,"Agreste Paraibano",250318,"Itabaiana","Ingá",0.00936330559975294
+25,"Paraíba",250680,2012,2503,"Agreste Paraibano",250318,"Itabaiana","Ingá",0.00718593536510376
+25,"Paraíba",250690,2007,2503,"Agreste Paraibano",250318,"Itabaiana","Itabaiana",0.00368765405582874
+25,"Paraíba",250690,2008,2503,"Agreste Paraibano",250318,"Itabaiana","Itabaiana",0.00598460845122845
+25,"Paraíba",250690,2009,2503,"Agreste Paraibano",250318,"Itabaiana","Itabaiana",0.00402547973618269
+25,"Paraíba",250690,2010,2503,"Agreste Paraibano",250318,"Itabaiana","Itabaiana",0.00236274189863949
+25,"Paraíba",250690,2011,2503,"Agreste Paraibano",250318,"Itabaiana","Itabaiana",0.000330111089291007
+25,"Paraíba",250690,2012,2503,"Agreste Paraibano",250318,"Itabaiana","Itabaiana",0.00148951717565773
+25,"Paraíba",250700,2007,2501,"Sertão Paraibano",250106,"Itaporanga","Itaporanga",0.010468074342084
+25,"Paraíba",250700,2008,2501,"Sertão Paraibano",250106,"Itaporanga","Itaporanga",0.00147200932764975
+25,"Paraíba",250700,2009,2501,"Sertão Paraibano",250106,"Itaporanga","Itaporanga",0.0103545666919383
+25,"Paraíba",250700,2010,2501,"Sertão Paraibano",250106,"Itaporanga","Itaporanga",0.00670948978968996
+25,"Paraíba",250700,2011,2501,"Sertão Paraibano",250106,"Itaporanga","Itaporanga",0.0196326980167944
+25,"Paraíba",250700,2012,2501,"Sertão Paraibano",250106,"Itaporanga","Itaporanga",0.00992479796938828
+25,"Paraíba",250710,2007,2504,"Mata Paraibana",250420,"Litoral Norte","Itapororoca",0.0133257990018724
+25,"Paraíba",250710,2008,2504,"Mata Paraibana",250420,"Litoral Norte","Itapororoca",0.00161822569247276
+25,"Paraíba",250710,2009,2504,"Mata Paraibana",250420,"Litoral Norte","Itapororoca",0.00876215788946705
+25,"Paraíba",250710,2010,2504,"Mata Paraibana",250420,"Litoral Norte","Itapororoca",0.00282210679049317
+25,"Paraíba",250710,2011,2504,"Mata Paraibana",250420,"Litoral Norte","Itapororoca",0.0040910852927039
+25,"Paraíba",250710,2012,2504,"Mata Paraibana",250420,"Litoral Norte","Itapororoca",0.00192315068410452
+25,"Paraíba",250720,2007,2503,"Agreste Paraibano",250318,"Itabaiana","Itatuba",0.00465523497328931
+25,"Paraíba",250720,2008,2503,"Agreste Paraibano",250318,"Itabaiana","Itatuba",0.0266545944842141
+25,"Paraíba",250720,2009,2503,"Agreste Paraibano",250318,"Itabaiana","Itatuba",0.00803206737807293
+25,"Paraíba",250720,2010,2503,"Agreste Paraibano",250318,"Itabaiana","Itatuba",0.00559589906230038
+25,"Paraíba",250720,2011,2503,"Agreste Paraibano",250318,"Itabaiana","Itatuba",0.00406677994088336
+25,"Paraíba",250720,2012,2503,"Agreste Paraibano",250318,"Itabaiana","Itatuba",0.0169914454318071
+25,"Paraíba",250730,2007,2504,"Mata Paraibana",250420,"Litoral Norte","Jacaraú",0.00679576288230302
+25,"Paraíba",250730,2008,2504,"Mata Paraibana",250420,"Litoral Norte","Jacaraú",0.0223757664158334
+25,"Paraíba",250730,2009,2504,"Mata Paraibana",250420,"Litoral Norte","Jacaraú",0.0123597040191001
+25,"Paraíba",250730,2010,2504,"Mata Paraibana",250420,"Litoral Norte","Jacaraú",0.0142496847190043
+25,"Paraíba",250730,2011,2504,"Mata Paraibana",250420,"Litoral Norte","Jacaraú",0.00392713586399123
+25,"Paraíba",250730,2012,2504,"Mata Paraibana",250420,"Litoral Norte","Jacaraú",0.014864669076991
+25,"Paraíba",250740,2007,2501,"Sertão Paraibano",250101,"Catolé do Rocha","Jericó",0.0398088350382227
+25,"Paraíba",250740,2008,2501,"Sertão Paraibano",250101,"Catolé do Rocha","Jericó",0.0308089848326678
+25,"Paraíba",250740,2009,2501,"Sertão Paraibano",250101,"Catolé do Rocha","Jericó",0.00181775284725332
+25,"Paraíba",250740,2010,2501,"Sertão Paraibano",250101,"Catolé do Rocha","Jericó",0.0204989695025468
+25,"Paraíba",250740,2011,2501,"Sertão Paraibano",250101,"Catolé do Rocha","Jericó",0.00993229546728508
+25,"Paraíba",250740,2012,2501,"Sertão Paraibano",250101,"Catolé do Rocha","Jericó",0.0300721849693751
+25,"Paraíba",250750,2007,2504,"Mata Paraibana",250422,"João Pessoa","João Pessoa",0.0230816771697068
+25,"Paraíba",250750,2008,2504,"Mata Paraibana",250422,"João Pessoa","João Pessoa",0.0210866861035622
+25,"Paraíba",250750,2009,2504,"Mata Paraibana",250422,"João Pessoa","João Pessoa",0.0101983082304069
+25,"Paraíba",250750,2010,2504,"Mata Paraibana",250422,"João Pessoa","João Pessoa",0.0123168512762369
+25,"Paraíba",250750,2011,2504,"Mata Paraibana",250422,"João Pessoa","João Pessoa",0.024469215166929
+25,"Paraíba",250750,2012,2504,"Mata Paraibana",250422,"João Pessoa","João Pessoa",0.020317561181787
+25,"Paraíba",250760,2007,2503,"Agreste Paraibano",250318,"Itabaiana","Juarez Távora",0.00936663865745582
+25,"Paraíba",250760,2008,2503,"Agreste Paraibano",250318,"Itabaiana","Juarez Távora",0.00434614101426501
+25,"Paraíba",250760,2009,2503,"Agreste Paraibano",250318,"Itabaiana","Juarez Távora",0.00508615446807618
+25,"Paraíba",250760,2010,2503,"Agreste Paraibano",250318,"Itabaiana","Juarez Távora",0.0042436620093573
+25,"Paraíba",250760,2011,2503,"Agreste Paraibano",250318,"Itabaiana","Juarez Távora",0.000996806936776348
+25,"Paraíba",250760,2012,2503,"Agreste Paraibano",250318,"Itabaiana","Juarez Távora",0.000651369458995534
+25,"Paraíba",250770,2007,2502,"Borborema",250209,"Seridó Oriental Paraibano","Juazeirinho",0.0110244551773956
+25,"Paraíba",250770,2008,2502,"Borborema",250209,"Seridó Oriental Paraibano","Juazeirinho",0.00601442528802306
+25,"Paraíba",250770,2009,2502,"Borborema",250209,"Seridó Oriental Paraibano","Juazeirinho",0.00808297436222244
+25,"Paraíba",250770,2010,2502,"Borborema",250209,"Seridó Oriental Paraibano","Juazeirinho",0.00363847890945063
+25,"Paraíba",250770,2011,2502,"Borborema",250209,"Seridó Oriental Paraibano","Juazeirinho",0.0105032061597955
+25,"Paraíba",250770,2012,2502,"Borborema",250209,"Seridó Oriental Paraibano","Juazeirinho",0.000722661755295371
+25,"Paraíba",250780,2007,2502,"Borborema",250208,"Seridó Ocidental Paraibano","Junco do Seridó",0.0228240181322734
+25,"Paraíba",250780,2008,2502,"Borborema",250208,"Seridó Ocidental Paraibano","Junco do Seridó",0.0355290053859455
+25,"Paraíba",250780,2009,2502,"Borborema",250208,"Seridó Ocidental Paraibano","Junco do Seridó",NA
+25,"Paraíba",250780,2010,2502,"Borborema",250208,"Seridó Ocidental Paraibano","Junco do Seridó",0.000930304580652931
+25,"Paraíba",250780,2011,2502,"Borborema",250208,"Seridó Ocidental Paraibano","Junco do Seridó",0.00729306117165662
+25,"Paraíba",250780,2012,2502,"Borborema",250208,"Seridó Ocidental Paraibano","Junco do Seridó",0.00773929249893589
+25,"Paraíba",250790,2007,2504,"Mata Paraibana",250421,"Sapé","Juripiranga",0.00923592234185921
+25,"Paraíba",250790,2008,2504,"Mata Paraibana",250421,"Sapé","Juripiranga",0.0191670846222893
+25,"Paraíba",250790,2009,2504,"Mata Paraibana",250421,"Sapé","Juripiranga",0.00243662296627464
+25,"Paraíba",250790,2010,2504,"Mata Paraibana",250421,"Sapé","Juripiranga",0.0112853474423803
+25,"Paraíba",250790,2011,2504,"Mata Paraibana",250421,"Sapé","Juripiranga",0.0143912459260018
+25,"Paraíba",250790,2012,2504,"Mata Paraibana",250421,"Sapé","Juripiranga",0.0286896973931853
+25,"Paraíba",250800,2007,2501,"Sertão Paraibano",250107,"Serra do Teixeira","Juru",0.0172476117858556
+25,"Paraíba",250800,2008,2501,"Sertão Paraibano",250107,"Serra do Teixeira","Juru",0.00621642200146861
+25,"Paraíba",250800,2009,2501,"Sertão Paraibano",250107,"Serra do Teixeira","Juru",0.00176435702221911
+25,"Paraíba",250800,2010,2501,"Sertão Paraibano",250107,"Serra do Teixeira","Juru",0.000475178992243303
+25,"Paraíba",250800,2011,2501,"Sertão Paraibano",250107,"Serra do Teixeira","Juru",8.11647648931666e-05
+25,"Paraíba",250800,2012,2501,"Sertão Paraibano",250107,"Serra do Teixeira","Juru",0.00877663052319393
+25,"Paraíba",250810,2007,2501,"Sertão Paraibano",250101,"Catolé do Rocha","Lagoa",0.000537143153925997
+25,"Paraíba",250810,2008,2501,"Sertão Paraibano",250101,"Catolé do Rocha","Lagoa",2.42989625382992e-05
+25,"Paraíba",250810,2009,2501,"Sertão Paraibano",250101,"Catolé do Rocha","Lagoa",0.0140888752851174
+25,"Paraíba",250810,2010,2501,"Sertão Paraibano",250101,"Catolé do Rocha","Lagoa",0.0195853456136636
+25,"Paraíba",250810,2011,2501,"Sertão Paraibano",250101,"Catolé do Rocha","Lagoa",0.00976165128054502
+25,"Paraíba",250810,2012,2501,"Sertão Paraibano",250101,"Catolé do Rocha","Lagoa",0.00165724750266071
+25,"Paraíba",250820,2007,2503,"Agreste Paraibano",250316,"Guarabira","Lagoa de Dentro",0.00974981358496527
+25,"Paraíba",250820,2008,2503,"Agreste Paraibano",250316,"Guarabira","Lagoa de Dentro",0.00276395762481954
+25,"Paraíba",250820,2009,2503,"Agreste Paraibano",250316,"Guarabira","Lagoa de Dentro",0.00246651714029614
+25,"Paraíba",250820,2010,2503,"Agreste Paraibano",250316,"Guarabira","Lagoa de Dentro",0.0135783325709813
+25,"Paraíba",250820,2011,2503,"Agreste Paraibano",250316,"Guarabira","Lagoa de Dentro",0.0044887236664203
+25,"Paraíba",250820,2012,2503,"Agreste Paraibano",250316,"Guarabira","Lagoa de Dentro",0.000604743267777278
+25,"Paraíba",250830,2007,2503,"Agreste Paraibano",250317,"Campina Grande","Lagoa Seca",0.0107803949264712
+25,"Paraíba",250830,2008,2503,"Agreste Paraibano",250317,"Campina Grande","Lagoa Seca",0.0129960931472227
+25,"Paraíba",250830,2009,2503,"Agreste Paraibano",250317,"Campina Grande","Lagoa Seca",0.00854071870261953
+25,"Paraíba",250830,2010,2503,"Agreste Paraibano",250317,"Campina Grande","Lagoa Seca",0.00714226887224345
+25,"Paraíba",250830,2011,2503,"Agreste Paraibano",250317,"Campina Grande","Lagoa Seca",0.00685171647862976
+25,"Paraíba",250830,2012,2503,"Agreste Paraibano",250317,"Campina Grande","Lagoa Seca",0.0200380954971613
+25,"Paraíba",250840,2007,2501,"Sertão Paraibano",250103,"Sousa","Lastro",0.000726030227894144
+25,"Paraíba",250840,2008,2501,"Sertão Paraibano",250103,"Sousa","Lastro",0.0198130154382239
+25,"Paraíba",250840,2009,2501,"Sertão Paraibano",250103,"Sousa","Lastro",0.00358600237303388
+25,"Paraíba",250840,2010,2501,"Sertão Paraibano",250103,"Sousa","Lastro",0.00383533072365808
+25,"Paraíba",250840,2011,2501,"Sertão Paraibano",250103,"Sousa","Lastro",0.00847577787702985
+25,"Paraíba",250840,2012,2501,"Sertão Paraibano",250103,"Sousa","Lastro",0.00984265256180412
+25,"Paraíba",250850,2007,2502,"Borborema",250210,"Cariri Ocidental","Livramento",NA
+25,"Paraíba",250850,2008,2502,"Borborema",250210,"Cariri Ocidental","Livramento",0.0218831452304831
+25,"Paraíba",250850,2009,2502,"Borborema",250210,"Cariri Ocidental","Livramento",0.00072351742370244
+25,"Paraíba",250850,2010,2502,"Borborema",250210,"Cariri Ocidental","Livramento",0.00566786605642449
+25,"Paraíba",250850,2011,2502,"Borborema",250210,"Cariri Ocidental","Livramento",0.0150088930907351
+25,"Paraíba",250850,2012,2502,"Borborema",250210,"Cariri Ocidental","Livramento",0.10658863887567
+25,"Paraíba",250855,2007,2503,"Agreste Paraibano",250316,"Guarabira","Logradouro",0.000747913013573299
+25,"Paraíba",250855,2008,2503,"Agreste Paraibano",250316,"Guarabira","Logradouro",0.00723675375515485
+25,"Paraíba",250855,2009,2503,"Agreste Paraibano",250316,"Guarabira","Logradouro",0.0110870087220339
+25,"Paraíba",250855,2010,2503,"Agreste Paraibano",250316,"Guarabira","Logradouro",0.00588419377341046
+25,"Paraíba",250855,2011,2503,"Agreste Paraibano",250316,"Guarabira","Logradouro",0.0507464034266923
+25,"Paraíba",250855,2012,2503,"Agreste Paraibano",250316,"Guarabira","Logradouro",0.0144456307772097
+25,"Paraíba",250860,2007,2504,"Mata Paraibana",250422,"João Pessoa","Lucena",0.00211812713027276
+25,"Paraíba",250860,2008,2504,"Mata Paraibana",250422,"João Pessoa","Lucena",0.00154150846242674
+25,"Paraíba",250860,2009,2504,"Mata Paraibana",250422,"João Pessoa","Lucena",0.000874522619791542
+25,"Paraíba",250860,2010,2504,"Mata Paraibana",250422,"João Pessoa","Lucena",0.0010217747095529
+25,"Paraíba",250860,2011,2504,"Mata Paraibana",250422,"João Pessoa","Lucena",0.00589073875737277
+25,"Paraíba",250860,2012,2504,"Mata Paraibana",250422,"João Pessoa","Lucena",0.0124452671093486
+25,"Paraíba",250870,2007,2501,"Sertão Paraibano",250104,"Patos","Mãe d'Água",0.0643991025517525
+25,"Paraíba",250870,2008,2501,"Sertão Paraibano",250104,"Patos","Mãe d'Água",0.0145769799161741
+25,"Paraíba",250870,2009,2501,"Sertão Paraibano",250104,"Patos","Mãe d'Água",0.000804931556973186
+25,"Paraíba",250870,2010,2501,"Sertão Paraibano",250104,"Patos","Mãe d'Água",0.0228375664105252
+25,"Paraíba",250870,2011,2501,"Sertão Paraibano",250104,"Patos","Mãe d'Água",0.0288363758537226
+25,"Paraíba",250870,2012,2501,"Sertão Paraibano",250104,"Patos","Mãe d'Água",0.0449393062174975
+25,"Paraíba",250880,2007,2501,"Sertão Paraibano",250103,"Sousa","Malta",0.00521697874137405
+25,"Paraíba",250880,2008,2501,"Sertão Paraibano",250103,"Sousa","Malta",0.0010134835581015
+25,"Paraíba",250880,2009,2501,"Sertão Paraibano",250103,"Sousa","Malta",0.00495717617371421
+25,"Paraíba",250880,2010,2501,"Sertão Paraibano",250103,"Sousa","Malta",0.123413132584982
+25,"Paraíba",250880,2011,2501,"Sertão Paraibano",250103,"Sousa","Malta",0.0838013968599773
+25,"Paraíba",250880,2012,2501,"Sertão Paraibano",250103,"Sousa","Malta",0.0332038495583987
+25,"Paraíba",250890,2007,2504,"Mata Paraibana",250420,"Litoral Norte","Mamanguape",0.00182615697130202
+25,"Paraíba",250890,2008,2504,"Mata Paraibana",250420,"Litoral Norte","Mamanguape",0.000458487227891633
+25,"Paraíba",250890,2009,2504,"Mata Paraibana",250420,"Litoral Norte","Mamanguape",0.0137598527779101
+25,"Paraíba",250890,2010,2504,"Mata Paraibana",250420,"Litoral Norte","Mamanguape",0.00646941485073669
+25,"Paraíba",250890,2011,2504,"Mata Paraibana",250420,"Litoral Norte","Mamanguape",0.0242657188100997
+25,"Paraíba",250890,2012,2504,"Mata Paraibana",250420,"Litoral Norte","Mamanguape",0.00999169474531713
+25,"Paraíba",250900,2007,2501,"Sertão Paraibano",250107,"Serra do Teixeira","Manaíra",0.0150672442359112
+25,"Paraíba",250900,2008,2501,"Sertão Paraibano",250107,"Serra do Teixeira","Manaíra",0.0284036149702348
+25,"Paraíba",250900,2009,2501,"Sertão Paraibano",250107,"Serra do Teixeira","Manaíra",0.0265263500313549
+25,"Paraíba",250900,2010,2501,"Sertão Paraibano",250107,"Serra do Teixeira","Manaíra",0.00996447275314413
+25,"Paraíba",250900,2011,2501,"Sertão Paraibano",250107,"Serra do Teixeira","Manaíra",0.0193751889877024
+25,"Paraíba",250900,2012,2501,"Sertão Paraibano",250107,"Serra do Teixeira","Manaíra",0.0242257635152348
+25,"Paraíba",250905,2007,2504,"Mata Paraibana",250420,"Litoral Norte","Marcação",0.010221142846051
+25,"Paraíba",250905,2008,2504,"Mata Paraibana",250420,"Litoral Norte","Marcação",0.00954036789117631
+25,"Paraíba",250905,2009,2504,"Mata Paraibana",250420,"Litoral Norte","Marcação",0.00127000926312886
+25,"Paraíba",250905,2010,2504,"Mata Paraibana",250420,"Litoral Norte","Marcação",0.00231574468491015
+25,"Paraíba",250905,2011,2504,"Mata Paraibana",250420,"Litoral Norte","Marcação",0.000817412023988448
+25,"Paraíba",250905,2012,2504,"Mata Paraibana",250420,"Litoral Norte","Marcação",0.0137167074942502
+25,"Paraíba",250910,2007,2504,"Mata Paraibana",250421,"Sapé","Mari",0.00695766605590124
+25,"Paraíba",250910,2008,2504,"Mata Paraibana",250421,"Sapé","Mari",0.0103619479483073
+25,"Paraíba",250910,2009,2504,"Mata Paraibana",250421,"Sapé","Mari",0.00986557449787968
+25,"Paraíba",250910,2010,2504,"Mata Paraibana",250421,"Sapé","Mari",0.00940440919449433
+25,"Paraíba",250910,2011,2504,"Mata Paraibana",250421,"Sapé","Mari",0.0111755739720347
+25,"Paraíba",250910,2012,2504,"Mata Paraibana",250421,"Sapé","Mari",0.0228387706306139
+25,"Paraíba",250915,2007,2501,"Sertão Paraibano",250103,"Sousa","Marizópolis",0.0809609204403386
+25,"Paraíba",250915,2008,2501,"Sertão Paraibano",250103,"Sousa","Marizópolis",0.00128385040884711
+25,"Paraíba",250915,2009,2501,"Sertão Paraibano",250103,"Sousa","Marizópolis",0.00845233058379361
+25,"Paraíba",250915,2010,2501,"Sertão Paraibano",250103,"Sousa","Marizópolis",0.000167919185589682
+25,"Paraíba",250915,2011,2501,"Sertão Paraibano",250103,"Sousa","Marizópolis",0.0144653761621997
+25,"Paraíba",250915,2012,2501,"Sertão Paraibano",250103,"Sousa","Marizópolis",0.00268495886425007
+25,"Paraíba",250920,2007,2503,"Agreste Paraibano",250317,"Campina Grande","Massaranduba",0.00387924776506666
+25,"Paraíba",250920,2008,2503,"Agreste Paraibano",250317,"Campina Grande","Massaranduba",0.000406262470076253
+25,"Paraíba",250920,2009,2503,"Agreste Paraibano",250317,"Campina Grande","Massaranduba",0.00662172885122063
+25,"Paraíba",250920,2010,2503,"Agreste Paraibano",250317,"Campina Grande","Massaranduba",0.00221317665724658
+25,"Paraíba",250920,2011,2503,"Agreste Paraibano",250317,"Campina Grande","Massaranduba",0.0170805490957837
+25,"Paraíba",250920,2012,2503,"Agreste Paraibano",250317,"Campina Grande","Massaranduba",0.0153674332064849
+25,"Paraíba",250930,2007,2504,"Mata Paraibana",250420,"Litoral Norte","Mataraca",0.025216328978938
+25,"Paraíba",250930,2008,2504,"Mata Paraibana",250420,"Litoral Norte","Mataraca",0.00156832267288327
+25,"Paraíba",250930,2009,2504,"Mata Paraibana",250420,"Litoral Norte","Mataraca",0.00658324696119393
+25,"Paraíba",250930,2010,2504,"Mata Paraibana",250420,"Litoral Norte","Mataraca",0.00286952213698766
+25,"Paraíba",250930,2011,2504,"Mata Paraibana",250420,"Litoral Norte","Mataraca",0.0168347437875602
+25,"Paraíba",250930,2012,2504,"Mata Paraibana",250420,"Litoral Norte","Mataraca",0.00590006676376775
+25,"Paraíba",250933,2007,2503,"Agreste Paraibano",250315,"Brejo Paraibano","Matinhas",0.0103404540975096
+25,"Paraíba",250933,2008,2503,"Agreste Paraibano",250315,"Brejo Paraibano","Matinhas",0.00015504098091229
+25,"Paraíba",250933,2009,2503,"Agreste Paraibano",250315,"Brejo Paraibano","Matinhas",0.00697777118324773
+25,"Paraíba",250933,2010,2503,"Agreste Paraibano",250315,"Brejo Paraibano","Matinhas",0.00436903145144751
+25,"Paraíba",250933,2011,2503,"Agreste Paraibano",250315,"Brejo Paraibano","Matinhas",0.00141320011389591
+25,"Paraíba",250933,2012,2503,"Agreste Paraibano",250315,"Brejo Paraibano","Matinhas",0.00753014075638942
+25,"Paraíba",250937,2007,2501,"Sertão Paraibano",250101,"Catolé do Rocha","Mato Grosso",0.0588603455589113
+25,"Paraíba",250937,2008,2501,"Sertão Paraibano",250101,"Catolé do Rocha","Mato Grosso",0.0337550650489086
+25,"Paraíba",250937,2009,2501,"Sertão Paraibano",250101,"Catolé do Rocha","Mato Grosso",0.0325162011841034
+25,"Paraíba",250937,2010,2501,"Sertão Paraibano",250101,"Catolé do Rocha","Mato Grosso",0.0740992760193144
+25,"Paraíba",250937,2011,2501,"Sertão Paraibano",250101,"Catolé do Rocha","Mato Grosso",0.0586868382887258
+25,"Paraíba",250937,2012,2501,"Sertão Paraibano",250101,"Catolé do Rocha","Mato Grosso",0.013759154995113
+25,"Paraíba",250939,2007,2501,"Sertão Paraibano",250107,"Serra do Teixeira","Maturéia",0.142994927198912
+25,"Paraíba",250939,2008,2501,"Sertão Paraibano",250107,"Serra do Teixeira","Maturéia",0.0194686730969706
+25,"Paraíba",250939,2009,2501,"Sertão Paraibano",250107,"Serra do Teixeira","Maturéia",0.0118532173565194
+25,"Paraíba",250939,2010,2501,"Sertão Paraibano",250107,"Serra do Teixeira","Maturéia",0.0241256457719459
+25,"Paraíba",250939,2011,2501,"Sertão Paraibano",250107,"Serra do Teixeira","Maturéia",0.0161578706300408
+25,"Paraíba",250939,2012,2501,"Sertão Paraibano",250107,"Serra do Teixeira","Maturéia",0.0310703006051439
+25,"Paraíba",250940,2007,2503,"Agreste Paraibano",250318,"Itabaiana","Mogeiro",0.0218039487400703
+25,"Paraíba",250940,2008,2503,"Agreste Paraibano",250318,"Itabaiana","Mogeiro",0.0205744860462865
+25,"Paraíba",250940,2009,2503,"Agreste Paraibano",250318,"Itabaiana","Mogeiro",0.010353968896293
+25,"Paraíba",250940,2010,2503,"Agreste Paraibano",250318,"Itabaiana","Mogeiro",0.00159846538908519
+25,"Paraíba",250940,2011,2503,"Agreste Paraibano",250318,"Itabaiana","Mogeiro",0.0139455631203696
+25,"Paraíba",250940,2012,2503,"Agreste Paraibano",250318,"Itabaiana","Mogeiro",0.0102842884189109
+25,"Paraíba",250950,2007,2503,"Agreste Paraibano",250314,"Esperança","Montadas",0.000363955165451389
+25,"Paraíba",250950,2008,2503,"Agreste Paraibano",250314,"Esperança","Montadas",0.0128135293578789
+25,"Paraíba",250950,2009,2503,"Agreste Paraibano",250314,"Esperança","Montadas",0.00091654385019979
+25,"Paraíba",250950,2010,2503,"Agreste Paraibano",250314,"Esperança","Montadas",0.00043746926495267
+25,"Paraíba",250950,2011,2503,"Agreste Paraibano",250314,"Esperança","Montadas",0.00491024350846801
+25,"Paraíba",250950,2012,2503,"Agreste Paraibano",250314,"Esperança","Montadas",0.00544462913584509
+25,"Paraíba",250960,2007,2501,"Sertão Paraibano",250102,"Cajazeiras","Monte Horebe",0.00206451069924746
+25,"Paraíba",250960,2008,2501,"Sertão Paraibano",250102,"Cajazeiras","Monte Horebe",NA
+25,"Paraíba",250960,2009,2501,"Sertão Paraibano",250102,"Cajazeiras","Monte Horebe",0.00160539628891105
+25,"Paraíba",250960,2010,2501,"Sertão Paraibano",250102,"Cajazeiras","Monte Horebe",0.000411255789447478
+25,"Paraíba",250960,2011,2501,"Sertão Paraibano",250102,"Cajazeiras","Monte Horebe",0.00074782131525246
+25,"Paraíba",250960,2012,2501,"Sertão Paraibano",250102,"Cajazeiras","Monte Horebe",0.00456821690973145
+25,"Paraíba",250970,2007,2502,"Borborema",250210,"Cariri Ocidental","Monteiro",0.0314176446733316
+25,"Paraíba",250970,2008,2502,"Borborema",250210,"Cariri Ocidental","Monteiro",0.0432467480380354
+25,"Paraíba",250970,2009,2502,"Borborema",250210,"Cariri Ocidental","Monteiro",0.0110475109874034
+25,"Paraíba",250970,2010,2502,"Borborema",250210,"Cariri Ocidental","Monteiro",0.0162389106583462
+25,"Paraíba",250970,2011,2502,"Borborema",250210,"Cariri Ocidental","Monteiro",0.0734853037643285
+25,"Paraíba",250970,2012,2502,"Borborema",250210,"Cariri Ocidental","Monteiro",0.0200541920871635
+25,"Paraíba",250980,2007,2503,"Agreste Paraibano",250316,"Guarabira","Mulungu",0.0149836691225303
+25,"Paraíba",250980,2008,2503,"Agreste Paraibano",250316,"Guarabira","Mulungu",0.0323529557532692
+25,"Paraíba",250980,2009,2503,"Agreste Paraibano",250316,"Guarabira","Mulungu",0.0149368935719487
+25,"Paraíba",250980,2010,2503,"Agreste Paraibano",250316,"Guarabira","Mulungu",0.031177047366821
+25,"Paraíba",250980,2011,2503,"Agreste Paraibano",250316,"Guarabira","Mulungu",0.00457810733645021
+25,"Paraíba",250980,2012,2503,"Agreste Paraibano",250316,"Guarabira","Mulungu",0.00908016276231712
+25,"Paraíba",250990,2007,2503,"Agreste Paraibano",250319,"Umbuzeiro","Natuba",0.0168731130547226
+25,"Paraíba",250990,2008,2503,"Agreste Paraibano",250319,"Umbuzeiro","Natuba",0.0223553467011934
+25,"Paraíba",250990,2009,2503,"Agreste Paraibano",250319,"Umbuzeiro","Natuba",0.00511692753709042
+25,"Paraíba",250990,2010,2503,"Agreste Paraibano",250319,"Umbuzeiro","Natuba",0.0249969287462349
+25,"Paraíba",250990,2011,2503,"Agreste Paraibano",250319,"Umbuzeiro","Natuba",0.00466667487406623
+25,"Paraíba",250990,2012,2503,"Agreste Paraibano",250319,"Umbuzeiro","Natuba",0.00551532358281382
+25,"Paraíba",251000,2007,2501,"Sertão Paraibano",250103,"Sousa","Nazarezinho",9.9208421441397e-06
+25,"Paraíba",251000,2008,2501,"Sertão Paraibano",250103,"Sousa","Nazarezinho",0.00102951087193629
+25,"Paraíba",251000,2009,2501,"Sertão Paraibano",250103,"Sousa","Nazarezinho",0.00703234499023692
+25,"Paraíba",251000,2010,2501,"Sertão Paraibano",250103,"Sousa","Nazarezinho",0.00491691502256175
+25,"Paraíba",251000,2011,2501,"Sertão Paraibano",250103,"Sousa","Nazarezinho",0.00193281958171247
+25,"Paraíba",251000,2012,2501,"Sertão Paraibano",250103,"Sousa","Nazarezinho",0.0174358945011646
+25,"Paraíba",251010,2007,2503,"Agreste Paraibano",250312,"Curimataú Ocidental","Nova Floresta",0.000789145075426454
+25,"Paraíba",251010,2008,2503,"Agreste Paraibano",250312,"Curimataú Ocidental","Nova Floresta",0.0180666731545763
+25,"Paraíba",251010,2009,2503,"Agreste Paraibano",250312,"Curimataú Ocidental","Nova Floresta",0.00274638484482635
+25,"Paraíba",251010,2010,2503,"Agreste Paraibano",250312,"Curimataú Ocidental","Nova Floresta",0.00145747010260588
+25,"Paraíba",251010,2011,2503,"Agreste Paraibano",250312,"Curimataú Ocidental","Nova Floresta",0.00429497047003643
+25,"Paraíba",251010,2012,2503,"Agreste Paraibano",250312,"Curimataú Ocidental","Nova Floresta",0.00908289377277006
+25,"Paraíba",251020,2007,2501,"Sertão Paraibano",250105,"Piancó","Nova Olinda",0.0036654872437925
+25,"Paraíba",251020,2008,2501,"Sertão Paraibano",250105,"Piancó","Nova Olinda",0.00132409001286382
+25,"Paraíba",251020,2009,2501,"Sertão Paraibano",250105,"Piancó","Nova Olinda",0.0075128486291283
+25,"Paraíba",251020,2010,2501,"Sertão Paraibano",250105,"Piancó","Nova Olinda",0.0180986903258611
+25,"Paraíba",251020,2011,2501,"Sertão Paraibano",250105,"Piancó","Nova Olinda",0.0189085988169094
+25,"Paraíba",251020,2012,2501,"Sertão Paraibano",250105,"Piancó","Nova Olinda",0.0714723809244567
+25,"Paraíba",251030,2007,2502,"Borborema",250209,"Seridó Oriental Paraibano","Nova Palmeira",NA
+25,"Paraíba",251030,2008,2502,"Borborema",250209,"Seridó Oriental Paraibano","Nova Palmeira",NA
+25,"Paraíba",251030,2009,2502,"Borborema",250209,"Seridó Oriental Paraibano","Nova Palmeira",0.00708615907144384
+25,"Paraíba",251030,2010,2502,"Borborema",250209,"Seridó Oriental Paraibano","Nova Palmeira",0.00138592706972433
+25,"Paraíba",251030,2011,2502,"Borborema",250209,"Seridó Oriental Paraibano","Nova Palmeira",0.00800950864480022
+25,"Paraíba",251030,2012,2502,"Borborema",250209,"Seridó Oriental Paraibano","Nova Palmeira",0.00588494699142089
+25,"Paraíba",251040,2007,2501,"Sertão Paraibano",250105,"Piancó","Olho d'Água",NA
+25,"Paraíba",251040,2008,2501,"Sertão Paraibano",250105,"Piancó","Olho d'Água",NA
+25,"Paraíba",251040,2009,2501,"Sertão Paraibano",250105,"Piancó","Olho d'Água",0.0135514745588965
+25,"Paraíba",251040,2010,2501,"Sertão Paraibano",250105,"Piancó","Olho d'Água",0.00873122950004928
+25,"Paraíba",251040,2011,2501,"Sertão Paraibano",250105,"Piancó","Olho d'Água",0.00625194111038893
+25,"Paraíba",251040,2012,2501,"Sertão Paraibano",250105,"Piancó","Olho d'Água",0.0100686037791965
+25,"Paraíba",251050,2007,2503,"Agreste Paraibano",250312,"Curimataú Ocidental","Olivedos",0.00024040881121556
+25,"Paraíba",251050,2008,2503,"Agreste Paraibano",250312,"Curimataú Ocidental","Olivedos",0.00213054308749326
+25,"Paraíba",251050,2009,2503,"Agreste Paraibano",250312,"Curimataú Ocidental","Olivedos",0.000461288379567704
+25,"Paraíba",251050,2010,2503,"Agreste Paraibano",250312,"Curimataú Ocidental","Olivedos",0.00483701533781533
+25,"Paraíba",251050,2011,2503,"Agreste Paraibano",250312,"Curimataú Ocidental","Olivedos",0.0099514852016826
+25,"Paraíba",251050,2012,2503,"Agreste Paraibano",250312,"Curimataú Ocidental","Olivedos",0.00718566162178061
+25,"Paraíba",251060,2007,2502,"Borborema",250210,"Cariri Ocidental","Ouro Velho",0.00252841598582928
+25,"Paraíba",251060,2008,2502,"Borborema",250210,"Cariri Ocidental","Ouro Velho",0.0194912444205338
+25,"Paraíba",251060,2009,2502,"Borborema",250210,"Cariri Ocidental","Ouro Velho",0.0110002185292413
+25,"Paraíba",251060,2010,2502,"Borborema",250210,"Cariri Ocidental","Ouro Velho",8.77449821184501e-05
+25,"Paraíba",251060,2011,2502,"Borborema",250210,"Cariri Ocidental","Ouro Velho",0.0107295806574315
+25,"Paraíba",251060,2012,2502,"Borborema",250210,"Cariri Ocidental","Ouro Velho",0.0134223301502881
+25,"Paraíba",251065,2007,2502,"Borborema",250210,"Cariri Ocidental","Parari",9.0637310602097e-05
+25,"Paraíba",251065,2008,2502,"Borborema",250210,"Cariri Ocidental","Parari",0.023802676893166
+25,"Paraíba",251065,2009,2502,"Borborema",250210,"Cariri Ocidental","Parari",0.0106899813036152
+25,"Paraíba",251065,2010,2502,"Borborema",250210,"Cariri Ocidental","Parari",0.000227689827684696
+25,"Paraíba",251065,2011,2502,"Borborema",250210,"Cariri Ocidental","Parari",0.0139736779671727
+25,"Paraíba",251065,2012,2502,"Borborema",250210,"Cariri Ocidental","Parari",0.00576630702609961
+25,"Paraíba",251070,2007,2501,"Sertão Paraibano",250104,"Patos","Passagem",0.027748565233074
+25,"Paraíba",251070,2008,2501,"Sertão Paraibano",250104,"Patos","Passagem",0.0259116173583159
+25,"Paraíba",251070,2009,2501,"Sertão Paraibano",250104,"Patos","Passagem",0.00270475631880621
+25,"Paraíba",251070,2010,2501,"Sertão Paraibano",250104,"Patos","Passagem",0.00515796439270582
+25,"Paraíba",251070,2011,2501,"Sertão Paraibano",250104,"Patos","Passagem",0.00142813865556827
+25,"Paraíba",251070,2012,2501,"Sertão Paraibano",250104,"Patos","Passagem",0.0261463960926613
+25,"Paraíba",251080,2007,2501,"Sertão Paraibano",250104,"Patos","Patos",0.0330051097175897
+25,"Paraíba",251080,2008,2501,"Sertão Paraibano",250104,"Patos","Patos",0.00960794439486105
+25,"Paraíba",251080,2009,2501,"Sertão Paraibano",250104,"Patos","Patos",0.01287781409176
+25,"Paraíba",251080,2010,2501,"Sertão Paraibano",250104,"Patos","Patos",0.0114728286107538
+25,"Paraíba",251080,2011,2501,"Sertão Paraibano",250104,"Patos","Patos",0.024454899115892
+25,"Paraíba",251080,2012,2501,"Sertão Paraibano",250104,"Patos","Patos",0.0485530318856516
+25,"Paraíba",251090,2007,2501,"Sertão Paraibano",250103,"Sousa","Paulista",0.0258584624319062
+25,"Paraíba",251090,2008,2501,"Sertão Paraibano",250103,"Sousa","Paulista",0.00945158106188914
+25,"Paraíba",251090,2009,2501,"Sertão Paraibano",250103,"Sousa","Paulista",0.0115479443274177
+25,"Paraíba",251090,2010,2501,"Sertão Paraibano",250103,"Sousa","Paulista",0.00617444667059269
+25,"Paraíba",251090,2011,2501,"Sertão Paraibano",250103,"Sousa","Paulista",0.0101226113178528
+25,"Paraíba",251090,2012,2501,"Sertão Paraibano",250103,"Sousa","Paulista",0.0247556018926623
+25,"Paraíba",251100,2007,2501,"Sertão Paraibano",250106,"Itaporanga","Pedra Branca",0.0105441895878149
+25,"Paraíba",251100,2008,2501,"Sertão Paraibano",250106,"Itaporanga","Pedra Branca",0.0157937819297137
+25,"Paraíba",251100,2009,2501,"Sertão Paraibano",250106,"Itaporanga","Pedra Branca",0.0364659250142921
+25,"Paraíba",251100,2010,2501,"Sertão Paraibano",250106,"Itaporanga","Pedra Branca",0.0225757531531434
+25,"Paraíba",251100,2011,2501,"Sertão Paraibano",250106,"Itaporanga","Pedra Branca",0.0599661455486643
+25,"Paraíba",251100,2012,2501,"Sertão Paraibano",250106,"Itaporanga","Pedra Branca",0.0295075329585619
+25,"Paraíba",251110,2007,2502,"Borborema",250209,"Seridó Oriental Paraibano","Pedra Lavrada",0.000453269193812307
+25,"Paraíba",251110,2008,2502,"Borborema",250209,"Seridó Oriental Paraibano","Pedra Lavrada",0.0150101941401253
+25,"Paraíba",251110,2009,2502,"Borborema",250209,"Seridó Oriental Paraibano","Pedra Lavrada",0.000893909749251419
+25,"Paraíba",251110,2010,2502,"Borborema",250209,"Seridó Oriental Paraibano","Pedra Lavrada",0.0012173816935893
+25,"Paraíba",251110,2011,2502,"Borborema",250209,"Seridó Oriental Paraibano","Pedra Lavrada",0.00302634229250885
+25,"Paraíba",251110,2012,2502,"Borborema",250209,"Seridó Oriental Paraibano","Pedra Lavrada",0.00590228457702704
+25,"Paraíba",251120,2007,2504,"Mata Paraibana",250423,"Litoral Sul","Pedras de Fogo",0.00433346963922225
+25,"Paraíba",251120,2008,2504,"Mata Paraibana",250423,"Litoral Sul","Pedras de Fogo",0.00608315218638224
+25,"Paraíba",251120,2009,2504,"Mata Paraibana",250423,"Litoral Sul","Pedras de Fogo",0.00155643274701573
+25,"Paraíba",251120,2010,2504,"Mata Paraibana",250423,"Litoral Sul","Pedras de Fogo",0.0156714038772521
+25,"Paraíba",251120,2011,2504,"Mata Paraibana",250423,"Litoral Sul","Pedras de Fogo",0.0155220956198289
+25,"Paraíba",251120,2012,2504,"Mata Paraibana",250423,"Litoral Sul","Pedras de Fogo",0.0109171315999789
+25,"Paraíba",251130,2007,2501,"Sertão Paraibano",250105,"Piancó","Piancó",0.0501803292798234
+25,"Paraíba",251130,2008,2501,"Sertão Paraibano",250105,"Piancó","Piancó",0.0384610490252927
+25,"Paraíba",251130,2009,2501,"Sertão Paraibano",250105,"Piancó","Piancó",0.0334187626318527
+25,"Paraíba",251130,2010,2501,"Sertão Paraibano",250105,"Piancó","Piancó",0.077080345316489
+25,"Paraíba",251130,2011,2501,"Sertão Paraibano",250105,"Piancó","Piancó",0.0619322561679609
+25,"Paraíba",251130,2012,2501,"Sertão Paraibano",250105,"Piancó","Piancó",0.0309621993612421
+25,"Paraíba",251140,2007,2502,"Borborema",250209,"Seridó Oriental Paraibano","Picuí",0.0152161474416755
+25,"Paraíba",251140,2008,2502,"Borborema",250209,"Seridó Oriental Paraibano","Picuí",0.0201171371103325
+25,"Paraíba",251140,2009,2502,"Borborema",250209,"Seridó Oriental Paraibano","Picuí",0.0154913944252904
+25,"Paraíba",251140,2010,2502,"Borborema",250209,"Seridó Oriental Paraibano","Picuí",0.0261381265588133
+25,"Paraíba",251140,2011,2502,"Borborema",250209,"Seridó Oriental Paraibano","Picuí",0.0157667943574733
+25,"Paraíba",251140,2012,2502,"Borborema",250209,"Seridó Oriental Paraibano","Picuí",0.0123548500996279
+25,"Paraíba",251150,2007,2504,"Mata Paraibana",250421,"Sapé","Pilar",0.0263837636164435
+25,"Paraíba",251150,2008,2504,"Mata Paraibana",250421,"Sapé","Pilar",0.0271759583964771
+25,"Paraíba",251150,2009,2504,"Mata Paraibana",250421,"Sapé","Pilar",0.0197173598229573
+25,"Paraíba",251150,2010,2504,"Mata Paraibana",250421,"Sapé","Pilar",0.00814473568762855
+25,"Paraíba",251150,2011,2504,"Mata Paraibana",250421,"Sapé","Pilar",0.0148281094538228
+25,"Paraíba",251150,2012,2504,"Mata Paraibana",250421,"Sapé","Pilar",0.00132565783903956
+25,"Paraíba",251160,2007,2503,"Agreste Paraibano",250315,"Brejo Paraibano","Pilões",0.0115836412191067
+25,"Paraíba",251160,2008,2503,"Agreste Paraibano",250315,"Brejo Paraibano","Pilões",0.00985934808683138
+25,"Paraíba",251160,2009,2503,"Agreste Paraibano",250315,"Brejo Paraibano","Pilões",0.00334989017681243
+25,"Paraíba",251160,2010,2503,"Agreste Paraibano",250315,"Brejo Paraibano","Pilões",0.00763063139672313
+25,"Paraíba",251160,2011,2503,"Agreste Paraibano",250315,"Brejo Paraibano","Pilões",0.00238576581419694
+25,"Paraíba",251160,2012,2503,"Agreste Paraibano",250315,"Brejo Paraibano","Pilões",0.0114570821596749
+25,"Paraíba",251170,2007,2503,"Agreste Paraibano",250316,"Guarabira","Pilõezinhos",0.00281564415159701
+25,"Paraíba",251170,2008,2503,"Agreste Paraibano",250316,"Guarabira","Pilõezinhos",0.00272815348007689
+25,"Paraíba",251170,2009,2503,"Agreste Paraibano",250316,"Guarabira","Pilõezinhos",0.00224076559354733
+25,"Paraíba",251170,2010,2503,"Agreste Paraibano",250316,"Guarabira","Pilõezinhos",0.00237024724594321
+25,"Paraíba",251170,2011,2503,"Agreste Paraibano",250316,"Guarabira","Pilõezinhos",0.00683324744550086
+25,"Paraíba",251170,2012,2503,"Agreste Paraibano",250316,"Guarabira","Pilõezinhos",0.0276284005861786
+25,"Paraíba",251180,2007,2503,"Agreste Paraibano",250316,"Guarabira","Pirpirituba",0.0291372447633418
+25,"Paraíba",251180,2008,2503,"Agreste Paraibano",250316,"Guarabira","Pirpirituba",0.0173394983168967
+25,"Paraíba",251180,2009,2503,"Agreste Paraibano",250316,"Guarabira","Pirpirituba",0.00326862478405472
+25,"Paraíba",251180,2010,2503,"Agreste Paraibano",250316,"Guarabira","Pirpirituba",0.00689583960289242
+25,"Paraíba",251180,2011,2503,"Agreste Paraibano",250316,"Guarabira","Pirpirituba",0.0110743838225288
+25,"Paraíba",251180,2012,2503,"Agreste Paraibano",250316,"Guarabira","Pirpirituba",0.00623911583219854
+25,"Paraíba",251190,2007,2504,"Mata Paraibana",250423,"Litoral Sul","Pitimbu",0.00860791457755716
+25,"Paraíba",251190,2008,2504,"Mata Paraibana",250423,"Litoral Sul","Pitimbu",0.000232537313583703
+25,"Paraíba",251190,2009,2504,"Mata Paraibana",250423,"Litoral Sul","Pitimbu",0.0197257898374763
+25,"Paraíba",251190,2010,2504,"Mata Paraibana",250423,"Litoral Sul","Pitimbu",0.00116766246429209
+25,"Paraíba",251190,2011,2504,"Mata Paraibana",250423,"Litoral Sul","Pitimbu",0.00500477920044246
+25,"Paraíba",251190,2012,2504,"Mata Paraibana",250423,"Litoral Sul","Pitimbu",0.00760282881335386
+25,"Paraíba",251200,2007,2503,"Agreste Paraibano",250312,"Curimataú Ocidental","Pocinhos",0.0133455444582033
+25,"Paraíba",251200,2008,2503,"Agreste Paraibano",250312,"Curimataú Ocidental","Pocinhos",0.0211774414017768
+25,"Paraíba",251200,2009,2503,"Agreste Paraibano",250312,"Curimataú Ocidental","Pocinhos",0.00670069303621411
+25,"Paraíba",251200,2010,2503,"Agreste Paraibano",250312,"Curimataú Ocidental","Pocinhos",0.0118822120676751
+25,"Paraíba",251200,2011,2503,"Agreste Paraibano",250312,"Curimataú Ocidental","Pocinhos",0.0118948343585068
+25,"Paraíba",251200,2012,2503,"Agreste Paraibano",250312,"Curimataú Ocidental","Pocinhos",0.017359451581512
+25,"Paraíba",251203,2007,2501,"Sertão Paraibano",250102,"Cajazeiras","Poço Dantas",0.0155322208846228
+25,"Paraíba",251203,2008,2501,"Sertão Paraibano",250102,"Cajazeiras","Poço Dantas",0.0126702650089878
+25,"Paraíba",251203,2009,2501,"Sertão Paraibano",250102,"Cajazeiras","Poço Dantas",0.0107775470341571
+25,"Paraíba",251203,2010,2501,"Sertão Paraibano",250102,"Cajazeiras","Poço Dantas",0.00140163873472577
+25,"Paraíba",251203,2011,2501,"Sertão Paraibano",250102,"Cajazeiras","Poço Dantas",0.00535946367224765
+25,"Paraíba",251203,2012,2501,"Sertão Paraibano",250102,"Cajazeiras","Poço Dantas",0.0117157665292619
+25,"Paraíba",251207,2007,2501,"Sertão Paraibano",250102,"Cajazeiras","Poço de José de Moura",0.0284364222196491
+25,"Paraíba",251207,2008,2501,"Sertão Paraibano",250102,"Cajazeiras","Poço de José de Moura",0.0241469663551667
+25,"Paraíba",251207,2009,2501,"Sertão Paraibano",250102,"Cajazeiras","Poço de José de Moura",0.0084399461996401
+25,"Paraíba",251207,2010,2501,"Sertão Paraibano",250102,"Cajazeiras","Poço de José de Moura",0.0025023222881254
+25,"Paraíba",251207,2011,2501,"Sertão Paraibano",250102,"Cajazeiras","Poço de José de Moura",0.00378633135807629
+25,"Paraíba",251207,2012,2501,"Sertão Paraibano",250102,"Cajazeiras","Poço de José de Moura",0.00984062737828252
+25,"Paraíba",251210,2007,2501,"Sertão Paraibano",250103,"Sousa","Pombal",0.00251593268093818
+25,"Paraíba",251210,2008,2501,"Sertão Paraibano",250103,"Sousa","Pombal",0.00111742225983046
+25,"Paraíba",251210,2009,2501,"Sertão Paraibano",250103,"Sousa","Pombal",0.0193453551896325
+25,"Paraíba",251210,2010,2501,"Sertão Paraibano",250103,"Sousa","Pombal",0.0918693662097383
+25,"Paraíba",251210,2011,2501,"Sertão Paraibano",250103,"Sousa","Pombal",0.0837186356080849
+25,"Paraíba",251210,2012,2501,"Sertão Paraibano",250103,"Sousa","Pombal",0.13866229393493
+25,"Paraíba",251220,2007,2502,"Borborema",250210,"Cariri Ocidental","Prata",0.00368832286336586
+25,"Paraíba",251220,2008,2502,"Borborema",250210,"Cariri Ocidental","Prata",0.0892478103220083
+25,"Paraíba",251220,2009,2502,"Borborema",250210,"Cariri Ocidental","Prata",0.00301743557308743
+25,"Paraíba",251220,2010,2502,"Borborema",250210,"Cariri Ocidental","Prata",0.000951554517227259
+25,"Paraíba",251220,2011,2502,"Borborema",250210,"Cariri Ocidental","Prata",0.0029918139891112
+25,"Paraíba",251220,2012,2502,"Borborema",250210,"Cariri Ocidental","Prata",0.00145877882991088
+25,"Paraíba",251230,2007,2501,"Sertão Paraibano",250107,"Serra do Teixeira","Princesa Isabel",0.0201445172182763
+25,"Paraíba",251230,2008,2501,"Sertão Paraibano",250107,"Serra do Teixeira","Princesa Isabel",0.00996754036623048
+25,"Paraíba",251230,2009,2501,"Sertão Paraibano",250107,"Serra do Teixeira","Princesa Isabel",0.0323766243812371
+25,"Paraíba",251230,2010,2501,"Sertão Paraibano",250107,"Serra do Teixeira","Princesa Isabel",0.194405159701552
+25,"Paraíba",251230,2011,2501,"Sertão Paraibano",250107,"Serra do Teixeira","Princesa Isabel",0.0803705460688046
+25,"Paraíba",251230,2012,2501,"Sertão Paraibano",250107,"Serra do Teixeira","Princesa Isabel",0.0219103918921161
+25,"Paraíba",251240,2007,2503,"Agreste Paraibano",250317,"Campina Grande","Puxinanã",0.0106731843177711
+25,"Paraíba",251240,2008,2503,"Agreste Paraibano",250317,"Campina Grande","Puxinanã",0.00588123313236456
+25,"Paraíba",251240,2009,2503,"Agreste Paraibano",250317,"Campina Grande","Puxinanã",NA
+25,"Paraíba",251240,2010,2503,"Agreste Paraibano",250317,"Campina Grande","Puxinanã",0.0240307259948469
+25,"Paraíba",251240,2011,2503,"Agreste Paraibano",250317,"Campina Grande","Puxinanã",0.00624409103290416
+25,"Paraíba",251240,2012,2503,"Agreste Paraibano",250317,"Campina Grande","Puxinanã",0.0114787116967274
+25,"Paraíba",251250,2007,2503,"Agreste Paraibano",250317,"Campina Grande","Queimadas",0.0136896334375519
+25,"Paraíba",251250,2008,2503,"Agreste Paraibano",250317,"Campina Grande","Queimadas",0.00177943256993722
+25,"Paraíba",251250,2009,2503,"Agreste Paraibano",250317,"Campina Grande","Queimadas",0.00941575605024685
+25,"Paraíba",251250,2010,2503,"Agreste Paraibano",250317,"Campina Grande","Queimadas",0.00301336671017026
+25,"Paraíba",251250,2011,2503,"Agreste Paraibano",250317,"Campina Grande","Queimadas",0.00848042628808986
+25,"Paraíba",251250,2012,2503,"Agreste Paraibano",250317,"Campina Grande","Queimadas",0.020613275458618
+25,"Paraíba",251260,2007,2501,"Sertão Paraibano",250104,"Patos","Quixabá",0.0443488987286059
+25,"Paraíba",251260,2008,2501,"Sertão Paraibano",250104,"Patos","Quixabá",0.0203999861977254
+25,"Paraíba",251260,2009,2501,"Sertão Paraibano",250104,"Patos","Quixabá",0.00772609403874554
+25,"Paraíba",251260,2010,2501,"Sertão Paraibano",250104,"Patos","Quixabá",0.0202847267699275
+25,"Paraíba",251260,2011,2501,"Sertão Paraibano",250104,"Patos","Quixabá",0.012076592836457
+25,"Paraíba",251260,2012,2501,"Sertão Paraibano",250104,"Patos","Quixabá",0.0762620256212443
+25,"Paraíba",251270,2007,2503,"Agreste Paraibano",250312,"Curimataú Ocidental","Remígio",0.0152062775348277
+25,"Paraíba",251270,2008,2503,"Agreste Paraibano",250312,"Curimataú Ocidental","Remígio",0.0198817390257297
+25,"Paraíba",251270,2009,2503,"Agreste Paraibano",250312,"Curimataú Ocidental","Remígio",0.000843664247591813
+25,"Paraíba",251270,2010,2503,"Agreste Paraibano",250312,"Curimataú Ocidental","Remígio",0.00960916758841821
+25,"Paraíba",251270,2011,2503,"Agreste Paraibano",250312,"Curimataú Ocidental","Remígio",0.00534068659384152
+25,"Paraíba",251270,2012,2503,"Agreste Paraibano",250312,"Curimataú Ocidental","Remígio",0.0070921182883966
+25,"Paraíba",251272,2007,2504,"Mata Paraibana",250420,"Litoral Norte","Pedro Régis",0.022913934883684
+25,"Paraíba",251272,2008,2504,"Mata Paraibana",250420,"Litoral Norte","Pedro Régis",0.000923680104131738
+25,"Paraíba",251272,2009,2504,"Mata Paraibana",250420,"Litoral Norte","Pedro Régis",0.0110233851822123
+25,"Paraíba",251272,2010,2504,"Mata Paraibana",250420,"Litoral Norte","Pedro Régis",0.00211445260834907
+25,"Paraíba",251272,2011,2504,"Mata Paraibana",250420,"Litoral Norte","Pedro Régis",0.00721963908937018
+25,"Paraíba",251272,2012,2504,"Mata Paraibana",250420,"Litoral Norte","Pedro Régis",0.0297054331428373
+25,"Paraíba",251274,2007,2503,"Agreste Paraibano",250313,"Curimataú Oriental","Riachão",0.0293393754721851
+25,"Paraíba",251274,2008,2503,"Agreste Paraibano",250313,"Curimataú Oriental","Riachão",0.00651359152935453
+25,"Paraíba",251274,2009,2503,"Agreste Paraibano",250313,"Curimataú Oriental","Riachão",0.00432105660475464
+25,"Paraíba",251274,2010,2503,"Agreste Paraibano",250313,"Curimataú Oriental","Riachão",0.00398564693614254
+25,"Paraíba",251274,2011,2503,"Agreste Paraibano",250313,"Curimataú Oriental","Riachão",0.00618345925033332
+25,"Paraíba",251274,2012,2503,"Agreste Paraibano",250313,"Curimataú Oriental","Riachão",0.000301093671627197
+25,"Paraíba",251275,2007,2503,"Agreste Paraibano",250318,"Itabaiana","Riachão do Bacamarte",0.0455558163077977
+25,"Paraíba",251275,2008,2503,"Agreste Paraibano",250318,"Itabaiana","Riachão do Bacamarte",0.0255437960624877
+25,"Paraíba",251275,2009,2503,"Agreste Paraibano",250318,"Itabaiana","Riachão do Bacamarte",0.00993114041080027
+25,"Paraíba",251275,2010,2503,"Agreste Paraibano",250318,"Itabaiana","Riachão do Bacamarte",0.00780767815738804
+25,"Paraíba",251275,2011,2503,"Agreste Paraibano",250318,"Itabaiana","Riachão do Bacamarte",0.0100839959971592
+25,"Paraíba",251275,2012,2503,"Agreste Paraibano",250318,"Itabaiana","Riachão do Bacamarte",0.0172160942919632
+25,"Paraíba",251276,2007,2504,"Mata Paraibana",250421,"Sapé","Riachão do Poço",0.00305192712285448
+25,"Paraíba",251276,2008,2504,"Mata Paraibana",250421,"Sapé","Riachão do Poço",0.00140499404420561
+25,"Paraíba",251276,2009,2504,"Mata Paraibana",250421,"Sapé","Riachão do Poço",0.00124936388163686
+25,"Paraíba",251276,2010,2504,"Mata Paraibana",250421,"Sapé","Riachão do Poço",0.0111069686163219
+25,"Paraíba",251276,2011,2504,"Mata Paraibana",250421,"Sapé","Riachão do Poço",0.0151135299910478
+25,"Paraíba",251276,2012,2504,"Mata Paraibana",250421,"Sapé","Riachão do Poço",0.00685182937316655
+25,"Paraíba",251278,2007,2502,"Borborema",250211,"Cariri Oriental","Riacho de Santo Antônio",0.0198187767432643
+25,"Paraíba",251278,2008,2502,"Borborema",250211,"Cariri Oriental","Riacho de Santo Antônio",0.0120250454501735
+25,"Paraíba",251278,2009,2502,"Borborema",250211,"Cariri Oriental","Riacho de Santo Antônio",0.00138330959698953
+25,"Paraíba",251278,2010,2502,"Borborema",250211,"Cariri Oriental","Riacho de Santo Antônio",0.0151602545381979
+25,"Paraíba",251278,2011,2502,"Borborema",250211,"Cariri Oriental","Riacho de Santo Antônio",0.00152569495281841
+25,"Paraíba",251278,2012,2502,"Borborema",250211,"Cariri Oriental","Riacho de Santo Antônio",0.00506329248174409
+25,"Paraíba",251280,2007,2501,"Sertão Paraibano",250101,"Catolé do Rocha","Riacho dos Cavalos",0.0214868748006519
+25,"Paraíba",251280,2008,2501,"Sertão Paraibano",250101,"Catolé do Rocha","Riacho dos Cavalos",0.021497819326024
+25,"Paraíba",251280,2009,2501,"Sertão Paraibano",250101,"Catolé do Rocha","Riacho dos Cavalos",0.0359583225516301
+25,"Paraíba",251280,2010,2501,"Sertão Paraibano",250101,"Catolé do Rocha","Riacho dos Cavalos",0.0132107314743825
+25,"Paraíba",251280,2011,2501,"Sertão Paraibano",250101,"Catolé do Rocha","Riacho dos Cavalos",0.0423608825105787
+25,"Paraíba",251280,2012,2501,"Sertão Paraibano",250101,"Catolé do Rocha","Riacho dos Cavalos",0.0286396325954664
+25,"Paraíba",251290,2007,2504,"Mata Paraibana",250420,"Litoral Norte","Rio Tinto",0.0123421254279871
+25,"Paraíba",251290,2008,2504,"Mata Paraibana",250420,"Litoral Norte","Rio Tinto",0.0101109325058186
+25,"Paraíba",251290,2009,2504,"Mata Paraibana",250420,"Litoral Norte","Rio Tinto",0.0119160886814353
+25,"Paraíba",251290,2010,2504,"Mata Paraibana",250420,"Litoral Norte","Rio Tinto",0.00593228841052245
+25,"Paraíba",251290,2011,2504,"Mata Paraibana",250420,"Litoral Norte","Rio Tinto",0.0097884517081273
+25,"Paraíba",251290,2012,2504,"Mata Paraibana",250420,"Litoral Norte","Rio Tinto",0.00656923701157796
+25,"Paraíba",251300,2007,2502,"Borborema",250208,"Seridó Ocidental Paraibano","Salgadinho",0.0414045376885686
+25,"Paraíba",251300,2008,2502,"Borborema",250208,"Seridó Ocidental Paraibano","Salgadinho",0.0299537740771363
+25,"Paraíba",251300,2009,2502,"Borborema",250208,"Seridó Ocidental Paraibano","Salgadinho",0.01537048188787
+25,"Paraíba",251300,2010,2502,"Borborema",250208,"Seridó Ocidental Paraibano","Salgadinho",0.0101819671830031
+25,"Paraíba",251300,2011,2502,"Borborema",250208,"Seridó Ocidental Paraibano","Salgadinho",0.00748246007222446
+25,"Paraíba",251300,2012,2502,"Borborema",250208,"Seridó Ocidental Paraibano","Salgadinho",0.0253076363590243
+25,"Paraíba",251310,2007,2503,"Agreste Paraibano",250318,"Itabaiana","Salgado de São Félix",0.0133428180040864
+25,"Paraíba",251310,2008,2503,"Agreste Paraibano",250318,"Itabaiana","Salgado de São Félix",0.0173107676605493
+25,"Paraíba",251310,2009,2503,"Agreste Paraibano",250318,"Itabaiana","Salgado de São Félix",0.0215467681694781
+25,"Paraíba",251310,2010,2503,"Agreste Paraibano",250318,"Itabaiana","Salgado de São Félix",0.0119893094174759
+25,"Paraíba",251310,2011,2503,"Agreste Paraibano",250318,"Itabaiana","Salgado de São Félix",0.0159327694228939
+25,"Paraíba",251310,2012,2503,"Agreste Paraibano",250318,"Itabaiana","Salgado de São Félix",0.0146011041429699
+25,"Paraíba",251315,2007,2503,"Agreste Paraibano",250319,"Umbuzeiro","Santa Cecília",0.00267563242440821
+25,"Paraíba",251315,2008,2503,"Agreste Paraibano",250319,"Umbuzeiro","Santa Cecília",0.0121700470316594
+25,"Paraíba",251315,2009,2503,"Agreste Paraibano",250319,"Umbuzeiro","Santa Cecília",NA
+25,"Paraíba",251315,2010,2503,"Agreste Paraibano",250319,"Umbuzeiro","Santa Cecília",NA
+25,"Paraíba",251315,2011,2503,"Agreste Paraibano",250319,"Umbuzeiro","Santa Cecília",0.00553212689839954
+25,"Paraíba",251315,2012,2503,"Agreste Paraibano",250319,"Umbuzeiro","Santa Cecília",0.00508877786107281
+25,"Paraíba",251320,2007,2501,"Sertão Paraibano",250103,"Sousa","Santa Cruz",0.0127262943271111
+25,"Paraíba",251320,2008,2501,"Sertão Paraibano",250103,"Sousa","Santa Cruz",0.0264160241716101
+25,"Paraíba",251320,2009,2501,"Sertão Paraibano",250103,"Sousa","Santa Cruz",0.0101404034445886
+25,"Paraíba",251320,2010,2501,"Sertão Paraibano",250103,"Sousa","Santa Cruz",0.00401002690112735
+25,"Paraíba",251320,2011,2501,"Sertão Paraibano",250103,"Sousa","Santa Cruz",0.00218301720602682
+25,"Paraíba",251320,2012,2501,"Sertão Paraibano",250103,"Sousa","Santa Cruz",0.00798482866221896
+25,"Paraíba",251330,2007,2501,"Sertão Paraibano",250102,"Cajazeiras","Santa Helena",0.00367323882053799
+25,"Paraíba",251330,2008,2501,"Sertão Paraibano",250102,"Cajazeiras","Santa Helena",0.0407819357291906
+25,"Paraíba",251330,2009,2501,"Sertão Paraibano",250102,"Cajazeiras","Santa Helena",0.0379757253291215
+25,"Paraíba",251330,2010,2501,"Sertão Paraibano",250102,"Cajazeiras","Santa Helena",0.00964136566035318
+25,"Paraíba",251330,2011,2501,"Sertão Paraibano",250102,"Cajazeiras","Santa Helena",0.00926887068471186
+25,"Paraíba",251330,2012,2501,"Sertão Paraibano",250102,"Cajazeiras","Santa Helena",0.00657204200147385
+25,"Paraíba",251335,2007,2501,"Sertão Paraibano",250106,"Itaporanga","Santa Inês",0.0108115756933005
+25,"Paraíba",251335,2008,2501,"Sertão Paraibano",250106,"Itaporanga","Santa Inês",0.00115313782529324
+25,"Paraíba",251335,2009,2501,"Sertão Paraibano",250106,"Itaporanga","Santa Inês",0.00231076729843956
+25,"Paraíba",251335,2010,2501,"Sertão Paraibano",250106,"Itaporanga","Santa Inês",NA
+25,"Paraíba",251335,2011,2501,"Sertão Paraibano",250106,"Itaporanga","Santa Inês",0.000385950222428809
+25,"Paraíba",251335,2012,2501,"Sertão Paraibano",250106,"Itaporanga","Santa Inês",0.000225702310851388
+25,"Paraíba",251340,2007,2502,"Borborema",250208,"Seridó Ocidental Paraibano","Santa Luzia",0.00063155881923861
+25,"Paraíba",251340,2008,2502,"Borborema",250208,"Seridó Ocidental Paraibano","Santa Luzia",0.0050965899451684
+25,"Paraíba",251340,2009,2502,"Borborema",250208,"Seridó Ocidental Paraibano","Santa Luzia",0.00926457035469915
+25,"Paraíba",251340,2010,2502,"Borborema",250208,"Seridó Ocidental Paraibano","Santa Luzia",0.0115627283087075
+25,"Paraíba",251340,2011,2502,"Borborema",250208,"Seridó Ocidental Paraibano","Santa Luzia",0.0718997130741747
+25,"Paraíba",251340,2012,2502,"Borborema",250208,"Seridó Ocidental Paraibano","Santa Luzia",0.145162653224199
+25,"Paraíba",251350,2007,2501,"Sertão Paraibano",250106,"Itaporanga","Santana de Mangueira",NA
+25,"Paraíba",251350,2008,2501,"Sertão Paraibano",250106,"Itaporanga","Santana de Mangueira",0.0063331941224728
+25,"Paraíba",251350,2009,2501,"Sertão Paraibano",250106,"Itaporanga","Santana de Mangueira",0.0294525250788987
+25,"Paraíba",251350,2010,2501,"Sertão Paraibano",250106,"Itaporanga","Santana de Mangueira",0.00783289224818102
+25,"Paraíba",251350,2011,2501,"Sertão Paraibano",250106,"Itaporanga","Santana de Mangueira",0.0354469747655025
+25,"Paraíba",251350,2012,2501,"Sertão Paraibano",250106,"Itaporanga","Santana de Mangueira",0.0216441693136671
+25,"Paraíba",251360,2007,2501,"Sertão Paraibano",250105,"Piancó","Santana dos Garrotes",0.0290563507684793
+25,"Paraíba",251360,2008,2501,"Sertão Paraibano",250105,"Piancó","Santana dos Garrotes",0.0208341891848582
+25,"Paraíba",251360,2009,2501,"Sertão Paraibano",250105,"Piancó","Santana dos Garrotes",0.00272268343521771
+25,"Paraíba",251360,2010,2501,"Sertão Paraibano",250105,"Piancó","Santana dos Garrotes",0.0045263789870704
+25,"Paraíba",251360,2011,2501,"Sertão Paraibano",250105,"Piancó","Santana dos Garrotes",0.0180906244381468
+25,"Paraíba",251360,2012,2501,"Sertão Paraibano",250105,"Piancó","Santana dos Garrotes",0.0131693784831375
+25,"Paraíba",251365,2007,2501,"Sertão Paraibano",250102,"Cajazeiras","Santarém",0.00033780397345112
+25,"Paraíba",251365,2008,2501,"Sertão Paraibano",250102,"Cajazeiras","Santarém",5.07285272358455e-05
+25,"Paraíba",251365,2009,2501,"Sertão Paraibano",250102,"Cajazeiras","Santarém",0.000871289014314959
+25,"Paraíba",251365,2010,2501,"Sertão Paraibano",250102,"Cajazeiras","Santarém",0.0190648455781618
+25,"Paraíba",251365,2011,2501,"Sertão Paraibano",250102,"Cajazeiras","Santarém",0.00899901938268822
+25,"Paraíba",251365,2012,2501,"Sertão Paraibano",250102,"Cajazeiras","Santarém",0.016086793101779
+25,"Paraíba",251370,2007,2504,"Mata Paraibana",250422,"João Pessoa","Santa Rita",0.00947139678349031
+25,"Paraíba",251370,2008,2504,"Mata Paraibana",250422,"João Pessoa","Santa Rita",0.00297680811948249
+25,"Paraíba",251370,2009,2504,"Mata Paraibana",250422,"João Pessoa","Santa Rita",0.00472110841772978
+25,"Paraíba",251370,2010,2504,"Mata Paraibana",250422,"João Pessoa","Santa Rita",0.00139440096901602
+25,"Paraíba",251370,2011,2504,"Mata Paraibana",250422,"João Pessoa","Santa Rita",0.00125514205429034
+25,"Paraíba",251370,2012,2504,"Mata Paraibana",250422,"João Pessoa","Santa Rita",0.00491713877234881
+25,"Paraíba",251380,2007,2501,"Sertão Paraibano",250104,"Patos","Santa Teresinha",0.0426451504815572
+25,"Paraíba",251380,2008,2501,"Sertão Paraibano",250104,"Patos","Santa Teresinha",0.0391431979368438
+25,"Paraíba",251380,2009,2501,"Sertão Paraibano",250104,"Patos","Santa Teresinha",0.0287090884659131
+25,"Paraíba",251380,2010,2501,"Sertão Paraibano",250104,"Patos","Santa Teresinha",0.0118558861659043
+25,"Paraíba",251380,2011,2501,"Sertão Paraibano",250104,"Patos","Santa Teresinha",0.0249215519115458
+25,"Paraíba",251380,2012,2501,"Sertão Paraibano",250104,"Patos","Santa Teresinha",0.0223999827384463
+25,"Paraíba",251385,2007,2502,"Borborema",250211,"Cariri Oriental","Santo André",0.00366693726276896
+25,"Paraíba",251385,2008,2502,"Borborema",250211,"Cariri Oriental","Santo André",0.0156505492575004
+25,"Paraíba",251385,2009,2502,"Borborema",250211,"Cariri Oriental","Santo André",0.0103254684687261
+25,"Paraíba",251385,2010,2502,"Borborema",250211,"Cariri Oriental","Santo André",0.00634796389295298
+25,"Paraíba",251385,2011,2502,"Borborema",250211,"Cariri Oriental","Santo André",0.00646109737887298
+25,"Paraíba",251385,2012,2502,"Borborema",250211,"Cariri Oriental","Santo André",0.00855685489193475
+25,"Paraíba",251390,2007,2501,"Sertão Paraibano",250101,"Catolé do Rocha","São Bento",0.00898613407033481
+25,"Paraíba",251390,2008,2501,"Sertão Paraibano",250101,"Catolé do Rocha","São Bento",0.00989111275381298
+25,"Paraíba",251390,2009,2501,"Sertão Paraibano",250101,"Catolé do Rocha","São Bento",0.0430262342089701
+25,"Paraíba",251390,2010,2501,"Sertão Paraibano",250101,"Catolé do Rocha","São Bento",0.0916081919401884
+25,"Paraíba",251390,2011,2501,"Sertão Paraibano",250101,"Catolé do Rocha","São Bento",0.0652618556251736
+25,"Paraíba",251390,2012,2501,"Sertão Paraibano",250101,"Catolé do Rocha","São Bento",0.0698110993372073
+25,"Paraíba",251392,2007,2501,"Sertão Paraibano",250103,"Sousa","São Bentinho",0.000664052018411565
+25,"Paraíba",251392,2008,2501,"Sertão Paraibano",250103,"Sousa","São Bentinho",0.0226404838555484
+25,"Paraíba",251392,2009,2501,"Sertão Paraibano",250103,"Sousa","São Bentinho",0.00798675620328213
+25,"Paraíba",251392,2010,2501,"Sertão Paraibano",250103,"Sousa","São Bentinho",0.0191458066507851
+25,"Paraíba",251392,2011,2501,"Sertão Paraibano",250103,"Sousa","São Bentinho",0.00236138964655296
+25,"Paraíba",251392,2012,2501,"Sertão Paraibano",250103,"Sousa","São Bentinho",0.022825904361257
+25,"Paraíba",251394,2007,2502,"Borborema",250211,"Cariri Oriental","São Domingos do Cariri",0.0126603523994135
+25,"Paraíba",251394,2008,2502,"Borborema",250211,"Cariri Oriental","São Domingos do Cariri",0.0182539475842485
+25,"Paraíba",251394,2009,2502,"Borborema",250211,"Cariri Oriental","São Domingos do Cariri",0.0319282140291078
+25,"Paraíba",251394,2010,2502,"Borborema",250211,"Cariri Oriental","São Domingos do Cariri",0.0227663592886242
+25,"Paraíba",251394,2011,2502,"Borborema",250211,"Cariri Oriental","São Domingos do Cariri",0.0128669846843238
+25,"Paraíba",251394,2012,2502,"Borborema",250211,"Cariri Oriental","São Domingos do Cariri",0.00154015119773557
+25,"Paraíba",251396,2007,2501,"Sertão Paraibano",250103,"Sousa","São Domingos",0.0216535753234012
+25,"Paraíba",251396,2008,2501,"Sertão Paraibano",250103,"Sousa","São Domingos",0.00300916649896953
+25,"Paraíba",251396,2009,2501,"Sertão Paraibano",250103,"Sousa","São Domingos",0.00788221480623619
+25,"Paraíba",251396,2010,2501,"Sertão Paraibano",250103,"Sousa","São Domingos",0.0110466170790748
+25,"Paraíba",251396,2011,2501,"Sertão Paraibano",250103,"Sousa","São Domingos",0.0172861808262664
+25,"Paraíba",251396,2012,2501,"Sertão Paraibano",250103,"Sousa","São Domingos",0.00815063747622129
+25,"Paraíba",251398,2007,2501,"Sertão Paraibano",250103,"Sousa","São Francisco",0.0042460258134849
+25,"Paraíba",251398,2008,2501,"Sertão Paraibano",250103,"Sousa","São Francisco",0.0347414699785562
+25,"Paraíba",251398,2009,2501,"Sertão Paraibano",250103,"Sousa","São Francisco",0.0262755263834782
+25,"Paraíba",251398,2010,2501,"Sertão Paraibano",250103,"Sousa","São Francisco",0.0145555344161653
+25,"Paraíba",251398,2011,2501,"Sertão Paraibano",250103,"Sousa","São Francisco",0.0024755705817189
+25,"Paraíba",251398,2012,2501,"Sertão Paraibano",250103,"Sousa","São Francisco",0.0251317656171327
+25,"Paraíba",251400,2007,2502,"Borborema",250211,"Cariri Oriental","São João do Cariri",0.0282049553273538
+25,"Paraíba",251400,2008,2502,"Borborema",250211,"Cariri Oriental","São João do Cariri",0.00778491156812949
+25,"Paraíba",251400,2009,2502,"Borborema",250211,"Cariri Oriental","São João do Cariri",0.00238206152537842
+25,"Paraíba",251400,2010,2502,"Borborema",250211,"Cariri Oriental","São João do Cariri",0.00114693335739345
+25,"Paraíba",251400,2011,2502,"Borborema",250211,"Cariri Oriental","São João do Cariri",0.000708766356030888
+25,"Paraíba",251400,2012,2502,"Borborema",250211,"Cariri Oriental","São João do Cariri",0.0110285734018744
+25,"Paraíba",251410,2007,2502,"Borborema",250210,"Cariri Ocidental","São João do Tigre",0.00774177713696589
+25,"Paraíba",251410,2008,2502,"Borborema",250210,"Cariri Ocidental","São João do Tigre",0.0166610212437546
+25,"Paraíba",251410,2009,2502,"Borborema",250210,"Cariri Ocidental","São João do Tigre",0.00958554685222963
+25,"Paraíba",251410,2010,2502,"Borborema",250210,"Cariri Ocidental","São João do Tigre",0.0152802469423778
+25,"Paraíba",251410,2011,2502,"Borborema",250210,"Cariri Ocidental","São João do Tigre",0.00716570996033472
+25,"Paraíba",251410,2012,2502,"Borborema",250210,"Cariri Ocidental","São João do Tigre",0.0188255150046656
+25,"Paraíba",251420,2007,2501,"Sertão Paraibano",250103,"Sousa","São José da Lagoa Tapada",0.0136886319357181
+25,"Paraíba",251420,2008,2501,"Sertão Paraibano",250103,"Sousa","São José da Lagoa Tapada",0.0290681481773541
+25,"Paraíba",251420,2009,2501,"Sertão Paraibano",250103,"Sousa","São José da Lagoa Tapada",0.0113253617455114
+25,"Paraíba",251420,2010,2501,"Sertão Paraibano",250103,"Sousa","São José da Lagoa Tapada",0.000910510858407428
+25,"Paraíba",251420,2011,2501,"Sertão Paraibano",250103,"Sousa","São José da Lagoa Tapada",0.00915123643258167
+25,"Paraíba",251420,2012,2501,"Sertão Paraibano",250103,"Sousa","São José da Lagoa Tapada",0.0223580966285713
+25,"Paraíba",251430,2007,2501,"Sertão Paraibano",250106,"Itaporanga","São José de Caiana",0.000550821207527991
+25,"Paraíba",251430,2008,2501,"Sertão Paraibano",250106,"Itaporanga","São José de Caiana",0.00632413729296449
+25,"Paraíba",251430,2009,2501,"Sertão Paraibano",250106,"Itaporanga","São José de Caiana",0.0296443371135114
+25,"Paraíba",251430,2010,2501,"Sertão Paraibano",250106,"Itaporanga","São José de Caiana",0.00100119880257576
+25,"Paraíba",251430,2011,2501,"Sertão Paraibano",250106,"Itaporanga","São José de Caiana",0.00252741855992487
+25,"Paraíba",251430,2012,2501,"Sertão Paraibano",250106,"Itaporanga","São José de Caiana",0.0494279863464158
+25,"Paraíba",251440,2007,2501,"Sertão Paraibano",250104,"Patos","São José de Espinharas",0.00119552026545925
+25,"Paraíba",251440,2008,2501,"Sertão Paraibano",250104,"Patos","São José de Espinharas",0.000663329564671954
+25,"Paraíba",251440,2009,2501,"Sertão Paraibano",250104,"Patos","São José de Espinharas",0.0301540448759962
+25,"Paraíba",251440,2010,2501,"Sertão Paraibano",250104,"Patos","São José de Espinharas",0.00238060041743258
+25,"Paraíba",251440,2011,2501,"Sertão Paraibano",250104,"Patos","São José de Espinharas",0.0136937054876106
+25,"Paraíba",251440,2012,2501,"Sertão Paraibano",250104,"Patos","São José de Espinharas",0.112105051653983
+25,"Paraíba",251445,2007,2504,"Mata Paraibana",250421,"Sapé","São José dos Ramos",0.0072322939745574
+25,"Paraíba",251445,2008,2504,"Mata Paraibana",250421,"Sapé","São José dos Ramos",0.00173316253739887
+25,"Paraíba",251445,2009,2504,"Mata Paraibana",250421,"Sapé","São José dos Ramos",0.00261513397721186
+25,"Paraíba",251445,2010,2504,"Mata Paraibana",250421,"Sapé","São José dos Ramos",0.000877860499892232
+25,"Paraíba",251445,2011,2504,"Mata Paraibana",250421,"Sapé","São José dos Ramos",0.00526610678470008
+25,"Paraíba",251445,2012,2504,"Mata Paraibana",250421,"Sapé","São José dos Ramos",0.0183784793837024
+25,"Paraíba",251450,2007,2501,"Sertão Paraibano",250102,"Cajazeiras","São José de Piranhas",0.0284034637382007
+25,"Paraíba",251450,2008,2501,"Sertão Paraibano",250102,"Cajazeiras","São José de Piranhas",0.0199238044191027
+25,"Paraíba",251450,2009,2501,"Sertão Paraibano",250102,"Cajazeiras","São José de Piranhas",0.0081387060542555
+25,"Paraíba",251450,2010,2501,"Sertão Paraibano",250102,"Cajazeiras","São José de Piranhas",0.0207439041774778
+25,"Paraíba",251450,2011,2501,"Sertão Paraibano",250102,"Cajazeiras","São José de Piranhas",0.0207753257161757
+25,"Paraíba",251450,2012,2501,"Sertão Paraibano",250102,"Cajazeiras","São José de Piranhas",0.00674643992232381
+25,"Paraíba",251455,2007,2501,"Sertão Paraibano",250107,"Serra do Teixeira","São José de Princesa",0.00375579153103396
+25,"Paraíba",251455,2008,2501,"Sertão Paraibano",250107,"Serra do Teixeira","São José de Princesa",0.0322463808530091
+25,"Paraíba",251455,2009,2501,"Sertão Paraibano",250107,"Serra do Teixeira","São José de Princesa",0.0109001200603631
+25,"Paraíba",251455,2010,2501,"Sertão Paraibano",250107,"Serra do Teixeira","São José de Princesa",0.0407844837494604
+25,"Paraíba",251455,2011,2501,"Sertão Paraibano",250107,"Serra do Teixeira","São José de Princesa",0.0225445771933729
+25,"Paraíba",251455,2012,2501,"Sertão Paraibano",250107,"Serra do Teixeira","São José de Princesa",0.00939486987212413
+25,"Paraíba",251460,2007,2501,"Sertão Paraibano",250104,"Patos","São José do Bonfim",0.0101385627191851
+25,"Paraíba",251460,2008,2501,"Sertão Paraibano",250104,"Patos","São José do Bonfim",0.00301290645976133
+25,"Paraíba",251460,2009,2501,"Sertão Paraibano",250104,"Patos","São José do Bonfim",0.0136780885877946
+25,"Paraíba",251460,2010,2501,"Sertão Paraibano",250104,"Patos","São José do Bonfim",0.0429264209150016
+25,"Paraíba",251460,2011,2501,"Sertão Paraibano",250104,"Patos","São José do Bonfim",0.0267811492611293
+25,"Paraíba",251460,2012,2501,"Sertão Paraibano",250104,"Patos","São José do Bonfim",0.0324959430462932
+25,"Paraíba",251465,2007,2501,"Sertão Paraibano",250101,"Catolé do Rocha","São José do Brejo do Cruz",0.0191600514347833
+25,"Paraíba",251465,2008,2501,"Sertão Paraibano",250101,"Catolé do Rocha","São José do Brejo do Cruz",0.0216167145320395
+25,"Paraíba",251465,2009,2501,"Sertão Paraibano",250101,"Catolé do Rocha","São José do Brejo do Cruz",0.0979187692903956
+25,"Paraíba",251465,2010,2501,"Sertão Paraibano",250101,"Catolé do Rocha","São José do Brejo do Cruz",0.0831146016697609
+25,"Paraíba",251465,2011,2501,"Sertão Paraibano",250101,"Catolé do Rocha","São José do Brejo do Cruz",0.0376836334626473
+25,"Paraíba",251465,2012,2501,"Sertão Paraibano",250101,"Catolé do Rocha","São José do Brejo do Cruz",0.0350712793544435
+25,"Paraíba",251470,2007,2502,"Borborema",250208,"Seridó Ocidental Paraibano","São José do Sabugi",NA
+25,"Paraíba",251470,2008,2502,"Borborema",250208,"Seridó Ocidental Paraibano","São José do Sabugi",0.00720903939375229
+25,"Paraíba",251470,2009,2502,"Borborema",250208,"Seridó Ocidental Paraibano","São José do Sabugi",0.00454975635884299
+25,"Paraíba",251470,2010,2502,"Borborema",250208,"Seridó Ocidental Paraibano","São José do Sabugi",0.000483637100279608
+25,"Paraíba",251470,2011,2502,"Borborema",250208,"Seridó Ocidental Paraibano","São José do Sabugi",0.0124196368693684
+25,"Paraíba",251470,2012,2502,"Borborema",250208,"Seridó Ocidental Paraibano","São José do Sabugi",0.0242125994785135
+25,"Paraíba",251480,2007,2502,"Borborema",250210,"Cariri Ocidental","São José dos Cordeiros",0.00120984706515808
+25,"Paraíba",251480,2008,2502,"Borborema",250210,"Cariri Ocidental","São José dos Cordeiros",0.0443939949950158
+25,"Paraíba",251480,2009,2502,"Borborema",250210,"Cariri Ocidental","São José dos Cordeiros",0.018392859099438
+25,"Paraíba",251480,2010,2502,"Borborema",250210,"Cariri Ocidental","São José dos Cordeiros",0.00080286343135198
+25,"Paraíba",251480,2011,2502,"Borborema",250210,"Cariri Ocidental","São José dos Cordeiros",0.0197098075880288
+25,"Paraíba",251480,2012,2502,"Borborema",250210,"Cariri Ocidental","São José dos Cordeiros",0.0163946874994161
+25,"Paraíba",251490,2007,2502,"Borborema",250208,"Seridó Ocidental Paraibano","São Mamede",0.00126293099612761
+25,"Paraíba",251490,2008,2502,"Borborema",250208,"Seridó Ocidental Paraibano","São Mamede",0.013486361925181
+25,"Paraíba",251490,2009,2502,"Borborema",250208,"Seridó Ocidental Paraibano","São Mamede",0.000662410725649995
+25,"Paraíba",251490,2010,2502,"Borborema",250208,"Seridó Ocidental Paraibano","São Mamede",0.000787257956982088
+25,"Paraíba",251490,2011,2502,"Borborema",250208,"Seridó Ocidental Paraibano","São Mamede",0.000579355538034355
+25,"Paraíba",251490,2012,2502,"Borborema",250208,"Seridó Ocidental Paraibano","São Mamede",0.03669483866296
+25,"Paraíba",251500,2007,2504,"Mata Paraibana",250421,"Sapé","São Miguel de Taipu",0.0411219268198362
+25,"Paraíba",251500,2008,2504,"Mata Paraibana",250421,"Sapé","São Miguel de Taipu",0.0434443966319363
+25,"Paraíba",251500,2009,2504,"Mata Paraibana",250421,"Sapé","São Miguel de Taipu",0.00232132711656462
+25,"Paraíba",251500,2010,2504,"Mata Paraibana",250421,"Sapé","São Miguel de Taipu",0.00693312853235438
+25,"Paraíba",251500,2011,2504,"Mata Paraibana",250421,"Sapé","São Miguel de Taipu",0.0137993898794811
+25,"Paraíba",251500,2012,2504,"Mata Paraibana",250421,"Sapé","São Miguel de Taipu",0.0229435683962353
+25,"Paraíba",251510,2007,2503,"Agreste Paraibano",250314,"Esperança","São Sebastião de Lagoa de Roça",0.00951262776981719
+25,"Paraíba",251510,2008,2503,"Agreste Paraibano",250314,"Esperança","São Sebastião de Lagoa de Roça",0.00118343831276876
+25,"Paraíba",251510,2009,2503,"Agreste Paraibano",250314,"Esperança","São Sebastião de Lagoa de Roça",0.00759038199142746
+25,"Paraíba",251510,2010,2503,"Agreste Paraibano",250314,"Esperança","São Sebastião de Lagoa de Roça",0.00295283201853398
+25,"Paraíba",251510,2011,2503,"Agreste Paraibano",250314,"Esperança","São Sebastião de Lagoa de Roça",0.00946462398001553
+25,"Paraíba",251510,2012,2503,"Agreste Paraibano",250314,"Esperança","São Sebastião de Lagoa de Roça",0.01345635558986
+25,"Paraíba",251520,2007,2502,"Borborema",250210,"Cariri Ocidental","São Sebastião do Umbuzeiro",0.00133092453826426
+25,"Paraíba",251520,2008,2502,"Borborema",250210,"Cariri Ocidental","São Sebastião do Umbuzeiro",0.00109982616705455
+25,"Paraíba",251520,2009,2502,"Borborema",250210,"Cariri Ocidental","São Sebastião do Umbuzeiro",0.00521231892123447
+25,"Paraíba",251520,2010,2502,"Borborema",250210,"Cariri Ocidental","São Sebastião do Umbuzeiro",0.00118131091824857
+25,"Paraíba",251520,2011,2502,"Borborema",250210,"Cariri Ocidental","São Sebastião do Umbuzeiro",0.00128405332431485
+25,"Paraíba",251520,2012,2502,"Borborema",250210,"Cariri Ocidental","São Sebastião do Umbuzeiro",0.0246113360817881
+25,"Paraíba",251530,2007,2504,"Mata Paraibana",250421,"Sapé","Sapé",0.00130604986108922
+25,"Paraíba",251530,2008,2504,"Mata Paraibana",250421,"Sapé","Sapé",0.00377856156242851
+25,"Paraíba",251530,2009,2504,"Mata Paraibana",250421,"Sapé","Sapé",0.00214206474757452
+25,"Paraíba",251530,2010,2504,"Mata Paraibana",250421,"Sapé","Sapé",0.00271839719506912
+25,"Paraíba",251530,2011,2504,"Mata Paraibana",250421,"Sapé","Sapé",0.00651341320813688
+25,"Paraíba",251530,2012,2504,"Mata Paraibana",250421,"Sapé","Sapé",0.00357181275734149
+25,"Paraíba",251540,2007,2502,"Borborema",250209,"Seridó Oriental Paraibano","Seridó",0.00223869799032292
+25,"Paraíba",251540,2008,2502,"Borborema",250209,"Seridó Oriental Paraibano","Seridó",0.0173398561021696
+25,"Paraíba",251540,2009,2502,"Borborema",250209,"Seridó Oriental Paraibano","Seridó",0.00123183372018747
+25,"Paraíba",251540,2010,2502,"Borborema",250209,"Seridó Oriental Paraibano","Seridó",0.00321133825592239
+25,"Paraíba",251540,2011,2502,"Borborema",250209,"Seridó Oriental Paraibano","Seridó",0.0278149327300543
+25,"Paraíba",251540,2012,2502,"Borborema",250209,"Seridó Oriental Paraibano","Seridó",0.0269673198572854
+25,"Paraíba",251550,2007,2502,"Borborema",250210,"Cariri Ocidental","Serra Branca",4.29095464165512e-05
+25,"Paraíba",251550,2008,2502,"Borborema",250210,"Cariri Ocidental","Serra Branca",0.00315408211945641
+25,"Paraíba",251550,2009,2502,"Borborema",250210,"Cariri Ocidental","Serra Branca",0.0057365414946615
+25,"Paraíba",251550,2010,2502,"Borborema",250210,"Cariri Ocidental","Serra Branca",0.0210731463405466
+25,"Paraíba",251550,2011,2502,"Borborema",250210,"Cariri Ocidental","Serra Branca",0.0221966896483887
+25,"Paraíba",251550,2012,2502,"Borborema",250210,"Cariri Ocidental","Serra Branca",0.0169735231952328
+25,"Paraíba",251560,2007,2503,"Agreste Paraibano",250316,"Guarabira","Serra da Raiz",0.00748590168092379
+25,"Paraíba",251560,2008,2503,"Agreste Paraibano",250316,"Guarabira","Serra da Raiz",NA
+25,"Paraíba",251560,2009,2503,"Agreste Paraibano",250316,"Guarabira","Serra da Raiz",0.0233171440125982
+25,"Paraíba",251560,2010,2503,"Agreste Paraibano",250316,"Guarabira","Serra da Raiz",0.000736867649074229
+25,"Paraíba",251560,2011,2503,"Agreste Paraibano",250316,"Guarabira","Serra da Raiz",0.0225877257842501
+25,"Paraíba",251560,2012,2503,"Agreste Paraibano",250316,"Guarabira","Serra da Raiz",0.02360151418327
+25,"Paraíba",251570,2007,2501,"Sertão Paraibano",250106,"Itaporanga","Serra Grande",0.019519321996326
+25,"Paraíba",251570,2008,2501,"Sertão Paraibano",250106,"Itaporanga","Serra Grande",0.0271545778937023
+25,"Paraíba",251570,2009,2501,"Sertão Paraibano",250106,"Itaporanga","Serra Grande",0.0102692650799007
+25,"Paraíba",251570,2010,2501,"Sertão Paraibano",250106,"Itaporanga","Serra Grande",0.00285880263138177
+25,"Paraíba",251570,2011,2501,"Sertão Paraibano",250106,"Itaporanga","Serra Grande",0.00198843867834622
+25,"Paraíba",251570,2012,2501,"Sertão Paraibano",250106,"Itaporanga","Serra Grande",0.00304079009425199
+25,"Paraíba",251580,2007,2503,"Agreste Paraibano",250317,"Campina Grande","Serra Redonda",0.040297055322628
+25,"Paraíba",251580,2008,2503,"Agreste Paraibano",250317,"Campina Grande","Serra Redonda",0.000597660191279013
+25,"Paraíba",251580,2009,2503,"Agreste Paraibano",250317,"Campina Grande","Serra Redonda",0.026961353994839
+25,"Paraíba",251580,2010,2503,"Agreste Paraibano",250317,"Campina Grande","Serra Redonda",0.0135510181186088
+25,"Paraíba",251580,2011,2503,"Agreste Paraibano",250317,"Campina Grande","Serra Redonda",0.0092305909393639
+25,"Paraíba",251580,2012,2503,"Agreste Paraibano",250317,"Campina Grande","Serra Redonda",0.00423008781603265
+25,"Paraíba",251590,2007,2503,"Agreste Paraibano",250315,"Brejo Paraibano","Serraria",0.000819413287140753
+25,"Paraíba",251590,2008,2503,"Agreste Paraibano",250315,"Brejo Paraibano","Serraria",0.00119050154963151
+25,"Paraíba",251590,2009,2503,"Agreste Paraibano",250315,"Brejo Paraibano","Serraria",0.00135196832222369
+25,"Paraíba",251590,2010,2503,"Agreste Paraibano",250315,"Brejo Paraibano","Serraria",0.00427158526572245
+25,"Paraíba",251590,2011,2503,"Agreste Paraibano",250315,"Brejo Paraibano","Serraria",0.0249620478745005
+25,"Paraíba",251590,2012,2503,"Agreste Paraibano",250315,"Brejo Paraibano","Serraria",0.0144772721491976
+25,"Paraíba",251593,2007,2503,"Agreste Paraibano",250316,"Guarabira","Sertãozinho",0.014021992841465
+25,"Paraíba",251593,2008,2503,"Agreste Paraibano",250316,"Guarabira","Sertãozinho",0.00684968268781871
+25,"Paraíba",251593,2009,2503,"Agreste Paraibano",250316,"Guarabira","Sertãozinho",0.00506759960924452
+25,"Paraíba",251593,2010,2503,"Agreste Paraibano",250316,"Guarabira","Sertãozinho",0.0124403336616447
+25,"Paraíba",251593,2011,2503,"Agreste Paraibano",250316,"Guarabira","Sertãozinho",0.0106665565267018
+25,"Paraíba",251593,2012,2503,"Agreste Paraibano",250316,"Guarabira","Sertãozinho",0.00283234195312668
+25,"Paraíba",251597,2007,2504,"Mata Paraibana",250421,"Sapé","Sobrado",0.0197378288081864
+25,"Paraíba",251597,2008,2504,"Mata Paraibana",250421,"Sapé","Sobrado",0.00395533789030074
+25,"Paraíba",251597,2009,2504,"Mata Paraibana",250421,"Sapé","Sobrado",0.00873366800481313
+25,"Paraíba",251597,2010,2504,"Mata Paraibana",250421,"Sapé","Sobrado",0.0097630687837509
+25,"Paraíba",251597,2011,2504,"Mata Paraibana",250421,"Sapé","Sobrado",0.0021889966102396
+25,"Paraíba",251597,2012,2504,"Mata Paraibana",250421,"Sapé","Sobrado",0.00153353643100814
+25,"Paraíba",251600,2007,2503,"Agreste Paraibano",250313,"Curimataú Oriental","Solânea",0.000567610997065157
+25,"Paraíba",251600,2008,2503,"Agreste Paraibano",250313,"Curimataú Oriental","Solânea",0.00423182056818753
+25,"Paraíba",251600,2009,2503,"Agreste Paraibano",250313,"Curimataú Oriental","Solânea",0.000565659755481394
+25,"Paraíba",251600,2010,2503,"Agreste Paraibano",250313,"Curimataú Oriental","Solânea",0.00493269804272053
+25,"Paraíba",251600,2011,2503,"Agreste Paraibano",250313,"Curimataú Oriental","Solânea",0.0118611503855009
+25,"Paraíba",251600,2012,2503,"Agreste Paraibano",250313,"Curimataú Oriental","Solânea",0.00783392556865168
+25,"Paraíba",251610,2007,2503,"Agreste Paraibano",250312,"Curimataú Ocidental","Soledade",0.000398268739286682
+25,"Paraíba",251610,2008,2503,"Agreste Paraibano",250312,"Curimataú Ocidental","Soledade",0.0015525489212868
+25,"Paraíba",251610,2009,2503,"Agreste Paraibano",250312,"Curimataú Ocidental","Soledade",0.00918574168931284
+25,"Paraíba",251610,2010,2503,"Agreste Paraibano",250312,"Curimataú Ocidental","Soledade",0.00125170521117947
+25,"Paraíba",251610,2011,2503,"Agreste Paraibano",250312,"Curimataú Ocidental","Soledade",0.00142886604566004
+25,"Paraíba",251610,2012,2503,"Agreste Paraibano",250312,"Curimataú Ocidental","Soledade",0.00296910142665014
+25,"Paraíba",251615,2007,2503,"Agreste Paraibano",250312,"Curimataú Ocidental","Sossêgo",0.0203107470859636
+25,"Paraíba",251615,2008,2503,"Agreste Paraibano",250312,"Curimataú Ocidental","Sossêgo",0.0308881378713579
+25,"Paraíba",251615,2009,2503,"Agreste Paraibano",250312,"Curimataú Ocidental","Sossêgo",0.011920617716372
+25,"Paraíba",251615,2010,2503,"Agreste Paraibano",250312,"Curimataú Ocidental","Sossêgo",0.0189194771412081
+25,"Paraíba",251615,2011,2503,"Agreste Paraibano",250312,"Curimataú Ocidental","Sossêgo",0.0138307078181905
+25,"Paraíba",251615,2012,2503,"Agreste Paraibano",250312,"Curimataú Ocidental","Sossêgo",0.0167437479935604
+25,"Paraíba",251620,2007,2501,"Sertão Paraibano",250103,"Sousa","Sousa",0.00279096094445746
+25,"Paraíba",251620,2008,2501,"Sertão Paraibano",250103,"Sousa","Sousa",0.00160913532563218
+25,"Paraíba",251620,2009,2501,"Sertão Paraibano",250103,"Sousa","Sousa",0.012728346353935
+25,"Paraíba",251620,2010,2501,"Sertão Paraibano",250103,"Sousa","Sousa",0.0429398045128335
+25,"Paraíba",251620,2011,2501,"Sertão Paraibano",250103,"Sousa","Sousa",0.0113685085094441
+25,"Paraíba",251620,2012,2501,"Sertão Paraibano",250103,"Sousa","Sousa",0.0063661583968672
+25,"Paraíba",251630,2007,2502,"Borborema",250210,"Cariri Ocidental","Sumé",0.00172074260976462
+25,"Paraíba",251630,2008,2502,"Borborema",250210,"Cariri Ocidental","Sumé",0.000222109462769049
+25,"Paraíba",251630,2009,2502,"Borborema",250210,"Cariri Ocidental","Sumé",0.0177338829682023
+25,"Paraíba",251630,2010,2502,"Borborema",250210,"Cariri Ocidental","Sumé",0.0134140757585332
+25,"Paraíba",251630,2011,2502,"Borborema",250210,"Cariri Ocidental","Sumé",0.0128663296241028
+25,"Paraíba",251630,2012,2502,"Borborema",250210,"Cariri Ocidental","Sumé",0.0371818701170957
+25,"Paraíba",251640,2007,2503,"Agreste Paraibano",250313,"Curimataú Oriental","Tacima",0.000413616878585719
+25,"Paraíba",251640,2008,2503,"Agreste Paraibano",250313,"Curimataú Oriental","Tacima",0.0127481841773862
+25,"Paraíba",251640,2009,2503,"Agreste Paraibano",250313,"Curimataú Oriental","Tacima",0.010179799344829
+25,"Paraíba",251640,2010,2503,"Agreste Paraibano",250313,"Curimataú Oriental","Tacima",0.0167456811957767
+25,"Paraíba",251640,2011,2503,"Agreste Paraibano",250313,"Curimataú Oriental","Tacima",0.0185341477345838
+25,"Paraíba",251640,2012,2503,"Agreste Paraibano",250313,"Curimataú Oriental","Tacima",0.0189903555888159
+25,"Paraíba",251650,2007,2502,"Borborema",250210,"Cariri Ocidental","Taperoá",0.0107742470471862
+25,"Paraíba",251650,2008,2502,"Borborema",250210,"Cariri Ocidental","Taperoá",0.00202126336976668
+25,"Paraíba",251650,2009,2502,"Borborema",250210,"Cariri Ocidental","Taperoá",0.0128809350352584
+25,"Paraíba",251650,2010,2502,"Borborema",250210,"Cariri Ocidental","Taperoá",0.019033458387693
+25,"Paraíba",251650,2011,2502,"Borborema",250210,"Cariri Ocidental","Taperoá",0.0210738301998451
+25,"Paraíba",251650,2012,2502,"Borborema",250210,"Cariri Ocidental","Taperoá",0.0414828164708462
+25,"Paraíba",251660,2007,2501,"Sertão Paraibano",250107,"Serra do Teixeira","Tavares",0.0114159717261771
+25,"Paraíba",251660,2008,2501,"Sertão Paraibano",250107,"Serra do Teixeira","Tavares",0.0149873200110869
+25,"Paraíba",251660,2009,2501,"Sertão Paraibano",250107,"Serra do Teixeira","Tavares",0.0060582295770428
+25,"Paraíba",251660,2010,2501,"Sertão Paraibano",250107,"Serra do Teixeira","Tavares",0.0103768928450846
+25,"Paraíba",251660,2011,2501,"Sertão Paraibano",250107,"Serra do Teixeira","Tavares",0.0114292970145519
+25,"Paraíba",251660,2012,2501,"Sertão Paraibano",250107,"Serra do Teixeira","Tavares",0.000506047826189111
+25,"Paraíba",251670,2007,2501,"Sertão Paraibano",250107,"Serra do Teixeira","Teixeira",0.028247914765422
+25,"Paraíba",251670,2008,2501,"Sertão Paraibano",250107,"Serra do Teixeira","Teixeira",0.00664008113158801
+25,"Paraíba",251670,2009,2501,"Sertão Paraibano",250107,"Serra do Teixeira","Teixeira",0.000958053561027353
+25,"Paraíba",251670,2010,2501,"Sertão Paraibano",250107,"Serra do Teixeira","Teixeira",8.28717281740196e-05
+25,"Paraíba",251670,2011,2501,"Sertão Paraibano",250107,"Serra do Teixeira","Teixeira",0.00527977858089873
+25,"Paraíba",251670,2012,2501,"Sertão Paraibano",250107,"Serra do Teixeira","Teixeira",0.0279966358275469
+25,"Paraíba",251675,2007,2502,"Borborema",250209,"Seridó Oriental Paraibano","Tenório",0.054122441615564
+25,"Paraíba",251675,2008,2502,"Borborema",250209,"Seridó Oriental Paraibano","Tenório",0.0045188383225714
+25,"Paraíba",251675,2009,2502,"Borborema",250209,"Seridó Oriental Paraibano","Tenório",NA
+25,"Paraíba",251675,2010,2502,"Borborema",250209,"Seridó Oriental Paraibano","Tenório",0.000951842364759271
+25,"Paraíba",251675,2011,2502,"Borborema",250209,"Seridó Oriental Paraibano","Tenório",0.000464166910790793
+25,"Paraíba",251675,2012,2502,"Borborema",250209,"Seridó Oriental Paraibano","Tenório",0.0577045526413335
+25,"Paraíba",251680,2007,2501,"Sertão Paraibano",250102,"Cajazeiras","Triunfo",0.000830134312518719
+25,"Paraíba",251680,2008,2501,"Sertão Paraibano",250102,"Cajazeiras","Triunfo",0.000230221363778248
+25,"Paraíba",251680,2009,2501,"Sertão Paraibano",250102,"Cajazeiras","Triunfo",0.000401250212723064
+25,"Paraíba",251680,2010,2501,"Sertão Paraibano",250102,"Cajazeiras","Triunfo",0.000312805141083766
+25,"Paraíba",251680,2011,2501,"Sertão Paraibano",250102,"Cajazeiras","Triunfo",0.00153489596986038
+25,"Paraíba",251680,2012,2501,"Sertão Paraibano",250102,"Cajazeiras","Triunfo",0.0108417926949825
+25,"Paraíba",251690,2007,2501,"Sertão Paraibano",250102,"Cajazeiras","Uiraúna",0.000631845014068654
+25,"Paraíba",251690,2008,2501,"Sertão Paraibano",250102,"Cajazeiras","Uiraúna",0.0137180344656265
+25,"Paraíba",251690,2009,2501,"Sertão Paraibano",250102,"Cajazeiras","Uiraúna",0.0164795804659125
+25,"Paraíba",251690,2010,2501,"Sertão Paraibano",250102,"Cajazeiras","Uiraúna",0.0100169041795615
+25,"Paraíba",251690,2011,2501,"Sertão Paraibano",250102,"Cajazeiras","Uiraúna",0.00504047193101336
+25,"Paraíba",251690,2012,2501,"Sertão Paraibano",250102,"Cajazeiras","Uiraúna",0.0146129101193421
+25,"Paraíba",251700,2007,2503,"Agreste Paraibano",250319,"Umbuzeiro","Umbuzeiro",0.000358784357765185
+25,"Paraíba",251700,2008,2503,"Agreste Paraibano",250319,"Umbuzeiro","Umbuzeiro",0.00105321140792314
+25,"Paraíba",251700,2009,2503,"Agreste Paraibano",250319,"Umbuzeiro","Umbuzeiro",0.0129692449071272
+25,"Paraíba",251700,2010,2503,"Agreste Paraibano",250319,"Umbuzeiro","Umbuzeiro",0.0165459177475352
+25,"Paraíba",251700,2011,2503,"Agreste Paraibano",250319,"Umbuzeiro","Umbuzeiro",0.0157240216358668
+25,"Paraíba",251700,2012,2503,"Agreste Paraibano",250319,"Umbuzeiro","Umbuzeiro",0.0167621918074008
+25,"Paraíba",251710,2007,2502,"Borborema",250208,"Seridó Ocidental Paraibano","Várzea",0.00117722962416268
+25,"Paraíba",251710,2008,2502,"Borborema",250208,"Seridó Ocidental Paraibano","Várzea",0.0256367336037957
+25,"Paraíba",251710,2009,2502,"Borborema",250208,"Seridó Ocidental Paraibano","Várzea",0.0113861032193337
+25,"Paraíba",251710,2010,2502,"Borborema",250208,"Seridó Ocidental Paraibano","Várzea",0.0464260545656544
+25,"Paraíba",251710,2011,2502,"Borborema",250208,"Seridó Ocidental Paraibano","Várzea",0.00893715778476423
+25,"Paraíba",251710,2012,2502,"Borborema",250208,"Seridó Ocidental Paraibano","Várzea",0.0139786038251628
+25,"Paraíba",251720,2007,2501,"Sertão Paraibano",250103,"Sousa","Vieirópolis",0.0147889353674766
+25,"Paraíba",251720,2008,2501,"Sertão Paraibano",250103,"Sousa","Vieirópolis",0.000141073475035683
+25,"Paraíba",251720,2009,2501,"Sertão Paraibano",250103,"Sousa","Vieirópolis",0.0151653816882622
+25,"Paraíba",251720,2010,2501,"Sertão Paraibano",250103,"Sousa","Vieirópolis",0.0302462441650089
+25,"Paraíba",251720,2011,2501,"Sertão Paraibano",250103,"Sousa","Vieirópolis",0.000819612940685114
+25,"Paraíba",251720,2012,2501,"Sertão Paraibano",250103,"Sousa","Vieirópolis",0.0128455083402367
+25,"Paraíba",251740,2007,2502,"Borborema",250210,"Cariri Ocidental","Zabelê",0.00455974706295219
+25,"Paraíba",251740,2008,2502,"Borborema",250210,"Cariri Ocidental","Zabelê",0.00947282229819696
+25,"Paraíba",251740,2009,2502,"Borborema",250210,"Cariri Ocidental","Zabelê",0.00831164664499454
+25,"Paraíba",251740,2010,2502,"Borborema",250210,"Cariri Ocidental","Zabelê",0.0168318538777183
+25,"Paraíba",251740,2011,2502,"Borborema",250210,"Cariri Ocidental","Zabelê",0.00647883000997573
+25,"Paraíba",251740,2012,2502,"Borborema",250210,"Cariri Ocidental","Zabelê",0.00602529566935484
