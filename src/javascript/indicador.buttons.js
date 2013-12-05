@@ -3,6 +3,7 @@
 function loadUpButtons(data) {
 	
 		data.sort(function (a, b) {
+				console.log(a);
 				return a.name.localeCompare(b.name);
 		});
 
