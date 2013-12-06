@@ -21,14 +21,10 @@ function loadData() {
 	});
 
 	d3.csv("data/desvios.csv" , function (data){
-		desvios = data.map(function(d){ console.log(d);return {
-
-
-
+		desvios = data.map(function(d){ return {
 			indicador: d.indicador,
 			ano: d.ano,
-			bounds: [d.min, d.q4.neg, d.q3.neg, d.q2.neg, d.q0, d.q2, d.q3, d.q4, d.max]
-
+			bounds: [d.min, d.q4neg, d.q3neg, d.q2neg, d.q0, d.q2, d.q3, d.q4, d.max]
 	    }});
 	});
 
@@ -74,3 +70,10 @@ Array.prototype.unique = function() {
     for(i in o) r.push(o[i]);
     return r;
 };
+
+
+function formatNum(numero) {
+    var n= numero.toString().split(".");
+    n[0] = n[0].replace(/\B(?=(\d{3})+(?!\d))/g, ".");
+    return n.join(",");
+}
