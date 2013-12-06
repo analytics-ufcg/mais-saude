@@ -18,6 +18,9 @@
 	<link rel="stylesheet" href="css/header.css" type="text/css"/>
 	<link rel="stylesheet" href="css/edubrasil_main.css" type="text/css"/>
 	<link rel="stylesheet" href="css/indicadores_buttons.css" type="text/css"/>
+	<link rel="stylesheet" href="css/nv.d3.css" type="text/css">
+
+
 
 	<script type="text/javascript" src="javascript/jquery-1.9.1.js"></script>
 	<script type="text/javascript" src="javascript/d3.v3.js"></script>
@@ -28,6 +31,18 @@
 	<script type="text/javascript" src="javascript/mapa.js"></script>
 	<script type="text/javascript" src="javascript/index.js"></script>
 	<script type="text/javascript" src="javascript/indicador.buttons.js"></script>
+	<script type="text/javascript" src="javascript/d3.v3.js"></script>
+	<script type="text/javascript" src="javascript/d3.v3.js"></script>
+	<script type="text/javascript" src="javascript/nv.d3.js"></script>
+	<script type="text/javascript" src="javascript/tooltip.js"></script>
+	<script type="text/javascript" src="javascript/utils.js"></script>
+	<script type="text/javascript" src="javascript/legend.js"></script>
+	<script type="text/javascript" src="javascript/axis.js"></script>
+	<script type="text/javascript" src="javascript/scatter.js"></script>
+	<script type="text/javascript" src="javascript/line.js"></script>
+	<script type="text/javascript" src="javascript/lineChart.js"></script>
+	<script type="text/javascript" src="javascript/series.js"></script>
+	
 
 </head>
 
@@ -44,7 +59,6 @@
 	          <div class="nav-collapse collapse">
 	            <ul class="nav">
 	              <li class="active"><a href="index.html">Pagina Inicial</a></li>
-    
 	            </ul>
 	          </div><!--/.nav-collapse -->
 	        </div>
@@ -861,9 +875,13 @@
 				</div>
 				<div id="div_nome_cidade" class="single_plot"></div>
 				<div id="div_indicador_titulo" class="single_plot"></div>
-				<div id="div_indicador" class="single_plot"></div>
+				<div id="div_indicador" class="single_plot"><div id="chart1" class='with-transitions'>
+				    <svg></svg>
+				  </div></div>
 				<div id="div_series_titulo" class="single_plot"></div>
-				<div id="div_series" class="single_plot"></div>
+				<div id="div_series" class='with-transitions'>
+					
+				</div>
 			</div>
 			<div id="div_options" class="span3">
 				

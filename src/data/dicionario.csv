@@ -1,4 +1,4 @@
-"id",name,"desvio","referencial_maior",big_description,number
+"id","name","desvio","referencial_maior","big_description","number"
 INDICADOR_001,Cobertura equipes Atenção Básica,DESVIOS_MELHOR_INDICADOR_01,neutro,Cobertura populacional estimada pelas equipes de Atenção Básica,0
 INDICADOR_002,Internações por condições sensíveis à Atenção Básica(%),DESVIOS_MELHOR_INDICADOR_02,neutro,Proporção de internações por condições sensíveis à atenção Básica(ICSAB),1
 INDICADOR_004,Cobertura equipes básicas de saúde bucal,DESVIOS_MELHOR_INDICADOR_04,neutro,Cobertura populacional estimada pelas equipes básicas de saúde bucal,2

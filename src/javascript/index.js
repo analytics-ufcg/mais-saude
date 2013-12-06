@@ -17,7 +17,6 @@ function loadData() {
 	d3.csv("data/dicionario.csv" , function (data){
 		dicionario = data;
 		// Carrega os buttons de indicadores no arquivo indicador.buttons.js
-		console.log(dicionario);
 		loadUpButtons(dicionario)
 	});
 
@@ -29,7 +28,6 @@ function loadData() {
 
 	// ativa o bootstrap-select.js do seletor
 	//$('.selectpicker').selectpicker({'selectedText': 'cat'});
-	
 
 };
 
@@ -54,17 +52,8 @@ function loadUpCities(data) {
 			.attr("data-icon", "icon-map-marker")
 			.text(function(d){return d;})
 		;
-
-//		$('.selectpicker').selectpicker({'selectedText': 'cat'});
-
-
 }
 
-
-
-function getMenuOption(selection) {
-
-}
 
 
 Array.prototype.unique = function() {

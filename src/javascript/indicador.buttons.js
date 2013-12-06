@@ -3,7 +3,6 @@
 function loadUpButtons(data) {
 	
 		data.sort(function (a, b) {
-				console.log(a);
 				return a.name.localeCompare(b.name);
 		});
 
@@ -28,7 +27,9 @@ function loadUpButtons(data) {
 						$("#map_title")
 						.text(d.name.replace("(%)","").replace("(em Reais)",""));
 						plotColorMap(d.id, d.desvio, dataset);
-
+					}
+					else{
+						load(cidade, d.id);
 					}
 				
 				});
@@ -92,8 +93,7 @@ function getButtonColor(colunaDesvio) {
 	}
 
 	valor = parseFloat(valor);
-	console.log(valor);
-
+	
 	if (valor == -2) {
         return "indicador_amarelo";
 	}

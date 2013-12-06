@@ -17,6 +17,7 @@ function resetMap(dataset) {
 	var todas_cidades = dataset.map(function(d){return d.NOME_MUNICIPIO;}).unique().sort(sortComparer);
 	var div_municipios = d3.select("#Municípios");
 
+
 	//laço que itera em todas as cidades do mapa
 	for (var i = 0; i < todas_cidades.length; i++) {
 
@@ -98,6 +99,7 @@ function plotColorMap(indicador_nome, colunaDesvio, dataset) {
 	var indicador_desvio;
 	var lastYear;
 
+
 	//laço que itera em todas as cidades do mapa
 	for (var i = 0; i < todas_cidades.length; i++) {
 
@@ -169,6 +171,31 @@ function plotColorMap(indicador_nome, colunaDesvio, dataset) {
 			cidadeID.css("fill", getClassColor( indicador_desvio));
 			d3.select("#tooltip").classed("hidden", true);
 		});
+
+		cidadeID.on("click", function(d){
+			var cidadeID = $(this);
+
+			var cidade = cidadeID.attr("id").replace(/_/g, " ");
+
+			if(cidade == "Mãe d Água" || cidade == "Olho d Água") {
+				cidade = cidade.replace(/d Água/, "d'Água");
+			}
+
+			var indicador_result = getDesvioIndicador(indicador_nome, colunaDesvio, cidade, dataset);
+
+			var selection = $("#myList").val(cidade);
+
+			selection.change();
+
+			if(indicador_result[0] != "NA") {
+				
+				load(cidade, indicador_nome);
+				
+			}
+
+			
+		});
+
 	}
 }
 
@@ -198,7 +225,7 @@ function getDesvioIndicador(indicador, colunaDesvio, cidade, dataset) {
 function getClassColor(desvioResult) {
 
 	if (desvioResult == "NA" ) {
-			return "none";
+			return "#FFFFFF";
 	}
 	if(desvioResult == "-4"){
 		return colors[0];
