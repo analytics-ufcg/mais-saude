@@ -1,7 +1,7 @@
 
 var dataset = [];
 var dicionario = [];
-var cidade = "Visão Geral";
+var desvios = [];
 
 
 //Carrega arquivo inicial e os botoes
@@ -18,6 +18,18 @@ function loadData() {
 		dicionario = data;
 		// Carrega os buttons de indicadores no arquivo indicador.buttons.js
 		loadUpButtons(dicionario)
+	});
+
+	d3.csv("data/desvios.csv" , function (data){
+		desvios = data.map(function(d){ console.log(d);return {
+
+
+
+			indicador: d.indicador,
+			ano: d.ano,
+			bounds: [d.min, d.q4.neg, d.q3.neg, d.q2.neg, d.q0, d.q2, d.q3, d.q4, d.max]
+
+	    }});
 	});
 
 	// ativa o icone back to map

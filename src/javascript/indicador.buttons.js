@@ -29,7 +29,10 @@ function loadUpButtons(data) {
 						plotColorMap(d.id, d.desvio, dataset);
 					}
 					else{
-						load(cidade, d.id);
+						cleanContainers();
+						plot_barra_indicador(cidade, d.id);
+						plot_cidade_indicador(cidade, d.id);
+
 					}
 				
 				});
@@ -58,14 +61,18 @@ function getMenuOption(selection) {
 	rawdata = dataset.filter(function(i){return i.NOME_MUNICIPIO == cidade;});	
 	
 	dicionario.sort(function (a, b) {
+
 		return getDesvio(a.desvio) - getDesvio(b.desvio);
+			
 	});
+	
 	d3.selectAll(".indicador")
 	.data(dicionario)
 	.attr("class", function(d) {
+
 		return "indicador " + getButtonColor(d.desvio);        	
     })
-	.attr("value", function (d){return d.name.replace("(%)","").replace("(em Reais)","");}) /*removendo unidades 27/09/2013*/
+	.attr("value", function (d){return d.name.replace("(%)","").replace("(em Reais)","");}) 
 	.attr("id", function (d, i){return d.id;});
 
 }
@@ -91,8 +98,9 @@ function getButtonColor(colunaDesvio) {
 	if (valor == "NA") {
         return "indicador_cinza";
 	}
-
+	//console.log(valor);
 	valor = parseFloat(valor);
+	//console.log(valor);
 	
 	if (valor == -2) {
         return "indicador_amarelo";
@@ -129,6 +137,7 @@ function getRecentValueIndicadorColuna(colunaDesvio) {
 
 function getDesvio(colunaDesvio) {
 	var valor = getRecentValueIndicadorColuna(colunaDesvio);
+
 	if (valor == "NA" ) {
 		return 10;
 	}

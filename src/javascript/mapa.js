@@ -188,8 +188,10 @@ function plotColorMap(indicador_nome, colunaDesvio, dataset) {
 			selection.change();
 
 			if(indicador_result[0] != "NA") {
-				
-				load(cidade, indicador_nome);
+				cleanContainers();
+				plot_barra_indicador(cidade, indicador_nome);
+				plot_cidade_indicador(cidade, indicador_nome);
+
 				
 			}
 

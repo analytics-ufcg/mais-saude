@@ -1,7 +1,7 @@
 var city = [];
 var maxY = 0;
 
-function load(cidade, indicador_nome) {
+function plot_cidade_indicador(cidade, indicador_nome) {
    //console.log(cidade);
   
   if(dataset!='null'){
@@ -35,9 +35,8 @@ function plot(data, cidade, indicador){
         .axisLabel('anos')
         .tickFormat(d3.format(',.2f'));
 
-    d3.select('#div_series').append("svg");
-
-    d3.select('#div_series svg')
+    d3.select('#div_series')
+      .append("svg")
       .attr('class','nvd3svg')
       .attr('perserveAspectRatio', 'xMinYMid')
       .attr('width', width)
@@ -59,7 +58,7 @@ function plot(data, cidade, indicador){
 
       d3.select('#div_series svg')
           .attr('viewBox', '0 0 ' + w + ' ' + h)
-          //.transition().duration(500)
+          .transition().duration(500)
           .call(chart);
     }
 
@@ -85,7 +84,6 @@ function plot(data, cidade, indicador){
     var nome_indicador = dicionario.filter(function(d){if (d.id == indicador) return d.name;});
     nome_indicador = nome_indicador.map(function(d){return d.name;});
 
-    console.log(nome_indicador);
     d3.select("#div_series_titulo").selectAll("h1").remove();
 
     $("#map_title").text(nome_indicador);
