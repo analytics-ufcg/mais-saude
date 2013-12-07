@@ -12,7 +12,7 @@ function plot_barra_indicador(cidade, indicador_nome) {
   }
 }
 var bounds;
-
+var estado_faixas;
 function plot_bars(data, cidade_nome, indicador){
 
 	var h1 = 60;
@@ -24,9 +24,9 @@ function plot_bars(data, cidade_nome, indicador){
 	
 	var rawdata = data.filter(function(d){return d.ANO == current_year;});
 
-	bounds = desvios.filter(function(d){return d.indicador == indicador && d.ano == current_year})[0].bounds;
-	bounds.sort();
-	bounds.reverse();
+	bounds = desvios.filter(function(d){return d.indicador == indicador && d.ano == current_year})[0]
+					.bounds
+					.map(parseFloat);
 	
 	var estado = rawdata;
 	
@@ -36,7 +36,9 @@ function plot_bars(data, cidade_nome, indicador){
 
 	var micro = rawdata.filter(function(d){return d.NOME_MICRO == cidade.NOME_MICRO;});
 
-	var estado_faixas = bounds.map(function(d){ return {'x': d, 'y': h1};});
+	estado_faixas = bounds.map(function(d){ return {'x': d, 'y': h1};}).sort(function(a, b){ 
+		return d3.descending(a.x, b.x); 
+	});;
 					
 	var meso_faixas =[
 	                  {'x': (d3.max(estado,function(d){return parseFloat(d[indicador]);})), 'y' : h2},
@@ -67,19 +69,26 @@ function plot_bars(data, cidade_nome, indicador){
 	
 	plot_bar(svg, estado, estado_faixas, x_start, x_end);
 	
-	// plot_bar(svg, meso, meso_faixas);
-	//plot_bar(svg, micro, micro_faixas);
+	//plot_bar(svg, meso, meso_faixas, x_start, x_end);
+	//plot_bar(svg, micro, micro_faixas, x_start, x_end);
 
 }
 
 var cinza = "#F0F0F0";
 
-var color_scale_faixa = ["#FF0000", "#FF7F00", "#FFFF00", "#F0F0F0", "#92B879", "#006400"];
+var color_scale_faixa = [
+	"#006400",
+	"#92B879", 
+	"#FFFF00", 
+	"#FF7F00", 
+	"#F0F0F0", 
+	"#FF0000" 
+];
 
 function plot_bar(svg_element, cidades, faixas, x_start, x_end){
 	
-	var min_x = faixas[0].x;
-	var max_x = faixas[faixas.length-1].x;
+	var min_x = faixas[faixas.length-1].x;
+	var max_x = faixas[0].x;
 	var y_default = faixas[0].y;
 	
 	var x_scale = d3.scale.linear()
