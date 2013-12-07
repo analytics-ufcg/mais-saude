@@ -62,8 +62,8 @@ function plot_bars(data, cidade_nome, indicador){
 		.attr('height', height);
 	
 	plot_bar(svg, estado, estado_faixas, x_start, x_end, color_scale_indicador);
-	//plot_bar(svg, meso, meso_faixas, x_start, x_end, color_scale_meso);
-	//plot_bar(svg, micro, micro_faixas, x_start, x_end, color_scale_meso);
+	plot_bar(svg, meso, meso_faixas, x_start, x_end, color_scale_meso);
+	plot_bar(svg, micro, micro_faixas, x_start, x_end, color_scale_meso);
 
 }
 
