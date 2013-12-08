@@ -61,6 +61,7 @@ function plot_bars(data, cidade_nome, indicador){
 		.attr('width', width)
 		.attr('height', height);
 	
+	plotTitulosGraficos(indicador, current_year);
 	plot_bar(svg, estado, estado_faixas, x_start, x_end, color_scale_indicador);
 	plot_bar(svg, meso, meso_faixas, x_start, x_end, color_scale_meso);
 	plot_bar(svg, micro, micro_faixas, x_start, x_end, color_scale_meso);
@@ -82,7 +83,6 @@ var color_scale_meso = [
 	"#E0E0E0",
 	"#F0F0F0"
 ];
-
 
 
 function plot_bar(svg_element, cidades, faixas, x_start, x_end, color_scale){
@@ -115,7 +115,6 @@ function plot_bar(svg_element, cidades, faixas, x_start, x_end, color_scale){
 						.attr("y2",y_default)
 						.attr("id","barra_indicador_altura_" + y_default)
 						.style("stroke",function(d,i){return color_scale[i]})
-						//.attr("opacity",0.2)
 						.attr("stroke-width",25)
 	
 	
@@ -123,13 +122,28 @@ function plot_bar(svg_element, cidades, faixas, x_start, x_end, color_scale){
 
 function getCurrentYearNotNA(data, cidade, indicador) {
     
-
     var city = data.filter(function(d){return d.NOME_MUNICIPIO == cidade && d[indicador] != "NA";});
     var value = city.map(function(d){return d[indicador];});
     var years = city.map(function(d){return d.ANO;});
 
-    return current_year = d3.max(years);
-
-   
+    return current_year = d3.max(years);   
 }
 
+function plotTitulosGraficos(indicador, ano){
+
+	var nome_indicador = dicionario.filter(function(d){if (d.id == indicador) return d.name;});
+    nome_indicador = nome_indicador.map(function(d){return d.name;});	
+
+    d3.select("#plot_area").selectAll("h1").remove();
+
+    d3.select("#div_nome_cidade")
+    .append("h1")
+    .attr("class", "nome_cidade")
+    .text(cidade + " - " + ano);
+    
+    d3.select("#div_indicador_titulo")
+    .append("h1")
+    .attr("class", "titulo_grafico")
+    .text(nome_indicador);
+
+}
