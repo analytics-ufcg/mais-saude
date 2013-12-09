@@ -134,6 +134,7 @@ function plot_cidades(svg,cidades, faixas, x_start, x_end, indicador, color_scal
 	var y_default = faixas[0].y;
 	
 	cidades = cidades.filter(function(d){return d[indicador] != "NA";});
+	var mapa_municipios = geraMapa(cidades,indicador);
 	
 	var x_scale = d3.scale.linear()
 				    .domain([parseFloat(min_x), parseFloat(max_x)])
@@ -152,42 +153,39 @@ function plot_cidades(svg,cidades, faixas, x_start, x_end, indicador, color_scal
 						.attr("id","barra_indicador_altura_" + y_default)
 						.style("stroke","#C0C0C0")
 						.attr("opacity",0.6)
-						.attr("stroke-width",25);
-	
-		// var mapa_municipios = geraMapa(cidades,indicador);
+						.attr("stroke-width",25)
+						.on("mouseover", function(d) {
+                                                var key_valorIndicador = d3.format(".2f")(d[indicador]);
+                                                var nomesMunicipios = d.NOME_MUNICIPIO;
+                                                if(typeof mapa_municipios[key_valorIndicador] == "object"){
+                                                        nomesMunicipios = mapa_municipios[key_valorIndicador].join(", ");
+                                                }                        
+                                                var valorIndicador = nomesMunicipios + ": R$ " + formatNum(key_valorIndicador);
 
-        // svg.selectAll("line").on("mouseover", function(d) {
-                                                // var key_valorIndicador = d3.format(".2f")(d[indicador]);
-                                                // var nomesMunicipios = d.NOME_MUNICIPIO;
-                                                // if(typeof mapa_municipios[key_valorIndicador] == "object"){
-                                                        // nomesMunicipios = mapa_municipios[key_valorIndicador].join(", ");
-                                                // }                        
-                                                // var valorIndicador = nomesMunicipios + ": R$ " + formatNum(key_valorIndicador);
+                                                var xPosition = $(this).offset().left;
+                                                var yPosition = $(this).offset().top - 50;
 
-                                                // var xPosition = $(this).offset().left;
-                                                // var yPosition = $(this).offset().top - 50;
-
-                                                // if(porcentagem.contains(indicador)){
-                                                // d3.select("#tooltip").style("left", xPosition + "px")
-                                                // .style("top", yPosition + "px")
-                                                // .select("#value").text(valorIndicador.replace("R$","")+"%");
-                                                // // }else{
-                                                        // // if(reais.contains(indicador)){
-                                                        // // d3.select("#tooltip").style("left", xPosition + "px")
-                                                        // // .style("top", yPosition + "px")
-                                                        // // .select("#value").text(valorIndicador);
-                                                        // // }else{
-                                                        // // d3.select("#tooltip").style("left", xPosition + "px")
-                                                        // // .style("top", yPosition + "px")
-                                                        // // .select("#value").text(valorIndicador.replace("R$",""));
-                                                        // // }
-                                                 // }
-                                                // d3.select("#tooltip").classed("hidden", false);
-                                        // })
+                                                 if(porcentagem.contains(indicador)){
+                                                d3.select("#tooltip").style("left", xPosition + "px")
+                                                .style("top", yPosition + "px")
+                                                .select("#value").text(valorIndicador.replace("R$","")+"%");
+                                                }else{
+                                                        if(reais.contains(indicador)){
+                                                        d3.select("#tooltip").style("left", xPosition + "px")
+                                                        .style("top", yPosition + "px")
+                                                        .select("#value").text(valorIndicador);
+                                                        }else{
+                                                        d3.select("#tooltip").style("left", xPosition + "px")
+                                                        .style("top", yPosition + "px")
+                                                        .select("#value").text(valorIndicador.replace("R$",""));
+                                                        }
+                                                }
+                                                d3.select("#tooltip").classed("hidden", false);
+                                        })
                                 
-                                        // .on("mouseout", function() {//Hide the tooltip
-                                                // d3.select("#tooltip").classed("hidden", true);
-                                        // });
+                                        .on("mouseout", function() {
+                                                d3.select("#tooltip").classed("hidden", true);
+                                        });
 										
 
 }
