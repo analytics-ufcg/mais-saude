@@ -79,7 +79,7 @@ function plot_bars(data, cidade_nome, indicador){
 		.attr('width', width)
 		.attr('height', height);
 		
-	plotTitulosGraficos(indicador, current_year);
+	plotTitulosGraficos(svg, indicador, current_year,cidade.NOME_MESO,cidade.NOME_MICRO);
 	
 	plot_bar(svg, estado, estado_faixas, x_start, x_end, color_scale_indicador);
 	plot_bar(svg, meso, meso_faixas, x_start, x_end, color_scale_meso);
@@ -88,6 +88,8 @@ function plot_bars(data, cidade_nome, indicador){
 	plot_cidades(svg,meso,meso_faixas,x_start, x_end, indicador);
 	plot_cidades(svg,micro,micro_faixas,x_start, x_end, indicador);
 	plot_cidades(svg,estado,estado_faixas,x_start, x_end, indicador);
+	
+	plot_cidade(svg,estado_faixas, x_start, x_end,cidade,indicador);
 	
 }
 
@@ -123,9 +125,6 @@ function plot_bar(svg_element, cidades, faixas, x_start, x_end, color_scale){
 						.attr("id","barra_indicador_altura_" + y_default)
 						.style("stroke",function(d,i){return color_scale[i]})
 						.attr("stroke-width",25);
-	
-	
-	
 }
 
 function plot_cidades(svg,cidades, faixas, x_start, x_end, indicador, color_scale){
@@ -190,6 +189,56 @@ function plot_cidades(svg,cidades, faixas, x_start, x_end, indicador, color_scal
 
 }
 
+function plot_cidade(svg, faixas, x_start, x_end, cidade, indicador){
+	var min_x = faixas[faixas.length-1].x;
+	var max_x = faixas[0].x;
+	var y_default = faixas[0].y;
+	
+	console.log(cidade);
+	
+	var x_scale = d3.scale.linear()
+				    .domain([parseFloat(min_x), parseFloat(max_x)])
+				    .range([x_start, x_end]);
+
+	svg.append("line")
+			  .transition().duration(500).delay(1000)
+			  .attr("x1", x_scale(cidade[indicador]))
+			  .attr("x2", x_scale(cidade[indicador]) + 1)
+			  .attr("y1" , 50)
+			  .style("stroke-dasharray", ("5, 3"))
+			  .attr("y2", 190)//256
+			  .attr("stroke","black");
+			  
+	if(porcentagem.contains(indicador)){
+        svg.append("text")
+                .attr("x", x_scale(cidade[indicador]))
+                .attr("y",40)
+                .attr("text-anchor", "middle")
+                .attr("font-weight", "bold")
+                .transition().duration(500).delay(1000)
+                .text(cidade.NOME_MUNICIPIO + ": " + formatNum(parseFloat(cidade[indicador]).toFixed(2))+"%");
+        }else{
+                if(reais.contains(indicador)){
+                svg.append("text")
+                        .attr("x", x_scale(cidade[indicador]))
+                        .attr("y",40)
+                        .attr("text-anchor", "middle")
+                        .attr("font-weight", "bold")
+                        .transition().duration(500).delay(1000)
+                        .text(cidade.NOME_MUNICIPIO + ": R$ " + (formatNum(parseFloat(cidade[indicador]).toFixed(2))));
+                }else{
+                svg.append("text")
+                        .attr("x", x_scale(cidade[indicador]))
+                        .attr("y",40)
+                        .attr("text-anchor", "middle")
+                        .attr("font-weight", "bold")
+                        .transition().duration(500).delay(1000)
+                        .text(cidade.NOME_MUNICIPIO + ": " + formatNum((parseFloat(cidade[indicador]).toFixed(2))) );
+                }
+        }
+			  
+}
+
 function geraMapa(tabela,indicador){
         mapa = {}
         for(var i=0;i<tabela.length;i++){
@@ -224,11 +273,14 @@ function getCurrentYearNotNA(data, cidade, indicador) {
     return current_year = d3.max(years);   
 }
 
-function plotTitulosGraficos(indicador, ano){
+function plotTitulosGraficos(svg,indicador, ano, micro, meso){
 
 	var nome_indicador = dicionario.filter(function(d){if (d.id == indicador) return d.name;});
     nome_indicador = nome_indicador.map(function(d){return d.name;});	
 
+	var legenda_regioes = [{'nome': "Paraíba", 'h': 60}, {'nome': meso, 'h': 120}, {'nome': micro, 'h': 180},
+						{'nome': "(Mesorregião)", 'h': 134}, {'nome':"(Microrregião)",'h':194}];
+	
     d3.select("#plot_area").selectAll("h1").remove();
 
     d3.select("#div_nome_cidade")
@@ -240,5 +292,11 @@ function plotTitulosGraficos(indicador, ano){
     .append("h1")
     .attr("class", "titulo_grafico")
     .text(nome_indicador);
-
+		
+	svg.selectAll("text").data(legenda_regioes).enter().append("text")
+		.attr("y", function(d){return d.h;})
+		.attr("x",10)
+		.attr("font-weight", "bold")
+		.style("text-align", "center")
+		.text(function(d){return d.nome;});
 }
