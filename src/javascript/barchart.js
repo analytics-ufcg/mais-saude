@@ -1,9 +1,11 @@
 var color_scale_indicador = [
 	"#006400",
+	"#006400",
 	"#92B879", 
+	"#E0E0E0", 
+	"#E0E0E0", 
 	"#FFFF00", 
 	"#FF7F00", 
-	"#E0E0E0", 
 	"#FF0000"
 	//"#F0F0F0" 
 ];
