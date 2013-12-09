@@ -1,3 +1,21 @@
+var color_scale_indicador = [
+	"#006400",
+	"#92B879", 
+	"#FFFF00", 
+	"#FF7F00", 
+	"#E0E0E0", 
+	"#FF0000",
+	"#F0F0F0" 
+];
+
+var color_scale_meso = [
+	"#F0F0F0",
+	"#E0E0E0",
+	"#F0F0F0"
+];
+
+var porcentagem = ["INDICADOR_041","INDICADOR_002","INDICADOR_009","INDICADOR_035","INDICADOR_007","INDICADOR_109","INDICADOR_020","INDICADOR_021","INDICADOR_111","INDICADOR_114","INDICADOR_110","INDICADOR_001","INDICADOR_004"];
+var reais = ["INDICADOR_108","INDICADOR_106","INDICADOR_112","INDICADOR_103","INDICADOR_107","INDICADOR_113","INDICADOR_102","INDICADOR_105","INDICADOR_101"];
 
 function plot_barra_indicador(cidade, indicador_nome) {
    //console.log(cidade);
@@ -13,7 +31,7 @@ function plot_barra_indicador(cidade, indicador_nome) {
 }
 
 function plot_bars(data, cidade_nome, indicador){
-
+	console.log(indicador);
 	var h1 = 60;
 	var	h2 = h1 + 60;
 	var h3 = h2 + 60;
@@ -60,30 +78,18 @@ function plot_bars(data, cidade_nome, indicador){
 		.append("svg")
 		.attr('width', width)
 		.attr('height', height);
-	
+		
 	plotTitulosGraficos(indicador, current_year);
+	
 	plot_bar(svg, estado, estado_faixas, x_start, x_end, color_scale_indicador);
 	plot_bar(svg, meso, meso_faixas, x_start, x_end, color_scale_meso);
 	plot_bar(svg, micro, micro_faixas, x_start, x_end, color_scale_meso);
-
+	
+	plot_cidades(svg,meso,meso_faixas,x_start, x_end, indicador);
+	plot_cidades(svg,micro,micro_faixas,x_start, x_end, indicador);
+	plot_cidades(svg,estado,estado_faixas,x_start, x_end, indicador);
+	
 }
-
-var color_scale_indicador = [
-	"#006400",
-	"#92B879", 
-	"#FFFF00", 
-	"#FF7F00", 
-	"#E0E0E0", 
-	"#FF0000",
-	"#F0F0F0" 
-];
-
-var color_scale_meso = [
-	"#F0F0F0",
-	"#E0E0E0",
-	"#F0F0F0"
-];
-
 
 function plot_bar(svg_element, cidades, faixas, x_start, x_end, color_scale){
 	
@@ -109,15 +115,106 @@ function plot_bar(svg_element, cidades, faixas, x_start, x_end, color_scale){
 						.data(faixas)
 						.enter()
 						.append("line")
+						.transition().duration(1000).delay(200)
 						.attr("x1", x_scale(min_x))
 						.attr("x2", function(d){ return x_scale(d.x);})
 						.attr("y1",y_default)
 						.attr("y2",y_default)
 						.attr("id","barra_indicador_altura_" + y_default)
 						.style("stroke",function(d,i){return color_scale[i]})
-						.attr("stroke-width",25)
+						.attr("stroke-width",25);
 	
 	
+	
+}
+
+function plot_cidades(svg,cidades, faixas, x_start, x_end, indicador, color_scale){
+    var min_x = faixas[faixas.length-1].x;
+	var max_x = faixas[0].x;
+	var y_default = faixas[0].y;
+	
+	cidades = cidades.filter(function(d){return d[indicador] != "NA";});
+	
+	var x_scale = d3.scale.linear()
+				    .domain([parseFloat(min_x), parseFloat(max_x)])
+				    .range([x_start, x_end]);
+	
+	var cidade_line = svg.append("g").attr("id","cidade_bar");
+
+	var lines = cidade_line.selectAll("line")
+						.data(cidades)
+						.enter()
+						.append("line")
+						.attr("x1", function(d){ return x_scale(d[indicador]);})
+						.attr("x2", function(d){ return x_scale(d[indicador]) + 2;})
+						.attr("y1",y_default)
+						.attr("y2",y_default)
+						.attr("id","barra_indicador_altura_" + y_default)
+						.style("stroke","#C0C0C0")
+						.attr("opacity",0.6)
+						.attr("stroke-width",25);
+	
+		// var mapa_municipios = geraMapa(cidades,indicador);
+
+        // svg.selectAll("line").on("mouseover", function(d) {
+                                                // var key_valorIndicador = d3.format(".2f")(d[indicador]);
+                                                // var nomesMunicipios = d.NOME_MUNICIPIO;
+                                                // if(typeof mapa_municipios[key_valorIndicador] == "object"){
+                                                        // nomesMunicipios = mapa_municipios[key_valorIndicador].join(", ");
+                                                // }                        
+                                                // var valorIndicador = nomesMunicipios + ": R$ " + formatNum(key_valorIndicador);
+
+                                                // var xPosition = $(this).offset().left;
+                                                // var yPosition = $(this).offset().top - 50;
+
+                                                // if(porcentagem.contains(indicador)){
+                                                // d3.select("#tooltip").style("left", xPosition + "px")
+                                                // .style("top", yPosition + "px")
+                                                // .select("#value").text(valorIndicador.replace("R$","")+"%");
+                                                // // }else{
+                                                        // // if(reais.contains(indicador)){
+                                                        // // d3.select("#tooltip").style("left", xPosition + "px")
+                                                        // // .style("top", yPosition + "px")
+                                                        // // .select("#value").text(valorIndicador);
+                                                        // // }else{
+                                                        // // d3.select("#tooltip").style("left", xPosition + "px")
+                                                        // // .style("top", yPosition + "px")
+                                                        // // .select("#value").text(valorIndicador.replace("R$",""));
+                                                        // // }
+                                                 // }
+                                                // d3.select("#tooltip").classed("hidden", false);
+                                        // })
+                                
+                                        // .on("mouseout", function() {//Hide the tooltip
+                                                // d3.select("#tooltip").classed("hidden", true);
+                                        // });
+										
+
+}
+
+function geraMapa(tabela,indicador){
+        mapa = {}
+        for(var i=0;i<tabela.length;i++){
+                var obj = tabela[i];
+                var id = d3.format(".2f")(obj[indicador]) + "";
+                if(typeof mapa[id] == "undefined"){
+                        mapa[id] = new Array(0);
+                        mapa[id].push(obj["NOME_MUNICIPIO"]);
+                }else{
+                        mapa[id].push(obj["NOME_MUNICIPIO"]);
+                }
+        }
+        return mapa
+}
+
+Array.prototype.contains = function(obj) {
+    var i = this.length;
+    while (i--) {
+        if (this[i] === obj) {
+            return true;
+        }
+    }
+    return false;
 }
 
 function getCurrentYearNotNA(data, cidade, indicador) {
