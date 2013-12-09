@@ -4,8 +4,8 @@ var color_scale_indicador = [
 	"#FFFF00", 
 	"#FF7F00", 
 	"#E0E0E0", 
-	"#FF0000",
-	"#F0F0F0" 
+	"#FF0000"
+	//"#F0F0F0" 
 ];
 
 var color_scale_meso = [
