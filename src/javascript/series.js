@@ -100,25 +100,50 @@ function getLineValues(data, cidade, indicador) {
     
 
     var city = data.filter(function(d){return d.NOME_MUNICIPIO == cidade;});
+    var nome_microregiao = city.map(function(d){return d.NOME_MICRO;})[0];
+    var nome_mesoregiao  = city.map(function(d){return d.NOME_MESO;})[0];
     var value = city.map(function(d){return d[indicador];});
     var years = city.map(function(d){return d.ANO;});
-    var serie = [];
+    var municipio = [];
+    var obj_mesoregiao = [];
+
     maxY = d3.max(value, function(d) {  if(d!="NA"){  return +d;}} );
 
     //console.log("MAX:"+maxY);
 
     for (var i = 0; i < years.length; i++) {
       if( years[i]!="NA" & value[i]!="NA"){
-        serie.push({x: years[i], y: value[i] });
+        municipio.push({x: years[i], y: value[i] });
       }  
       
     }
 
+    
+
+    var microregiao = medianas.filter(function(d){return d.REGIAO == nome_microregiao;});
+    var mesoregiao = medianas.filter(function(d){return d.REGIAO == nome_mesoregiao;});
+    var value_meso = mesoregiao.map(function(d){return d[indicador];});
+    var years_meso = mesoregiao.map(function(d){return d.ANO;});
+
+    //console.log(mesoregiao);
+    for (var i = 0; i < years_meso.length; i++) {
+      if( years_meso[i]!="NA" & value_meso[i]!="NA"){
+        obj_mesoregiao.push({x: years_meso[i], y: value_meso[i] });
+      }  
+      
+    }
+
+
     return [
       {
-        values: serie,
-        key: cidade,
+        values: municipio,
+        key: "Município: "+cidade,
         color: "#ff7f0e"
+      },
+      {
+        values: obj_mesoregiao,
+        key: "Mesoregião: "+nome_mesoregiao,
+        color: "#33FF00"
       }
       
     ];

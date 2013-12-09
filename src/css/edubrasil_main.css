@@ -149,7 +149,9 @@ rect:hover {
 
 
 #div_series{
-	 
+	margin-left: auto;
+    margin-right: auto;
+    width:80%;
 }
 
 

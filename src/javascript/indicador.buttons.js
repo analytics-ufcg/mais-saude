@@ -1,4 +1,3 @@
-
 var cidade = "Visão Geral";
 
 //Carrega os botoes da parte de cima

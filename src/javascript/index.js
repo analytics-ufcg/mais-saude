@@ -2,6 +2,7 @@
 var dataset = [];
 var dicionario = [];
 var desvios = [];
+var medianas = [];
 
 
 //Carrega arquivo inicial e os botoes
@@ -26,6 +27,10 @@ function loadData() {
 			ano: d.ano,
 			bounds: [d.min, d.q4neg, d.q3neg, d.q2neg, d.q0, d.q2, d.q3, d.q4, d.max]
 	    }});
+	});
+
+	d3.csv("data/medianas_para_todos_indicadores_agrupados_por_ano_e_regiao.csv" , function (data){
+		medianas = data;
 	});
 
 	// ativa o icone back to map
