@@ -104,39 +104,55 @@ function getLineValues(data, cidade, indicador) {
     var nome_mesoregiao  = city.map(function(d){return d.NOME_MESO;})[0];
     var value = city.map(function(d){return d[indicador];});
     var years = city.map(function(d){return d.ANO;});
-    var municipio = [];
+    var obj_municipio = [];
     var obj_mesoregiao = [];
+    var obj_microregiao = [];
+    var obj_paraiba = [];
 
-    maxY = d3.max(value, function(d) {  if(d!="NA"){  return +d;}} );
+    
 
     //console.log("MAX:"+maxY);
-
-    for (var i = 0; i < years.length; i++) {
-      if( years[i]!="NA" & value[i]!="NA"){
-        municipio.push({x: years[i], y: value[i] });
-      }  
-      
-    }
 
     
 
     var microregiao = medianas.filter(function(d){return d.REGIAO == nome_microregiao;});
     var mesoregiao = medianas.filter(function(d){return d.REGIAO == nome_mesoregiao;});
+    var paraiba = medianas.filter(function(d){return d.REGIAO == "Paraíba";});
+
     var value_meso = mesoregiao.map(function(d){return d[indicador];});
     var years_meso = mesoregiao.map(function(d){return d.ANO;});
 
+    var value_micro = microregiao.map(function(d){return d[indicador];});
+    var years_micro = microregiao.map(function(d){return d.ANO;});
+
+    var value_paraiba = paraiba.map(function(d){return d[indicador];});
+    var years_paraiba = paraiba.map(function(d){return d.ANO;});
+
+
+    var allvalues = value.concat(value_meso, value_micro, value_paraiba);
+    maxY = d3.max(allvalues, function(d) {  if(d!="NA"){  return +d;}} );
+
     //console.log(mesoregiao);
     for (var i = 0; i < years_meso.length; i++) {
+      if( years[i]!="NA" & value[i]!="NA"){
+        obj_municipio.push({x: years[i], y: value[i] });
+      }  
       if( years_meso[i]!="NA" & value_meso[i]!="NA"){
         obj_mesoregiao.push({x: years_meso[i], y: value_meso[i] });
-      }  
+      } 
+      if( years_micro[i]!="NA" & value_micro[i]!="NA"){
+        obj_microregiao.push({x: years_micro[i], y: value_micro[i] });
+      } 
+      if( years_paraiba[i]!="NA" & value_paraiba[i]!="NA"){
+        obj_paraiba.push({x: years_paraiba[i], y: value_paraiba[i] });
+      } 
       
     }
 
 
     return [
       {
-        values: municipio,
+        values: obj_municipio,
         key: "Município: "+cidade,
         color: "#ff7f0e"
       },
@@ -144,6 +160,16 @@ function getLineValues(data, cidade, indicador) {
         values: obj_mesoregiao,
         key: "Mesoregião: "+nome_mesoregiao,
         color: "#33FF00"
+      },
+      {
+        values: obj_microregiao,
+        key: "Microregião: "+nome_microregiao,
+        color: "#00B2EE"
+      },
+      {
+        values: obj_paraiba,
+        key: "Estado: Paraíba",
+        color: "#ff0000"
       }
       
     ];
