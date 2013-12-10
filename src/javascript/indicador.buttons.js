@@ -38,6 +38,16 @@ function loadUpButtons(data) {
 				
 				});
 			});
+		// D3 code modification made ​​by Nailson ( add tooltip with jquery and the tooltipster's plugin)
+		$('.tooltips').tooltipster({ 
+			interactive: true,
+			maxWidth: 300,
+			offsetY: 2,
+			position: 'right',
+			theme: '.tooltipster-shadow'
+			
+		});
+
 }
 
 
@@ -68,13 +78,34 @@ function getMenuOption(selection) {
 	});
 	
 	d3.selectAll(".indicador")
-	.data(dicionario)
-	.attr("class", function(d) {
+		.data(dicionario)
+		.attr("class", function(d) {
 
-		return "indicador " + getButtonColor(d.desvio);        	
-    })
-	.attr("value", function (d){return d.name.replace("(%)","").replace("(em Reais)","");}) 
-	.attr("id", function (d, i){return d.id;});
+			return "indicador " + getButtonColor(d.desvio);        	
+	    })
+		.attr("value", function (d){return d.name.replace("(%)","").replace("(em Reais)","");}) 
+		.attr("id", function (d, i){return d.id;})
+	;
+
+	$('.tooltips').tooltipster('destroy');	
+	
+	d3.selectAll(".tooltips")
+		.data(dicionario)
+		.attr("title", function (d){return d.big_description;})
+	;
+	
+
+
+	$('.tooltips').tooltipster({ 
+			interactive: true,
+			maxWidth: 300,
+			offsetY: 2,
+			position: 'right',
+			theme: '.tooltipster-shadow'
+			
+	});
+
+
 
 }
 

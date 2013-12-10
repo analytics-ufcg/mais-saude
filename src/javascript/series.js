@@ -97,6 +97,11 @@ function plot(data, cidade, indicador){
   });
 
 function getLineValues(data, cidade, indicador) {
+
+    var obj_municipio = [];
+    var obj_mesoregiao = [];
+    var obj_microregiao = [];
+    var obj_paraiba = [];
     
 
     var city = data.filter(function(d){return d.NOME_MUNICIPIO == cidade;});
@@ -104,16 +109,7 @@ function getLineValues(data, cidade, indicador) {
     var nome_mesoregiao  = city.map(function(d){return d.NOME_MESO;})[0];
     var value = city.map(function(d){return d[indicador];});
     var years = city.map(function(d){return d.ANO;});
-    var obj_municipio = [];
-    var obj_mesoregiao = [];
-    var obj_microregiao = [];
-    var obj_paraiba = [];
-
-    
-
-    //console.log("MAX:"+maxY);
-
-    
+   
 
     var microregiao = medianas.filter(function(d){return d.REGIAO == nome_microregiao;});
     var mesoregiao = medianas.filter(function(d){return d.REGIAO == nome_mesoregiao;});
