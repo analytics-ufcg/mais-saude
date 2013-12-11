@@ -65,6 +65,7 @@ function loadUpCities(data) {
 			.attr("data-icon", "icon-map-marker")
 			.text(function(d){return d;})
 		;
+		$('.selectpicker').selectpicker({'selectedText': 'cat'});
 }
 
 
