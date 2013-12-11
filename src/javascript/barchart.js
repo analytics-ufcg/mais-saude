@@ -2,9 +2,6 @@ var color_scale_indicador = ["#006400","#006400","#92B879","#E0E0E0","#E0E0E0","
 var color_scale_meso = ["#F0F0F0","#E0E0E0","#F0F0F0"];
 var estado_faixas = [];
 
-var porcentagem = ["INDICADOR_041","INDICADOR_002","INDICADOR_009","INDICADOR_035","INDICADOR_007","INDICADOR_109","INDICADOR_020","INDICADOR_021","INDICADOR_111","INDICADOR_114","INDICADOR_110","INDICADOR_001","INDICADOR_004"];
-var reais = ["INDICADOR_108","INDICADOR_106","INDICADOR_112","INDICADOR_103","INDICADOR_107","INDICADOR_113","INDICADOR_102","INDICADOR_105","INDICADOR_101"];
-
 function plot_barra_indicador(cidade, indicador_nome) {
    //console.log(cidade);
   
@@ -143,29 +140,16 @@ function plot_cidades(svg,cidades, faixas, x_start, x_end, indicador, regiao){
 						.on("mouseover", function(d) {
                                                 var key_valorIndicador = d3.format(".2f")(d[indicador]);
                                                 var nomesMunicipios = d.NOME_MUNICIPIO;
+												var tipo = dicionario.filter(function(d){return d.id == indicador;})[0].Porcentagem;
                                                 if(typeof mapa_municipios[key_valorIndicador] == "object"){
                                                         nomesMunicipios = mapa_municipios[key_valorIndicador].join(", ");
                                                 }                        
-                                                var valorIndicador = nomesMunicipios + ": R$ " + formatNum(key_valorIndicador);
-
+                                                
                                                 var xPosition = $(this).offset().left;
                                                 var yPosition = $(this).offset().top - 50;
-
-                                                 if(porcentagem.contains(indicador)){
-                                                d3.select("#tooltip").style("left", xPosition + "px")
+												d3.select("#tooltip").style("left", xPosition + "px")
                                                 .style("top", yPosition + "px")
-                                                .select("#value").text(valorIndicador.replace("R$","")+"%");
-                                                }else{
-                                                        if(reais.contains(indicador)){
-                                                        d3.select("#tooltip").style("left", xPosition + "px")
-                                                        .style("top", yPosition + "px")
-                                                        .select("#value").text(valorIndicador);
-                                                        }else{
-                                                        d3.select("#tooltip").style("left", xPosition + "px")
-                                                        .style("top", yPosition + "px")
-                                                        .select("#value").text(valorIndicador.replace("R$",""));
-                                                        }
-                                                }
+                                                .select("#value").text(nomesMunicipios + ": " + get_legend(d, indicador));
                                                 d3.select("#tooltip").classed("hidden", false);
                                         })
                                 
@@ -177,6 +161,7 @@ function plot_cidades(svg,cidades, faixas, x_start, x_end, indicador, regiao){
 }
 
 function get_cor(indicador, regiao){
+	//quando os dados forem simetricos basta alterar a ordem das cores no array
 	var bars_scale = ["#670000", //vermelho
 			 "#CC5200", //laranja
 			 "#FFCC00", //amarelo
@@ -219,34 +204,21 @@ function plot_cidade(svg, faixas, x_start, x_end, cidade, indicador){
 			  .attr("y2", 190)//256
 			  .attr("stroke","black");
 			  
-	if(porcentagem.contains(indicador)){
-        svg.append("text")
-                .attr("x", x_scale(cidade[indicador]))
-                .attr("y",40)
-                .attr("text-anchor", "middle")
-                .attr("font-weight", "bold")
-                .transition().duration(500).delay(1000)
-                .text(cidade.NOME_MUNICIPIO + ": " + formatNum(parseFloat(cidade[indicador]).toFixed(2))+"%");
-        }else{
-                if(reais.contains(indicador)){
-                svg.append("text")
-                        .attr("x", x_scale(cidade[indicador]))
-                        .attr("y",40)
-                        .attr("text-anchor", "middle")
-                        .attr("font-weight", "bold")
-                        .transition().duration(500).delay(1000)
-                        .text(cidade.NOME_MUNICIPIO + ": R$ " + (formatNum(parseFloat(cidade[indicador]).toFixed(2))));
-                }else{
-                svg.append("text")
-                        .attr("x", x_scale(cidade[indicador]))
-                        .attr("y",40)
-                        .attr("text-anchor", "middle")
-                        .attr("font-weight", "bold")
-                        .transition().duration(500).delay(1000)
-                        .text(cidade.NOME_MUNICIPIO + ": " + formatNum((parseFloat(cidade[indicador]).toFixed(2))) );
-                }
-        }
-			  
+    svg.append("text")
+            .attr("x", x_scale(cidade[indicador]))
+            .attr("y",40)
+            .attr("text-anchor", "middle")
+            .attr("font-weight", "bold")
+            .transition().duration(500).delay(1000)
+            .text( cidade.NOME_MUNICIPIO + ": " +get_legend(cidade, indicador));  
+}
+
+function get_legend(cidade, indicador){
+	var tipo_indicador = dicionario.filter(function(d){return d.id == indicador;})[0];
+	if(tipo_indicador.Porcentagem == "1"){
+		return formatNum(parseFloat(cidade[indicador]).toFixed(2))+"%";
+	}
+	return "R$ " + (formatNum(parseFloat(cidade[indicador]).toFixed(2))); 
 }
 
 function geraMapa(tabela,indicador){
