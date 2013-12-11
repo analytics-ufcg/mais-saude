@@ -1,30 +1,3 @@
-<<<<<<< HEAD
-"id","name","desvio","referencial_maior","big_description","number"
-INDICADOR_001,Cobertura equipes Atenção Básica,DESVIOS_MELHOR_INDICADOR_01,neutro,Cobertura populacional estimada pelas equipes de Atenção Básica,0
-INDICADOR_002,Internações por condições sensíveis à Atenção Básica(%),DESVIOS_MELHOR_INDICADOR_02,neutro,Proporção de internações por condições sensíveis à atenção Básica(ICSAB),1
-INDICADOR_004,Cobertura equipes básicas de saúde bucal,DESVIOS_MELHOR_INDICADOR_04,neutro,Cobertura populacional estimada pelas equipes básicas de saúde bucal,2
-INDICADOR_007,Procedimentos Ambulatoriais de média complexidade,DESVIOS_MELHOR_INDICADOR_07,neutro,Razão de procedimentos ambulatoriais de média complexidade e população residente,3
-INDICADOR_009,Procedimentos Ambulatoriais de alta complexidade,DESVIOS_MELHOR_INDICADOR_09,neutro,Razão de procedimentos ambulatoriais de alta complexidade e população residente,4
-INDICADOR_020,Partos normais(%),DESVIOS_MELHOR_INDICADOR_020,neutro,Proporção de partos normais,5
-INDICADOR_021,Nascidos vivos com 7 ou mais consultas pré-natal(%),DESVIOS_MELHOR_INDICADOR_021,neutro,Proporção de nascidos vivos com 7 ou mais consulas de pré-natal,6
-INDICADOR_035,Vacinas com cobertura adequada(%),DESVIOS_MELHOR_INDICADOR_035,neutro,Proporção de vacinas do Calendário Básico de Vacinação da Criança com cobertura vacinais alcançadas,7
-INDICADOR_041,Ações de vigilância sanitária realizadas(%),DESVIOS_MELHOR_INDICADOR_041,neutro,Percentual de ações de vigilância sanitária consideradas necessárias realizadas,8
-INDICADOR_101,Gasto per capita com Saúde total,DESVIOS_MELHOR_INDICADOR_101,neutro,Gasto per capta com saúde total,9
-INDICADOR_102,Gasto per capita com Saúde Corrente,DESVIOS_MELHOR_INDICADOR_102,neutro,Gasto per capta com saúde corrente,10
-INDICADOR_103,Gasto Total com Saúde,DESVIOS_MELHOR_INDICADOR_103,neutro,Relação do gasto total com Saúde,11
-INDICADOR_104,InvSaude,DESVIOS_MELHOR_INDICADOR_104,neutro,Investimento em saúde ,12
-INDICADOR_105,Gastos em saúde com despesas de corrente,DESVIOS_MELHOR_INDICADOR_105,neutro,Proporção dos gastos em saúde com despesas corrente,13
-INDICADOR_106,Gastos em saúde com despesas de capital,DESVIOS_MELHOR_INDICADOR_106,neutro,Proporção dos gastos em saúde com despesas de capital ,14
-INDICADOR_107,Gastos com Atenção Básica,DESVIOS_MELHOR_INDICADOR_107,neutro,Proporção dos gastos da saúde com atenção básica,15
-INDICADOR_108,Gastos com Assistência Hospitalar e Ambulatorial,DESVIOS_MELHOR_INDICADOR_108,neutro,Proporção dos gastos da saúde com Assistência Hospitalar e Ambulatorial ,16
-INDICADOR_109,Gastos com Suporte Profilático e Terapêutico,DESVIOS_MELHOR_INDICADOR_109,neutro,Proporção dos gastos da saúde com Suporte Profilático e Terapêutico ,17
-INDICADOR_110,Gastos com Vigilância,DESVIOS_MELHOR_INDICADOR_110,neutro,Proporção dos gastos da saúde com Vigilância ,18
-INDICADOR_111,Gastos com Vigilância Epidemiológica,DESVIOS_MELHOR_INDICADOR_111,neutro,Proporção dos gastos da saúde com Vigilância Epidemiológica ,19
-INDICADOR_112,Gastos com Atividades Gestão,DESVIOS_PIOR_INDICADOR_112,neutro,Proporção dos gastos da saúde com atividades gestão ,20
-INDICADOR_113,Gasto com Pessoal(%),DESVIOS_PIOR_INDICADOR_113,neutro,Percentual do gasto com pessoal ,21
-INDICADOR_114,RPEC,DESVIOS_PIOR_INDICADOR_114,neutro,Relação de gasto total com pessoal em relação ao pessoal contatado ,22
-INDICADOR_201,EspVida,DESVIOS_MELHOR_INDICADOR_201,neutro,Esperança de vida ao nascer,23INDICADOR_202,FecTotal,DESVIOS_MELHOR_INDICADOR_202,neutro,Taxa de fecundidade total,24INDICADOR_203,Mortalidade Infantil,DESVIOS_PIOR_INDICADOR_203,neutro,Mortalidade infantil,25INDICADOR_204,Mortalidade até 5 anos,DESVIOS_PIOR_INDICADOR_204,neutro,Mortalidade até 5 anos de idade,26INDICADOR_205,SOBRE60,DESVIOS_MELHOR_INDICADOR_205,neutro,Probabilidade de sobrevivência até 60 anos,27INDICADOR_206,Taxa de envelhecimento,DESVIOS_MELHOR_INDICADOR_206,neutro,Taxa de envelhecimento,28
-=======
 id,name,desvio,referencial_maior,big_description,number,Porcentagem
 INDICADOR_001,Cobertura equipes Atenção Básica,DESVIOS_MELHOR_INDICADOR_01,neutro,Cobertura populacional estimada pelas equipes de Atenção Básica,0,1
 INDICADOR_002,Internações por condições sensíveis à Atenção Básica(%),DESVIOS_MELHOR_INDICADOR_02,neutro,Proporção de internações por condições sensíveis à atenção Básica(ICSAB),1,1
