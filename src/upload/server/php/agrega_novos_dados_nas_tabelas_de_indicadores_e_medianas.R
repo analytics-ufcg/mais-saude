@@ -178,8 +178,15 @@ args <- commandArgs(trailingOnly = TRUE)
 
 
 #lista indicando se para um indicador quanto maior (MELHOR/PIOR), com base na ordem em que aparecem na lista "indicadorFiles"
-indice.indicador = c("INDICADOR_62", "INDICADOR_199", "INDICADOR_200", "INDICADOR_329", "INDICADOR_333", "INDICADOR_181", "INDICADOR_182", "INDICADOR_188", "INDICADOR_189", "INDICADOR_289", "INDICADOR_290", "INDICADOR_202", "INDICADOR_184", "INDICADOR_7", "INDICADOR_201")
-indicador.categoria = c("MELHOR", "MELHOR", "MELHOR", "PIOR", "MELHOR", "PIOR", "PIOR", "MELHOR", "MELHOR", "MELHOR", "PIOR", "PIOR", "PIOR", "NEUTRO", "MELHOR")
+indice.indicador = c("INDICADOR_001", "INDICADOR_002", "INDICADOR_004", "INDICADOR_007", "INDICADOR_009", 
+                     "INDICADOR_020", "INDICADOR_021", "INDICADOR_035", "INDICADOR_041", "INDICADOR_101", 
+                     "INDICADOR_102", "INDICADOR_103", "INDICADOR_104", "INDICADOR_105", "INDICADOR_106", 
+                     "INDICADOR_107", "INDICADOR_108", "INDICADOR_109", "INDICADOR_110", "INDICADOR_111", 
+                     "INDICADOR_112", "INDICADOR_113", "INDICADOR_114")
+
+indicador.categoria = c("MELHOR", "MELHOR", "MELHOR", "MELHOR", "MELHOR", "MELHOR", "MELHOR", "MELHOR", 
+                        "MELHOR", "MELHOR", "MELHOR", "MELHOR", "MELHOR", "MELHOR", "MELHOR", "MELHOR", 
+                        "MELHOR", "MELHOR", "MELHOR", "MELHOR", "PIOR", "PIOR", "PIOR")
 
 tabela.indicador = data.frame(indice = indice.indicador, categoria = indicador.categoria)
 
