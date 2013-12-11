@@ -14,7 +14,8 @@ function loadUpButtons(data) {
 			.enter()
 			.insert("span")
 			.attr("class", "tooltips")
-			.attr("title", function (d){return d.big_description;})
+			.attr("title", function (d){return d.big_description+".<a href='dicionario de dados.html?"+d.number+"' target='_blank'><img src='images/plus.png' onmouseover='this.src=&#39;images/plus2.png&#39;' onmouseout='this.src=&#39;images/plus.png&#39;' width='16' height='16'></a>";})
+	
 			.attr("id", function (d, i){return "span"+d.id;})
 			.each(function(d) {
 				d3.select(this).append("input")
@@ -91,7 +92,7 @@ function getMenuOption(selection) {
 	
 	d3.selectAll(".tooltips")
 		.data(dicionario)
-		.attr("title", function (d){return d.big_description;})
+		.attr("title", function (d){return d.big_description+".<a href='dicionario de dados.html?"+d.number+"' target='_blank'><img src='images/plus.png' onmouseover='this.src=&#39;images/plus2.png&#39;' onmouseout='this.src=&#39;images/plus.png&#39;' width='16' height='16'></a>";})
 	;
 	
 
@@ -130,9 +131,9 @@ function getButtonColor(colunaDesvio) {
 	if (valor == "NA") {
         return "indicador_cinza";
 	}
-	//console.log(valor);
+	console.log(valor);
 	valor = parseFloat(valor);
-	//console.log(valor);
+	console.log(valor);
 	
 	if (valor == -2) {
         return "indicador_amarelo";

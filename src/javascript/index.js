@@ -39,9 +39,6 @@ function loadData() {
 			selection.change();
 	});
 
-	// ativa o bootstrap-select.js do seletor
-	//$('.selectpicker').selectpicker({'selectedText': 'cat'});
-
 };
 
 
