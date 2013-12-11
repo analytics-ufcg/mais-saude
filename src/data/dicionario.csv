@@ -11,6 +11,7 @@ INDICADOR_041,Ações de vigilância sanitária realizadas(%),DESVIOS_MELHOR_IND
 INDICADOR_101,Gasto per capita com Saúde total,DESVIOS_MELHOR_INDICADOR_101,neutro,Gasto per capta com saúde total,9
 INDICADOR_102,Gasto per capita com Saúde Corrente,DESVIOS_MELHOR_INDICADOR_102,neutro,Gasto per capta com saúde corrente,10
 INDICADOR_103,Gasto Total com Saúde,DESVIOS_MELHOR_INDICADOR_103,neutro,Relação do gasto total com Saúde,11
+INDICADOR_104,InvSaude,DESVIOS_MELHOR_INDICADOR_104,neutro,Investimento em saúde ,12
 INDICADOR_105,Gastos em saúde com despesas de corrente,DESVIOS_MELHOR_INDICADOR_105,neutro,Proporção dos gastos em saúde com despesas corrente,13
 INDICADOR_106,Gastos em saúde com despesas de capital,DESVIOS_MELHOR_INDICADOR_106,neutro,Proporção dos gastos em saúde com despesas de capital ,14
 INDICADOR_107,Gastos com Atenção Básica,DESVIOS_MELHOR_INDICADOR_107,neutro,Proporção dos gastos da saúde com atenção básica,15
@@ -21,3 +22,4 @@ INDICADOR_111,Gastos com Vigilância Epidemiológica,DESVIOS_MELHOR_INDICADOR_11
 INDICADOR_112,Gastos com Atividades Gestão,DESVIOS_PIOR_INDICADOR_112,neutro,Proporção dos gastos da saúde com atividades gestão ,20
 INDICADOR_113,Gasto com Pessoal(%),DESVIOS_PIOR_INDICADOR_113,neutro,Percentual do gasto com pessoal ,21
 INDICADOR_114,RPEC,DESVIOS_PIOR_INDICADOR_114,neutro,Relação de gasto total com pessoal em relação ao pessoal contatado ,22
+INDICADOR_201,EspVida,DESVIOS_MELHOR_INDICADOR_201,neutro,Esperança de vida ao nascer,23INDICADOR_202,FecTotal,DESVIOS_MELHOR_INDICADOR_202,neutro,Taxa de fecundidade total,24INDICADOR_203,Mortalidade Infantil,DESVIOS_PIOR_INDICADOR_203,neutro,Mortalidade infantil,25INDICADOR_204,Mortalidade até 5 anos,DESVIOS_PIOR_INDICADOR_204,neutro,Mortalidade até 5 anos de idade,26INDICADOR_205,SOBRE60,DESVIOS_MELHOR_INDICADOR_205,neutro,Probabilidade de sobrevivência até 60 anos,27INDICADOR_206,Taxa de envelhecimento,DESVIOS_MELHOR_INDICADOR_206,neutro,Taxa de envelhecimento,28
