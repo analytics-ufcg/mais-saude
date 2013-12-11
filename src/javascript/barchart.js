@@ -217,8 +217,10 @@ function get_legend(cidade, indicador){
 	var tipo_indicador = dicionario.filter(function(d){return d.id == indicador;})[0];
 	if(tipo_indicador.Porcentagem == "1"){
 		return formatNum(parseFloat(cidade[indicador]).toFixed(2))+"%";
+	}else if(tipo_indicador.Porcentagem == "0"){
+		return "R$ " + (formatNum(parseFloat(cidade[indicador]).toFixed(2)));
 	}
-	return "R$ " + (formatNum(parseFloat(cidade[indicador]).toFixed(2))); 
+	return (formatNum(parseFloat(cidade[indicador]).toFixed(2)));
 }
 
 function geraMapa(tabela,indicador){
