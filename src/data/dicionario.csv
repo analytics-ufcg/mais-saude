@@ -21,9 +21,9 @@ INDICADOR_111,Gastos com Vigilância Epidemiológica,DESVIOS_MELHOR_INDICADOR_11
 INDICADOR_112,Gastos com Atividades Gestão,DESVIOS_PIOR_INDICADOR_112,neutro,Proporção dos gastos da saúde com atividades gestão ,20,1
 INDICADOR_113,Gasto com Pessoal(%),DESVIOS_PIOR_INDICADOR_113,neutro,Percentual do gasto com pessoal ,21,1
 INDICADOR_114,RPEC,DESVIOS_PIOR_INDICADOR_114,neutro,Relação de gasto total com pessoal em relação ao pessoal contatado ,22,0
-INDICADOR_201,EspVida,DESVIOS_MELHOR_INDICADOR_201,neutro,Esperança de vida ao nascer,23,1
-INDICADOR_202,FecTotal,DESVIOS_MELHOR_INDICADOR_202,neutro,Taxa de fecundidade total,24,1
-INDICADOR_203,Mortalidade Infantil,DESVIOS_PIOR_INDICADOR_203,neutro,Mortalidade infantil,25,1
-INDICADOR_204,Mortalidade até 5 anos,DESVIOS_PIOR_INDICADOR_204,neutro,Mortalidade até 5 anos de idade,26,1
-INDICADOR_205,SOBRE60,DESVIOS_MELHOR_INDICADOR_205,neutro,Probabilidade de sobrevivência até 60 anos,27,0
-INDICADOR_206,Taxa de envelhecimento,DESVIOS_MELHOR_INDICADOR_206,neutro,Taxa de envelhecimento,28,0
+INDICADOR_201,EspVida,DESVIOS_MELHOR_INDICADOR_201,neutro,Esperança de vida ao nascer,23,2
+INDICADOR_202,FecTotal,DESVIOS_MELHOR_INDICADOR_202,neutro,Taxa de fecundidade total,24,2
+INDICADOR_203,Mortalidade Infantil,DESVIOS_PIOR_INDICADOR_203,neutro,Mortalidade infantil,25,2
+INDICADOR_204,Mortalidade até 5 anos,DESVIOS_PIOR_INDICADOR_204,neutro,Mortalidade até 5 anos de idade,26,2
+INDICADOR_205,SOBRE60,DESVIOS_MELHOR_INDICADOR_205,neutro,Probabilidade de sobrevivência até 60 anos,27,1
+INDICADOR_206,Taxa de envelhecimento,DESVIOS_MELHOR_INDICADOR_206,neutro,Taxa de envelhecimento,28,1
