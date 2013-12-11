@@ -27,3 +27,6 @@ INDICADOR_203,Mortalidade Infantil,DESVIOS_PIOR_INDICADOR_203,neutro,Mortalidade
 INDICADOR_204,Mortalidade até 5 anos,DESVIOS_PIOR_INDICADOR_204,neutro,Mortalidade até 5 anos de idade,26,2
 INDICADOR_205,SOBRE60,DESVIOS_MELHOR_INDICADOR_205,neutro,Probabilidade de sobrevivência até 60 anos,27,1
 INDICADOR_206,Taxa de envelhecimento,DESVIOS_MELHOR_INDICADOR_206,neutro,Taxa de envelhecimento,28,1
+INDICADOR_207,IDHM,DESVIOS_MELHOR_INDICADOR_207,neutro,Índice de Desenvolvimento Humano Municipal,28,2
+INDICADOR_208,IDHM_L,DESVIOS_MELHOR_INDICADOR_208,neutro,Índice de Desenvolvimento Humano Municipal  - Dimensão Longevidade,28,2
+
