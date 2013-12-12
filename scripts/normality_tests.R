@@ -7,7 +7,7 @@ require("stats")
 #funcoes ==================================================================================================
 
 #calcula os p.valores do teste shapiro-wilk dos anos
-p.values = function(df, index, file_name) {
+p.values = function(df, index, file_name, significance) {
 
 	indicador_name = colnames(df)[index]
 	
@@ -18,26 +18,10 @@ p.values = function(df, index, file_name) {
 	for(ano in anos){
 		data <- df[df$ANO == ano,index]
 		result <- shapiro.test(data)
-		cat("ANO = ", ano, "\n")
-		cat("W = ", result$statistic, "\n")
-		cat("p.value = ", result$p.value, "\n\n")
+		cat(indicador_name, ",", ano, ",",
+            result$p.value >= significance, ",", result$statistic, ",", result$p.value, "\n", sep="")
 	}
 	sink()
-}
-
-#calcula as medidas de tendencias centrais. se os dados forem normais, calcula a media,
-#caso contrario, calcula a mediana de cada ano
-calculate.central.values = function(df, significance=0.05, p.values) {
-  valores = c()
-  for(i in 2:ncol(df)) {
-    p.valor = p.values[i - 1]
-    if(p.valor < significance) {
-      valores = c(valores, median(df[, i], na.rm=T))
-    } else {
-      valores = c(valores, mean(df[, i], na.rm=T))
-    }
-  }
-  return(valores)
 }
 
 
@@ -69,10 +53,12 @@ plot.histograms.and.qq = function(df, index) {
 #main ======================================================================================================
 
 file_name	<- args[1]
+output_file_name <- args[2]
 
 d = read.csv(file_name)
 
 index = 10
+significance=0.05
 
 plot.histograms.and.qq(d, index)
-p.values(d, index, args[2])
+p.values(d, index, output_file_name, significance)

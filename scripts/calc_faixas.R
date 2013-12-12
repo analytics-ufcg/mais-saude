@@ -40,10 +40,20 @@ for(ano in anos){
         norm_results[norm_results$INDICADOR == colnames(data)[index_indicador] & norm_results$ANO == ano,]$NORMAL
     );
     
-    output <- data.frame(t(c(colnames(data)[index_indicador], ano, bounds)))
-    colnames(output) <- c("indicador","ano","min","q4neg","q3neg","q2neg","q0","q2","q3","q4","max")
     
-    write.csv(file=paste("DESVIOS_", name, sep=""), output, row.names=FALSE)
+    if(exists("output")){
+        tmp <- data.frame(t(c(colnames(data)[index_indicador], ano, bounds)))
+        colnames(tmp) <- c("indicador","ano","min","q4neg","q3neg","q2neg","q0","q2","q3","q4","max")
+        output <- rbind(output, tmp)
+    }else{
+        output <- data.frame(t(c(colnames(data)[index_indicador], ano, bounds)))
+        colnames(output) <- c("indicador","ano","min","q4neg","q3neg","q2neg","q0","q2","q3","q4","max")
+    }
+    
+    
+    
+    
 }
+write.csv(file=paste("DESVIOS_", name, sep=""), output, row.names=FALSE)
 
 
