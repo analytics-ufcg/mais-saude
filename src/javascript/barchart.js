@@ -75,9 +75,9 @@ function plot_bars(data, cidade_nome, indicador){
 		
 	plotTitulosGraficos(svg, indicador, current_year,cidade.NOME_MESO,cidade.NOME_MICRO);
 	
-	plot_bar(svg, estado, estado_faixas, x_start, x_end, color_scale_indicador);
-	plot_bar(svg, meso, meso_faixas, x_start, x_end, color_scale_meso);
-	plot_bar(svg, micro, micro_faixas, x_start, x_end, color_scale_meso);
+	plot_bar(svg, estado, estado_faixas, x_start, x_end, color_scale_indicador,indicador);
+	plot_bar(svg, meso, meso_faixas, x_start, x_end, color_scale_meso,indicador);
+	plot_bar(svg, micro, micro_faixas, x_start, x_end, color_scale_meso,indicador);
 	
 	plot_cidades(svg,micro,micro_faixas,x_start, x_end, indicador, color_scale_cidades_meso);
 	plot_cidades(svg,meso,meso_faixas,x_start, x_end, indicador, color_scale_cidades_meso);
@@ -87,7 +87,7 @@ function plot_bars(data, cidade_nome, indicador){
 	
 }
 
-function plot_bar(svg_element, cidades, faixas, x_start, x_end, color_scale){
+function plot_bar(svg_element, cidades, faixas, x_start, x_end, color_scale,indicador){
 	
 	var min_x = faixas[faixas.length-1].x;
 	var max_x = faixas[0].x;
@@ -101,7 +101,7 @@ function plot_bar(svg_element, cidades, faixas, x_start, x_end, color_scale){
 					.scale(x_scale)
 					.orient("bottom")
 					.tickValues([parseFloat(min_x),parseFloat(max_x)])
-					.tickFormat(function(d){return formatNum(  (d3.format(".2f")(d)) );});
+					.tickFormat(function(d){return get_legend(d, indicador);});
 	
 	var g = svg_element.append("g").attr("class", "x axis").attr("transform", "translate(0," + (y_default + 13) + ")").call(xAxis);
 	
@@ -159,7 +159,7 @@ function plot_cidades(svg,cidades, faixas, x_start, x_end, indicador, color_scal
                                                 var yPosition = $(this).offset().top - 50;
 												d3.select("#tooltip").style("left", xPosition + "px")
                                                 .style("top", yPosition + "px")
-                                                .select("#value").text(nomesMunicipios + ": " + get_legend(d, indicador));
+                                                .select("#value").text(nomesMunicipios + ": " + get_legend(d[indicador], indicador));
                                                 d3.select("#tooltip").classed("hidden", false);
                                         })
                                 
@@ -203,17 +203,17 @@ function plot_cidade(svg, faixas, x_start, x_end, cidade, indicador){
             .attr("text-anchor", "middle")
             .attr("font-weight", "bold")
             .transition().duration(500).delay(1000)
-            .text( cidade.NOME_MUNICIPIO + ": " +get_legend(cidade, indicador));  
+            .text( cidade.NOME_MUNICIPIO + ": " +get_legend(cidade[indicador], indicador));  
 }
 
 function get_legend(cidade, indicador){
 	var tipo_indicador = dicionario.filter(function(d){return d.id == indicador;})[0];
 	if(tipo_indicador.Porcentagem == "1"){
-		return formatNum(parseFloat(cidade[indicador]).toFixed(2))+"%";
+		return formatNum(parseFloat(cidade).toFixed(2))+"%";
 	}else if(tipo_indicador.Porcentagem == "0"){
-		return "R$ " + (formatNum(parseFloat(cidade[indicador]).toFixed(2)));
+		return "R$ " + (formatNum(parseFloat(cidade).toFixed(2)));
 	}
-	return (formatNum(parseFloat(cidade[indicador]).toFixed(2)));
+	return (formatNum(parseFloat(cidade).toFixed(2)));
 }
 
 function geraMapa(tabela,indicador){
