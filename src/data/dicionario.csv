@@ -1,4 +1,4 @@
-id,name,desvio,referencial_maior,big_description,number,Porcentagem
+﻿id,name,desvio,referencial_maior,big_description,number,Porcentagem
 INDICADOR_001,Cobertura equipes Atenção Básica,DESVIOS_MELHOR_INDICADOR_01,neutro,Cobertura populacional estimada pelas equipes de Atenção Básica,0,1
 INDICADOR_002,Internações por condições sensíveis à Atenção Básica(%),DESVIOS_MELHOR_INDICADOR_02,neutro,Proporção de internações por condições sensíveis à atenção Básica(ICSAB),1,1
 INDICADOR_004,Cobertura equipes básicas de saúde bucal,DESVIOS_MELHOR_INDICADOR_04,neutro,Cobertura populacional estimada pelas equipes básicas de saúde bucal,2,1
@@ -21,12 +21,11 @@ INDICADOR_111,Gastos com Vigilância Epidemiológica,DESVIOS_MELHOR_INDICADOR_11
 INDICADOR_112,Gastos com Atividades Gestão,DESVIOS_PIOR_INDICADOR_112,neutro,Proporção dos gastos da saúde com atividades gestão ,20,1
 INDICADOR_113,Gasto com Pessoal(%),DESVIOS_PIOR_INDICADOR_113,neutro,Percentual do gasto com pessoal ,21,1
 INDICADOR_114,RPEC,DESVIOS_PIOR_INDICADOR_114,neutro,Relação de gasto total com pessoal em relação ao pessoal contatado ,22,0
-INDICADOR_201,EspVida,DESVIOS_MELHOR_INDICADOR_201,neutro,Esperança de vida ao nascer,23,2
-INDICADOR_202,FecTotal,DESVIOS_MELHOR_INDICADOR_202,neutro,Taxa de fecundidade total,24,2
-INDICADOR_203,Mortalidade Infantil,DESVIOS_PIOR_INDICADOR_203,neutro,Mortalidade infantil,25,2
-INDICADOR_204,Mortalidade até 5 anos,DESVIOS_PIOR_INDICADOR_204,neutro,Mortalidade até 5 anos de idade,26,2
-INDICADOR_205,SOBRE60,DESVIOS_MELHOR_INDICADOR_205,neutro,Probabilidade de sobrevivência até 60 anos,27,1
-INDICADOR_206,Taxa de envelhecimento,DESVIOS_MELHOR_INDICADOR_206,neutro,Taxa de envelhecimento,28,1
+INDICADOR_201,Esperança de vida ao nascer,DESVIOS_MELHOR_INDICADOR_201,neutro,"Número médio de anos que as pessoas deverão viver a partir do nascimento, se permanecerem constantes ao longo da vida o n�vel e o padr�o de mortalidade por idade prevalecentes no ano do Censo.",23,2
+INDICADOR_202,Taxa de fecundidade total,DESVIOS_MELHOR_INDICADOR_202,neutro,Número médio de filhos que uma mulher deverá ter ao terminar o período reprodutivo (15 a 49 anos de idade).,24,2
+INDICADOR_203,Mortalidade Infantil,DESVIOS_PIOR_INDICADOR_203,neutro,Número de crianç que não deverão sobreviver ao primeiro ano de vida em cada 1000 crianças nascidas vivas.,25,2
+INDICADOR_204,Mortalidade até 5 anos de idade,DESVIOS_PIOR_INDICADOR_204,neutro,"Probabilidade de morrer entre o nascimento e a idade exata de 5 anos, por 1000 crianças nascidas vivas.",26,2
+INDICADOR_205,Probabilidade de sobrevivência até 60 anos,DESVIOS_MELHOR_INDICADOR_205,neutro,"Probabilidade de uma criança recém-nascida viver até os 60 anos, se permanecerem constantes ao longo da vida o n�vel e o padr�o de mortalidade por idade prevalecentes no ano do Censo.",27,1
+INDICADOR_206,Taxa de envelhecimento,DESVIOS_MELHOR_INDICADOR_206,neutro,Razão entre a população de 65 anos ou mais de idade e a população total multiplicado por 100.,28,1
 INDICADOR_207,IDHM,DESVIOS_MELHOR_INDICADOR_207,neutro,Índice de Desenvolvimento Humano Municipal,28,2
 INDICADOR_208,IDHM_L,DESVIOS_MELHOR_INDICADOR_208,neutro,Índice de Desenvolvimento Humano Municipal  - Dimensão Longevidade,28,2
-
