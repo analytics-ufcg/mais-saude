@@ -157,7 +157,7 @@ generateOutlierColumn <- function(data.df, referencial.outlier){
     class = -1 * class
   }
   data.df = cbind(data.df, class)
-  colnames(data.df)[11] = paste("DESVIOS_", referencial.outlier, "_", colnames(data.df)[10], sep="")
+  colnames(data.df)[11] = paste("DESVIOS_MELHOR_", referencial.outlier, "_", colnames(data.df)[10], sep="")
   return(data.df)
 }
 
@@ -182,11 +182,14 @@ indice.indicador = c("INDICADOR_001", "INDICADOR_002", "INDICADOR_004", "INDICAD
                      "INDICADOR_020", "INDICADOR_021", "INDICADOR_035", "INDICADOR_041", "INDICADOR_101", 
                      "INDICADOR_102", "INDICADOR_103", "INDICADOR_104", "INDICADOR_105", "INDICADOR_106", 
                      "INDICADOR_107", "INDICADOR_108", "INDICADOR_109", "INDICADOR_110", "INDICADOR_111", 
-                     "INDICADOR_112", "INDICADOR_113", "INDICADOR_114")
+                     "INDICADOR_112", "INDICADOR_113", "INDICADOR_114", "INDICADOR_201", "INDICADOR_202", 
+					 "INDICADOR_203", "INDICADOR_204". "INDICADOR_205", "INDICADOR_206", "INDICADOR_207", 
+					 "INDICADOR_208")
 
 indicador.categoria = c("MELHOR", "MELHOR", "MELHOR", "MELHOR", "MELHOR", "MELHOR", "MELHOR", "MELHOR", 
                         "MELHOR", "MELHOR", "MELHOR", "MELHOR", "MELHOR", "MELHOR", "MELHOR", "MELHOR", 
-                        "MELHOR", "MELHOR", "MELHOR", "MELHOR", "PIOR", "PIOR", "PIOR")
+                        "MELHOR", "MELHOR", "MELHOR", "MELHOR", "PIOR", "PIOR", "PIOR", "MELHOR", "MELHOR", 
+						"PIOR", "PIOR", "MELHOR", "MELHOR", "MELHOR", "MELHOR")
 
 tabela.indicador = data.frame(indice = indice.indicador, categoria = indicador.categoria)
 
