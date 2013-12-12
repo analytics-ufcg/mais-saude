@@ -7,12 +7,11 @@ require("stats")
 #funcoes ==================================================================================================
 
 #calcula os p.valores do teste shapiro-wilk dos anos
-p.values = function(df, index) {
+p.values = function(df, index, file_name) {
 
 	indicador_name = colnames(df)[index]
-	file_name = paste(indicador_name, ".norm.txt", sep="")
 	
-	sink(file=file_name)
+	sink(file=file_name, append=TRUE)
 	
 	anos <- unique(df$ANO)
 	
@@ -76,4 +75,4 @@ d = read.csv(file_name)
 index = 10
 
 plot.histograms.and.qq(d, index)
-p.values(d, index)
+p.values(d, index, args[2])

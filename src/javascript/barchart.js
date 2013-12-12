@@ -181,8 +181,7 @@ function get_cor_indicador(indicador, valor, faixa, color_scale){
 		return d.x == min_v_faixa.x 
 	});
 	
-	
-	return color_scale[faixa.indexOf(filtro[0])];
+	return color_scale[faixa.indexOf(filtro[valor == min_v_faixa?0:filtro.length-1])];
 }
 
 

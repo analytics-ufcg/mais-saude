@@ -4,10 +4,8 @@ rm ../data/faixas/*
 
 for i in ../data/INDICADOR_*.csv; do
 	echo "Checking $i"
-	./normality_tests.R $i
-
-
-#	mv *png *norm.txt ../data/nortest/
+	./calc_faixas.R $i ../data/nortest_results.csv ${i##*/}
+    mv DESVIOS* ../data/faixas/
 done
 
 echo "Check results at data/faixas/"
