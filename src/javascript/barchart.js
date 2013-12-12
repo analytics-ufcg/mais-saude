@@ -1,6 +1,16 @@
-var color_scale_indicador = ["#006400","#006400","#92B879","#E0E0E0","#E0E0E0","#FFFF00","#FF7F00","#ff3333"];
+var color_scale_indicador = ["#006400","#92B879","#E0E0E0","#E0E0E0","#E0E0E0","#FFFF00","#FF7F00","#ff3333"];
+var color_scale_cidades = ["#003300","#6b954f","#C0C0C0","#C0C0C0","#C0C0C0","#FFCC00","#CC5200","#670000"];
+
 var color_scale_meso = ["#F0F0F0","#E0E0E0","#F0F0F0"];
+var color_scale_cidades_meso = ["#F0F0F0","#C0C0C0","#F0F0F0"];
 var estado_faixas = [];
+
+function get_color_scale(indicador){
+//	if (indicador == "INDICADOR_???"){
+//		return outra_color_scale;
+//	}
+	return color_scale_cidades
+}
 
 function plot_barra_indicador(cidade, indicador_nome) {
    //console.log(cidade);
@@ -69,9 +79,9 @@ function plot_bars(data, cidade_nome, indicador){
 	plot_bar(svg, meso, meso_faixas, x_start, x_end, color_scale_meso);
 	plot_bar(svg, micro, micro_faixas, x_start, x_end, color_scale_meso);
 	
-	plot_cidades(svg,micro,micro_faixas,x_start, x_end, indicador, "micro");
-	plot_cidades(svg,meso,meso_faixas,x_start, x_end, indicador, "meso");
-	plot_cidades(svg,estado,estado_faixas,x_start, x_end, indicador,"estado");
+	plot_cidades(svg,micro,micro_faixas,x_start, x_end, indicador, color_scale_cidades_meso);
+	plot_cidades(svg,meso,meso_faixas,x_start, x_end, indicador, color_scale_cidades_meso);
+	plot_cidades(svg,estado,estado_faixas,x_start, x_end, indicador, get_color_scale(indicador));
 	
 	plot_cidade(svg,estado_faixas, x_start, x_end,cidade,indicador);
 	
@@ -111,7 +121,7 @@ function plot_bar(svg_element, cidades, faixas, x_start, x_end, color_scale){
 						.attr("stroke-width",25);
 }
 
-function plot_cidades(svg,cidades, faixas, x_start, x_end, indicador, regiao){
+function plot_cidades(svg,cidades, faixas, x_start, x_end, indicador, color_scale){
     var min_x = faixas[faixas.length-1].x;
 	var max_x = faixas[0].x;
 	var y_default = faixas[0].y;
@@ -134,7 +144,7 @@ function plot_cidades(svg,cidades, faixas, x_start, x_end, indicador, regiao){
 						.attr("y1",y_default)
 						.attr("y2",y_default)
 						.attr("id","barra_indicador_altura_" + y_default)
-						.style("stroke",function(d){ return get_cor(d[indicador], regiao);})
+						.style("stroke",function(d){ return get_cor_indicador(indicador, d[indicador], faixas, color_scale); })
 						.attr("opacity",0.6)
 						.attr("stroke-width",25)
 						.on("mouseover", function(d) {
@@ -160,31 +170,14 @@ function plot_cidades(svg,cidades, faixas, x_start, x_end, indicador, regiao){
 
 }
 
-function get_cor(indicador, regiao){
-	//quando os dados forem simetricos basta alterar a ordem das cores no array
-	var bars_scale = ["#670000", //vermelho
-			 "#CC5200", //laranja
-			 "#FFCC00", //amarelo
-			 "#6b954f", //verde
-			 "#003300", //verde2
-			 "#C0C0C0"]; //cinza
-
-	if(regiao == "estado"){
-		if(indicador < estado_faixas[7].x){
-			return bars_scale[0];
-		}else if(indicador < estado_faixas[6].x){
-			return bars_scale[1];
-		}else if(indicador < estado_faixas[5].x){
-			return bars_scale[2];
-		}else if(indicador < estado_faixas[3].x){
-			return bars_scale[5];
-		}else if(indicador < estado_faixas[2].x){
-			return bars_scale[3];
-		}
-		return bars_scale[4];
-	}
-	return bars_scale[5];
+function get_cor_indicador(indicador, valor, faixa, color_scale){
+	var filtro = faixa.filter(function(d){
+		return valor <= d.x;
+	});
+	
+	return color_scale[faixa.indexOf(filtro[filtro.length-1])];
 }
+
 
 function plot_cidade(svg, faixas, x_start, x_end, cidade, indicador){
 	var min_x = faixas[faixas.length-1].x;

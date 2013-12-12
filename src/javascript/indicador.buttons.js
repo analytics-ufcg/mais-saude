@@ -131,9 +131,9 @@ function getButtonColor(colunaDesvio) {
 	if (valor == "NA") {
         return "indicador_cinza";
 	}
-	console.log(valor);
+	//console.log(valor);
 	valor = parseFloat(valor);
-	console.log(valor);
+	//console.log(valor);
 	
 	if (valor == -2) {
         return "indicador_amarelo";
