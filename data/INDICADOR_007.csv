@@ -1,1116 +1,1116 @@
-COD_UF;NOME_UF;COD_MUNICIPIO;ANO;COD_MESO;NOME_MESO;COD_MICRO;NOME_MICRO;NOME_MUNICIPIO;INDICADOR_007
-25;Paraíba;250010;2008;2501;Sert�o Paraibano;250107;Serra do Teixeira;Água Branca;0.3
-25;Paraíba;250020;2008;2501;Sert�o Paraibano;250105;Pianc�;Aguiar;0
-25;Paraíba;250030;2008;2503;Agreste Paraibano;250315;Brejo Paraibano;Alagoa Grande;0.17
-25;Paraíba;250040;2008;2503;Agreste Paraibano;250315;Brejo Paraibano;Alagoa Nova;0.29
-25;Paraíba;250050;2008;2503;Agreste Paraibano;250316;Guarabira;Alagoinha;0.07
-25;Paraíba;250053;2008;2502;Borborema;250211;Cariri Oriental;Alcantil;0.19
-25;Paraíba;250057;2008;2503;Agreste Paraibano;250312;Curimata� Ocidental;Algod�o de Janda�ra;0.04
-25;Paraíba;250060;2008;2504;Mata Paraibana;250423;Litoral Sul;Alhandra;0.1
-25;Paraíba;250070;2008;2501;Sert�o Paraibano;250102;Cajazeiras;S�o Jo�o do Rio do Peixe;0
-25;Paraíba;250073;2008;2502;Borborema;250210;Cariri Ocidental;Amparo;0.24
-25;Paraíba;250077;2008;2501;Sert�o Paraibano;250103;Sousa;Aparecida;0.04
-25;Paraíba;250080;2008;2503;Agreste Paraibano;250316;Guarabira;Ara�agi;0.15
-25;Paraíba;250090;2008;2503;Agreste Paraibano;250312;Curimata� Ocidental;Arara;0.31
-25;Paraíba;250100;2008;2503;Agreste Paraibano;250313;Curimata� Oriental;Araruna;0.06
-25;Paraíba;250110;2008;2503;Agreste Paraibano;250315;Brejo Paraibano;Areia;0.07
-25;Paraíba;250115;2008;2501;Sert�o Paraibano;250104;Patos;Areia de Bara�nas;0.14
-25;Paraíba;250120;2008;2503;Agreste Paraibano;250314;Esperan�a;Areial;0.2
-25;Paraíba;250130;2008;2503;Agreste Paraibano;250319;Umbuzeiro;Aroeiras;0.21
-25;Paraíba;250135;2008;2502;Borborema;250210;Cariri Ocidental;Assun��o;0.58
-25;Paraíba;250140;2008;2504;Mata Paraibana;250420;Litoral Norte;Ba�a da Trai��o;0.34
-25;Paraíba;250150;2008;2503;Agreste Paraibano;250315;Brejo Paraibano;Bananeiras;0.06
-25;Paraíba;250153;2008;2502;Borborema;250209;Serid� Oriental Paraibano;Bara�na;0.03
-25;Paraíba;250157;2008;2502;Borborema;250211;Cariri Oriental;Barra de Santana;0.39
-25;Paraíba;250160;2008;2503;Agreste Paraibano;250312;Curimata� Ocidental;Barra de Santa Rosa;0.07
-25;Paraíba;250170;2008;2502;Borborema;250211;Cariri Oriental;Barra de S�o Miguel;0.34
-25;Paraíba;250180;2008;2504;Mata Paraibana;250422;Jo�o Pessoa;Bayeux;0.21
-25;Paraíba;250190;2008;2503;Agreste Paraibano;250316;Guarabira;Bel�m;0.41
-25;Paraíba;250200;2008;2501;Sert�o Paraibano;250101;Catol� do Rocha;Bel�m do Brejo do Cruz;0.1
-25;Paraíba;250205;2008;2501;Sert�o Paraibano;250102;Cajazeiras;Bernardino Batista;0.03
-25;Paraíba;250210;2008;2501;Sert�o Paraibano;250106;Itaporanga;Boa Ventura;0.03
-25;Paraíba;250215;2008;2503;Agreste Paraibano;250317;Campina Grande;Boa Vista;0.62
-25;Paraíba;250220;2008;2501;Sert�o Paraibano;250102;Cajazeiras;Bom Jesus;0.09
-25;Paraíba;250230;2008;2501;Sert�o Paraibano;250101;Catol� do Rocha;Bom Sucesso;0.26
-25;Paraíba;250240;2008;2501;Sert�o Paraibano;250102;Cajazeiras;Bonito de Santa F�;0.01
-25;Paraíba;250250;2008;2502;Borborema;250211;Cariri Oriental;Boqueir�o;0.48
-25;Paraíba;250260;2008;2501;Sert�o Paraibano;250105;Pianc�;Igaracy;0.03
-25;Paraíba;250270;2008;2503;Agreste Paraibano;250315;Brejo Paraibano;Borborema;0.14
-25;Paraíba;250280;2008;2501;Sert�o Paraibano;250101;Catol� do Rocha;Brejo do Cruz;0.15
-25;Paraíba;250290;2008;2501;Sert�o Paraibano;250101;Catol� do Rocha;Brejo dos Santos;0.05
-25;Paraíba;250300;2008;2504;Mata Paraibana;250423;Litoral Sul;Caapor�;0.12
-25;Paraíba;250310;2008;2502;Borborema;250211;Cariri Oriental;Cabaceiras;0.56
-25;Paraíba;250320;2008;2504;Mata Paraibana;250422;Jo�o Pessoa;Cabedelo;0.55
-25;Paraíba;250330;2008;2501;Sert�o Paraibano;250102;Cajazeiras;Cachoeira dos �ndios;0
-25;Paraíba;250340;2008;2501;Sert�o Paraibano;250104;Patos;Cacimba de Areia;0.03
-25;Paraíba;250350;2008;2503;Agreste Paraibano;250313;Curimata� Oriental;Cacimba de Dentro;0.1
-25;Paraíba;250355;2008;2501;Sert�o Paraibano;250107;Serra do Teixeira;Cacimbas;0.06
-25;Paraíba;250360;2008;2503;Agreste Paraibano;250316;Guarabira;Cai�ara;0.03
-25;Paraíba;250370;2008;2501;Sert�o Paraibano;250102;Cajazeiras;Cajazeiras;0.03
-25;Paraíba;250375;2008;2501;Sert�o Paraibano;250103;Sousa;Cajazeirinhas;0.03
-25;Paraíba;250380;2008;2503;Agreste Paraibano;250318;Itabaiana;Caldas Brand�o;0.15
-25;Paraíba;250390;2008;2502;Borborema;250210;Cariri Ocidental;Camala�;0.29
-25;Paraíba;250400;2008;2503;Agreste Paraibano;250317;Campina Grande;Campina Grande;0.71
-25;Paraíba;250403;2008;2504;Mata Paraibana;250420;Litoral Norte;Capim;0.07
-25;Paraíba;250407;2008;2502;Borborema;250211;Cariri Oriental;Cara�bas;0.28
-25;Paraíba;250410;2008;2501;Sert�o Paraibano;250102;Cajazeiras;Carrapateira;0
-25;Paraíba;250415;2008;2503;Agreste Paraibano;250313;Curimata� Oriental;Casserengue;0.16
-25;Paraíba;250420;2008;2501;Sert�o Paraibano;250105;Pianc�;Catingueira;0.1
-25;Paraíba;250430;2008;2501;Sert�o Paraibano;250101;Catol� do Rocha;Catol� do Rocha;0.11
-25;Paraíba;250435;2008;2502;Borborema;250211;Cariri Oriental;Caturit�;0.74
-25;Paraíba;250440;2008;2501;Sert�o Paraibano;250106;Itaporanga;Concei��o;0.01
-25;Paraíba;250450;2008;2501;Sert�o Paraibano;250103;Sousa;Condado;0.25
-25;Paraíba;250460;2008;2504;Mata Paraibana;250422;Jo�o Pessoa;Conde;0.18
-25;Paraíba;250470;2008;2502;Borborema;250210;Cariri Ocidental;Congo;0.2
-25;Paraíba;250480;2008;2501;Sert�o Paraibano;250105;Pianc�;Coremas;0.35
-25;Paraíba;250485;2008;2502;Borborema;250210;Cariri Ocidental;Coxixola;0.8
-25;Paraíba;250490;2008;2504;Mata Paraibana;250421;Sap�;Cruz do Esp�rito Santo;0.19
-25;Paraíba;250500;2008;2502;Borborema;250209;Serid� Oriental Paraibano;Cubati;0.46
-25;Paraíba;250510;2008;2503;Agreste Paraibano;250312;Curimata� Ocidental;Cuit�;0.12
-25;Paraíba;250520;2008;2503;Agreste Paraibano;250316;Guarabira;Cuitegi;0.01
-25;Paraíba;250523;2008;2504;Mata Paraibana;250420;Litoral Norte;Cuit� de Mamanguape;0.06
-25;Paraíba;250527;2008;2504;Mata Paraibana;250420;Litoral Norte;Curral de Cima;0.09
-25;Paraíba;250530;2008;2501;Sert�o Paraibano;250106;Itaporanga;Curral Velho;0
-25;Paraíba;250535;2008;2503;Agreste Paraibano;250312;Curimata� Ocidental;Dami�o;0.06
-25;Paraíba;250540;2008;2501;Sert�o Paraibano;250107;Serra do Teixeira;Desterro;0.12
-25;Paraíba;250550;2008;2501;Sert�o Paraibano;250103;Sousa;Vista Serrana;0.12
-25;Paraíba;250560;2008;2501;Sert�o Paraibano;250106;Itaporanga;Diamante;0.07
-25;Paraíba;250570;2008;2503;Agreste Paraibano;250313;Curimata� Oriental;Dona In�s;0.02
-25;Paraíba;250580;2008;2503;Agreste Paraibano;250316;Guarabira;Duas Estradas;0.29
-25;Paraíba;250590;2008;2501;Sert�o Paraibano;250105;Pianc�;Emas;0.33
-25;Paraíba;250600;2008;2503;Agreste Paraibano;250314;Esperan�a;Esperan�a;0.4
-25;Paraíba;250610;2008;2503;Agreste Paraibano;250317;Campina Grande;Fagundes;0.35
-25;Paraíba;250620;2008;2502;Borborema;250209;Serid� Oriental Paraibano;Frei Martinho;0.03
-25;Paraíba;250625;2008;2503;Agreste Paraibano;250319;Umbuzeiro;Gado Bravo;0.15
-25;Paraíba;250630;2008;2503;Agreste Paraibano;250316;Guarabira;Guarabira;0.16
-25;Paraíba;250640;2008;2503;Agreste Paraibano;250318;Itabaiana;Gurinh�m;0.13
-25;Paraíba;250650;2008;2502;Borborema;250211;Cariri Oriental;Gurj�o;0.23
-25;Paraíba;250660;2008;2501;Sert�o Paraibano;250106;Itaporanga;Ibiara;0.03
-25;Paraíba;250670;2008;2501;Sert�o Paraibano;250107;Serra do Teixeira;Imaculada;0.08
-25;Paraíba;250680;2008;2503;Agreste Paraibano;250318;Itabaiana;Ing�;0.15
-25;Paraíba;250690;2008;2503;Agreste Paraibano;250318;Itabaiana;Itabaiana;0.15
-25;Paraíba;250700;2008;2501;Sert�o Paraibano;250106;Itaporanga;Itaporanga;0.08
-25;Paraíba;250710;2008;2504;Mata Paraibana;250420;Litoral Norte;Itapororoca;0.14
-25;Paraíba;250720;2008;2503;Agreste Paraibano;250318;Itabaiana;Itatuba;0.23
-25;Paraíba;250730;2008;2504;Mata Paraibana;250420;Litoral Norte;Jacara�;0.23
-25;Paraíba;250740;2008;2501;Sert�o Paraibano;250101;Catol� do Rocha;Jeric�;0
-25;Paraíba;250750;2008;2504;Mata Paraibana;250422;Jo�o Pessoa;Jo�o Pessoa;1
-25;Paraíba;250760;2008;2503;Agreste Paraibano;250318;Itabaiana;Juarez T�vora;0.32
-25;Paraíba;250770;2008;2502;Borborema;250209;Serid� Oriental Paraibano;Juazeirinho;0.15
-25;Paraíba;250780;2008;2502;Borborema;250208;Serid� Ocidental Paraibano;Junco do Serid�;0.09
-25;Paraíba;250790;2008;2504;Mata Paraibana;250421;Sap�;Juripiranga;0.16
-25;Paraíba;250800;2008;2501;Sert�o Paraibano;250107;Serra do Teixeira;Juru;0.12
-25;Paraíba;250810;2008;2501;Sert�o Paraibano;250101;Catol� do Rocha;Lagoa;0.06
-25;Paraíba;250820;2008;2503;Agreste Paraibano;250316;Guarabira;Lagoa de Dentro;0.04
-25;Paraíba;250830;2008;2503;Agreste Paraibano;250317;Campina Grande;Lagoa Seca;0.29
-25;Paraíba;250840;2008;2501;Sert�o Paraibano;250103;Sousa;Lastro;0.07
-25;Paraíba;250850;2008;2502;Borborema;250210;Cariri Ocidental;Livramento;0.16
-25;Paraíba;250855;2008;2503;Agreste Paraibano;250316;Guarabira;Logradouro;0.05
-25;Paraíba;250860;2008;2504;Mata Paraibana;250422;Jo�o Pessoa;Lucena;0.06
-25;Paraíba;250870;2008;2501;Sert�o Paraibano;250104;Patos;M�e d'�gua;0.02
-25;Paraíba;250880;2008;2501;Sert�o Paraibano;250103;Sousa;Malta;0.03
-25;Paraíba;250890;2008;2504;Mata Paraibana;250420;Litoral Norte;Mamanguape;0.32
-25;Paraíba;250900;2008;2501;Sert�o Paraibano;250107;Serra do Teixeira;Mana�ra;0.16
-25;Paraíba;250905;2008;2504;Mata Paraibana;250420;Litoral Norte;Marca��o;0.07
-25;Paraíba;250910;2008;2504;Mata Paraibana;250421;Sap�;Mari;0.28
-25;Paraíba;250915;2008;2501;Sert�o Paraibano;250103;Sousa;Mariz�polis;0
-25;Paraíba;250920;2008;2503;Agreste Paraibano;250317;Campina Grande;Massaranduba;0.44
-25;Paraíba;250930;2008;2504;Mata Paraibana;250420;Litoral Norte;Mataraca;0.18
-25;Paraíba;250933;2008;2503;Agreste Paraibano;250315;Brejo Paraibano;Matinhas;0.23
-25;Paraíba;250937;2008;2501;Sert�o Paraibano;250101;Catol� do Rocha;Mato Grosso;0.15
-25;Paraíba;250939;2008;2501;Sert�o Paraibano;250107;Serra do Teixeira;Matur�ia;0
-25;Paraíba;250940;2008;2503;Agreste Paraibano;250318;Itabaiana;Mogeiro;0.06
-25;Paraíba;250950;2008;2503;Agreste Paraibano;250314;Esperan�a;Montadas;0.32
-25;Paraíba;250960;2008;2501;Sert�o Paraibano;250102;Cajazeiras;Monte Horebe;0.02
-25;Paraíba;250970;2008;2502;Borborema;250210;Cariri Ocidental;Monteiro;0.68
-25;Paraíba;250980;2008;2503;Agreste Paraibano;250316;Guarabira;Mulungu;0.11
-25;Paraíba;250990;2008;2503;Agreste Paraibano;250319;Umbuzeiro;Natuba;0.09
-25;Paraíba;251000;2008;2501;Sert�o Paraibano;250103;Sousa;Nazarezinho;0
-25;Paraíba;251010;2008;2503;Agreste Paraibano;250312;Curimata� Ocidental;Nova Floresta;0.08
-25;Paraíba;251020;2008;2501;Sert�o Paraibano;250105;Pianc�;Nova Olinda;0.05
-25;Paraíba;251030;2008;2502;Borborema;250209;Serid� Oriental Paraibano;Nova Palmeira;0
-25;Paraíba;251040;2008;2501;Sert�o Paraibano;250105;Pianc�;Olho d'�gua;0.05
-25;Paraíba;251050;2008;2503;Agreste Paraibano;250312;Curimata� Ocidental;Olivedos;0.17
-25;Paraíba;251060;2008;2502;Borborema;250210;Cariri Ocidental;Ouro Velho;0.29
-25;Paraíba;251065;2008;2502;Borborema;250210;Cariri Ocidental;Parari;0.86
-25;Paraíba;251070;2008;2501;Sert�o Paraibano;250104;Patos;Passagem;0
-25;Paraíba;251080;2008;2501;Sert�o Paraibano;250104;Patos;Patos;0.33
-25;Paraíba;251090;2008;2501;Sert�o Paraibano;250103;Sousa;Paulista;0.14
-25;Paraíba;251100;2008;2501;Sert�o Paraibano;250106;Itaporanga;Pedra Branca;0.05
-25;Paraíba;251110;2008;2502;Borborema;250209;Serid� Oriental Paraibano;Pedra Lavrada;0.1
-25;Paraíba;251120;2008;2504;Mata Paraibana;250423;Litoral Sul;Pedras de Fogo;0.47
-25;Paraíba;251130;2008;2501;Sert�o Paraibano;250105;Pianc�;Pianc�;0.12
-25;Paraíba;251140;2008;2502;Borborema;250209;Serid� Oriental Paraibano;Picu�;0.02
-25;Paraíba;251150;2008;2504;Mata Paraibana;250421;Sap�;Pilar;0.05
-25;Paraíba;251160;2008;2503;Agreste Paraibano;250315;Brejo Paraibano;Pil�es;0.13
-25;Paraíba;251170;2008;2503;Agreste Paraibano;250316;Guarabira;Pil�ezinhos;0.04
-25;Paraíba;251180;2008;2503;Agreste Paraibano;250316;Guarabira;Pirpirituba;0.16
-25;Paraíba;251190;2008;2504;Mata Paraibana;250423;Litoral Sul;Pitimbu;0.07
-25;Paraíba;251200;2008;2503;Agreste Paraibano;250312;Curimata� Ocidental;Pocinhos;0.12
-25;Paraíba;251203;2008;2501;Sert�o Paraibano;250102;Cajazeiras;Po�o Dantas;0
-25;Paraíba;251207;2008;2501;Sert�o Paraibano;250102;Cajazeiras;Po�o de Jos� de Moura;0
-25;Paraíba;251210;2008;2501;Sert�o Paraibano;250103;Sousa;Pombal;0.22
-25;Paraíba;251220;2008;2502;Borborema;250210;Cariri Ocidental;Prata;0.67
-25;Paraíba;251230;2008;2501;Sert�o Paraibano;250107;Serra do Teixeira;Princesa Isabel;0.03
-25;Paraíba;251240;2008;2503;Agreste Paraibano;250317;Campina Grande;Puxinan�;0.36
-25;Paraíba;251250;2008;2503;Agreste Paraibano;250317;Campina Grande;Queimadas;0.32
-25;Paraíba;251260;2008;2501;Sert�o Paraibano;250104;Patos;Quixab�;0.27
-25;Paraíba;251270;2008;2503;Agreste Paraibano;250312;Curimata� Ocidental;Rem�gio;0.18
-25;Paraíba;251272;2008;2504;Mata Paraibana;250420;Litoral Norte;Pedro R�gis;0.1
-25;Paraíba;251274;2008;2503;Agreste Paraibano;250313;Curimata� Oriental;Riach�o;0.17
-25;Paraíba;251275;2008;2503;Agreste Paraibano;250318;Itabaiana;Riach�o do Bacamarte;0.23
-25;Paraíba;251276;2008;2504;Mata Paraibana;250421;Sap�;Riach�o do Po�o;0.09
-25;Paraíba;251278;2008;2502;Borborema;250211;Cariri Oriental;Riacho de Santo Ant�nio;0.26
-25;Paraíba;251280;2008;2501;Sert�o Paraibano;250101;Catol� do Rocha;Riacho dos Cavalos;0.04
-25;Paraíba;251290;2008;2504;Mata Paraibana;250420;Litoral Norte;Rio Tinto;0.18
-25;Paraíba;251300;2008;2502;Borborema;250208;Serid� Ocidental Paraibano;Salgadinho;0.23
-25;Paraíba;251310;2008;2503;Agreste Paraibano;250318;Itabaiana;Salgado de S�o F�lix;0.02
-25;Paraíba;251315;2008;2503;Agreste Paraibano;250319;Umbuzeiro;Santa Cec�lia;0.03
-25;Paraíba;251320;2008;2501;Sert�o Paraibano;250103;Sousa;Santa Cruz;0.05
-25;Paraíba;251330;2008;2501;Sert�o Paraibano;250102;Cajazeiras;Santa Helena;0
-25;Paraíba;251335;2008;2501;Sert�o Paraibano;250106;Itaporanga;Santa In�s;0.1
-25;Paraíba;251340;2008;2502;Borborema;250208;Serid� Ocidental Paraibano;Santa Luzia;0.31
-25;Paraíba;251350;2008;2501;Sert�o Paraibano;250106;Itaporanga;Santana de Mangueira;0.12
-25;Paraíba;251360;2008;2501;Sert�o Paraibano;250105;Pianc�;Santana dos Garrotes;0.01
-25;Paraíba;251365;2008;2501;Sert�o Paraibano;250102;Cajazeiras;Santar�m;0
-25;Paraíba;251370;2008;2504;Mata Paraibana;250422;Jo�o Pessoa;Santa Rita;0.11
-25;Paraíba;251380;2008;2501;Sert�o Paraibano;250104;Patos;Santa Teresinha;0.25
-25;Paraíba;251385;2008;2502;Borborema;250211;Cariri Oriental;Santo Andr�;0.63
-25;Paraíba;251390;2008;2501;Sert�o Paraibano;250101;Catol� do Rocha;S�o Bento;0.12
-25;Paraíba;251392;2008;2501;Sert�o Paraibano;250103;Sousa;S�o Bentinho;0
-25;Paraíba;251394;2008;2502;Borborema;250211;Cariri Oriental;S�o Domingos do Cariri;0.04
-25;Paraíba;251396;2008;2501;Sert�o Paraibano;250103;Sousa;S�o Domingos;0
-25;Paraíba;251398;2008;2501;Sert�o Paraibano;250103;Sousa;S�o Francisco;0.11
-25;Paraíba;251400;2008;2502;Borborema;250211;Cariri Oriental;S�o Jo�o do Cariri;0.33
-25;Paraíba;251410;2008;2502;Borborema;250210;Cariri Ocidental;S�o Jo�o do Tigre;0.19
-25;Paraíba;251420;2008;2501;Sert�o Paraibano;250103;Sousa;S�o Jos� da Lagoa Tapada;0.01
-25;Paraíba;251430;2008;2501;Sert�o Paraibano;250106;Itaporanga;S�o Jos� de Caiana;0.05
-25;Paraíba;251440;2008;2501;Sert�o Paraibano;250104;Patos;S�o Jos� de Espinharas;0.06
-25;Paraíba;251445;2008;2504;Mata Paraibana;250421;Sap�;S�o Jos� dos Ramos;0.11
-25;Paraíba;251450;2008;2501;Sert�o Paraibano;250102;Cajazeiras;S�o Jos� de Piranhas;0.02
-25;Paraíba;251455;2008;2501;Sert�o Paraibano;250107;Serra do Teixeira;S�o Jos� de Princesa;0
-25;Paraíba;251460;2008;2501;Sert�o Paraibano;250104;Patos;S�o Jos� do Bonfim;0
-25;Paraíba;251465;2008;2501;Sert�o Paraibano;250101;Catol� do Rocha;S�o Jos� do Brejo do Cruz;0.18
-25;Paraíba;251470;2008;2502;Borborema;250208;Serid� Ocidental Paraibano;S�o Jos� do Sabugi;0.63
-25;Paraíba;251480;2008;2502;Borborema;250210;Cariri Ocidental;S�o Jos� dos Cordeiros;0.2
-25;Paraíba;251490;2008;2502;Borborema;250208;Serid� Ocidental Paraibano;S�o Mamede;0.59
-25;Paraíba;251500;2008;2504;Mata Paraibana;250421;Sap�;S�o Miguel de Taipu;0.01
-25;Paraíba;251510;2008;2503;Agreste Paraibano;250314;Esperan�a;S�o Sebasti�o de Lagoa de Ro�a;0.14
-25;Paraíba;251520;2008;2502;Borborema;250210;Cariri Ocidental;S�o Sebasti�o do Umbuzeiro;0.16
-25;Paraíba;251530;2008;2504;Mata Paraibana;250421;Sap�;Sap�;0.14
-25;Paraíba;251540;2008;2502;Borborema;250209;Serid� Oriental Paraibano;Serid�;0.12
-25;Paraíba;251550;2008;2502;Borborema;250210;Cariri Ocidental;Serra Branca;0.52
-25;Paraíba;251560;2008;2503;Agreste Paraibano;250316;Guarabira;Serra da Raiz;0.12
-25;Paraíba;251570;2008;2501;Sert�o Paraibano;250106;Itaporanga;Serra Grande;0.1
-25;Paraíba;251580;2008;2503;Agreste Paraibano;250317;Campina Grande;Serra Redonda;0.29
-25;Paraíba;251590;2008;2503;Agreste Paraibano;250315;Brejo Paraibano;Serraria;0.19
-25;Paraíba;251593;2008;2503;Agreste Paraibano;250316;Guarabira;Sert�ozinho;0.16
-25;Paraíba;251597;2008;2504;Mata Paraibana;250421;Sap�;Sobrado;0.17
-25;Paraíba;251600;2008;2503;Agreste Paraibano;250313;Curimata� Oriental;Sol�nea;0.11
-25;Paraíba;251610;2008;2503;Agreste Paraibano;250312;Curimata� Ocidental;Soledade;0.56
-25;Paraíba;251615;2008;2503;Agreste Paraibano;250312;Curimata� Ocidental;Soss�go;0.03
-25;Paraíba;251620;2008;2501;Sert�o Paraibano;250103;Sousa;Sousa;0.08
-25;Paraíba;251630;2008;2502;Borborema;250210;Cariri Ocidental;Sum�;0.18
-25;Paraíba;251640;2008;2503;Agreste Paraibano;250313;Curimata� Oriental;Tacima;0.07
-25;Paraíba;251650;2008;2502;Borborema;250210;Cariri Ocidental;Tapero�;0.3
-25;Paraíba;251660;2008;2501;Sert�o Paraibano;250107;Serra do Teixeira;Tavares;0.12
-25;Paraíba;251670;2008;2501;Sert�o Paraibano;250107;Serra do Teixeira;Teixeira;0.06
-25;Paraíba;251675;2008;2502;Borborema;250209;Serid� Oriental Paraibano;Ten�rio;0.07
-25;Paraíba;251680;2008;2501;Sert�o Paraibano;250102;Cajazeiras;Triunfo;0.07
-25;Paraíba;251690;2008;2501;Sert�o Paraibano;250102;Cajazeiras;Uira�na;0
-25;Paraíba;251700;2008;2503;Agreste Paraibano;250319;Umbuzeiro;Umbuzeiro;0.17
-25;Paraíba;251710;2008;2502;Borborema;250208;Serid� Ocidental Paraibano;V�rzea;0.4
-25;Paraíba;251720;2008;2501;Sert�o Paraibano;250103;Sousa;Vieir�polis;0.02
-25;Paraíba;251740;2008;2502;Borborema;250210;Cariri Ocidental;Zabel�;NA
-25;Paraíba;250010;2009;2501;Sert�o Paraibano;250107;Serra do Teixeira;Água Branca;0.29
-25;Paraíba;250020;2009;2501;Sert�o Paraibano;250105;Pianc�;Aguiar;0.02
-25;Paraíba;250030;2009;2503;Agreste Paraibano;250315;Brejo Paraibano;Alagoa Grande;0.21
-25;Paraíba;250040;2009;2503;Agreste Paraibano;250315;Brejo Paraibano;Alagoa Nova;0.24
-25;Paraíba;250050;2009;2503;Agreste Paraibano;250316;Guarabira;Alagoinha;0.16
-25;Paraíba;250053;2009;2502;Borborema;250211;Cariri Oriental;Alcantil;0.36
-25;Paraíba;250057;2009;2503;Agreste Paraibano;250312;Curimata� Ocidental;Algod�o de Janda�ra;0
-25;Paraíba;250060;2009;2504;Mata Paraibana;250423;Litoral Sul;Alhandra;0.15
-25;Paraíba;250070;2009;2501;Sert�o Paraibano;250102;Cajazeiras;S�o Jo�o do Rio do Peixe;0.04
-25;Paraíba;250073;2009;2502;Borborema;250210;Cariri Ocidental;Amparo;7.35
-25;Paraíba;250077;2009;2501;Sert�o Paraibano;250103;Sousa;Aparecida;0
-25;Paraíba;250080;2009;2503;Agreste Paraibano;250316;Guarabira;Ara�agi;0.25
-25;Paraíba;250090;2009;2503;Agreste Paraibano;250312;Curimata� Ocidental;Arara;0.38
-25;Paraíba;250100;2009;2503;Agreste Paraibano;250313;Curimata� Oriental;Araruna;0.08
-25;Paraíba;250110;2009;2503;Agreste Paraibano;250315;Brejo Paraibano;Areia;0.23
-25;Paraíba;250115;2009;2501;Sert�o Paraibano;250104;Patos;Areia de Bara�nas;0.23
-25;Paraíba;250120;2009;2503;Agreste Paraibano;250314;Esperan�a;Areial;0.14
-25;Paraíba;250130;2009;2503;Agreste Paraibano;250319;Umbuzeiro;Aroeiras;0.16
-25;Paraíba;250135;2009;2502;Borborema;250210;Cariri Ocidental;Assun��o;0.17
-25;Paraíba;250140;2009;2504;Mata Paraibana;250420;Litoral Norte;Ba�a da Trai��o;0.41
-25;Paraíba;250150;2009;2503;Agreste Paraibano;250315;Brejo Paraibano;Bananeiras;0.23
-25;Paraíba;250153;2009;2502;Borborema;250209;Serid� Oriental Paraibano;Bara�na;0.07
-25;Paraíba;250157;2009;2502;Borborema;250211;Cariri Oriental;Barra de Santana;0.44
-25;Paraíba;250160;2009;2503;Agreste Paraibano;250312;Curimata� Ocidental;Barra de Santa Rosa;0.06
-25;Paraíba;250170;2009;2502;Borborema;250211;Cariri Oriental;Barra de S�o Miguel;0.41
-25;Paraíba;250180;2009;2504;Mata Paraibana;250422;Jo�o Pessoa;Bayeux;0.43
-25;Paraíba;250190;2009;2503;Agreste Paraibano;250316;Guarabira;Bel�m;0.16
-25;Paraíba;250200;2009;2501;Sert�o Paraibano;250101;Catol� do Rocha;Bel�m do Brejo do Cruz;0.11
-25;Paraíba;250205;2009;2501;Sert�o Paraibano;250102;Cajazeiras;Bernardino Batista;0
-25;Paraíba;250210;2009;2501;Sert�o Paraibano;250106;Itaporanga;Boa Ventura;0.03
-25;Paraíba;250215;2009;2503;Agreste Paraibano;250317;Campina Grande;Boa Vista;0.47
-25;Paraíba;250220;2009;2501;Sert�o Paraibano;250102;Cajazeiras;Bom Jesus;0
-25;Paraíba;250230;2009;2501;Sert�o Paraibano;250101;Catol� do Rocha;Bom Sucesso;0.36
-25;Paraíba;250240;2009;2501;Sert�o Paraibano;250102;Cajazeiras;Bonito de Santa F�;0
-25;Paraíba;250250;2009;2502;Borborema;250211;Cariri Oriental;Boqueir�o;0.28
-25;Paraíba;250260;2009;2501;Sert�o Paraibano;250105;Pianc�;Igaracy;0
-25;Paraíba;250270;2009;2503;Agreste Paraibano;250315;Brejo Paraibano;Borborema;0.19
-25;Paraíba;250280;2009;2501;Sert�o Paraibano;250101;Catol� do Rocha;Brejo do Cruz;0.21
-25;Paraíba;250290;2009;2501;Sert�o Paraibano;250101;Catol� do Rocha;Brejo dos Santos;0.31
-25;Paraíba;250300;2009;2504;Mata Paraibana;250423;Litoral Sul;Caapor�;0.28
-25;Paraíba;250310;2009;2502;Borborema;250211;Cariri Oriental;Cabaceiras;0.41
-25;Paraíba;250320;2009;2504;Mata Paraibana;250422;Jo�o Pessoa;Cabedelo;0.2
-25;Paraíba;250330;2009;2501;Sert�o Paraibano;250102;Cajazeiras;Cachoeira dos �ndios;0.13
-25;Paraíba;250340;2009;2501;Sert�o Paraibano;250104;Patos;Cacimba de Areia;0.14
-25;Paraíba;250350;2009;2503;Agreste Paraibano;250313;Curimata� Oriental;Cacimba de Dentro;0.08
-25;Paraíba;250355;2009;2501;Sert�o Paraibano;250107;Serra do Teixeira;Cacimbas;0.04
-25;Paraíba;250360;2009;2503;Agreste Paraibano;250316;Guarabira;Cai�ara;0.09
-25;Paraíba;250370;2009;2501;Sert�o Paraibano;250102;Cajazeiras;Cajazeiras;0.33
-25;Paraíba;250375;2009;2501;Sert�o Paraibano;250103;Sousa;Cajazeirinhas;0.19
-25;Paraíba;250380;2009;2503;Agreste Paraibano;250318;Itabaiana;Caldas Brand�o;0.25
-25;Paraíba;250390;2009;2502;Borborema;250210;Cariri Ocidental;Camala�;0.37
-25;Paraíba;250400;2009;2503;Agreste Paraibano;250317;Campina Grande;Campina Grande;0.66
-25;Paraíba;250403;2009;2504;Mata Paraibana;250420;Litoral Norte;Capim;0.26
-25;Paraíba;250407;2009;2502;Borborema;250211;Cariri Oriental;Cara�bas;0.15
-25;Paraíba;250410;2009;2501;Sert�o Paraibano;250102;Cajazeiras;Carrapateira;0
-25;Paraíba;250415;2009;2503;Agreste Paraibano;250313;Curimata� Oriental;Casserengue;0.14
-25;Paraíba;250420;2009;2501;Sert�o Paraibano;250105;Pianc�;Catingueira;0.06
-25;Paraíba;250430;2009;2501;Sert�o Paraibano;250101;Catol� do Rocha;Catol� do Rocha;0.61
-25;Paraíba;250435;2009;2502;Borborema;250211;Cariri Oriental;Caturit�;0.69
-25;Paraíba;250440;2009;2501;Sert�o Paraibano;250106;Itaporanga;Concei��o;0.02
-25;Paraíba;250450;2009;2501;Sert�o Paraibano;250103;Sousa;Condado;0.14
-25;Paraíba;250460;2009;2504;Mata Paraibana;250422;Jo�o Pessoa;Conde;0.31
-25;Paraíba;250470;2009;2502;Borborema;250210;Cariri Ocidental;Congo;0.34
-25;Paraíba;250480;2009;2501;Sert�o Paraibano;250105;Pianc�;Coremas;0.04
-25;Paraíba;250485;2009;2502;Borborema;250210;Cariri Ocidental;Coxixola;0.45
-25;Paraíba;250490;2009;2504;Mata Paraibana;250421;Sap�;Cruz do Esp�rito Santo;0.21
-25;Paraíba;250500;2009;2502;Borborema;250209;Serid� Oriental Paraibano;Cubati;0.21
-25;Paraíba;250510;2009;2503;Agreste Paraibano;250312;Curimata� Ocidental;Cuit�;0.08
-25;Paraíba;250520;2009;2503;Agreste Paraibano;250316;Guarabira;Cuitegi;0.18
-25;Paraíba;250523;2009;2504;Mata Paraibana;250420;Litoral Norte;Cuit� de Mamanguape;0.1
-25;Paraíba;250527;2009;2504;Mata Paraibana;250420;Litoral Norte;Curral de Cima;0.09
-25;Paraíba;250530;2009;2501;Sert�o Paraibano;250106;Itaporanga;Curral Velho;0
-25;Paraíba;250535;2009;2503;Agreste Paraibano;250312;Curimata� Ocidental;Dami�o;0.16
-25;Paraíba;250540;2009;2501;Sert�o Paraibano;250107;Serra do Teixeira;Desterro;0.07
-25;Paraíba;250550;2009;2501;Sert�o Paraibano;250103;Sousa;Vista Serrana;0.03
-25;Paraíba;250560;2009;2501;Sert�o Paraibano;250106;Itaporanga;Diamante;0.04
-25;Paraíba;250570;2009;2503;Agreste Paraibano;250313;Curimata� Oriental;Dona In�s;0
-25;Paraíba;250580;2009;2503;Agreste Paraibano;250316;Guarabira;Duas Estradas;0.31
-25;Paraíba;250590;2009;2501;Sert�o Paraibano;250105;Pianc�;Emas;0.15
-25;Paraíba;250600;2009;2503;Agreste Paraibano;250314;Esperan�a;Esperan�a;0.14
-25;Paraíba;250610;2009;2503;Agreste Paraibano;250317;Campina Grande;Fagundes;0.31
-25;Paraíba;250620;2009;2502;Borborema;250209;Serid� Oriental Paraibano;Frei Martinho;0.13
-25;Paraíba;250625;2009;2503;Agreste Paraibano;250319;Umbuzeiro;Gado Bravo;0.15
-25;Paraíba;250630;2009;2503;Agreste Paraibano;250316;Guarabira;Guarabira;1.23
-25;Paraíba;250640;2009;2503;Agreste Paraibano;250318;Itabaiana;Gurinh�m;0.31
-25;Paraíba;250650;2009;2502;Borborema;250211;Cariri Oriental;Gurj�o;0.36
-25;Paraíba;250660;2009;2501;Sert�o Paraibano;250106;Itaporanga;Ibiara;0.03
-25;Paraíba;250670;2009;2501;Sert�o Paraibano;250107;Serra do Teixeira;Imaculada;0.03
-25;Paraíba;250680;2009;2503;Agreste Paraibano;250318;Itabaiana;Ing�;0.14
-25;Paraíba;250690;2009;2503;Agreste Paraibano;250318;Itabaiana;Itabaiana;0.26
-25;Paraíba;250700;2009;2501;Sert�o Paraibano;250106;Itaporanga;Itaporanga;0.07
-25;Paraíba;250710;2009;2504;Mata Paraibana;250420;Litoral Norte;Itapororoca;0.25
-25;Paraíba;250720;2009;2503;Agreste Paraibano;250318;Itabaiana;Itatuba;0.13
-25;Paraíba;250730;2009;2504;Mata Paraibana;250420;Litoral Norte;Jacara�;0.26
-25;Paraíba;250740;2009;2501;Sert�o Paraibano;250101;Catol� do Rocha;Jeric�;0.01
-25;Paraíba;250750;2009;2504;Mata Paraibana;250422;Jo�o Pessoa;Jo�o Pessoa;1.9
-25;Paraíba;250760;2009;2503;Agreste Paraibano;250318;Itabaiana;Juarez T�vora;0.36
-25;Paraíba;250770;2009;2502;Borborema;250209;Serid� Oriental Paraibano;Juazeirinho;0.08
-25;Paraíba;250780;2009;2502;Borborema;250208;Serid� Ocidental Paraibano;Junco do Serid�;0.06
-25;Paraíba;250790;2009;2504;Mata Paraibana;250421;Sap�;Juripiranga;0.31
-25;Paraíba;250800;2009;2501;Sert�o Paraibano;250107;Serra do Teixeira;Juru;0.13
-25;Paraíba;250810;2009;2501;Sert�o Paraibano;250101;Catol� do Rocha;Lagoa;0.14
-25;Paraíba;250820;2009;2503;Agreste Paraibano;250316;Guarabira;Lagoa de Dentro;0.08
-25;Paraíba;250830;2009;2503;Agreste Paraibano;250317;Campina Grande;Lagoa Seca;0.31
-25;Paraíba;250840;2009;2501;Sert�o Paraibano;250103;Sousa;Lastro;0.03
-25;Paraíba;250850;2009;2502;Borborema;250210;Cariri Ocidental;Livramento;0.6
-25;Paraíba;250855;2009;2503;Agreste Paraibano;250316;Guarabira;Logradouro;0.1
-25;Paraíba;250860;2009;2504;Mata Paraibana;250422;Jo�o Pessoa;Lucena;0.11
-25;Paraíba;250870;2009;2501;Sert�o Paraibano;250104;Patos;M�e d'�gua;0.29
-25;Paraíba;250880;2009;2501;Sert�o Paraibano;250103;Sousa;Malta;0.03
-25;Paraíba;250890;2009;2504;Mata Paraibana;250420;Litoral Norte;Mamanguape;0.35
-25;Paraíba;250900;2009;2501;Sert�o Paraibano;250107;Serra do Teixeira;Mana�ra;0.23
-25;Paraíba;250905;2009;2504;Mata Paraibana;250420;Litoral Norte;Marca��o;0.08
-25;Paraíba;250910;2009;2504;Mata Paraibana;250421;Sap�;Mari;0.35
-25;Paraíba;250915;2009;2501;Sert�o Paraibano;250103;Sousa;Mariz�polis;0.05
-25;Paraíba;250920;2009;2503;Agreste Paraibano;250317;Campina Grande;Massaranduba;0.39
-25;Paraíba;250930;2009;2504;Mata Paraibana;250420;Litoral Norte;Mataraca;0.11
-25;Paraíba;250933;2009;2503;Agreste Paraibano;250315;Brejo Paraibano;Matinhas;0.49
-25;Paraíba;250937;2009;2501;Sert�o Paraibano;250101;Catol� do Rocha;Mato Grosso;0.33
-25;Paraíba;250939;2009;2501;Sert�o Paraibano;250107;Serra do Teixeira;Matur�ia;0
-25;Paraíba;250940;2009;2503;Agreste Paraibano;250318;Itabaiana;Mogeiro;0.09
-25;Paraíba;250950;2009;2503;Agreste Paraibano;250314;Esperan�a;Montadas;0.4
-25;Paraíba;250960;2009;2501;Sert�o Paraibano;250102;Cajazeiras;Monte Horebe;0.07
-25;Paraíba;250970;2009;2502;Borborema;250210;Cariri Ocidental;Monteiro;1.12
-25;Paraíba;250980;2009;2503;Agreste Paraibano;250316;Guarabira;Mulungu;0.25
-25;Paraíba;250990;2009;2503;Agreste Paraibano;250319;Umbuzeiro;Natuba;0.1
-25;Paraíba;251000;2009;2501;Sert�o Paraibano;250103;Sousa;Nazarezinho;0.07
-25;Paraíba;251010;2009;2503;Agreste Paraibano;250312;Curimata� Ocidental;Nova Floresta;0.1
-25;Paraíba;251020;2009;2501;Sert�o Paraibano;250105;Pianc�;Nova Olinda;0.12
-25;Paraíba;251030;2009;2502;Borborema;250209;Serid� Oriental Paraibano;Nova Palmeira;0.02
-25;Paraíba;251040;2009;2501;Sert�o Paraibano;250105;Pianc�;Olho d'�gua;0.03
-25;Paraíba;251050;2009;2503;Agreste Paraibano;250312;Curimata� Ocidental;Olivedos;0.3
-25;Paraíba;251060;2009;2502;Borborema;250210;Cariri Ocidental;Ouro Velho;0.68
-25;Paraíba;251065;2009;2502;Borborema;250210;Cariri Ocidental;Parari;1.11
-25;Paraíba;251070;2009;2501;Sert�o Paraibano;250104;Patos;Passagem;0.05
-25;Paraíba;251080;2009;2501;Sert�o Paraibano;250104;Patos;Patos;0.26
-25;Paraíba;251090;2009;2501;Sert�o Paraibano;250103;Sousa;Paulista;0.09
-25;Paraíba;251100;2009;2501;Sert�o Paraibano;250106;Itaporanga;Pedra Branca;0
-25;Paraíba;251110;2009;2502;Borborema;250209;Serid� Oriental Paraibano;Pedra Lavrada;0.09
-25;Paraíba;251120;2009;2504;Mata Paraibana;250423;Litoral Sul;Pedras de Fogo;0.9
-25;Paraíba;251130;2009;2501;Sert�o Paraibano;250105;Pianc�;Pianc�;0.12
-25;Paraíba;251140;2009;2502;Borborema;250209;Serid� Oriental Paraibano;Picu�;0.05
-25;Paraíba;251150;2009;2504;Mata Paraibana;250421;Sap�;Pilar;0.09
-25;Paraíba;251160;2009;2503;Agreste Paraibano;250315;Brejo Paraibano;Pil�es;0.25
-25;Paraíba;251170;2009;2503;Agreste Paraibano;250316;Guarabira;Pil�ezinhos;0.26
-25;Paraíba;251180;2009;2503;Agreste Paraibano;250316;Guarabira;Pirpirituba;0.29
-25;Paraíba;251190;2009;2504;Mata Paraibana;250423;Litoral Sul;Pitimbu;0.14
-25;Paraíba;251200;2009;2503;Agreste Paraibano;250312;Curimata� Ocidental;Pocinhos;0.14
-25;Paraíba;251203;2009;2501;Sert�o Paraibano;250102;Cajazeiras;Po�o Dantas;0
-25;Paraíba;251207;2009;2501;Sert�o Paraibano;250102;Cajazeiras;Po�o de Jos� de Moura;0
-25;Paraíba;251210;2009;2501;Sert�o Paraibano;250103;Sousa;Pombal;0.11
-25;Paraíba;251220;2009;2502;Borborema;250210;Cariri Ocidental;Prata;0.94
-25;Paraíba;251230;2009;2501;Sert�o Paraibano;250107;Serra do Teixeira;Princesa Isabel;0.14
-25;Paraíba;251240;2009;2503;Agreste Paraibano;250317;Campina Grande;Puxinan�;0.28
-25;Paraíba;251250;2009;2503;Agreste Paraibano;250317;Campina Grande;Queimadas;0.32
-25;Paraíba;251260;2009;2501;Sert�o Paraibano;250104;Patos;Quixab�;0.27
-25;Paraíba;251270;2009;2503;Agreste Paraibano;250312;Curimata� Ocidental;Rem�gio;0.2
-25;Paraíba;251272;2009;2504;Mata Paraibana;250420;Litoral Norte;Pedro R�gis;0.09
-25;Paraíba;251274;2009;2503;Agreste Paraibano;250313;Curimata� Oriental;Riach�o;0.22
-25;Paraíba;251275;2009;2503;Agreste Paraibano;250318;Itabaiana;Riach�o do Bacamarte;0.05
-25;Paraíba;251276;2009;2504;Mata Paraibana;250421;Sap�;Riach�o do Po�o;0.09
-25;Paraíba;251278;2009;2502;Borborema;250211;Cariri Oriental;Riacho de Santo Ant�nio;0.25
-25;Paraíba;251280;2009;2501;Sert�o Paraibano;250101;Catol� do Rocha;Riacho dos Cavalos;0.19
-25;Paraíba;251290;2009;2504;Mata Paraibana;250420;Litoral Norte;Rio Tinto;0.21
-25;Paraíba;251300;2009;2502;Borborema;250208;Serid� Ocidental Paraibano;Salgadinho;0.34
-25;Paraíba;251310;2009;2503;Agreste Paraibano;250318;Itabaiana;Salgado de S�o F�lix;0.15
-25;Paraíba;251315;2009;2503;Agreste Paraibano;250319;Umbuzeiro;Santa Cec�lia;0.25
-25;Paraíba;251320;2009;2501;Sert�o Paraibano;250103;Sousa;Santa Cruz;0.07
-25;Paraíba;251330;2009;2501;Sert�o Paraibano;250102;Cajazeiras;Santa Helena;0
-25;Paraíba;251335;2009;2501;Sert�o Paraibano;250106;Itaporanga;Santa In�s;0
-25;Paraíba;251340;2009;2502;Borborema;250208;Serid� Ocidental Paraibano;Santa Luzia;0.14
-25;Paraíba;251350;2009;2501;Sert�o Paraibano;250106;Itaporanga;Santana de Mangueira;0.16
-25;Paraíba;251360;2009;2501;Sert�o Paraibano;250105;Pianc�;Santana dos Garrotes;0.17
-25;Paraíba;251365;2009;2501;Sert�o Paraibano;250102;Cajazeiras;Santar�m;0
-25;Paraíba;251370;2009;2504;Mata Paraibana;250422;Jo�o Pessoa;Santa Rita;0.23
-25;Paraíba;251380;2009;2501;Sert�o Paraibano;250104;Patos;Santa Teresinha;0.15
-25;Paraíba;251385;2009;2502;Borborema;250211;Cariri Oriental;Santo Andr�;0.48
-25;Paraíba;251390;2009;2501;Sert�o Paraibano;250101;Catol� do Rocha;S�o Bento;0.52
-25;Paraíba;251392;2009;2501;Sert�o Paraibano;250103;Sousa;S�o Bentinho;0
-25;Paraíba;251394;2009;2502;Borborema;250211;Cariri Oriental;S�o Domingos do Cariri;0.04
-25;Paraíba;251396;2009;2501;Sert�o Paraibano;250103;Sousa;S�o Domingos;0
-25;Paraíba;251398;2009;2501;Sert�o Paraibano;250103;Sousa;S�o Francisco;0.11
-25;Paraíba;251400;2009;2502;Borborema;250211;Cariri Oriental;S�o Jo�o do Cariri;0.31
-25;Paraíba;251410;2009;2502;Borborema;250210;Cariri Ocidental;S�o Jo�o do Tigre;0.17
-25;Paraíba;251420;2009;2501;Sert�o Paraibano;250103;Sousa;S�o Jos� da Lagoa Tapada;0.01
-25;Paraíba;251430;2009;2501;Sert�o Paraibano;250106;Itaporanga;S�o Jos� de Caiana;0
-25;Paraíba;251440;2009;2501;Sert�o Paraibano;250104;Patos;S�o Jos� de Espinharas;0.04
-25;Paraíba;251445;2009;2504;Mata Paraibana;250421;Sap�;S�o Jos� dos Ramos;0.25
-25;Paraíba;251450;2009;2501;Sert�o Paraibano;250102;Cajazeiras;S�o Jos� de Piranhas;0.01
-25;Paraíba;251455;2009;2501;Sert�o Paraibano;250107;Serra do Teixeira;S�o Jos� de Princesa;0
-25;Paraíba;251460;2009;2501;Sert�o Paraibano;250104;Patos;S�o Jos� do Bonfim;0.03
-25;Paraíba;251465;2009;2501;Sert�o Paraibano;250101;Catol� do Rocha;S�o Jos� do Brejo do Cruz;0.06
-25;Paraíba;251470;2009;2502;Borborema;250208;Serid� Ocidental Paraibano;S�o Jos� do Sabugi;0.05
-25;Paraíba;251480;2009;2502;Borborema;250210;Cariri Ocidental;S�o Jos� dos Cordeiros;0.2
-25;Paraíba;251490;2009;2502;Borborema;250208;Serid� Ocidental Paraibano;S�o Mamede;0.03
-25;Paraíba;251500;2009;2504;Mata Paraibana;250421;Sap�;S�o Miguel de Taipu;0.04
-25;Paraíba;251510;2009;2503;Agreste Paraibano;250314;Esperan�a;S�o Sebasti�o de Lagoa de Ro�a;0.22
-25;Paraíba;251520;2009;2502;Borborema;250210;Cariri Ocidental;S�o Sebasti�o do Umbuzeiro;0.66
-25;Paraíba;251530;2009;2504;Mata Paraibana;250421;Sap�;Sap�;0.23
-25;Paraíba;251540;2009;2502;Borborema;250209;Serid� Oriental Paraibano;Serid�;0.04
-25;Paraíba;251550;2009;2502;Borborema;250210;Cariri Ocidental;Serra Branca;0.5
-25;Paraíba;251560;2009;2503;Agreste Paraibano;250316;Guarabira;Serra da Raiz;0.19
-25;Paraíba;251570;2009;2501;Sert�o Paraibano;250106;Itaporanga;Serra Grande;0
-25;Paraíba;251580;2009;2503;Agreste Paraibano;250317;Campina Grande;Serra Redonda;0.28
-25;Paraíba;251590;2009;2503;Agreste Paraibano;250315;Brejo Paraibano;Serraria;0.13
-25;Paraíba;251593;2009;2503;Agreste Paraibano;250316;Guarabira;Sert�ozinho;0.41
-25;Paraíba;251597;2009;2504;Mata Paraibana;250421;Sap�;Sobrado;0.24
-25;Paraíba;251600;2009;2503;Agreste Paraibano;250313;Curimata� Oriental;Sol�nea;0.16
-25;Paraíba;251610;2009;2503;Agreste Paraibano;250312;Curimata� Ocidental;Soledade;0.21
-25;Paraíba;251615;2009;2503;Agreste Paraibano;250312;Curimata� Ocidental;Soss�go;0.16
-25;Paraíba;251620;2009;2501;Sert�o Paraibano;250103;Sousa;Sousa;0.25
-25;Paraíba;251630;2009;2502;Borborema;250210;Cariri Ocidental;Sum�;0.76
-25;Paraíba;251640;2009;2503;Agreste Paraibano;250313;Curimata� Oriental;Tacima;0.16
-25;Paraíba;251650;2009;2502;Borborema;250210;Cariri Ocidental;Tapero�;0.35
-25;Paraíba;251660;2009;2501;Sert�o Paraibano;250107;Serra do Teixeira;Tavares;0.14
-25;Paraíba;251670;2009;2501;Sert�o Paraibano;250107;Serra do Teixeira;Teixeira;0.13
-25;Paraíba;251675;2009;2502;Borborema;250209;Serid� Oriental Paraibano;Ten�rio;0
-25;Paraíba;251680;2009;2501;Sert�o Paraibano;250102;Cajazeiras;Triunfo;0.12
-25;Paraíba;251690;2009;2501;Sert�o Paraibano;250102;Cajazeiras;Uira�na;0.01
-25;Paraíba;251700;2009;2503;Agreste Paraibano;250319;Umbuzeiro;Umbuzeiro;0.18
-25;Paraíba;251710;2009;2502;Borborema;250208;Serid� Ocidental Paraibano;V�rzea;0.43
-25;Paraíba;251720;2009;2501;Sert�o Paraibano;250103;Sousa;Vieir�polis;0.59
-25;Paraíba;251740;2009;2502;Borborema;250210;Cariri Ocidental;Zabel�;NA
-25;Paraíba;250010;2010;2501;Sert�o Paraibano;250107;Serra do Teixeira;Água Branca;0.16
-25;Paraíba;250020;2010;2501;Sert�o Paraibano;250105;Pianc�;Aguiar;0.07
-25;Paraíba;250030;2010;2503;Agreste Paraibano;250315;Brejo Paraibano;Alagoa Grande;0.29
-25;Paraíba;250040;2010;2503;Agreste Paraibano;250315;Brejo Paraibano;Alagoa Nova;0.11
-25;Paraíba;250050;2010;2503;Agreste Paraibano;250316;Guarabira;Alagoinha;0.29
-25;Paraíba;250053;2010;2502;Borborema;250211;Cariri Oriental;Alcantil;0.48
-25;Paraíba;250057;2010;2503;Agreste Paraibano;250312;Curimata� Ocidental;Algod�o de Janda�ra;0
-25;Paraíba;250060;2010;2504;Mata Paraibana;250423;Litoral Sul;Alhandra;0.27
-25;Paraíba;250070;2010;2501;Sert�o Paraibano;250102;Cajazeiras;S�o Jo�o do Rio do Peixe;0.02
-25;Paraíba;250073;2010;2502;Borborema;250210;Cariri Ocidental;Amparo;0.19
-25;Paraíba;250077;2010;2501;Sert�o Paraibano;250103;Sousa;Aparecida;0.04
-25;Paraíba;250080;2010;2503;Agreste Paraibano;250316;Guarabira;Ara�agi;0.2
-25;Paraíba;250090;2010;2503;Agreste Paraibano;250312;Curimata� Ocidental;Arara;0.72
-25;Paraíba;250100;2010;2503;Agreste Paraibano;250313;Curimata� Oriental;Araruna;0.15
-25;Paraíba;250110;2010;2503;Agreste Paraibano;250315;Brejo Paraibano;Areia;0.18
-25;Paraíba;250115;2010;2501;Sert�o Paraibano;250104;Patos;Areia de Bara�nas;0
-25;Paraíba;250120;2010;2503;Agreste Paraibano;250314;Esperan�a;Areial;0.25
-25;Paraíba;250130;2010;2503;Agreste Paraibano;250319;Umbuzeiro;Aroeiras;0.22
-25;Paraíba;250135;2010;2502;Borborema;250210;Cariri Ocidental;Assun��o;0.2
-25;Paraíba;250140;2010;2504;Mata Paraibana;250420;Litoral Norte;Ba�a da Trai��o;0.36
-25;Paraíba;250150;2010;2503;Agreste Paraibano;250315;Brejo Paraibano;Bananeiras;0.11
-25;Paraíba;250153;2010;2502;Borborema;250209;Serid� Oriental Paraibano;Bara�na;0.55
-25;Paraíba;250157;2010;2502;Borborema;250211;Cariri Oriental;Barra de Santana;0.4
-25;Paraíba;250160;2010;2503;Agreste Paraibano;250312;Curimata� Ocidental;Barra de Santa Rosa;0.07
-25;Paraíba;250170;2010;2502;Borborema;250211;Cariri Oriental;Barra de S�o Miguel;0.16
-25;Paraíba;250180;2010;2504;Mata Paraibana;250422;Jo�o Pessoa;Bayeux;0.56
-25;Paraíba;250190;2010;2503;Agreste Paraibano;250316;Guarabira;Bel�m;0.17
-25;Paraíba;250200;2010;2501;Sert�o Paraibano;250101;Catol� do Rocha;Bel�m do Brejo do Cruz;0.14
-25;Paraíba;250205;2010;2501;Sert�o Paraibano;250102;Cajazeiras;Bernardino Batista;0
-25;Paraíba;250210;2010;2501;Sert�o Paraibano;250106;Itaporanga;Boa Ventura;0.1
-25;Paraíba;250215;2010;2503;Agreste Paraibano;250317;Campina Grande;Boa Vista;0.64
-25;Paraíba;250220;2010;2501;Sert�o Paraibano;250102;Cajazeiras;Bom Jesus;0.25
-25;Paraíba;250230;2010;2501;Sert�o Paraibano;250101;Catol� do Rocha;Bom Sucesso;0.36
-25;Paraíba;250240;2010;2501;Sert�o Paraibano;250102;Cajazeiras;Bonito de Santa F�;0.02
-25;Paraíba;250250;2010;2502;Borborema;250211;Cariri Oriental;Boqueir�o;0.28
-25;Paraíba;250260;2010;2501;Sert�o Paraibano;250105;Pianc�;Igaracy;0.13
-25;Paraíba;250270;2010;2503;Agreste Paraibano;250315;Brejo Paraibano;Borborema;0.14
-25;Paraíba;250280;2010;2501;Sert�o Paraibano;250101;Catol� do Rocha;Brejo do Cruz;0.18
-25;Paraíba;250290;2010;2501;Sert�o Paraibano;250101;Catol� do Rocha;Brejo dos Santos;0.24
-25;Paraíba;250300;2010;2504;Mata Paraibana;250423;Litoral Sul;Caapor�;0.3
-25;Paraíba;250310;2010;2502;Borborema;250211;Cariri Oriental;Cabaceiras;0.6
-25;Paraíba;250320;2010;2504;Mata Paraibana;250422;Jo�o Pessoa;Cabedelo;0.21
-25;Paraíba;250330;2010;2501;Sert�o Paraibano;250102;Cajazeiras;Cachoeira dos �ndios;0.15
-25;Paraíba;250340;2010;2501;Sert�o Paraibano;250104;Patos;Cacimba de Areia;0.06
-25;Paraíba;250350;2010;2503;Agreste Paraibano;250313;Curimata� Oriental;Cacimba de Dentro;0.12
-25;Paraíba;250355;2010;2501;Sert�o Paraibano;250107;Serra do Teixeira;Cacimbas;0
-25;Paraíba;250360;2010;2503;Agreste Paraibano;250316;Guarabira;Cai�ara;0.33
-25;Paraíba;250370;2010;2501;Sert�o Paraibano;250102;Cajazeiras;Cajazeiras;0.4
-25;Paraíba;250375;2010;2501;Sert�o Paraibano;250103;Sousa;Cajazeirinhas;0.56
-25;Paraíba;250380;2010;2503;Agreste Paraibano;250318;Itabaiana;Caldas Brand�o;0.41
-25;Paraíba;250390;2010;2502;Borborema;250210;Cariri Ocidental;Camala�;0.02
-25;Paraíba;250400;2010;2503;Agreste Paraibano;250317;Campina Grande;Campina Grande;0.71
-25;Paraíba;250403;2010;2504;Mata Paraibana;250420;Litoral Norte;Capim;0.27
-25;Paraíba;250407;2010;2502;Borborema;250211;Cariri Oriental;Cara�bas;0.08
-25;Paraíba;250410;2010;2501;Sert�o Paraibano;250102;Cajazeiras;Carrapateira;0.04
-25;Paraíba;250415;2010;2503;Agreste Paraibano;250313;Curimata� Oriental;Casserengue;0.06
-25;Paraíba;250420;2010;2501;Sert�o Paraibano;250105;Pianc�;Catingueira;0.04
-25;Paraíba;250430;2010;2501;Sert�o Paraibano;250101;Catol� do Rocha;Catol� do Rocha;0.6
-25;Paraíba;250435;2010;2502;Borborema;250211;Cariri Oriental;Caturit�;0.35
-25;Paraíba;250440;2010;2501;Sert�o Paraibano;250106;Itaporanga;Concei��o;0.13
-25;Paraíba;250450;2010;2501;Sert�o Paraibano;250103;Sousa;Condado;0.15
-25;Paraíba;250460;2010;2504;Mata Paraibana;250422;Jo�o Pessoa;Conde;0.47
-25;Paraíba;250470;2010;2502;Borborema;250210;Cariri Ocidental;Congo;0.23
-25;Paraíba;250480;2010;2501;Sert�o Paraibano;250105;Pianc�;Coremas;0.09
-25;Paraíba;250485;2010;2502;Borborema;250210;Cariri Ocidental;Coxixola;0.56
-25;Paraíba;250490;2010;2504;Mata Paraibana;250421;Sap�;Cruz do Esp�rito Santo;0.33
-25;Paraíba;250500;2010;2502;Borborema;250209;Serid� Oriental Paraibano;Cubati;0.17
-25;Paraíba;250510;2010;2503;Agreste Paraibano;250312;Curimata� Ocidental;Cuit�;0.23
-25;Paraíba;250520;2010;2503;Agreste Paraibano;250316;Guarabira;Cuitegi;0.2
-25;Paraíba;250523;2010;2504;Mata Paraibana;250420;Litoral Norte;Cuit� de Mamanguape;0.4
-25;Paraíba;250527;2010;2504;Mata Paraibana;250420;Litoral Norte;Curral de Cima;0.08
-25;Paraíba;250530;2010;2501;Sert�o Paraibano;250106;Itaporanga;Curral Velho;0
-25;Paraíba;250535;2010;2503;Agreste Paraibano;250312;Curimata� Ocidental;Dami�o;0.29
-25;Paraíba;250540;2010;2501;Sert�o Paraibano;250107;Serra do Teixeira;Desterro;0.21
-25;Paraíba;250550;2010;2501;Sert�o Paraibano;250103;Sousa;Vista Serrana;0.03
-25;Paraíba;250560;2010;2501;Sert�o Paraibano;250106;Itaporanga;Diamante;0.05
-25;Paraíba;250570;2010;2503;Agreste Paraibano;250313;Curimata� Oriental;Dona In�s;0.11
-25;Paraíba;250580;2010;2503;Agreste Paraibano;250316;Guarabira;Duas Estradas;0.52
-25;Paraíba;250590;2010;2501;Sert�o Paraibano;250105;Pianc�;Emas;0.18
-25;Paraíba;250600;2010;2503;Agreste Paraibano;250314;Esperan�a;Esperan�a;0.38
-25;Paraíba;250610;2010;2503;Agreste Paraibano;250317;Campina Grande;Fagundes;0.32
-25;Paraíba;250620;2010;2502;Borborema;250209;Serid� Oriental Paraibano;Frei Martinho;0.55
-25;Paraíba;250625;2010;2503;Agreste Paraibano;250319;Umbuzeiro;Gado Bravo;0.18
-25;Paraíba;250630;2010;2503;Agreste Paraibano;250316;Guarabira;Guarabira;1.4
-25;Paraíba;250640;2010;2503;Agreste Paraibano;250318;Itabaiana;Gurinh�m;0.28
-25;Paraíba;250650;2010;2502;Borborema;250211;Cariri Oriental;Gurj�o;0.38
-25;Paraíba;250660;2010;2501;Sert�o Paraibano;250106;Itaporanga;Ibiara;0
-25;Paraíba;250670;2010;2501;Sert�o Paraibano;250107;Serra do Teixeira;Imaculada;0.02
-25;Paraíba;250680;2010;2503;Agreste Paraibano;250318;Itabaiana;Ing�;0.34
-25;Paraíba;250690;2010;2503;Agreste Paraibano;250318;Itabaiana;Itabaiana;0.4
-25;Paraíba;250700;2010;2501;Sert�o Paraibano;250106;Itaporanga;Itaporanga;0.12
-25;Paraíba;250710;2010;2504;Mata Paraibana;250420;Litoral Norte;Itapororoca;0.28
-25;Paraíba;250720;2010;2503;Agreste Paraibano;250318;Itabaiana;Itatuba;0.22
-25;Paraíba;250730;2010;2504;Mata Paraibana;250420;Litoral Norte;Jacara�;0.34
-25;Paraíba;250740;2010;2501;Sert�o Paraibano;250101;Catol� do Rocha;Jeric�;0.03
-25;Paraíba;250750;2010;2504;Mata Paraibana;250422;Jo�o Pessoa;Jo�o Pessoa;1.74
-25;Paraíba;250760;2010;2503;Agreste Paraibano;250318;Itabaiana;Juarez T�vora;0.34
-25;Paraíba;250770;2010;2502;Borborema;250209;Serid� Oriental Paraibano;Juazeirinho;0.11
-25;Paraíba;250780;2010;2502;Borborema;250208;Serid� Ocidental Paraibano;Junco do Serid�;0.11
-25;Paraíba;250790;2010;2504;Mata Paraibana;250421;Sap�;Juripiranga;0.53
-25;Paraíba;250800;2010;2501;Sert�o Paraibano;250107;Serra do Teixeira;Juru;0.14
-25;Paraíba;250810;2010;2501;Sert�o Paraibano;250101;Catol� do Rocha;Lagoa;0.17
-25;Paraíba;250820;2010;2503;Agreste Paraibano;250316;Guarabira;Lagoa de Dentro;0.28
-25;Paraíba;250830;2010;2503;Agreste Paraibano;250317;Campina Grande;Lagoa Seca;0.3
-25;Paraíba;250840;2010;2501;Sert�o Paraibano;250103;Sousa;Lastro;0.07
-25;Paraíba;250850;2010;2502;Borborema;250210;Cariri Ocidental;Livramento;0.17
-25;Paraíba;250855;2010;2503;Agreste Paraibano;250316;Guarabira;Logradouro;0.13
-25;Paraíba;250860;2010;2504;Mata Paraibana;250422;Jo�o Pessoa;Lucena;0.39
-25;Paraíba;250870;2010;2501;Sert�o Paraibano;250104;Patos;M�e d'�gua;0
-25;Paraíba;250880;2010;2501;Sert�o Paraibano;250103;Sousa;Malta;0.02
-25;Paraíba;250890;2010;2504;Mata Paraibana;250420;Litoral Norte;Mamanguape;0.42
-25;Paraíba;250900;2010;2501;Sert�o Paraibano;250107;Serra do Teixeira;Mana�ra;0.07
-25;Paraíba;250905;2010;2504;Mata Paraibana;250420;Litoral Norte;Marca��o;0.18
-25;Paraíba;250910;2010;2504;Mata Paraibana;250421;Sap�;Mari;0.29
-25;Paraíba;250915;2010;2501;Sert�o Paraibano;250103;Sousa;Mariz�polis;0.02
-25;Paraíba;250920;2010;2503;Agreste Paraibano;250317;Campina Grande;Massaranduba;0.3
-25;Paraíba;250930;2010;2504;Mata Paraibana;250420;Litoral Norte;Mataraca;0.28
-25;Paraíba;250933;2010;2503;Agreste Paraibano;250315;Brejo Paraibano;Matinhas;0.37
-25;Paraíba;250937;2010;2501;Sert�o Paraibano;250101;Catol� do Rocha;Mato Grosso;0.41
-25;Paraíba;250939;2010;2501;Sert�o Paraibano;250107;Serra do Teixeira;Matur�ia;0.19
-25;Paraíba;250940;2010;2503;Agreste Paraibano;250318;Itabaiana;Mogeiro;0.25
-25;Paraíba;250950;2010;2503;Agreste Paraibano;250314;Esperan�a;Montadas;0.44
-25;Paraíba;250960;2010;2501;Sert�o Paraibano;250102;Cajazeiras;Monte Horebe;0
-25;Paraíba;250970;2010;2502;Borborema;250210;Cariri Ocidental;Monteiro;1.6
-25;Paraíba;250980;2010;2503;Agreste Paraibano;250316;Guarabira;Mulungu;0.16
-25;Paraíba;250990;2010;2503;Agreste Paraibano;250319;Umbuzeiro;Natuba;0.17
-25;Paraíba;251000;2010;2501;Sert�o Paraibano;250103;Sousa;Nazarezinho;0.05
-25;Paraíba;251010;2010;2503;Agreste Paraibano;250312;Curimata� Ocidental;Nova Floresta;0.16
-25;Paraíba;251020;2010;2501;Sert�o Paraibano;250105;Pianc�;Nova Olinda;0
-25;Paraíba;251030;2010;2502;Borborema;250209;Serid� Oriental Paraibano;Nova Palmeira;0.18
-25;Paraíba;251040;2010;2501;Sert�o Paraibano;250105;Pianc�;Olho d'�gua;0.01
-25;Paraíba;251050;2010;2503;Agreste Paraibano;250312;Curimata� Ocidental;Olivedos;0.28
-25;Paraíba;251060;2010;2502;Borborema;250210;Cariri Ocidental;Ouro Velho;0.03
-25;Paraíba;251065;2010;2502;Borborema;250210;Cariri Ocidental;Parari;0.64
-25;Paraíba;251070;2010;2501;Sert�o Paraibano;250104;Patos;Passagem;0
-25;Paraíba;251080;2010;2501;Sert�o Paraibano;250104;Patos;Patos;0.25
-25;Paraíba;251090;2010;2501;Sert�o Paraibano;250103;Sousa;Paulista;0.13
-25;Paraíba;251100;2010;2501;Sert�o Paraibano;250106;Itaporanga;Pedra Branca;0
-25;Paraíba;251110;2010;2502;Borborema;250209;Serid� Oriental Paraibano;Pedra Lavrada;0.2
-25;Paraíba;251120;2010;2504;Mata Paraibana;250423;Litoral Sul;Pedras de Fogo;0.53
-25;Paraíba;251130;2010;2501;Sert�o Paraibano;250105;Pianc�;Pianc�;0.16
-25;Paraíba;251140;2010;2502;Borborema;250209;Serid� Oriental Paraibano;Picu�;0.96
-25;Paraíba;251150;2010;2504;Mata Paraibana;250421;Sap�;Pilar;0.34
-25;Paraíba;251160;2010;2503;Agreste Paraibano;250315;Brejo Paraibano;Pil�es;0.37
-25;Paraíba;251170;2010;2503;Agreste Paraibano;250316;Guarabira;Pil�ezinhos;0.12
-25;Paraíba;251180;2010;2503;Agreste Paraibano;250316;Guarabira;Pirpirituba;0.28
-25;Paraíba;251190;2010;2504;Mata Paraibana;250423;Litoral Sul;Pitimbu;0.3
-25;Paraíba;251200;2010;2503;Agreste Paraibano;250312;Curimata� Ocidental;Pocinhos;0.26
-25;Paraíba;251203;2010;2501;Sert�o Paraibano;250102;Cajazeiras;Po�o Dantas;0
-25;Paraíba;251207;2010;2501;Sert�o Paraibano;250102;Cajazeiras;Po�o de Jos� de Moura;0.05
-25;Paraíba;251210;2010;2501;Sert�o Paraibano;250103;Sousa;Pombal;0.44
-25;Paraíba;251220;2010;2502;Borborema;250210;Cariri Ocidental;Prata;0.42
-25;Paraíba;251230;2010;2501;Sert�o Paraibano;250107;Serra do Teixeira;Princesa Isabel;0.13
-25;Paraíba;251240;2010;2503;Agreste Paraibano;250317;Campina Grande;Puxinan�;0.29
-25;Paraíba;251250;2010;2503;Agreste Paraibano;250317;Campina Grande;Queimadas;0.44
-25;Paraíba;251260;2010;2501;Sert�o Paraibano;250104;Patos;Quixab�;0.29
-25;Paraíba;251270;2010;2503;Agreste Paraibano;250312;Curimata� Ocidental;Rem�gio;0.17
-25;Paraíba;251272;2010;2504;Mata Paraibana;250420;Litoral Norte;Pedro R�gis;0.07
-25;Paraíba;251274;2010;2503;Agreste Paraibano;250313;Curimata� Oriental;Riach�o;0.37
-25;Paraíba;251275;2010;2503;Agreste Paraibano;250318;Itabaiana;Riach�o do Bacamarte;0.05
-25;Paraíba;251276;2010;2504;Mata Paraibana;250421;Sap�;Riach�o do Po�o;0.22
-25;Paraíba;251278;2010;2502;Borborema;250211;Cariri Oriental;Riacho de Santo Ant�nio;0.29
-25;Paraíba;251280;2010;2501;Sert�o Paraibano;250101;Catol� do Rocha;Riacho dos Cavalos;0.1
-25;Paraíba;251290;2010;2504;Mata Paraibana;250420;Litoral Norte;Rio Tinto;0.45
-25;Paraíba;251300;2010;2502;Borborema;250208;Serid� Ocidental Paraibano;Salgadinho;0.29
-25;Paraíba;251310;2010;2503;Agreste Paraibano;250318;Itabaiana;Salgado de S�o F�lix;0.36
-25;Paraíba;251315;2010;2503;Agreste Paraibano;250319;Umbuzeiro;Santa Cec�lia;0.3
-25;Paraíba;251320;2010;2501;Sert�o Paraibano;250103;Sousa;Santa Cruz;0.25
-25;Paraíba;251330;2010;2501;Sert�o Paraibano;250102;Cajazeiras;Santa Helena;0.06
-25;Paraíba;251335;2010;2501;Sert�o Paraibano;250106;Itaporanga;Santa In�s;0.03
-25;Paraíba;251340;2010;2502;Borborema;250208;Serid� Ocidental Paraibano;Santa Luzia;0.16
-25;Paraíba;251350;2010;2501;Sert�o Paraibano;250106;Itaporanga;Santana de Mangueira;0.19
-25;Paraíba;251360;2010;2501;Sert�o Paraibano;250105;Pianc�;Santana dos Garrotes;0.07
-25;Paraíba;251365;2010;2501;Sert�o Paraibano;250102;Cajazeiras;Santar�m;0
-25;Paraíba;251370;2010;2504;Mata Paraibana;250422;Jo�o Pessoa;Santa Rita;0.21
-25;Paraíba;251380;2010;2501;Sert�o Paraibano;250104;Patos;Santa Teresinha;0.33
-25;Paraíba;251385;2010;2502;Borborema;250211;Cariri Oriental;Santo Andr�;0.57
-25;Paraíba;251390;2010;2501;Sert�o Paraibano;250101;Catol� do Rocha;S�o Bento;0.07
-25;Paraíba;251392;2010;2501;Sert�o Paraibano;250103;Sousa;S�o Bentinho;0
-25;Paraíba;251394;2010;2502;Borborema;250211;Cariri Oriental;S�o Domingos do Cariri;0
-25;Paraíba;251396;2010;2501;Sert�o Paraibano;250103;Sousa;S�o Domingos;0
-25;Paraíba;251398;2010;2501;Sert�o Paraibano;250103;Sousa;S�o Francisco;0.12
-25;Paraíba;251400;2010;2502;Borborema;250211;Cariri Oriental;S�o Jo�o do Cariri;0.18
-25;Paraíba;251410;2010;2502;Borborema;250210;Cariri Ocidental;S�o Jo�o do Tigre;0.02
-25;Paraíba;251420;2010;2501;Sert�o Paraibano;250103;Sousa;S�o Jos� da Lagoa Tapada;0
-25;Paraíba;251430;2010;2501;Sert�o Paraibano;250106;Itaporanga;S�o Jos� de Caiana;0.03
-25;Paraíba;251440;2010;2501;Sert�o Paraibano;250104;Patos;S�o Jos� de Espinharas;0.21
-25;Paraíba;251445;2010;2504;Mata Paraibana;250421;Sap�;S�o Jos� dos Ramos;0.45
-25;Paraíba;251450;2010;2501;Sert�o Paraibano;250102;Cajazeiras;S�o Jos� de Piranhas;0.07
-25;Paraíba;251455;2010;2501;Sert�o Paraibano;250107;Serra do Teixeira;S�o Jos� de Princesa;0
-25;Paraíba;251460;2010;2501;Sert�o Paraibano;250104;Patos;S�o Jos� do Bonfim;0.09
-25;Paraíba;251465;2010;2501;Sert�o Paraibano;250101;Catol� do Rocha;S�o Jos� do Brejo do Cruz;0.71
-25;Paraíba;251470;2010;2502;Borborema;250208;Serid� Ocidental Paraibano;S�o Jos� do Sabugi;0.12
-25;Paraíba;251480;2010;2502;Borborema;250210;Cariri Ocidental;S�o Jos� dos Cordeiros;0.1
-25;Paraíba;251490;2010;2502;Borborema;250208;Serid� Ocidental Paraibano;S�o Mamede;0.14
-25;Paraíba;251500;2010;2504;Mata Paraibana;250421;Sap�;S�o Miguel de Taipu;0.12
-25;Paraíba;251510;2010;2503;Agreste Paraibano;250314;Esperan�a;S�o Sebasti�o de Lagoa de Ro�a;0.33
-25;Paraíba;251520;2010;2502;Borborema;250210;Cariri Ocidental;S�o Sebasti�o do Umbuzeiro;0.25
-25;Paraíba;251530;2010;2504;Mata Paraibana;250421;Sap�;Sap�;0.33
-25;Paraíba;251540;2010;2502;Borborema;250209;Serid� Oriental Paraibano;Serid�;0.32
-25;Paraíba;251550;2010;2502;Borborema;250210;Cariri Ocidental;Serra Branca;0.26
-25;Paraíba;251560;2010;2503;Agreste Paraibano;250316;Guarabira;Serra da Raiz;0.22
-25;Paraíba;251570;2010;2501;Sert�o Paraibano;250106;Itaporanga;Serra Grande;0.03
-25;Paraíba;251580;2010;2503;Agreste Paraibano;250317;Campina Grande;Serra Redonda;0.18
-25;Paraíba;251590;2010;2503;Agreste Paraibano;250315;Brejo Paraibano;Serraria;0.08
-25;Paraíba;251593;2010;2503;Agreste Paraibano;250316;Guarabira;Sert�ozinho;0.34
-25;Paraíba;251597;2010;2504;Mata Paraibana;250421;Sap�;Sobrado;0.37
-25;Paraíba;251600;2010;2503;Agreste Paraibano;250313;Curimata� Oriental;Sol�nea;0.29
-25;Paraíba;251610;2010;2503;Agreste Paraibano;250312;Curimata� Ocidental;Soledade;0.22
-25;Paraíba;251615;2010;2503;Agreste Paraibano;250312;Curimata� Ocidental;Soss�go;0
-25;Paraíba;251620;2010;2501;Sert�o Paraibano;250103;Sousa;Sousa;1.05
-25;Paraíba;251630;2010;2502;Borborema;250210;Cariri Ocidental;Sum�;0.37
-25;Paraíba;251640;2010;2503;Agreste Paraibano;250313;Curimata� Oriental;Tacima;0.13
-25;Paraíba;251650;2010;2502;Borborema;250210;Cariri Ocidental;Tapero�;0.29
-25;Paraíba;251660;2010;2501;Sert�o Paraibano;250107;Serra do Teixeira;Tavares;0.16
-25;Paraíba;251670;2010;2501;Sert�o Paraibano;250107;Serra do Teixeira;Teixeira;0.19
-25;Paraíba;251675;2010;2502;Borborema;250209;Serid� Oriental Paraibano;Ten�rio;0
-25;Paraíba;251680;2010;2501;Sert�o Paraibano;250102;Cajazeiras;Triunfo;0.24
-25;Paraíba;251690;2010;2501;Sert�o Paraibano;250102;Cajazeiras;Uira�na;0.12
-25;Paraíba;251700;2010;2503;Agreste Paraibano;250319;Umbuzeiro;Umbuzeiro;0.16
-25;Paraíba;251710;2010;2502;Borborema;250208;Serid� Ocidental Paraibano;V�rzea;0.04
-25;Paraíba;251720;2010;2501;Sert�o Paraibano;250103;Sousa;Vieir�polis;0.1
-25;Paraíba;251740;2010;2502;Borborema;250210;Cariri Ocidental;Zabel�;NA
-25;Paraíba;250010;2011;2501;Sert�o Paraibano;250107;Serra do Teixeira;Água Branca;0.33
-25;Paraíba;250020;2011;2501;Sert�o Paraibano;250105;Pianc�;Aguiar;0.49
-25;Paraíba;250030;2011;2503;Agreste Paraibano;250315;Brejo Paraibano;Alagoa Grande;0.26
-25;Paraíba;250040;2011;2503;Agreste Paraibano;250315;Brejo Paraibano;Alagoa Nova;0.22
-25;Paraíba;250050;2011;2503;Agreste Paraibano;250316;Guarabira;Alagoinha;1
-25;Paraíba;250053;2011;2502;Borborema;250211;Cariri Oriental;Alcantil;0.21
-25;Paraíba;250057;2011;2503;Agreste Paraibano;250312;Curimata� Ocidental;Algod�o de Janda�ra;0.08
-25;Paraíba;250060;2011;2504;Mata Paraibana;250423;Litoral Sul;Alhandra;0.77
-25;Paraíba;250070;2011;2501;Sert�o Paraibano;250102;Cajazeiras;S�o Jo�o do Rio do Peixe;0.1
-25;Paraíba;250073;2011;2502;Borborema;250210;Cariri Ocidental;Amparo;0.71
-25;Paraíba;250077;2011;2501;Sert�o Paraibano;250103;Sousa;Aparecida;0.15
-25;Paraíba;250080;2011;2503;Agreste Paraibano;250316;Guarabira;Ara�agi;0.85
-25;Paraíba;250090;2011;2503;Agreste Paraibano;250312;Curimata� Ocidental;Arara;0.31
-25;Paraíba;250100;2011;2503;Agreste Paraibano;250313;Curimata� Oriental;Araruna;0.24
-25;Paraíba;250110;2011;2503;Agreste Paraibano;250315;Brejo Paraibano;Areia;0.14
-25;Paraíba;250115;2011;2501;Sert�o Paraibano;250104;Patos;Areia de Bara�nas;0
-25;Paraíba;250120;2011;2503;Agreste Paraibano;250314;Esperan�a;Areial;0.23
-25;Paraíba;250130;2011;2503;Agreste Paraibano;250319;Umbuzeiro;Aroeiras;0.24
-25;Paraíba;250135;2011;2502;Borborema;250210;Cariri Ocidental;Assun��o;0.2
-25;Paraíba;250140;2011;2504;Mata Paraibana;250420;Litoral Norte;Ba�a da Trai��o;0.79
-25;Paraíba;250150;2011;2503;Agreste Paraibano;250315;Brejo Paraibano;Bananeiras;0.29
-25;Paraíba;250153;2011;2502;Borborema;250209;Serid� Oriental Paraibano;Bara�na;0.47
-25;Paraíba;250157;2011;2502;Borborema;250211;Cariri Oriental;Barra de Santana;0.43
-25;Paraíba;250160;2011;2503;Agreste Paraibano;250312;Curimata� Ocidental;Barra de Santa Rosa;0.09
-25;Paraíba;250170;2011;2502;Borborema;250211;Cariri Oriental;Barra de S�o Miguel;0.21
-25;Paraíba;250180;2011;2504;Mata Paraibana;250422;Jo�o Pessoa;Bayeux;0.81
-25;Paraíba;250190;2011;2503;Agreste Paraibano;250316;Guarabira;Bel�m;1.24
-25;Paraíba;250200;2011;2501;Sert�o Paraibano;250101;Catol� do Rocha;Bel�m do Brejo do Cruz;0.24
-25;Paraíba;250205;2011;2501;Sert�o Paraibano;250102;Cajazeiras;Bernardino Batista;0.03
-25;Paraíba;250210;2011;2501;Sert�o Paraibano;250106;Itaporanga;Boa Ventura;0.19
-25;Paraíba;250215;2011;2503;Agreste Paraibano;250317;Campina Grande;Boa Vista;0.68
-25;Paraíba;250220;2011;2501;Sert�o Paraibano;250102;Cajazeiras;Bom Jesus;0.04
-25;Paraíba;250230;2011;2501;Sert�o Paraibano;250101;Catol� do Rocha;Bom Sucesso;0.1
-25;Paraíba;250240;2011;2501;Sert�o Paraibano;250102;Cajazeiras;Bonito de Santa F�;0.06
-25;Paraíba;250250;2011;2502;Borborema;250211;Cariri Oriental;Boqueir�o;0.38
-25;Paraíba;250260;2011;2501;Sert�o Paraibano;250105;Pianc�;Igaracy;0.1
-25;Paraíba;250270;2011;2503;Agreste Paraibano;250315;Brejo Paraibano;Borborema;0.43
-25;Paraíba;250280;2011;2501;Sert�o Paraibano;250101;Catol� do Rocha;Brejo do Cruz;0.16
-25;Paraíba;250290;2011;2501;Sert�o Paraibano;250101;Catol� do Rocha;Brejo dos Santos;0.4
-25;Paraíba;250300;2011;2504;Mata Paraibana;250423;Litoral Sul;Caapor�;0.71
-25;Paraíba;250310;2011;2502;Borborema;250211;Cariri Oriental;Cabaceiras;0.47
-25;Paraíba;250320;2011;2504;Mata Paraibana;250422;Jo�o Pessoa;Cabedelo;0.47
-25;Paraíba;250330;2011;2501;Sert�o Paraibano;250102;Cajazeiras;Cachoeira dos �ndios;0.01
-25;Paraíba;250340;2011;2501;Sert�o Paraibano;250104;Patos;Cacimba de Areia;0.11
-25;Paraíba;250350;2011;2503;Agreste Paraibano;250313;Curimata� Oriental;Cacimba de Dentro;0.15
-25;Paraíba;250355;2011;2501;Sert�o Paraibano;250107;Serra do Teixeira;Cacimbas;0.12
-25;Paraíba;250360;2011;2503;Agreste Paraibano;250316;Guarabira;Cai�ara;1.21
-25;Paraíba;250370;2011;2501;Sert�o Paraibano;250102;Cajazeiras;Cajazeiras;0.12
-25;Paraíba;250375;2011;2501;Sert�o Paraibano;250103;Sousa;Cajazeirinhas;1.35
-25;Paraíba;250380;2011;2503;Agreste Paraibano;250318;Itabaiana;Caldas Brand�o;1.34
-25;Paraíba;250390;2011;2502;Borborema;250210;Cariri Ocidental;Camala�;1.06
-25;Paraíba;250400;2011;2503;Agreste Paraibano;250317;Campina Grande;Campina Grande;0.82
-25;Paraíba;250403;2011;2504;Mata Paraibana;250420;Litoral Norte;Capim;0.58
-25;Paraíba;250407;2011;2502;Borborema;250211;Cariri Oriental;Cara�bas;0.03
-25;Paraíba;250410;2011;2501;Sert�o Paraibano;250102;Cajazeiras;Carrapateira;0.08
-25;Paraíba;250415;2011;2503;Agreste Paraibano;250313;Curimata� Oriental;Casserengue;0.06
-25;Paraíba;250420;2011;2501;Sert�o Paraibano;250105;Pianc�;Catingueira;0.12
-25;Paraíba;250430;2011;2501;Sert�o Paraibano;250101;Catol� do Rocha;Catol� do Rocha;0.82
-25;Paraíba;250435;2011;2502;Borborema;250211;Cariri Oriental;Caturit�;0.24
-25;Paraíba;250440;2011;2501;Sert�o Paraibano;250106;Itaporanga;Concei��o;0.54
-25;Paraíba;250450;2011;2501;Sert�o Paraibano;250103;Sousa;Condado;0.33
-25;Paraíba;250460;2011;2504;Mata Paraibana;250422;Jo�o Pessoa;Conde;1.01
-25;Paraíba;250470;2011;2502;Borborema;250210;Cariri Ocidental;Congo;0.62
-25;Paraíba;250480;2011;2501;Sert�o Paraibano;250105;Pianc�;Coremas;0.03
-25;Paraíba;250485;2011;2502;Borborema;250210;Cariri Ocidental;Coxixola;1.73
-25;Paraíba;250490;2011;2504;Mata Paraibana;250421;Sap�;Cruz do Esp�rito Santo;0.6
-25;Paraíba;250500;2011;2502;Borborema;250209;Serid� Oriental Paraibano;Cubati;0.32
-25;Paraíba;250510;2011;2503;Agreste Paraibano;250312;Curimata� Ocidental;Cuit�;0.19
-25;Paraíba;250520;2011;2503;Agreste Paraibano;250316;Guarabira;Cuitegi;0.22
-25;Paraíba;250523;2011;2504;Mata Paraibana;250420;Litoral Norte;Cuit� de Mamanguape;1.47
-25;Paraíba;250527;2011;2504;Mata Paraibana;250420;Litoral Norte;Curral de Cima;0.35
-25;Paraíba;250530;2011;2501;Sert�o Paraibano;250106;Itaporanga;Curral Velho;0.16
-25;Paraíba;250535;2011;2503;Agreste Paraibano;250312;Curimata� Ocidental;Dami�o;0.1
-25;Paraíba;250540;2011;2501;Sert�o Paraibano;250107;Serra do Teixeira;Desterro;0.49
-25;Paraíba;250550;2011;2501;Sert�o Paraibano;250103;Sousa;Vista Serrana;0.06
-25;Paraíba;250560;2011;2501;Sert�o Paraibano;250106;Itaporanga;Diamante;0.44
-25;Paraíba;250570;2011;2503;Agreste Paraibano;250313;Curimata� Oriental;Dona In�s;0.32
-25;Paraíba;250580;2011;2503;Agreste Paraibano;250316;Guarabira;Duas Estradas;0.77
-25;Paraíba;250590;2011;2501;Sert�o Paraibano;250105;Pianc�;Emas;0.15
-25;Paraíba;250600;2011;2503;Agreste Paraibano;250314;Esperan�a;Esperan�a;0.24
-25;Paraíba;250610;2011;2503;Agreste Paraibano;250317;Campina Grande;Fagundes;0.6
-25;Paraíba;250620;2011;2502;Borborema;250209;Serid� Oriental Paraibano;Frei Martinho;0.17
-25;Paraíba;250625;2011;2503;Agreste Paraibano;250319;Umbuzeiro;Gado Bravo;0.23
-25;Paraíba;250630;2011;2503;Agreste Paraibano;250316;Guarabira;Guarabira;0.8
-25;Paraíba;250640;2011;2503;Agreste Paraibano;250318;Itabaiana;Gurinh�m;0.56
-25;Paraíba;250650;2011;2502;Borborema;250211;Cariri Oriental;Gurj�o;0.69
-25;Paraíba;250660;2011;2501;Sert�o Paraibano;250106;Itaporanga;Ibiara;0.28
-25;Paraíba;250670;2011;2501;Sert�o Paraibano;250107;Serra do Teixeira;Imaculada;0.15
-25;Paraíba;250680;2011;2503;Agreste Paraibano;250318;Itabaiana;Ing�;0.63
-25;Paraíba;250690;2011;2503;Agreste Paraibano;250318;Itabaiana;Itabaiana;0.53
-25;Paraíba;250700;2011;2501;Sert�o Paraibano;250106;Itaporanga;Itaporanga;0.24
-25;Paraíba;250710;2011;2504;Mata Paraibana;250420;Litoral Norte;Itapororoca;1.06
-25;Paraíba;250720;2011;2503;Agreste Paraibano;250318;Itabaiana;Itatuba;0.2
-25;Paraíba;250730;2011;2504;Mata Paraibana;250420;Litoral Norte;Jacara�;0.79
-25;Paraíba;250740;2011;2501;Sert�o Paraibano;250101;Catol� do Rocha;Jeric�;0.09
-25;Paraíba;250750;2011;2504;Mata Paraibana;250422;Jo�o Pessoa;Jo�o Pessoa;2.22
-25;Paraíba;250760;2011;2503;Agreste Paraibano;250318;Itabaiana;Juarez T�vora;0.36
-25;Paraíba;250770;2011;2502;Borborema;250209;Serid� Oriental Paraibano;Juazeirinho;0.35
-25;Paraíba;250780;2011;2502;Borborema;250208;Serid� Ocidental Paraibano;Junco do Serid�;0.18
-25;Paraíba;250790;2011;2504;Mata Paraibana;250421;Sap�;Juripiranga;1.57
-25;Paraíba;250800;2011;2501;Sert�o Paraibano;250107;Serra do Teixeira;Juru;0.14
-25;Paraíba;250810;2011;2501;Sert�o Paraibano;250101;Catol� do Rocha;Lagoa;0
-25;Paraíba;250820;2011;2503;Agreste Paraibano;250316;Guarabira;Lagoa de Dentro;0.99
-25;Paraíba;250830;2011;2503;Agreste Paraibano;250317;Campina Grande;Lagoa Seca;0.25
-25;Paraíba;250840;2011;2501;Sert�o Paraibano;250103;Sousa;Lastro;0.04
-25;Paraíba;250850;2011;2502;Borborema;250210;Cariri Ocidental;Livramento;0.42
-25;Paraíba;250855;2011;2503;Agreste Paraibano;250316;Guarabira;Logradouro;0.93
-25;Paraíba;250860;2011;2504;Mata Paraibana;250422;Jo�o Pessoa;Lucena;0.97
-25;Paraíba;250870;2011;2501;Sert�o Paraibano;250104;Patos;M�e d'�gua;0.02
-25;Paraíba;250880;2011;2501;Sert�o Paraibano;250103;Sousa;Malta;0.11
-25;Paraíba;250890;2011;2504;Mata Paraibana;250420;Litoral Norte;Mamanguape;1.23
-25;Paraíba;250900;2011;2501;Sert�o Paraibano;250107;Serra do Teixeira;Mana�ra;0.1
-25;Paraíba;250905;2011;2504;Mata Paraibana;250420;Litoral Norte;Marca��o;0.66
-25;Paraíba;250910;2011;2504;Mata Paraibana;250421;Sap�;Mari;1.32
-25;Paraíba;250915;2011;2501;Sert�o Paraibano;250103;Sousa;Mariz�polis;0.02
-25;Paraíba;250920;2011;2503;Agreste Paraibano;250317;Campina Grande;Massaranduba;0.09
-25;Paraíba;250930;2011;2504;Mata Paraibana;250420;Litoral Norte;Mataraca;0.48
-25;Paraíba;250933;2011;2503;Agreste Paraibano;250315;Brejo Paraibano;Matinhas;0.16
-25;Paraíba;250937;2011;2501;Sert�o Paraibano;250101;Catol� do Rocha;Mato Grosso;0.48
-25;Paraíba;250939;2011;2501;Sert�o Paraibano;250107;Serra do Teixeira;Matur�ia;0.12
-25;Paraíba;250940;2011;2503;Agreste Paraibano;250318;Itabaiana;Mogeiro;0.31
-25;Paraíba;250950;2011;2503;Agreste Paraibano;250314;Esperan�a;Montadas;0.43
-25;Paraíba;250960;2011;2501;Sert�o Paraibano;250102;Cajazeiras;Monte Horebe;0.29
-25;Paraíba;250970;2011;2502;Borborema;250210;Cariri Ocidental;Monteiro;1.97
-25;Paraíba;250980;2011;2503;Agreste Paraibano;250316;Guarabira;Mulungu;0.54
-25;Paraíba;250990;2011;2503;Agreste Paraibano;250319;Umbuzeiro;Natuba;0.33
-25;Paraíba;251000;2011;2501;Sert�o Paraibano;250103;Sousa;Nazarezinho;0.15
-25;Paraíba;251010;2011;2503;Agreste Paraibano;250312;Curimata� Ocidental;Nova Floresta;0.06
-25;Paraíba;251020;2011;2501;Sert�o Paraibano;250105;Pianc�;Nova Olinda;0.17
-25;Paraíba;251030;2011;2502;Borborema;250209;Serid� Oriental Paraibano;Nova Palmeira;0.07
-25;Paraíba;251040;2011;2501;Sert�o Paraibano;250105;Pianc�;Olho d'�gua;0.17
-25;Paraíba;251050;2011;2503;Agreste Paraibano;250312;Curimata� Ocidental;Olivedos;0.74
-25;Paraíba;251060;2011;2502;Borborema;250210;Cariri Ocidental;Ouro Velho;0.89
-25;Paraíba;251065;2011;2502;Borborema;250210;Cariri Ocidental;Parari;0.48
-25;Paraíba;251070;2011;2501;Sert�o Paraibano;250104;Patos;Passagem;0.04
-25;Paraíba;251080;2011;2501;Sert�o Paraibano;250104;Patos;Patos;0.26
-25;Paraíba;251090;2011;2501;Sert�o Paraibano;250103;Sousa;Paulista;0.57
-25;Paraíba;251100;2011;2501;Sert�o Paraibano;250106;Itaporanga;Pedra Branca;0.56
-25;Paraíba;251110;2011;2502;Borborema;250209;Serid� Oriental Paraibano;Pedra Lavrada;0.08
-25;Paraíba;251120;2011;2504;Mata Paraibana;250423;Litoral Sul;Pedras de Fogo;0.97
-25;Paraíba;251130;2011;2501;Sert�o Paraibano;250105;Pianc�;Pianc�;0.16
-25;Paraíba;251140;2011;2502;Borborema;250209;Serid� Oriental Paraibano;Picu�;1.73
-25;Paraíba;251150;2011;2504;Mata Paraibana;250421;Sap�;Pilar;0.99
-25;Paraíba;251160;2011;2503;Agreste Paraibano;250315;Brejo Paraibano;Pil�es;1.49
-25;Paraíba;251170;2011;2503;Agreste Paraibano;250316;Guarabira;Pil�ezinhos;0.8
-25;Paraíba;251180;2011;2503;Agreste Paraibano;250316;Guarabira;Pirpirituba;0.71
-25;Paraíba;251190;2011;2504;Mata Paraibana;250423;Litoral Sul;Pitimbu;0.8
-25;Paraíba;251200;2011;2503;Agreste Paraibano;250312;Curimata� Ocidental;Pocinhos;0.16
-25;Paraíba;251203;2011;2501;Sert�o Paraibano;250102;Cajazeiras;Po�o Dantas;0.03
-25;Paraíba;251207;2011;2501;Sert�o Paraibano;250102;Cajazeiras;Po�o de Jos� de Moura;0.22
-25;Paraíba;251210;2011;2501;Sert�o Paraibano;250103;Sousa;Pombal;0.51
-25;Paraíba;251220;2011;2502;Borborema;250210;Cariri Ocidental;Prata;2.62
-25;Paraíba;251230;2011;2501;Sert�o Paraibano;250107;Serra do Teixeira;Princesa Isabel;0.45
-25;Paraíba;251240;2011;2503;Agreste Paraibano;250317;Campina Grande;Puxinan�;0.32
-25;Paraíba;251250;2011;2503;Agreste Paraibano;250317;Campina Grande;Queimadas;0.44
-25;Paraíba;251260;2011;2501;Sert�o Paraibano;250104;Patos;Quixab�;0.64
-25;Paraíba;251270;2011;2503;Agreste Paraibano;250312;Curimata� Ocidental;Rem�gio;0.28
-25;Paraíba;251272;2011;2504;Mata Paraibana;250420;Litoral Norte;Pedro R�gis;0.45
-25;Paraíba;251274;2011;2503;Agreste Paraibano;250313;Curimata� Oriental;Riach�o;0.7
-25;Paraíba;251275;2011;2503;Agreste Paraibano;250318;Itabaiana;Riach�o do Bacamarte;0.14
-25;Paraíba;251276;2011;2504;Mata Paraibana;250421;Sap�;Riach�o do Po�o;0.62
-25;Paraíba;251278;2011;2502;Borborema;250211;Cariri Oriental;Riacho de Santo Ant�nio;0.17
-25;Paraíba;251280;2011;2501;Sert�o Paraibano;250101;Catol� do Rocha;Riacho dos Cavalos;0.12
-25;Paraíba;251290;2011;2504;Mata Paraibana;250420;Litoral Norte;Rio Tinto;1.25
-25;Paraíba;251300;2011;2502;Borborema;250208;Serid� Ocidental Paraibano;Salgadinho;0.25
-25;Paraíba;251310;2011;2503;Agreste Paraibano;250318;Itabaiana;Salgado de S�o F�lix;1.42
-25;Paraíba;251315;2011;2503;Agreste Paraibano;250319;Umbuzeiro;Santa Cec�lia;0.21
-25;Paraíba;251320;2011;2501;Sert�o Paraibano;250103;Sousa;Santa Cruz;0.02
-25;Paraíba;251330;2011;2501;Sert�o Paraibano;250102;Cajazeiras;Santa Helena;0
-25;Paraíba;251335;2011;2501;Sert�o Paraibano;250106;Itaporanga;Santa In�s;0.4
-25;Paraíba;251340;2011;2502;Borborema;250208;Serid� Ocidental Paraibano;Santa Luzia;1.38
-25;Paraíba;251350;2011;2501;Sert�o Paraibano;250106;Itaporanga;Santana de Mangueira;0.38
-25;Paraíba;251360;2011;2501;Sert�o Paraibano;250105;Pianc�;Santana dos Garrotes;0.29
-25;Paraíba;251365;2011;2501;Sert�o Paraibano;250102;Cajazeiras;Santar�m;0
-25;Paraíba;251370;2011;2504;Mata Paraibana;250422;Jo�o Pessoa;Santa Rita;0.7
-25;Paraíba;251380;2011;2501;Sert�o Paraibano;250104;Patos;Santa Teresinha;0.11
-25;Paraíba;251385;2011;2502;Borborema;250211;Cariri Oriental;Santo Andr�;1.03
-25;Paraíba;251390;2011;2501;Sert�o Paraibano;250101;Catol� do Rocha;S�o Bento;0.48
-25;Paraíba;251392;2011;2501;Sert�o Paraibano;250103;Sousa;S�o Bentinho;0.07
-25;Paraíba;251394;2011;2502;Borborema;250211;Cariri Oriental;S�o Domingos do Cariri;0
-25;Paraíba;251396;2011;2501;Sert�o Paraibano;250103;Sousa;S�o Domingos;0.14
-25;Paraíba;251398;2011;2501;Sert�o Paraibano;250103;Sousa;S�o Francisco;0.09
-25;Paraíba;251400;2011;2502;Borborema;250211;Cariri Oriental;S�o Jo�o do Cariri;0.39
-25;Paraíba;251410;2011;2502;Borborema;250210;Cariri Ocidental;S�o Jo�o do Tigre;0.32
-25;Paraíba;251420;2011;2501;Sert�o Paraibano;250103;Sousa;S�o Jos� da Lagoa Tapada;0.07
-25;Paraíba;251430;2011;2501;Sert�o Paraibano;250106;Itaporanga;S�o Jos� de Caiana;0.1
-25;Paraíba;251440;2011;2501;Sert�o Paraibano;250104;Patos;S�o Jos� de Espinharas;0.65
-25;Paraíba;251445;2011;2504;Mata Paraibana;250421;Sap�;S�o Jos� dos Ramos;1.01
-25;Paraíba;251450;2011;2501;Sert�o Paraibano;250102;Cajazeiras;S�o Jos� de Piranhas;0.06
-25;Paraíba;251455;2011;2501;Sert�o Paraibano;250107;Serra do Teixeira;S�o Jos� de Princesa;0
-25;Paraíba;251460;2011;2501;Sert�o Paraibano;250104;Patos;S�o Jos� do Bonfim;0.12
-25;Paraíba;251465;2011;2501;Sert�o Paraibano;250101;Catol� do Rocha;S�o Jos� do Brejo do Cruz;0.35
-25;Paraíba;251470;2011;2502;Borborema;250208;Serid� Ocidental Paraibano;S�o Jos� do Sabugi;0.1
-25;Paraíba;251480;2011;2502;Borborema;250210;Cariri Ocidental;S�o Jos� dos Cordeiros;0.25
-25;Paraíba;251490;2011;2502;Borborema;250208;Serid� Ocidental Paraibano;S�o Mamede;0.53
-25;Paraíba;251500;2011;2504;Mata Paraibana;250421;Sap�;S�o Miguel de Taipu;0.59
-25;Paraíba;251510;2011;2503;Agreste Paraibano;250314;Esperan�a;S�o Sebasti�o de Lagoa de Ro�a;0.27
-25;Paraíba;251520;2011;2502;Borborema;250210;Cariri Ocidental;S�o Sebasti�o do Umbuzeiro;0.34
-25;Paraíba;251530;2011;2504;Mata Paraibana;250421;Sap�;Sap�;0.97
-25;Paraíba;251540;2011;2502;Borborema;250209;Serid� Oriental Paraibano;Serid�;0.18
-25;Paraíba;251550;2011;2502;Borborema;250210;Cariri Ocidental;Serra Branca;0.63
-25;Paraíba;251560;2011;2503;Agreste Paraibano;250316;Guarabira;Serra da Raiz;1.35
-25;Paraíba;251570;2011;2501;Sert�o Paraibano;250106;Itaporanga;Serra Grande;0.2
-25;Paraíba;251580;2011;2503;Agreste Paraibano;250317;Campina Grande;Serra Redonda;0.37
-25;Paraíba;251590;2011;2503;Agreste Paraibano;250315;Brejo Paraibano;Serraria;0.31
-25;Paraíba;251593;2011;2503;Agreste Paraibano;250316;Guarabira;Sert�ozinho;1.21
-25;Paraíba;251597;2011;2504;Mata Paraibana;250421;Sap�;Sobrado;1.01
-25;Paraíba;251600;2011;2503;Agreste Paraibano;250313;Curimata� Oriental;Sol�nea;0.31
-25;Paraíba;251610;2011;2503;Agreste Paraibano;250312;Curimata� Ocidental;Soledade;0.32
-25;Paraíba;251615;2011;2503;Agreste Paraibano;250312;Curimata� Ocidental;Soss�go;0.06
-25;Paraíba;251620;2011;2501;Sert�o Paraibano;250103;Sousa;Sousa;0.36
-25;Paraíba;251630;2011;2502;Borborema;250210;Cariri Ocidental;Sum�;0.38
-25;Paraíba;251640;2011;2503;Agreste Paraibano;250313;Curimata� Oriental;Tacima;0.21
-25;Paraíba;251650;2011;2502;Borborema;250210;Cariri Ocidental;Tapero�;0.51
-25;Paraíba;251660;2011;2501;Sert�o Paraibano;250107;Serra do Teixeira;Tavares;0.21
-25;Paraíba;251670;2011;2501;Sert�o Paraibano;250107;Serra do Teixeira;Teixeira;0.23
-25;Paraíba;251675;2011;2502;Borborema;250209;Serid� Oriental Paraibano;Ten�rio;0.14
-25;Paraíba;251680;2011;2501;Sert�o Paraibano;250102;Cajazeiras;Triunfo;0.45
-25;Paraíba;251690;2011;2501;Sert�o Paraibano;250102;Cajazeiras;Uira�na;0.23
-25;Paraíba;251700;2011;2503;Agreste Paraibano;250319;Umbuzeiro;Umbuzeiro;1.45
-25;Paraíba;251710;2011;2502;Borborema;250208;Serid� Ocidental Paraibano;V�rzea;0.08
-25;Paraíba;251720;2011;2501;Sert�o Paraibano;250103;Sousa;Vieir�polis;0.02
-25;Paraíba;251740;2011;2502;Borborema;250210;Cariri Ocidental;Zabel�;NA
-25;Paraíba;250010;2012;2501;Sert�o Paraibano;250107;Serra do Teixeira;Água Branca;0.32
-25;Paraíba;250020;2012;2501;Sert�o Paraibano;250105;Pianc�;Aguiar;0.51
-25;Paraíba;250030;2012;2503;Agreste Paraibano;250315;Brejo Paraibano;Alagoa Grande;0.73
-25;Paraíba;250040;2012;2503;Agreste Paraibano;250315;Brejo Paraibano;Alagoa Nova;0.57
-25;Paraíba;250050;2012;2503;Agreste Paraibano;250316;Guarabira;Alagoinha;1.27
-25;Paraíba;250053;2012;2502;Borborema;250211;Cariri Oriental;Alcantil;0.19
-25;Paraíba;250057;2012;2503;Agreste Paraibano;250312;Curimata� Ocidental;Algod�o de Janda�ra;0.21
-25;Paraíba;250060;2012;2504;Mata Paraibana;250423;Litoral Sul;Alhandra;0.59
-25;Paraíba;250070;2012;2501;Sert�o Paraibano;250102;Cajazeiras;S�o Jo�o do Rio do Peixe;0.24
-25;Paraíba;250073;2012;2502;Borborema;250210;Cariri Ocidental;Amparo;0.33
-25;Paraíba;250077;2012;2501;Sert�o Paraibano;250103;Sousa;Aparecida;0.08
-25;Paraíba;250080;2012;2503;Agreste Paraibano;250316;Guarabira;Ara�agi;0.46
-25;Paraíba;250090;2012;2503;Agreste Paraibano;250312;Curimata� Ocidental;Arara;0.17
-25;Paraíba;250100;2012;2503;Agreste Paraibano;250313;Curimata� Oriental;Araruna;0.18
-25;Paraíba;250110;2012;2503;Agreste Paraibano;250315;Brejo Paraibano;Areia;0.36
-25;Paraíba;250115;2012;2501;Sert�o Paraibano;250104;Patos;Areia de Bara�nas;0.11
-25;Paraíba;250120;2012;2503;Agreste Paraibano;250314;Esperan�a;Areial;0.4
-25;Paraíba;250130;2012;2503;Agreste Paraibano;250319;Umbuzeiro;Aroeiras;0.35
-25;Paraíba;250135;2012;2502;Borborema;250210;Cariri Ocidental;Assun��o;0.14
-25;Paraíba;250140;2012;2504;Mata Paraibana;250420;Litoral Norte;Ba�a da Trai��o;0.85
-25;Paraíba;250150;2012;2503;Agreste Paraibano;250315;Brejo Paraibano;Bananeiras;0.27
-25;Paraíba;250153;2012;2502;Borborema;250209;Serid� Oriental Paraibano;Bara�na;0.25
-25;Paraíba;250157;2012;2502;Borborema;250211;Cariri Oriental;Barra de Santana;0.57
-25;Paraíba;250160;2012;2503;Agreste Paraibano;250312;Curimata� Ocidental;Barra de Santa Rosa;0.29
-25;Paraíba;250170;2012;2502;Borborema;250211;Cariri Oriental;Barra de S�o Miguel;0.16
-25;Paraíba;250180;2012;2504;Mata Paraibana;250422;Jo�o Pessoa;Bayeux;1.06
-25;Paraíba;250190;2012;2503;Agreste Paraibano;250316;Guarabira;Bel�m;1
-25;Paraíba;250200;2012;2501;Sert�o Paraibano;250101;Catol� do Rocha;Bel�m do Brejo do Cruz;0.61
-25;Paraíba;250205;2012;2501;Sert�o Paraibano;250102;Cajazeiras;Bernardino Batista;0.19
-25;Paraíba;250210;2012;2501;Sert�o Paraibano;250106;Itaporanga;Boa Ventura;0.25
-25;Paraíba;250215;2012;2503;Agreste Paraibano;250317;Campina Grande;Boa Vista;0.84
-25;Paraíba;250220;2012;2501;Sert�o Paraibano;250102;Cajazeiras;Bom Jesus;0.16
-25;Paraíba;250230;2012;2501;Sert�o Paraibano;250101;Catol� do Rocha;Bom Sucesso;0.12
-25;Paraíba;250240;2012;2501;Sert�o Paraibano;250102;Cajazeiras;Bonito de Santa F�;0.22
-25;Paraíba;250250;2012;2502;Borborema;250211;Cariri Oriental;Boqueir�o;0.3
-25;Paraíba;250260;2012;2501;Sert�o Paraibano;250105;Pianc�;Igaracy;0.23
-25;Paraíba;250270;2012;2503;Agreste Paraibano;250315;Brejo Paraibano;Borborema;0.19
-25;Paraíba;250280;2012;2501;Sert�o Paraibano;250101;Catol� do Rocha;Brejo do Cruz;0.11
-25;Paraíba;250290;2012;2501;Sert�o Paraibano;250101;Catol� do Rocha;Brejo dos Santos;0.19
-25;Paraíba;250300;2012;2504;Mata Paraibana;250423;Litoral Sul;Caapor�;0.6
-25;Paraíba;250310;2012;2502;Borborema;250211;Cariri Oriental;Cabaceiras;0.54
-25;Paraíba;250320;2012;2504;Mata Paraibana;250422;Jo�o Pessoa;Cabedelo;0.4
-25;Paraíba;250330;2012;2501;Sert�o Paraibano;250102;Cajazeiras;Cachoeira dos �ndios;0.18
-25;Paraíba;250340;2012;2501;Sert�o Paraibano;250104;Patos;Cacimba de Areia;0.11
-25;Paraíba;250350;2012;2503;Agreste Paraibano;250313;Curimata� Oriental;Cacimba de Dentro;0.27
-25;Paraíba;250355;2012;2501;Sert�o Paraibano;250107;Serra do Teixeira;Cacimbas;0.22
-25;Paraíba;250360;2012;2503;Agreste Paraibano;250316;Guarabira;Cai�ara;0.89
-25;Paraíba;250370;2012;2501;Sert�o Paraibano;250102;Cajazeiras;Cajazeiras;0.16
-25;Paraíba;250375;2012;2501;Sert�o Paraibano;250103;Sousa;Cajazeirinhas;1.34
-25;Paraíba;250380;2012;2503;Agreste Paraibano;250318;Itabaiana;Caldas Brand�o;0.63
-25;Paraíba;250390;2012;2502;Borborema;250210;Cariri Ocidental;Camala�;0.36
-25;Paraíba;250400;2012;2503;Agreste Paraibano;250317;Campina Grande;Campina Grande;1.12
-25;Paraíba;250403;2012;2504;Mata Paraibana;250420;Litoral Norte;Capim;0.45
-25;Paraíba;250407;2012;2502;Borborema;250211;Cariri Oriental;Cara�bas;0.08
-25;Paraíba;250410;2012;2501;Sert�o Paraibano;250102;Cajazeiras;Carrapateira;0
-25;Paraíba;250415;2012;2503;Agreste Paraibano;250313;Curimata� Oriental;Casserengue;0.38
-25;Paraíba;250420;2012;2501;Sert�o Paraibano;250105;Pianc�;Catingueira;0.1
-25;Paraíba;250430;2012;2501;Sert�o Paraibano;250101;Catol� do Rocha;Catol� do Rocha;0.78
-25;Paraíba;250435;2012;2502;Borborema;250211;Cariri Oriental;Caturit�;0.65
-25;Paraíba;250440;2012;2501;Sert�o Paraibano;250106;Itaporanga;Concei��o;0.7
-25;Paraíba;250450;2012;2501;Sert�o Paraibano;250103;Sousa;Condado;0.41
-25;Paraíba;250460;2012;2504;Mata Paraibana;250422;Jo�o Pessoa;Conde;1.02
-25;Paraíba;250470;2012;2502;Borborema;250210;Cariri Ocidental;Congo;0.68
-25;Paraíba;250480;2012;2501;Sert�o Paraibano;250105;Pianc�;Coremas;0.3
-25;Paraíba;250485;2012;2502;Borborema;250210;Cariri Ocidental;Coxixola;1.61
-25;Paraíba;250490;2012;2504;Mata Paraibana;250421;Sap�;Cruz do Esp�rito Santo;0.59
-25;Paraíba;250500;2012;2502;Borborema;250209;Serid� Oriental Paraibano;Cubati;0.48
-25;Paraíba;250510;2012;2503;Agreste Paraibano;250312;Curimata� Ocidental;Cuit�;0.57
-25;Paraíba;250520;2012;2503;Agreste Paraibano;250316;Guarabira;Cuitegi;0.37
-25;Paraíba;250523;2012;2504;Mata Paraibana;250420;Litoral Norte;Cuit� de Mamanguape;0.39
-25;Paraíba;250527;2012;2504;Mata Paraibana;250420;Litoral Norte;Curral de Cima;0.46
-25;Paraíba;250530;2012;2501;Sert�o Paraibano;250106;Itaporanga;Curral Velho;0.04
-25;Paraíba;250535;2012;2503;Agreste Paraibano;250312;Curimata� Ocidental;Dami�o;0.04
-25;Paraíba;250540;2012;2501;Sert�o Paraibano;250107;Serra do Teixeira;Desterro;0.15
-25;Paraíba;250550;2012;2501;Sert�o Paraibano;250103;Sousa;Vista Serrana;0.22
-25;Paraíba;250560;2012;2501;Sert�o Paraibano;250106;Itaporanga;Diamante;0.2
-25;Paraíba;250570;2012;2503;Agreste Paraibano;250313;Curimata� Oriental;Dona In�s;0.28
-25;Paraíba;250580;2012;2503;Agreste Paraibano;250316;Guarabira;Duas Estradas;0.91
-25;Paraíba;250590;2012;2501;Sert�o Paraibano;250105;Pianc�;Emas;0.12
-25;Paraíba;250600;2012;2503;Agreste Paraibano;250314;Esperan�a;Esperan�a;0.57
-25;Paraíba;250610;2012;2503;Agreste Paraibano;250317;Campina Grande;Fagundes;0.34
-25;Paraíba;250620;2012;2502;Borborema;250209;Serid� Oriental Paraibano;Frei Martinho;0.55
-25;Paraíba;250625;2012;2503;Agreste Paraibano;250319;Umbuzeiro;Gado Bravo;0.36
-25;Paraíba;250630;2012;2503;Agreste Paraibano;250316;Guarabira;Guarabira;1.54
-25;Paraíba;250640;2012;2503;Agreste Paraibano;250318;Itabaiana;Gurinh�m;0.47
-25;Paraíba;250650;2012;2502;Borborema;250211;Cariri Oriental;Gurj�o;0.44
-25;Paraíba;250660;2012;2501;Sert�o Paraibano;250106;Itaporanga;Ibiara;0.57
-25;Paraíba;250670;2012;2501;Sert�o Paraibano;250107;Serra do Teixeira;Imaculada;0.15
-25;Paraíba;250680;2012;2503;Agreste Paraibano;250318;Itabaiana;Ing�;0.66
-25;Paraíba;250690;2012;2503;Agreste Paraibano;250318;Itabaiana;Itabaiana;0.65
-25;Paraíba;250700;2012;2501;Sert�o Paraibano;250106;Itaporanga;Itaporanga;0.11
-25;Paraíba;250710;2012;2504;Mata Paraibana;250420;Litoral Norte;Itapororoca;0.67
-25;Paraíba;250720;2012;2503;Agreste Paraibano;250318;Itabaiana;Itatuba;0.39
-25;Paraíba;250730;2012;2504;Mata Paraibana;250420;Litoral Norte;Jacara�;1.59
-25;Paraíba;250740;2012;2501;Sert�o Paraibano;250101;Catol� do Rocha;Jeric�;0.19
-25;Paraíba;250750;2012;2504;Mata Paraibana;250422;Jo�o Pessoa;Jo�o Pessoa;2.26
-25;Paraíba;250760;2012;2503;Agreste Paraibano;250318;Itabaiana;Juarez T�vora;0.75
-25;Paraíba;250770;2012;2502;Borborema;250209;Serid� Oriental Paraibano;Juazeirinho;0.39
-25;Paraíba;250780;2012;2502;Borborema;250208;Serid� Ocidental Paraibano;Junco do Serid�;0.3
-25;Paraíba;250790;2012;2504;Mata Paraibana;250421;Sap�;Juripiranga;0.57
-25;Paraíba;250800;2012;2501;Sert�o Paraibano;250107;Serra do Teixeira;Juru;0.34
-25;Paraíba;250810;2012;2501;Sert�o Paraibano;250101;Catol� do Rocha;Lagoa;0.3
-25;Paraíba;250820;2012;2503;Agreste Paraibano;250316;Guarabira;Lagoa de Dentro;0.74
-25;Paraíba;250830;2012;2503;Agreste Paraibano;250317;Campina Grande;Lagoa Seca;0.5
-25;Paraíba;250840;2012;2501;Sert�o Paraibano;250103;Sousa;Lastro;0.11
-25;Paraíba;250850;2012;2502;Borborema;250210;Cariri Ocidental;Livramento;0.39
-25;Paraíba;250855;2012;2503;Agreste Paraibano;250316;Guarabira;Logradouro;0.65
-25;Paraíba;250860;2012;2504;Mata Paraibana;250422;Jo�o Pessoa;Lucena;0.73
-25;Paraíba;250870;2012;2501;Sert�o Paraibano;250104;Patos;M�e d'�gua;0
-25;Paraíba;250880;2012;2501;Sert�o Paraibano;250103;Sousa;Malta;0.14
-25;Paraíba;250890;2012;2504;Mata Paraibana;250420;Litoral Norte;Mamanguape;0.82
-25;Paraíba;250900;2012;2501;Sert�o Paraibano;250107;Serra do Teixeira;Mana�ra;0.09
-25;Paraíba;250905;2012;2504;Mata Paraibana;250420;Litoral Norte;Marca��o;0.37
-25;Paraíba;250910;2012;2504;Mata Paraibana;250421;Sap�;Mari;0.71
-25;Paraíba;250915;2012;2501;Sert�o Paraibano;250103;Sousa;Mariz�polis;0.06
-25;Paraíba;250920;2012;2503;Agreste Paraibano;250317;Campina Grande;Massaranduba;0.21
-25;Paraíba;250930;2012;2504;Mata Paraibana;250420;Litoral Norte;Mataraca;0.48
-25;Paraíba;250933;2012;2503;Agreste Paraibano;250315;Brejo Paraibano;Matinhas;0.25
-25;Paraíba;250937;2012;2501;Sert�o Paraibano;250101;Catol� do Rocha;Mato Grosso;0.95
-25;Paraíba;250939;2012;2501;Sert�o Paraibano;250107;Serra do Teixeira;Matur�ia;0.08
-25;Paraíba;250940;2012;2503;Agreste Paraibano;250318;Itabaiana;Mogeiro;0.46
-25;Paraíba;250950;2012;2503;Agreste Paraibano;250314;Esperan�a;Montadas;0.43
-25;Paraíba;250960;2012;2501;Sert�o Paraibano;250102;Cajazeiras;Monte Horebe;0.2
-25;Paraíba;250970;2012;2502;Borborema;250210;Cariri Ocidental;Monteiro;0.8
-25;Paraíba;250980;2012;2503;Agreste Paraibano;250316;Guarabira;Mulungu;0.43
-25;Paraíba;250990;2012;2503;Agreste Paraibano;250319;Umbuzeiro;Natuba;0.25
-25;Paraíba;251000;2012;2501;Sert�o Paraibano;250103;Sousa;Nazarezinho;0.14
-25;Paraíba;251010;2012;2503;Agreste Paraibano;250312;Curimata� Ocidental;Nova Floresta;0.19
-25;Paraíba;251020;2012;2501;Sert�o Paraibano;250105;Pianc�;Nova Olinda;0.22
-25;Paraíba;251030;2012;2502;Borborema;250209;Serid� Oriental Paraibano;Nova Palmeira;0.54
-25;Paraíba;251040;2012;2501;Sert�o Paraibano;250105;Pianc�;Olho d'�gua;0.29
-25;Paraíba;251050;2012;2503;Agreste Paraibano;250312;Curimata� Ocidental;Olivedos;1.03
-25;Paraíba;251060;2012;2502;Borborema;250210;Cariri Ocidental;Ouro Velho;0.58
-25;Paraíba;251065;2012;2502;Borborema;250210;Cariri Ocidental;Parari;0.72
-25;Paraíba;251070;2012;2501;Sert�o Paraibano;250104;Patos;Passagem;0.09
-25;Paraíba;251080;2012;2501;Sert�o Paraibano;250104;Patos;Patos;0.29
-25;Paraíba;251090;2012;2501;Sert�o Paraibano;250103;Sousa;Paulista;2.22
-25;Paraíba;251100;2012;2501;Sert�o Paraibano;250106;Itaporanga;Pedra Branca;0.78
-25;Paraíba;251110;2012;2502;Borborema;250209;Serid� Oriental Paraibano;Pedra Lavrada;0.22
-25;Paraíba;251120;2012;2504;Mata Paraibana;250423;Litoral Sul;Pedras de Fogo;0.87
-25;Paraíba;251130;2012;2501;Sert�o Paraibano;250105;Pianc�;Pianc�;0.43
-25;Paraíba;251140;2012;2502;Borborema;250209;Serid� Oriental Paraibano;Picu�;5.37
-25;Paraíba;251150;2012;2504;Mata Paraibana;250421;Sap�;Pilar;0.81
-25;Paraíba;251160;2012;2503;Agreste Paraibano;250315;Brejo Paraibano;Pil�es;0.58
-25;Paraíba;251170;2012;2503;Agreste Paraibano;250316;Guarabira;Pil�ezinhos;0.27
-25;Paraíba;251180;2012;2503;Agreste Paraibano;250316;Guarabira;Pirpirituba;0.92
-25;Paraíba;251190;2012;2504;Mata Paraibana;250423;Litoral Sul;Pitimbu;0.51
-25;Paraíba;251200;2012;2503;Agreste Paraibano;250312;Curimata� Ocidental;Pocinhos;0.52
-25;Paraíba;251203;2012;2501;Sert�o Paraibano;250102;Cajazeiras;Po�o Dantas;0.4
-25;Paraíba;251207;2012;2501;Sert�o Paraibano;250102;Cajazeiras;Po�o de Jos� de Moura;0.69
-25;Paraíba;251210;2012;2501;Sert�o Paraibano;250103;Sousa;Pombal;1.9
-25;Paraíba;251220;2012;2502;Borborema;250210;Cariri Ocidental;Prata;1.53
-25;Paraíba;251230;2012;2501;Sert�o Paraibano;250107;Serra do Teixeira;Princesa Isabel;0.13
-25;Paraíba;251240;2012;2503;Agreste Paraibano;250317;Campina Grande;Puxinan�;0.55
-25;Paraíba;251250;2012;2503;Agreste Paraibano;250317;Campina Grande;Queimadas;0.57
-25;Paraíba;251260;2012;2501;Sert�o Paraibano;250104;Patos;Quixab�;0.11
-25;Paraíba;251270;2012;2503;Agreste Paraibano;250312;Curimata� Ocidental;Rem�gio;0.37
-25;Paraíba;251272;2012;2504;Mata Paraibana;250420;Litoral Norte;Pedro R�gis;1.13
-25;Paraíba;251274;2012;2503;Agreste Paraibano;250313;Curimata� Oriental;Riach�o;0.51
-25;Paraíba;251275;2012;2503;Agreste Paraibano;250318;Itabaiana;Riach�o do Bacamarte;0.42
-25;Paraíba;251276;2012;2504;Mata Paraibana;250421;Sap�;Riach�o do Po�o;0.35
-25;Paraíba;251278;2012;2502;Borborema;250211;Cariri Oriental;Riacho de Santo Ant�nio;0.51
-25;Paraíba;251280;2012;2501;Sert�o Paraibano;250101;Catol� do Rocha;Riacho dos Cavalos;0.11
-25;Paraíba;251290;2012;2504;Mata Paraibana;250420;Litoral Norte;Rio Tinto;1.05
-25;Paraíba;251300;2012;2502;Borborema;250208;Serid� Ocidental Paraibano;Salgadinho;0.03
-25;Paraíba;251310;2012;2503;Agreste Paraibano;250318;Itabaiana;Salgado de S�o F�lix;0.94
-25;Paraíba;251315;2012;2503;Agreste Paraibano;250319;Umbuzeiro;Santa Cec�lia;0.29
-25;Paraíba;251320;2012;2501;Sert�o Paraibano;250103;Sousa;Santa Cruz;0
-25;Paraíba;251330;2012;2501;Sert�o Paraibano;250102;Cajazeiras;Santa Helena;0.14
-25;Paraíba;251335;2012;2501;Sert�o Paraibano;250106;Itaporanga;Santa In�s;0.31
-25;Paraíba;251340;2012;2502;Borborema;250208;Serid� Ocidental Paraibano;Santa Luzia;1.28
-25;Paraíba;251350;2012;2501;Sert�o Paraibano;250106;Itaporanga;Santana de Mangueira;0.4
-25;Paraíba;251360;2012;2501;Sert�o Paraibano;250105;Pianc�;Santana dos Garrotes;0.54
-25;Paraíba;251365;2012;2501;Sert�o Paraibano;250102;Cajazeiras;Santar�m;0.04
-25;Paraíba;251370;2012;2504;Mata Paraibana;250422;Jo�o Pessoa;Santa Rita;0.95
-25;Paraíba;251380;2012;2501;Sert�o Paraibano;250104;Patos;Santa Teresinha;0.11
-25;Paraíba;251385;2012;2502;Borborema;250211;Cariri Oriental;Santo Andr�;8.68
-25;Paraíba;251390;2012;2501;Sert�o Paraibano;250101;Catol� do Rocha;S�o Bento;1.63
-25;Paraíba;251392;2012;2501;Sert�o Paraibano;250103;Sousa;S�o Bentinho;0.33
-25;Paraíba;251394;2012;2502;Borborema;250211;Cariri Oriental;S�o Domingos do Cariri;0.61
-25;Paraíba;251396;2012;2501;Sert�o Paraibano;250103;Sousa;S�o Domingos;0.21
-25;Paraíba;251398;2012;2501;Sert�o Paraibano;250103;Sousa;S�o Francisco;0.24
-25;Paraíba;251400;2012;2502;Borborema;250211;Cariri Oriental;S�o Jo�o do Cariri;0.49
-25;Paraíba;251410;2012;2502;Borborema;250210;Cariri Ocidental;S�o Jo�o do Tigre;0.05
-25;Paraíba;251420;2012;2501;Sert�o Paraibano;250103;Sousa;S�o Jos� da Lagoa Tapada;0
-25;Paraíba;251430;2012;2501;Sert�o Paraibano;250106;Itaporanga;S�o Jos� de Caiana;0.07
-25;Paraíba;251440;2012;2501;Sert�o Paraibano;250104;Patos;S�o Jos� de Espinharas;0.15
-25;Paraíba;251445;2012;2504;Mata Paraibana;250421;Sap�;S�o Jos� dos Ramos;1
-25;Paraíba;251450;2012;2501;Sert�o Paraibano;250102;Cajazeiras;S�o Jos� de Piranhas;0.11
-25;Paraíba;251455;2012;2501;Sert�o Paraibano;250107;Serra do Teixeira;S�o Jos� de Princesa;0.02
-25;Paraíba;251460;2012;2501;Sert�o Paraibano;250104;Patos;S�o Jos� do Bonfim;0.06
-25;Paraíba;251465;2012;2501;Sert�o Paraibano;250101;Catol� do Rocha;S�o Jos� do Brejo do Cruz;0.7
-25;Paraíba;251470;2012;2502;Borborema;250208;Serid� Ocidental Paraibano;S�o Jos� do Sabugi;0.12
-25;Paraíba;251480;2012;2502;Borborema;250210;Cariri Ocidental;S�o Jos� dos Cordeiros;0.4
-25;Paraíba;251490;2012;2502;Borborema;250208;Serid� Ocidental Paraibano;S�o Mamede;0.82
-25;Paraíba;251500;2012;2504;Mata Paraibana;250421;Sap�;S�o Miguel de Taipu;0.69
-25;Paraíba;251510;2012;2503;Agreste Paraibano;250314;Esperan�a;S�o Sebasti�o de Lagoa de Ro�a;0.34
-25;Paraíba;251520;2012;2502;Borborema;250210;Cariri Ocidental;S�o Sebasti�o do Umbuzeiro;0.24
-25;Paraíba;251530;2012;2504;Mata Paraibana;250421;Sap�;Sap�;0.84
-25;Paraíba;251540;2012;2502;Borborema;250209;Serid� Oriental Paraibano;Serid�;0.23
-25;Paraíba;251550;2012;2502;Borborema;250210;Cariri Ocidental;Serra Branca;0.76
-25;Paraíba;251560;2012;2503;Agreste Paraibano;250316;Guarabira;Serra da Raiz;0.66
-25;Paraíba;251570;2012;2501;Sert�o Paraibano;250106;Itaporanga;Serra Grande;1.1
-25;Paraíba;251580;2012;2503;Agreste Paraibano;250317;Campina Grande;Serra Redonda;0.78
-25;Paraíba;251590;2012;2503;Agreste Paraibano;250315;Brejo Paraibano;Serraria;0.24
-25;Paraíba;251593;2012;2503;Agreste Paraibano;250316;Guarabira;Sert�ozinho;1.28
-25;Paraíba;251597;2012;2504;Mata Paraibana;250421;Sap�;Sobrado;0.77
-25;Paraíba;251600;2012;2503;Agreste Paraibano;250313;Curimata� Oriental;Sol�nea;0.59
-25;Paraíba;251610;2012;2503;Agreste Paraibano;250312;Curimata� Ocidental;Soledade;0.39
-25;Paraíba;251615;2012;2503;Agreste Paraibano;250312;Curimata� Ocidental;Soss�go;0.28
-25;Paraíba;251620;2012;2501;Sert�o Paraibano;250103;Sousa;Sousa;0.39
-25;Paraíba;251630;2012;2502;Borborema;250210;Cariri Ocidental;Sum�;0.43
-25;Paraíba;251640;2012;2503;Agreste Paraibano;250313;Curimata� Oriental;Tacima;0.28
-25;Paraíba;251650;2012;2502;Borborema;250210;Cariri Ocidental;Tapero�;0.88
-25;Paraíba;251660;2012;2501;Sert�o Paraibano;250107;Serra do Teixeira;Tavares;0.21
-25;Paraíba;251670;2012;2501;Sert�o Paraibano;250107;Serra do Teixeira;Teixeira;0.17
-25;Paraíba;251675;2012;2502;Borborema;250209;Serid� Oriental Paraibano;Ten�rio;0.42
-25;Paraíba;251680;2012;2501;Sert�o Paraibano;250102;Cajazeiras;Triunfo;0.64
-25;Paraíba;251690;2012;2501;Sert�o Paraibano;250102;Cajazeiras;Uira�na;0.17
-25;Paraíba;251700;2012;2503;Agreste Paraibano;250319;Umbuzeiro;Umbuzeiro;0.56
-25;Paraíba;251710;2012;2502;Borborema;250208;Serid� Ocidental Paraibano;V�rzea;0.16
-25;Paraíba;251720;2012;2501;Sert�o Paraibano;250103;Sousa;Vieir�polis;0.2
-25;Paraíba;251740;2012;2502;Borborema;250210;Cariri Ocidental;Zabel�;NA
+"COD_UF","NOME_UF","COD_MUNICIPIO","ANO","COD_MESO","NOME_MESO","COD_MICRO","NOME_MICRO","NOME_MUNICIPIO","INDICADOR_007"
+25,"Paraíba","250010","2008",2501,"Sertão Paraibano",250107,"Serra do Teixeira","Água Branca",0.3
+25,"Paraíba","250010","2009",2501,"Sertão Paraibano",250107,"Serra do Teixeira","Água Branca",0.29
+25,"Paraíba","250010","2010",2501,"Sertão Paraibano",250107,"Serra do Teixeira","Água Branca",0.16
+25,"Paraíba","250010","2011",2501,"Sertão Paraibano",250107,"Serra do Teixeira","Água Branca",0.33
+25,"Paraíba","250010","2012",2501,"Sertão Paraibano",250107,"Serra do Teixeira","Água Branca",0.32
+25,"Paraíba","250020","2008",2501,"Sertão Paraibano",250105,"Piancó","Aguiar",0
+25,"Paraíba","250020","2009",2501,"Sertão Paraibano",250105,"Piancó","Aguiar",0.02
+25,"Paraíba","250020","2010",2501,"Sertão Paraibano",250105,"Piancó","Aguiar",0.07
+25,"Paraíba","250020","2011",2501,"Sertão Paraibano",250105,"Piancó","Aguiar",0.49
+25,"Paraíba","250020","2012",2501,"Sertão Paraibano",250105,"Piancó","Aguiar",0.51
+25,"Paraíba","250030","2008",2503,"Agreste Paraibano",250315,"Brejo Paraibano","Alagoa Grande",0.17
+25,"Paraíba","250030","2009",2503,"Agreste Paraibano",250315,"Brejo Paraibano","Alagoa Grande",0.21
+25,"Paraíba","250030","2010",2503,"Agreste Paraibano",250315,"Brejo Paraibano","Alagoa Grande",0.29
+25,"Paraíba","250030","2011",2503,"Agreste Paraibano",250315,"Brejo Paraibano","Alagoa Grande",0.26
+25,"Paraíba","250030","2012",2503,"Agreste Paraibano",250315,"Brejo Paraibano","Alagoa Grande",0.73
+25,"Paraíba","250040","2008",2503,"Agreste Paraibano",250315,"Brejo Paraibano","Alagoa Nova",0.29
+25,"Paraíba","250040","2009",2503,"Agreste Paraibano",250315,"Brejo Paraibano","Alagoa Nova",0.24
+25,"Paraíba","250040","2010",2503,"Agreste Paraibano",250315,"Brejo Paraibano","Alagoa Nova",0.11
+25,"Paraíba","250040","2011",2503,"Agreste Paraibano",250315,"Brejo Paraibano","Alagoa Nova",0.22
+25,"Paraíba","250040","2012",2503,"Agreste Paraibano",250315,"Brejo Paraibano","Alagoa Nova",0.57
+25,"Paraíba","250050","2008",2503,"Agreste Paraibano",250316,"Guarabira","Alagoinha",0.07
+25,"Paraíba","250050","2009",2503,"Agreste Paraibano",250316,"Guarabira","Alagoinha",0.16
+25,"Paraíba","250050","2010",2503,"Agreste Paraibano",250316,"Guarabira","Alagoinha",0.29
+25,"Paraíba","250050","2011",2503,"Agreste Paraibano",250316,"Guarabira","Alagoinha",1
+25,"Paraíba","250050","2012",2503,"Agreste Paraibano",250316,"Guarabira","Alagoinha",1.27
+25,"Paraíba","250053","2008",2502,"Borborema",250211,"Cariri Oriental","Alcantil",0.19
+25,"Paraíba","250053","2009",2502,"Borborema",250211,"Cariri Oriental","Alcantil",0.36
+25,"Paraíba","250053","2010",2502,"Borborema",250211,"Cariri Oriental","Alcantil",0.48
+25,"Paraíba","250053","2011",2502,"Borborema",250211,"Cariri Oriental","Alcantil",0.21
+25,"Paraíba","250053","2012",2502,"Borborema",250211,"Cariri Oriental","Alcantil",0.19
+25,"Paraíba","250057","2008",2503,"Agreste Paraibano",250312,"Curimataú Ocidental","Algodão de Jandaíra",0.04
+25,"Paraíba","250057","2009",2503,"Agreste Paraibano",250312,"Curimataú Ocidental","Algodão de Jandaíra",0
+25,"Paraíba","250057","2010",2503,"Agreste Paraibano",250312,"Curimataú Ocidental","Algodão de Jandaíra",0
+25,"Paraíba","250057","2011",2503,"Agreste Paraibano",250312,"Curimataú Ocidental","Algodão de Jandaíra",0.08
+25,"Paraíba","250057","2012",2503,"Agreste Paraibano",250312,"Curimataú Ocidental","Algodão de Jandaíra",0.21
+25,"Paraíba","250060","2008",2504,"Mata Paraibana",250423,"Litoral Sul","Alhandra",0.1
+25,"Paraíba","250060","2009",2504,"Mata Paraibana",250423,"Litoral Sul","Alhandra",0.15
+25,"Paraíba","250060","2010",2504,"Mata Paraibana",250423,"Litoral Sul","Alhandra",0.27
+25,"Paraíba","250060","2011",2504,"Mata Paraibana",250423,"Litoral Sul","Alhandra",0.77
+25,"Paraíba","250060","2012",2504,"Mata Paraibana",250423,"Litoral Sul","Alhandra",0.59
+25,"Paraíba","250070","2008",2501,"Sertão Paraibano",250102,"Cajazeiras","São João do Rio do Peixe",0
+25,"Paraíba","250070","2009",2501,"Sertão Paraibano",250102,"Cajazeiras","São João do Rio do Peixe",0.04
+25,"Paraíba","250070","2010",2501,"Sertão Paraibano",250102,"Cajazeiras","São João do Rio do Peixe",0.02
+25,"Paraíba","250070","2011",2501,"Sertão Paraibano",250102,"Cajazeiras","São João do Rio do Peixe",0.1
+25,"Paraíba","250070","2012",2501,"Sertão Paraibano",250102,"Cajazeiras","São João do Rio do Peixe",0.24
+25,"Paraíba","250073","2008",2502,"Borborema",250210,"Cariri Ocidental","Amparo",0.24
+25,"Paraíba","250073","2009",2502,"Borborema",250210,"Cariri Ocidental","Amparo",7.35
+25,"Paraíba","250073","2010",2502,"Borborema",250210,"Cariri Ocidental","Amparo",0.19
+25,"Paraíba","250073","2011",2502,"Borborema",250210,"Cariri Ocidental","Amparo",0.71
+25,"Paraíba","250073","2012",2502,"Borborema",250210,"Cariri Ocidental","Amparo",0.33
+25,"Paraíba","250077","2008",2501,"Sertão Paraibano",250103,"Sousa","Aparecida",0.04
+25,"Paraíba","250077","2009",2501,"Sertão Paraibano",250103,"Sousa","Aparecida",0
+25,"Paraíba","250077","2010",2501,"Sertão Paraibano",250103,"Sousa","Aparecida",0.04
+25,"Paraíba","250077","2011",2501,"Sertão Paraibano",250103,"Sousa","Aparecida",0.15
+25,"Paraíba","250077","2012",2501,"Sertão Paraibano",250103,"Sousa","Aparecida",0.08
+25,"Paraíba","250080","2008",2503,"Agreste Paraibano",250316,"Guarabira","Araçagi",0.15
+25,"Paraíba","250080","2009",2503,"Agreste Paraibano",250316,"Guarabira","Araçagi",0.25
+25,"Paraíba","250080","2010",2503,"Agreste Paraibano",250316,"Guarabira","Araçagi",0.2
+25,"Paraíba","250080","2011",2503,"Agreste Paraibano",250316,"Guarabira","Araçagi",0.85
+25,"Paraíba","250080","2012",2503,"Agreste Paraibano",250316,"Guarabira","Araçagi",0.46
+25,"Paraíba","250090","2008",2503,"Agreste Paraibano",250312,"Curimataú Ocidental","Arara",0.31
+25,"Paraíba","250090","2009",2503,"Agreste Paraibano",250312,"Curimataú Ocidental","Arara",0.38
+25,"Paraíba","250090","2010",2503,"Agreste Paraibano",250312,"Curimataú Ocidental","Arara",0.72
+25,"Paraíba","250090","2011",2503,"Agreste Paraibano",250312,"Curimataú Ocidental","Arara",0.31
+25,"Paraíba","250090","2012",2503,"Agreste Paraibano",250312,"Curimataú Ocidental","Arara",0.17
+25,"Paraíba","250100","2008",2503,"Agreste Paraibano",250313,"Curimataú Oriental","Araruna",0.06
+25,"Paraíba","250100","2009",2503,"Agreste Paraibano",250313,"Curimataú Oriental","Araruna",0.08
+25,"Paraíba","250100","2010",2503,"Agreste Paraibano",250313,"Curimataú Oriental","Araruna",0.15
+25,"Paraíba","250100","2011",2503,"Agreste Paraibano",250313,"Curimataú Oriental","Araruna",0.24
+25,"Paraíba","250100","2012",2503,"Agreste Paraibano",250313,"Curimataú Oriental","Araruna",0.18
+25,"Paraíba","250110","2008",2503,"Agreste Paraibano",250315,"Brejo Paraibano","Areia",0.07
+25,"Paraíba","250110","2009",2503,"Agreste Paraibano",250315,"Brejo Paraibano","Areia",0.23
+25,"Paraíba","250110","2010",2503,"Agreste Paraibano",250315,"Brejo Paraibano","Areia",0.18
+25,"Paraíba","250110","2011",2503,"Agreste Paraibano",250315,"Brejo Paraibano","Areia",0.14
+25,"Paraíba","250110","2012",2503,"Agreste Paraibano",250315,"Brejo Paraibano","Areia",0.36
+25,"Paraíba","250115","2008",2501,"Sertão Paraibano",250104,"Patos","Areia de Baraúnas",0.14
+25,"Paraíba","250115","2009",2501,"Sertão Paraibano",250104,"Patos","Areia de Baraúnas",0.23
+25,"Paraíba","250115","2010",2501,"Sertão Paraibano",250104,"Patos","Areia de Baraúnas",0
+25,"Paraíba","250115","2011",2501,"Sertão Paraibano",250104,"Patos","Areia de Baraúnas",0
+25,"Paraíba","250115","2012",2501,"Sertão Paraibano",250104,"Patos","Areia de Baraúnas",0.11
+25,"Paraíba","250120","2008",2503,"Agreste Paraibano",250314,"Esperança","Areial",0.2
+25,"Paraíba","250120","2009",2503,"Agreste Paraibano",250314,"Esperança","Areial",0.14
+25,"Paraíba","250120","2010",2503,"Agreste Paraibano",250314,"Esperança","Areial",0.25
+25,"Paraíba","250120","2011",2503,"Agreste Paraibano",250314,"Esperança","Areial",0.23
+25,"Paraíba","250120","2012",2503,"Agreste Paraibano",250314,"Esperança","Areial",0.4
+25,"Paraíba","250130","2008",2503,"Agreste Paraibano",250319,"Umbuzeiro","Aroeiras",0.21
+25,"Paraíba","250130","2009",2503,"Agreste Paraibano",250319,"Umbuzeiro","Aroeiras",0.16
+25,"Paraíba","250130","2010",2503,"Agreste Paraibano",250319,"Umbuzeiro","Aroeiras",0.22
+25,"Paraíba","250130","2011",2503,"Agreste Paraibano",250319,"Umbuzeiro","Aroeiras",0.24
+25,"Paraíba","250130","2012",2503,"Agreste Paraibano",250319,"Umbuzeiro","Aroeiras",0.35
+25,"Paraíba","250135","2008",2502,"Borborema",250210,"Cariri Ocidental","Assunção",0.58
+25,"Paraíba","250135","2009",2502,"Borborema",250210,"Cariri Ocidental","Assunção",0.17
+25,"Paraíba","250135","2010",2502,"Borborema",250210,"Cariri Ocidental","Assunção",0.2
+25,"Paraíba","250135","2011",2502,"Borborema",250210,"Cariri Ocidental","Assunção",0.2
+25,"Paraíba","250135","2012",2502,"Borborema",250210,"Cariri Ocidental","Assunção",0.14
+25,"Paraíba","250140","2008",2504,"Mata Paraibana",250420,"Litoral Norte","Baía da Traição",0.34
+25,"Paraíba","250140","2009",2504,"Mata Paraibana",250420,"Litoral Norte","Baía da Traição",0.41
+25,"Paraíba","250140","2010",2504,"Mata Paraibana",250420,"Litoral Norte","Baía da Traição",0.36
+25,"Paraíba","250140","2011",2504,"Mata Paraibana",250420,"Litoral Norte","Baía da Traição",0.79
+25,"Paraíba","250140","2012",2504,"Mata Paraibana",250420,"Litoral Norte","Baía da Traição",0.85
+25,"Paraíba","250150","2008",2503,"Agreste Paraibano",250315,"Brejo Paraibano","Bananeiras",0.06
+25,"Paraíba","250150","2009",2503,"Agreste Paraibano",250315,"Brejo Paraibano","Bananeiras",0.23
+25,"Paraíba","250150","2010",2503,"Agreste Paraibano",250315,"Brejo Paraibano","Bananeiras",0.11
+25,"Paraíba","250150","2011",2503,"Agreste Paraibano",250315,"Brejo Paraibano","Bananeiras",0.29
+25,"Paraíba","250150","2012",2503,"Agreste Paraibano",250315,"Brejo Paraibano","Bananeiras",0.27
+25,"Paraíba","250153","2008",2502,"Borborema",250209,"Seridó Oriental Paraibano","Baraúna",0.03
+25,"Paraíba","250153","2009",2502,"Borborema",250209,"Seridó Oriental Paraibano","Baraúna",0.07
+25,"Paraíba","250153","2010",2502,"Borborema",250209,"Seridó Oriental Paraibano","Baraúna",0.55
+25,"Paraíba","250153","2011",2502,"Borborema",250209,"Seridó Oriental Paraibano","Baraúna",0.47
+25,"Paraíba","250153","2012",2502,"Borborema",250209,"Seridó Oriental Paraibano","Baraúna",0.25
+25,"Paraíba","250157","2008",2502,"Borborema",250211,"Cariri Oriental","Barra de Santana",0.39
+25,"Paraíba","250157","2009",2502,"Borborema",250211,"Cariri Oriental","Barra de Santana",0.44
+25,"Paraíba","250157","2010",2502,"Borborema",250211,"Cariri Oriental","Barra de Santana",0.4
+25,"Paraíba","250157","2011",2502,"Borborema",250211,"Cariri Oriental","Barra de Santana",0.43
+25,"Paraíba","250157","2012",2502,"Borborema",250211,"Cariri Oriental","Barra de Santana",0.57
+25,"Paraíba","250160","2008",2503,"Agreste Paraibano",250312,"Curimataú Ocidental","Barra de Santa Rosa",0.07
+25,"Paraíba","250160","2009",2503,"Agreste Paraibano",250312,"Curimataú Ocidental","Barra de Santa Rosa",0.06
+25,"Paraíba","250160","2010",2503,"Agreste Paraibano",250312,"Curimataú Ocidental","Barra de Santa Rosa",0.07
+25,"Paraíba","250160","2011",2503,"Agreste Paraibano",250312,"Curimataú Ocidental","Barra de Santa Rosa",0.09
+25,"Paraíba","250160","2012",2503,"Agreste Paraibano",250312,"Curimataú Ocidental","Barra de Santa Rosa",0.29
+25,"Paraíba","250170","2008",2502,"Borborema",250211,"Cariri Oriental","Barra de São Miguel",0.34
+25,"Paraíba","250170","2009",2502,"Borborema",250211,"Cariri Oriental","Barra de São Miguel",0.41
+25,"Paraíba","250170","2010",2502,"Borborema",250211,"Cariri Oriental","Barra de São Miguel",0.16
+25,"Paraíba","250170","2011",2502,"Borborema",250211,"Cariri Oriental","Barra de São Miguel",0.21
+25,"Paraíba","250170","2012",2502,"Borborema",250211,"Cariri Oriental","Barra de São Miguel",0.16
+25,"Paraíba","250180","2008",2504,"Mata Paraibana",250422,"João Pessoa","Bayeux",0.21
+25,"Paraíba","250180","2009",2504,"Mata Paraibana",250422,"João Pessoa","Bayeux",0.43
+25,"Paraíba","250180","2010",2504,"Mata Paraibana",250422,"João Pessoa","Bayeux",0.56
+25,"Paraíba","250180","2011",2504,"Mata Paraibana",250422,"João Pessoa","Bayeux",0.81
+25,"Paraíba","250180","2012",2504,"Mata Paraibana",250422,"João Pessoa","Bayeux",1.06
+25,"Paraíba","250190","2008",2503,"Agreste Paraibano",250316,"Guarabira","Belém",0.41
+25,"Paraíba","250190","2009",2503,"Agreste Paraibano",250316,"Guarabira","Belém",0.16
+25,"Paraíba","250190","2010",2503,"Agreste Paraibano",250316,"Guarabira","Belém",0.17
+25,"Paraíba","250190","2011",2503,"Agreste Paraibano",250316,"Guarabira","Belém",1.24
+25,"Paraíba","250190","2012",2503,"Agreste Paraibano",250316,"Guarabira","Belém",1
+25,"Paraíba","250200","2008",2501,"Sertão Paraibano",250101,"Catolé do Rocha","Belém do Brejo do Cruz",0.1
+25,"Paraíba","250200","2009",2501,"Sertão Paraibano",250101,"Catolé do Rocha","Belém do Brejo do Cruz",0.11
+25,"Paraíba","250200","2010",2501,"Sertão Paraibano",250101,"Catolé do Rocha","Belém do Brejo do Cruz",0.14
+25,"Paraíba","250200","2011",2501,"Sertão Paraibano",250101,"Catolé do Rocha","Belém do Brejo do Cruz",0.24
+25,"Paraíba","250200","2012",2501,"Sertão Paraibano",250101,"Catolé do Rocha","Belém do Brejo do Cruz",0.61
+25,"Paraíba","250205","2008",2501,"Sertão Paraibano",250102,"Cajazeiras","Bernardino Batista",0.03
+25,"Paraíba","250205","2009",2501,"Sertão Paraibano",250102,"Cajazeiras","Bernardino Batista",0
+25,"Paraíba","250205","2010",2501,"Sertão Paraibano",250102,"Cajazeiras","Bernardino Batista",0
+25,"Paraíba","250205","2011",2501,"Sertão Paraibano",250102,"Cajazeiras","Bernardino Batista",0.03
+25,"Paraíba","250205","2012",2501,"Sertão Paraibano",250102,"Cajazeiras","Bernardino Batista",0.19
+25,"Paraíba","250210","2008",2501,"Sertão Paraibano",250106,"Itaporanga","Boa Ventura",0.03
+25,"Paraíba","250210","2009",2501,"Sertão Paraibano",250106,"Itaporanga","Boa Ventura",0.03
+25,"Paraíba","250210","2010",2501,"Sertão Paraibano",250106,"Itaporanga","Boa Ventura",0.1
+25,"Paraíba","250210","2011",2501,"Sertão Paraibano",250106,"Itaporanga","Boa Ventura",0.19
+25,"Paraíba","250210","2012",2501,"Sertão Paraibano",250106,"Itaporanga","Boa Ventura",0.25
+25,"Paraíba","250215","2008",2503,"Agreste Paraibano",250317,"Campina Grande","Boa Vista",0.62
+25,"Paraíba","250215","2009",2503,"Agreste Paraibano",250317,"Campina Grande","Boa Vista",0.47
+25,"Paraíba","250215","2010",2503,"Agreste Paraibano",250317,"Campina Grande","Boa Vista",0.64
+25,"Paraíba","250215","2011",2503,"Agreste Paraibano",250317,"Campina Grande","Boa Vista",0.68
+25,"Paraíba","250215","2012",2503,"Agreste Paraibano",250317,"Campina Grande","Boa Vista",0.84
+25,"Paraíba","250220","2008",2501,"Sertão Paraibano",250102,"Cajazeiras","Bom Jesus",0.09
+25,"Paraíba","250220","2009",2501,"Sertão Paraibano",250102,"Cajazeiras","Bom Jesus",0
+25,"Paraíba","250220","2010",2501,"Sertão Paraibano",250102,"Cajazeiras","Bom Jesus",0.25
+25,"Paraíba","250220","2011",2501,"Sertão Paraibano",250102,"Cajazeiras","Bom Jesus",0.04
+25,"Paraíba","250220","2012",2501,"Sertão Paraibano",250102,"Cajazeiras","Bom Jesus",0.16
+25,"Paraíba","250230","2008",2501,"Sertão Paraibano",250101,"Catolé do Rocha","Bom Sucesso",0.26
+25,"Paraíba","250230","2009",2501,"Sertão Paraibano",250101,"Catolé do Rocha","Bom Sucesso",0.36
+25,"Paraíba","250230","2010",2501,"Sertão Paraibano",250101,"Catolé do Rocha","Bom Sucesso",0.36
+25,"Paraíba","250230","2011",2501,"Sertão Paraibano",250101,"Catolé do Rocha","Bom Sucesso",0.1
+25,"Paraíba","250230","2012",2501,"Sertão Paraibano",250101,"Catolé do Rocha","Bom Sucesso",0.12
+25,"Paraíba","250240","2008",2501,"Sertão Paraibano",250102,"Cajazeiras","Bonito de Santa Fé",0.01
+25,"Paraíba","250240","2009",2501,"Sertão Paraibano",250102,"Cajazeiras","Bonito de Santa Fé",0
+25,"Paraíba","250240","2010",2501,"Sertão Paraibano",250102,"Cajazeiras","Bonito de Santa Fé",0.02
+25,"Paraíba","250240","2011",2501,"Sertão Paraibano",250102,"Cajazeiras","Bonito de Santa Fé",0.06
+25,"Paraíba","250240","2012",2501,"Sertão Paraibano",250102,"Cajazeiras","Bonito de Santa Fé",0.22
+25,"Paraíba","250250","2008",2502,"Borborema",250211,"Cariri Oriental","Boqueirão",0.48
+25,"Paraíba","250250","2009",2502,"Borborema",250211,"Cariri Oriental","Boqueirão",0.28
+25,"Paraíba","250250","2010",2502,"Borborema",250211,"Cariri Oriental","Boqueirão",0.28
+25,"Paraíba","250250","2011",2502,"Borborema",250211,"Cariri Oriental","Boqueirão",0.38
+25,"Paraíba","250250","2012",2502,"Borborema",250211,"Cariri Oriental","Boqueirão",0.3
+25,"Paraíba","250260","2008",2501,"Sertão Paraibano",250105,"Piancó","Igaracy",0.03
+25,"Paraíba","250260","2009",2501,"Sertão Paraibano",250105,"Piancó","Igaracy",0
+25,"Paraíba","250260","2010",2501,"Sertão Paraibano",250105,"Piancó","Igaracy",0.13
+25,"Paraíba","250260","2011",2501,"Sertão Paraibano",250105,"Piancó","Igaracy",0.1
+25,"Paraíba","250260","2012",2501,"Sertão Paraibano",250105,"Piancó","Igaracy",0.23
+25,"Paraíba","250270","2008",2503,"Agreste Paraibano",250315,"Brejo Paraibano","Borborema",0.14
+25,"Paraíba","250270","2009",2503,"Agreste Paraibano",250315,"Brejo Paraibano","Borborema",0.19
+25,"Paraíba","250270","2010",2503,"Agreste Paraibano",250315,"Brejo Paraibano","Borborema",0.14
+25,"Paraíba","250270","2011",2503,"Agreste Paraibano",250315,"Brejo Paraibano","Borborema",0.43
+25,"Paraíba","250270","2012",2503,"Agreste Paraibano",250315,"Brejo Paraibano","Borborema",0.19
+25,"Paraíba","250280","2008",2501,"Sertão Paraibano",250101,"Catolé do Rocha","Brejo do Cruz",0.15
+25,"Paraíba","250280","2009",2501,"Sertão Paraibano",250101,"Catolé do Rocha","Brejo do Cruz",0.21
+25,"Paraíba","250280","2010",2501,"Sertão Paraibano",250101,"Catolé do Rocha","Brejo do Cruz",0.18
+25,"Paraíba","250280","2011",2501,"Sertão Paraibano",250101,"Catolé do Rocha","Brejo do Cruz",0.16
+25,"Paraíba","250280","2012",2501,"Sertão Paraibano",250101,"Catolé do Rocha","Brejo do Cruz",0.11
+25,"Paraíba","250290","2008",2501,"Sertão Paraibano",250101,"Catolé do Rocha","Brejo dos Santos",0.05
+25,"Paraíba","250290","2009",2501,"Sertão Paraibano",250101,"Catolé do Rocha","Brejo dos Santos",0.31
+25,"Paraíba","250290","2010",2501,"Sertão Paraibano",250101,"Catolé do Rocha","Brejo dos Santos",0.24
+25,"Paraíba","250290","2011",2501,"Sertão Paraibano",250101,"Catolé do Rocha","Brejo dos Santos",0.4
+25,"Paraíba","250290","2012",2501,"Sertão Paraibano",250101,"Catolé do Rocha","Brejo dos Santos",0.19
+25,"Paraíba","250300","2008",2504,"Mata Paraibana",250423,"Litoral Sul","Caaporã",0.12
+25,"Paraíba","250300","2009",2504,"Mata Paraibana",250423,"Litoral Sul","Caaporã",0.28
+25,"Paraíba","250300","2010",2504,"Mata Paraibana",250423,"Litoral Sul","Caaporã",0.3
+25,"Paraíba","250300","2011",2504,"Mata Paraibana",250423,"Litoral Sul","Caaporã",0.71
+25,"Paraíba","250300","2012",2504,"Mata Paraibana",250423,"Litoral Sul","Caaporã",0.6
+25,"Paraíba","250310","2008",2502,"Borborema",250211,"Cariri Oriental","Cabaceiras",0.56
+25,"Paraíba","250310","2009",2502,"Borborema",250211,"Cariri Oriental","Cabaceiras",0.41
+25,"Paraíba","250310","2010",2502,"Borborema",250211,"Cariri Oriental","Cabaceiras",0.6
+25,"Paraíba","250310","2011",2502,"Borborema",250211,"Cariri Oriental","Cabaceiras",0.47
+25,"Paraíba","250310","2012",2502,"Borborema",250211,"Cariri Oriental","Cabaceiras",0.54
+25,"Paraíba","250320","2008",2504,"Mata Paraibana",250422,"João Pessoa","Cabedelo",0.55
+25,"Paraíba","250320","2009",2504,"Mata Paraibana",250422,"João Pessoa","Cabedelo",0.2
+25,"Paraíba","250320","2010",2504,"Mata Paraibana",250422,"João Pessoa","Cabedelo",0.21
+25,"Paraíba","250320","2011",2504,"Mata Paraibana",250422,"João Pessoa","Cabedelo",0.47
+25,"Paraíba","250320","2012",2504,"Mata Paraibana",250422,"João Pessoa","Cabedelo",0.4
+25,"Paraíba","250330","2008",2501,"Sertão Paraibano",250102,"Cajazeiras","Cachoeira dos Índios",0
+25,"Paraíba","250330","2009",2501,"Sertão Paraibano",250102,"Cajazeiras","Cachoeira dos Índios",0.13
+25,"Paraíba","250330","2010",2501,"Sertão Paraibano",250102,"Cajazeiras","Cachoeira dos Índios",0.15
+25,"Paraíba","250330","2011",2501,"Sertão Paraibano",250102,"Cajazeiras","Cachoeira dos Índios",0.01
+25,"Paraíba","250330","2012",2501,"Sertão Paraibano",250102,"Cajazeiras","Cachoeira dos Índios",0.18
+25,"Paraíba","250340","2008",2501,"Sertão Paraibano",250104,"Patos","Cacimba de Areia",0.03
+25,"Paraíba","250340","2009",2501,"Sertão Paraibano",250104,"Patos","Cacimba de Areia",0.14
+25,"Paraíba","250340","2010",2501,"Sertão Paraibano",250104,"Patos","Cacimba de Areia",0.06
+25,"Paraíba","250340","2011",2501,"Sertão Paraibano",250104,"Patos","Cacimba de Areia",0.11
+25,"Paraíba","250340","2012",2501,"Sertão Paraibano",250104,"Patos","Cacimba de Areia",0.11
+25,"Paraíba","250350","2008",2503,"Agreste Paraibano",250313,"Curimataú Oriental","Cacimba de Dentro",0.1
+25,"Paraíba","250350","2009",2503,"Agreste Paraibano",250313,"Curimataú Oriental","Cacimba de Dentro",0.08
+25,"Paraíba","250350","2010",2503,"Agreste Paraibano",250313,"Curimataú Oriental","Cacimba de Dentro",0.12
+25,"Paraíba","250350","2011",2503,"Agreste Paraibano",250313,"Curimataú Oriental","Cacimba de Dentro",0.15
+25,"Paraíba","250350","2012",2503,"Agreste Paraibano",250313,"Curimataú Oriental","Cacimba de Dentro",0.27
+25,"Paraíba","250355","2008",2501,"Sertão Paraibano",250107,"Serra do Teixeira","Cacimbas",0.06
+25,"Paraíba","250355","2009",2501,"Sertão Paraibano",250107,"Serra do Teixeira","Cacimbas",0.04
+25,"Paraíba","250355","2010",2501,"Sertão Paraibano",250107,"Serra do Teixeira","Cacimbas",0
+25,"Paraíba","250355","2011",2501,"Sertão Paraibano",250107,"Serra do Teixeira","Cacimbas",0.12
+25,"Paraíba","250355","2012",2501,"Sertão Paraibano",250107,"Serra do Teixeira","Cacimbas",0.22
+25,"Paraíba","250360","2008",2503,"Agreste Paraibano",250316,"Guarabira","Caiçara",0.03
+25,"Paraíba","250360","2009",2503,"Agreste Paraibano",250316,"Guarabira","Caiçara",0.09
+25,"Paraíba","250360","2010",2503,"Agreste Paraibano",250316,"Guarabira","Caiçara",0.33
+25,"Paraíba","250360","2011",2503,"Agreste Paraibano",250316,"Guarabira","Caiçara",1.21
+25,"Paraíba","250360","2012",2503,"Agreste Paraibano",250316,"Guarabira","Caiçara",0.89
+25,"Paraíba","250370","2008",2501,"Sertão Paraibano",250102,"Cajazeiras","Cajazeiras",0.03
+25,"Paraíba","250370","2009",2501,"Sertão Paraibano",250102,"Cajazeiras","Cajazeiras",0.33
+25,"Paraíba","250370","2010",2501,"Sertão Paraibano",250102,"Cajazeiras","Cajazeiras",0.4
+25,"Paraíba","250370","2011",2501,"Sertão Paraibano",250102,"Cajazeiras","Cajazeiras",0.12
+25,"Paraíba","250370","2012",2501,"Sertão Paraibano",250102,"Cajazeiras","Cajazeiras",0.16
+25,"Paraíba","250375","2008",2501,"Sertão Paraibano",250103,"Sousa","Cajazeirinhas",0.03
+25,"Paraíba","250375","2009",2501,"Sertão Paraibano",250103,"Sousa","Cajazeirinhas",0.19
+25,"Paraíba","250375","2010",2501,"Sertão Paraibano",250103,"Sousa","Cajazeirinhas",0.56
+25,"Paraíba","250375","2011",2501,"Sertão Paraibano",250103,"Sousa","Cajazeirinhas",1.35
+25,"Paraíba","250375","2012",2501,"Sertão Paraibano",250103,"Sousa","Cajazeirinhas",1.34
+25,"Paraíba","250380","2008",2503,"Agreste Paraibano",250318,"Itabaiana","Caldas Brandão",0.15
+25,"Paraíba","250380","2009",2503,"Agreste Paraibano",250318,"Itabaiana","Caldas Brandão",0.25
+25,"Paraíba","250380","2010",2503,"Agreste Paraibano",250318,"Itabaiana","Caldas Brandão",0.41
+25,"Paraíba","250380","2011",2503,"Agreste Paraibano",250318,"Itabaiana","Caldas Brandão",1.34
+25,"Paraíba","250380","2012",2503,"Agreste Paraibano",250318,"Itabaiana","Caldas Brandão",0.63
+25,"Paraíba","250390","2008",2502,"Borborema",250210,"Cariri Ocidental","Camalaú",0.29
+25,"Paraíba","250390","2009",2502,"Borborema",250210,"Cariri Ocidental","Camalaú",0.37
+25,"Paraíba","250390","2010",2502,"Borborema",250210,"Cariri Ocidental","Camalaú",0.02
+25,"Paraíba","250390","2011",2502,"Borborema",250210,"Cariri Ocidental","Camalaú",1.06
+25,"Paraíba","250390","2012",2502,"Borborema",250210,"Cariri Ocidental","Camalaú",0.36
+25,"Paraíba","250400","2008",2503,"Agreste Paraibano",250317,"Campina Grande","Campina Grande",0.71
+25,"Paraíba","250400","2009",2503,"Agreste Paraibano",250317,"Campina Grande","Campina Grande",0.66
+25,"Paraíba","250400","2010",2503,"Agreste Paraibano",250317,"Campina Grande","Campina Grande",0.71
+25,"Paraíba","250400","2011",2503,"Agreste Paraibano",250317,"Campina Grande","Campina Grande",0.82
+25,"Paraíba","250400","2012",2503,"Agreste Paraibano",250317,"Campina Grande","Campina Grande",1.12
+25,"Paraíba","250403","2008",2504,"Mata Paraibana",250420,"Litoral Norte","Capim",0.07
+25,"Paraíba","250403","2009",2504,"Mata Paraibana",250420,"Litoral Norte","Capim",0.26
+25,"Paraíba","250403","2010",2504,"Mata Paraibana",250420,"Litoral Norte","Capim",0.27
+25,"Paraíba","250403","2011",2504,"Mata Paraibana",250420,"Litoral Norte","Capim",0.58
+25,"Paraíba","250403","2012",2504,"Mata Paraibana",250420,"Litoral Norte","Capim",0.45
+25,"Paraíba","250407","2008",2502,"Borborema",250211,"Cariri Oriental","Caraúbas",0.28
+25,"Paraíba","250407","2009",2502,"Borborema",250211,"Cariri Oriental","Caraúbas",0.15
+25,"Paraíba","250407","2010",2502,"Borborema",250211,"Cariri Oriental","Caraúbas",0.08
+25,"Paraíba","250407","2011",2502,"Borborema",250211,"Cariri Oriental","Caraúbas",0.03
+25,"Paraíba","250407","2012",2502,"Borborema",250211,"Cariri Oriental","Caraúbas",0.08
+25,"Paraíba","250410","2008",2501,"Sertão Paraibano",250102,"Cajazeiras","Carrapateira",0
+25,"Paraíba","250410","2009",2501,"Sertão Paraibano",250102,"Cajazeiras","Carrapateira",0
+25,"Paraíba","250410","2010",2501,"Sertão Paraibano",250102,"Cajazeiras","Carrapateira",0.04
+25,"Paraíba","250410","2011",2501,"Sertão Paraibano",250102,"Cajazeiras","Carrapateira",0.08
+25,"Paraíba","250410","2012",2501,"Sertão Paraibano",250102,"Cajazeiras","Carrapateira",0
+25,"Paraíba","250415","2008",2503,"Agreste Paraibano",250313,"Curimataú Oriental","Casserengue",0.16
+25,"Paraíba","250415","2009",2503,"Agreste Paraibano",250313,"Curimataú Oriental","Casserengue",0.14
+25,"Paraíba","250415","2010",2503,"Agreste Paraibano",250313,"Curimataú Oriental","Casserengue",0.06
+25,"Paraíba","250415","2011",2503,"Agreste Paraibano",250313,"Curimataú Oriental","Casserengue",0.06
+25,"Paraíba","250415","2012",2503,"Agreste Paraibano",250313,"Curimataú Oriental","Casserengue",0.38
+25,"Paraíba","250420","2008",2501,"Sertão Paraibano",250105,"Piancó","Catingueira",0.1
+25,"Paraíba","250420","2009",2501,"Sertão Paraibano",250105,"Piancó","Catingueira",0.06
+25,"Paraíba","250420","2010",2501,"Sertão Paraibano",250105,"Piancó","Catingueira",0.04
+25,"Paraíba","250420","2011",2501,"Sertão Paraibano",250105,"Piancó","Catingueira",0.12
+25,"Paraíba","250420","2012",2501,"Sertão Paraibano",250105,"Piancó","Catingueira",0.1
+25,"Paraíba","250430","2008",2501,"Sertão Paraibano",250101,"Catolé do Rocha","Catolé do Rocha",0.11
+25,"Paraíba","250430","2009",2501,"Sertão Paraibano",250101,"Catolé do Rocha","Catolé do Rocha",0.61
+25,"Paraíba","250430","2010",2501,"Sertão Paraibano",250101,"Catolé do Rocha","Catolé do Rocha",0.6
+25,"Paraíba","250430","2011",2501,"Sertão Paraibano",250101,"Catolé do Rocha","Catolé do Rocha",0.82
+25,"Paraíba","250430","2012",2501,"Sertão Paraibano",250101,"Catolé do Rocha","Catolé do Rocha",0.78
+25,"Paraíba","250435","2008",2502,"Borborema",250211,"Cariri Oriental","Caturité",0.74
+25,"Paraíba","250435","2009",2502,"Borborema",250211,"Cariri Oriental","Caturité",0.69
+25,"Paraíba","250435","2010",2502,"Borborema",250211,"Cariri Oriental","Caturité",0.35
+25,"Paraíba","250435","2011",2502,"Borborema",250211,"Cariri Oriental","Caturité",0.24
+25,"Paraíba","250435","2012",2502,"Borborema",250211,"Cariri Oriental","Caturité",0.65
+25,"Paraíba","250440","2008",2501,"Sertão Paraibano",250106,"Itaporanga","Conceição",0.01
+25,"Paraíba","250440","2009",2501,"Sertão Paraibano",250106,"Itaporanga","Conceição",0.02
+25,"Paraíba","250440","2010",2501,"Sertão Paraibano",250106,"Itaporanga","Conceição",0.13
+25,"Paraíba","250440","2011",2501,"Sertão Paraibano",250106,"Itaporanga","Conceição",0.54
+25,"Paraíba","250440","2012",2501,"Sertão Paraibano",250106,"Itaporanga","Conceição",0.7
+25,"Paraíba","250450","2008",2501,"Sertão Paraibano",250103,"Sousa","Condado",0.25
+25,"Paraíba","250450","2009",2501,"Sertão Paraibano",250103,"Sousa","Condado",0.14
+25,"Paraíba","250450","2010",2501,"Sertão Paraibano",250103,"Sousa","Condado",0.15
+25,"Paraíba","250450","2011",2501,"Sertão Paraibano",250103,"Sousa","Condado",0.33
+25,"Paraíba","250450","2012",2501,"Sertão Paraibano",250103,"Sousa","Condado",0.41
+25,"Paraíba","250460","2008",2504,"Mata Paraibana",250422,"João Pessoa","Conde",0.18
+25,"Paraíba","250460","2009",2504,"Mata Paraibana",250422,"João Pessoa","Conde",0.31
+25,"Paraíba","250460","2010",2504,"Mata Paraibana",250422,"João Pessoa","Conde",0.47
+25,"Paraíba","250460","2011",2504,"Mata Paraibana",250422,"João Pessoa","Conde",1.01
+25,"Paraíba","250460","2012",2504,"Mata Paraibana",250422,"João Pessoa","Conde",1.02
+25,"Paraíba","250470","2008",2502,"Borborema",250210,"Cariri Ocidental","Congo",0.2
+25,"Paraíba","250470","2009",2502,"Borborema",250210,"Cariri Ocidental","Congo",0.34
+25,"Paraíba","250470","2010",2502,"Borborema",250210,"Cariri Ocidental","Congo",0.23
+25,"Paraíba","250470","2011",2502,"Borborema",250210,"Cariri Ocidental","Congo",0.62
+25,"Paraíba","250470","2012",2502,"Borborema",250210,"Cariri Ocidental","Congo",0.68
+25,"Paraíba","250480","2008",2501,"Sertão Paraibano",250105,"Piancó","Coremas",0.35
+25,"Paraíba","250480","2009",2501,"Sertão Paraibano",250105,"Piancó","Coremas",0.04
+25,"Paraíba","250480","2010",2501,"Sertão Paraibano",250105,"Piancó","Coremas",0.09
+25,"Paraíba","250480","2011",2501,"Sertão Paraibano",250105,"Piancó","Coremas",0.03
+25,"Paraíba","250480","2012",2501,"Sertão Paraibano",250105,"Piancó","Coremas",0.3
+25,"Paraíba","250485","2008",2502,"Borborema",250210,"Cariri Ocidental","Coxixola",0.8
+25,"Paraíba","250485","2009",2502,"Borborema",250210,"Cariri Ocidental","Coxixola",0.45
+25,"Paraíba","250485","2010",2502,"Borborema",250210,"Cariri Ocidental","Coxixola",0.56
+25,"Paraíba","250485","2011",2502,"Borborema",250210,"Cariri Ocidental","Coxixola",1.73
+25,"Paraíba","250485","2012",2502,"Borborema",250210,"Cariri Ocidental","Coxixola",1.61
+25,"Paraíba","250490","2008",2504,"Mata Paraibana",250421,"Sapé","Cruz do Espírito Santo",0.19
+25,"Paraíba","250490","2009",2504,"Mata Paraibana",250421,"Sapé","Cruz do Espírito Santo",0.21
+25,"Paraíba","250490","2010",2504,"Mata Paraibana",250421,"Sapé","Cruz do Espírito Santo",0.33
+25,"Paraíba","250490","2011",2504,"Mata Paraibana",250421,"Sapé","Cruz do Espírito Santo",0.6
+25,"Paraíba","250490","2012",2504,"Mata Paraibana",250421,"Sapé","Cruz do Espírito Santo",0.59
+25,"Paraíba","250500","2008",2502,"Borborema",250209,"Seridó Oriental Paraibano","Cubati",0.46
+25,"Paraíba","250500","2009",2502,"Borborema",250209,"Seridó Oriental Paraibano","Cubati",0.21
+25,"Paraíba","250500","2010",2502,"Borborema",250209,"Seridó Oriental Paraibano","Cubati",0.17
+25,"Paraíba","250500","2011",2502,"Borborema",250209,"Seridó Oriental Paraibano","Cubati",0.32
+25,"Paraíba","250500","2012",2502,"Borborema",250209,"Seridó Oriental Paraibano","Cubati",0.48
+25,"Paraíba","250510","2008",2503,"Agreste Paraibano",250312,"Curimataú Ocidental","Cuité",0.12
+25,"Paraíba","250510","2009",2503,"Agreste Paraibano",250312,"Curimataú Ocidental","Cuité",0.08
+25,"Paraíba","250510","2010",2503,"Agreste Paraibano",250312,"Curimataú Ocidental","Cuité",0.23
+25,"Paraíba","250510","2011",2503,"Agreste Paraibano",250312,"Curimataú Ocidental","Cuité",0.19
+25,"Paraíba","250510","2012",2503,"Agreste Paraibano",250312,"Curimataú Ocidental","Cuité",0.57
+25,"Paraíba","250520","2008",2503,"Agreste Paraibano",250316,"Guarabira","Cuitegi",0.01
+25,"Paraíba","250520","2009",2503,"Agreste Paraibano",250316,"Guarabira","Cuitegi",0.18
+25,"Paraíba","250520","2010",2503,"Agreste Paraibano",250316,"Guarabira","Cuitegi",0.2
+25,"Paraíba","250520","2011",2503,"Agreste Paraibano",250316,"Guarabira","Cuitegi",0.22
+25,"Paraíba","250520","2012",2503,"Agreste Paraibano",250316,"Guarabira","Cuitegi",0.37
+25,"Paraíba","250523","2008",2504,"Mata Paraibana",250420,"Litoral Norte","Cuité de Mamanguape",0.06
+25,"Paraíba","250523","2009",2504,"Mata Paraibana",250420,"Litoral Norte","Cuité de Mamanguape",0.1
+25,"Paraíba","250523","2010",2504,"Mata Paraibana",250420,"Litoral Norte","Cuité de Mamanguape",0.4
+25,"Paraíba","250523","2011",2504,"Mata Paraibana",250420,"Litoral Norte","Cuité de Mamanguape",1.47
+25,"Paraíba","250523","2012",2504,"Mata Paraibana",250420,"Litoral Norte","Cuité de Mamanguape",0.39
+25,"Paraíba","250527","2008",2504,"Mata Paraibana",250420,"Litoral Norte","Curral de Cima",0.09
+25,"Paraíba","250527","2009",2504,"Mata Paraibana",250420,"Litoral Norte","Curral de Cima",0.09
+25,"Paraíba","250527","2010",2504,"Mata Paraibana",250420,"Litoral Norte","Curral de Cima",0.08
+25,"Paraíba","250527","2011",2504,"Mata Paraibana",250420,"Litoral Norte","Curral de Cima",0.35
+25,"Paraíba","250527","2012",2504,"Mata Paraibana",250420,"Litoral Norte","Curral de Cima",0.46
+25,"Paraíba","250530","2008",2501,"Sertão Paraibano",250106,"Itaporanga","Curral Velho",0
+25,"Paraíba","250530","2009",2501,"Sertão Paraibano",250106,"Itaporanga","Curral Velho",0
+25,"Paraíba","250530","2010",2501,"Sertão Paraibano",250106,"Itaporanga","Curral Velho",0
+25,"Paraíba","250530","2011",2501,"Sertão Paraibano",250106,"Itaporanga","Curral Velho",0.16
+25,"Paraíba","250530","2012",2501,"Sertão Paraibano",250106,"Itaporanga","Curral Velho",0.04
+25,"Paraíba","250535","2008",2503,"Agreste Paraibano",250312,"Curimataú Ocidental","Damião",0.06
+25,"Paraíba","250535","2009",2503,"Agreste Paraibano",250312,"Curimataú Ocidental","Damião",0.16
+25,"Paraíba","250535","2010",2503,"Agreste Paraibano",250312,"Curimataú Ocidental","Damião",0.29
+25,"Paraíba","250535","2011",2503,"Agreste Paraibano",250312,"Curimataú Ocidental","Damião",0.1
+25,"Paraíba","250535","2012",2503,"Agreste Paraibano",250312,"Curimataú Ocidental","Damião",0.04
+25,"Paraíba","250540","2008",2501,"Sertão Paraibano",250107,"Serra do Teixeira","Desterro",0.12
+25,"Paraíba","250540","2009",2501,"Sertão Paraibano",250107,"Serra do Teixeira","Desterro",0.07
+25,"Paraíba","250540","2010",2501,"Sertão Paraibano",250107,"Serra do Teixeira","Desterro",0.21
+25,"Paraíba","250540","2011",2501,"Sertão Paraibano",250107,"Serra do Teixeira","Desterro",0.49
+25,"Paraíba","250540","2012",2501,"Sertão Paraibano",250107,"Serra do Teixeira","Desterro",0.15
+25,"Paraíba","250550","2008",2501,"Sertão Paraibano",250103,"Sousa","Vista Serrana",0.12
+25,"Paraíba","250550","2009",2501,"Sertão Paraibano",250103,"Sousa","Vista Serrana",0.03
+25,"Paraíba","250550","2010",2501,"Sertão Paraibano",250103,"Sousa","Vista Serrana",0.03
+25,"Paraíba","250550","2011",2501,"Sertão Paraibano",250103,"Sousa","Vista Serrana",0.06
+25,"Paraíba","250550","2012",2501,"Sertão Paraibano",250103,"Sousa","Vista Serrana",0.22
+25,"Paraíba","250560","2008",2501,"Sertão Paraibano",250106,"Itaporanga","Diamante",0.07
+25,"Paraíba","250560","2009",2501,"Sertão Paraibano",250106,"Itaporanga","Diamante",0.04
+25,"Paraíba","250560","2010",2501,"Sertão Paraibano",250106,"Itaporanga","Diamante",0.05
+25,"Paraíba","250560","2011",2501,"Sertão Paraibano",250106,"Itaporanga","Diamante",0.44
+25,"Paraíba","250560","2012",2501,"Sertão Paraibano",250106,"Itaporanga","Diamante",0.2
+25,"Paraíba","250570","2008",2503,"Agreste Paraibano",250313,"Curimataú Oriental","Dona Inês",0.02
+25,"Paraíba","250570","2009",2503,"Agreste Paraibano",250313,"Curimataú Oriental","Dona Inês",0
+25,"Paraíba","250570","2010",2503,"Agreste Paraibano",250313,"Curimataú Oriental","Dona Inês",0.11
+25,"Paraíba","250570","2011",2503,"Agreste Paraibano",250313,"Curimataú Oriental","Dona Inês",0.32
+25,"Paraíba","250570","2012",2503,"Agreste Paraibano",250313,"Curimataú Oriental","Dona Inês",0.28
+25,"Paraíba","250580","2008",2503,"Agreste Paraibano",250316,"Guarabira","Duas Estradas",0.29
+25,"Paraíba","250580","2009",2503,"Agreste Paraibano",250316,"Guarabira","Duas Estradas",0.31
+25,"Paraíba","250580","2010",2503,"Agreste Paraibano",250316,"Guarabira","Duas Estradas",0.52
+25,"Paraíba","250580","2011",2503,"Agreste Paraibano",250316,"Guarabira","Duas Estradas",0.77
+25,"Paraíba","250580","2012",2503,"Agreste Paraibano",250316,"Guarabira","Duas Estradas",0.91
+25,"Paraíba","250590","2008",2501,"Sertão Paraibano",250105,"Piancó","Emas",0.33
+25,"Paraíba","250590","2009",2501,"Sertão Paraibano",250105,"Piancó","Emas",0.15
+25,"Paraíba","250590","2010",2501,"Sertão Paraibano",250105,"Piancó","Emas",0.18
+25,"Paraíba","250590","2011",2501,"Sertão Paraibano",250105,"Piancó","Emas",0.15
+25,"Paraíba","250590","2012",2501,"Sertão Paraibano",250105,"Piancó","Emas",0.12
+25,"Paraíba","250600","2008",2503,"Agreste Paraibano",250314,"Esperança","Esperança",0.4
+25,"Paraíba","250600","2009",2503,"Agreste Paraibano",250314,"Esperança","Esperança",0.14
+25,"Paraíba","250600","2010",2503,"Agreste Paraibano",250314,"Esperança","Esperança",0.38
+25,"Paraíba","250600","2011",2503,"Agreste Paraibano",250314,"Esperança","Esperança",0.24
+25,"Paraíba","250600","2012",2503,"Agreste Paraibano",250314,"Esperança","Esperança",0.57
+25,"Paraíba","250610","2008",2503,"Agreste Paraibano",250317,"Campina Grande","Fagundes",0.35
+25,"Paraíba","250610","2009",2503,"Agreste Paraibano",250317,"Campina Grande","Fagundes",0.31
+25,"Paraíba","250610","2010",2503,"Agreste Paraibano",250317,"Campina Grande","Fagundes",0.32
+25,"Paraíba","250610","2011",2503,"Agreste Paraibano",250317,"Campina Grande","Fagundes",0.6
+25,"Paraíba","250610","2012",2503,"Agreste Paraibano",250317,"Campina Grande","Fagundes",0.34
+25,"Paraíba","250620","2008",2502,"Borborema",250209,"Seridó Oriental Paraibano","Frei Martinho",0.03
+25,"Paraíba","250620","2009",2502,"Borborema",250209,"Seridó Oriental Paraibano","Frei Martinho",0.13
+25,"Paraíba","250620","2010",2502,"Borborema",250209,"Seridó Oriental Paraibano","Frei Martinho",0.55
+25,"Paraíba","250620","2011",2502,"Borborema",250209,"Seridó Oriental Paraibano","Frei Martinho",0.17
+25,"Paraíba","250620","2012",2502,"Borborema",250209,"Seridó Oriental Paraibano","Frei Martinho",0.55
+25,"Paraíba","250625","2008",2503,"Agreste Paraibano",250319,"Umbuzeiro","Gado Bravo",0.15
+25,"Paraíba","250625","2009",2503,"Agreste Paraibano",250319,"Umbuzeiro","Gado Bravo",0.15
+25,"Paraíba","250625","2010",2503,"Agreste Paraibano",250319,"Umbuzeiro","Gado Bravo",0.18
+25,"Paraíba","250625","2011",2503,"Agreste Paraibano",250319,"Umbuzeiro","Gado Bravo",0.23
+25,"Paraíba","250625","2012",2503,"Agreste Paraibano",250319,"Umbuzeiro","Gado Bravo",0.36
+25,"Paraíba","250630","2008",2503,"Agreste Paraibano",250316,"Guarabira","Guarabira",0.16
+25,"Paraíba","250630","2009",2503,"Agreste Paraibano",250316,"Guarabira","Guarabira",1.23
+25,"Paraíba","250630","2010",2503,"Agreste Paraibano",250316,"Guarabira","Guarabira",1.4
+25,"Paraíba","250630","2011",2503,"Agreste Paraibano",250316,"Guarabira","Guarabira",0.8
+25,"Paraíba","250630","2012",2503,"Agreste Paraibano",250316,"Guarabira","Guarabira",1.54
+25,"Paraíba","250640","2008",2503,"Agreste Paraibano",250318,"Itabaiana","Gurinhém",0.13
+25,"Paraíba","250640","2009",2503,"Agreste Paraibano",250318,"Itabaiana","Gurinhém",0.31
+25,"Paraíba","250640","2010",2503,"Agreste Paraibano",250318,"Itabaiana","Gurinhém",0.28
+25,"Paraíba","250640","2011",2503,"Agreste Paraibano",250318,"Itabaiana","Gurinhém",0.56
+25,"Paraíba","250640","2012",2503,"Agreste Paraibano",250318,"Itabaiana","Gurinhém",0.47
+25,"Paraíba","250650","2008",2502,"Borborema",250211,"Cariri Oriental","Gurjão",0.23
+25,"Paraíba","250650","2009",2502,"Borborema",250211,"Cariri Oriental","Gurjão",0.36
+25,"Paraíba","250650","2010",2502,"Borborema",250211,"Cariri Oriental","Gurjão",0.38
+25,"Paraíba","250650","2011",2502,"Borborema",250211,"Cariri Oriental","Gurjão",0.69
+25,"Paraíba","250650","2012",2502,"Borborema",250211,"Cariri Oriental","Gurjão",0.44
+25,"Paraíba","250660","2008",2501,"Sertão Paraibano",250106,"Itaporanga","Ibiara",0.03
+25,"Paraíba","250660","2009",2501,"Sertão Paraibano",250106,"Itaporanga","Ibiara",0.03
+25,"Paraíba","250660","2010",2501,"Sertão Paraibano",250106,"Itaporanga","Ibiara",0
+25,"Paraíba","250660","2011",2501,"Sertão Paraibano",250106,"Itaporanga","Ibiara",0.28
+25,"Paraíba","250660","2012",2501,"Sertão Paraibano",250106,"Itaporanga","Ibiara",0.57
+25,"Paraíba","250670","2008",2501,"Sertão Paraibano",250107,"Serra do Teixeira","Imaculada",0.08
+25,"Paraíba","250670","2009",2501,"Sertão Paraibano",250107,"Serra do Teixeira","Imaculada",0.03
+25,"Paraíba","250670","2010",2501,"Sertão Paraibano",250107,"Serra do Teixeira","Imaculada",0.02
+25,"Paraíba","250670","2011",2501,"Sertão Paraibano",250107,"Serra do Teixeira","Imaculada",0.15
+25,"Paraíba","250670","2012",2501,"Sertão Paraibano",250107,"Serra do Teixeira","Imaculada",0.15
+25,"Paraíba","250680","2008",2503,"Agreste Paraibano",250318,"Itabaiana","Ingá",0.15
+25,"Paraíba","250680","2009",2503,"Agreste Paraibano",250318,"Itabaiana","Ingá",0.14
+25,"Paraíba","250680","2010",2503,"Agreste Paraibano",250318,"Itabaiana","Ingá",0.34
+25,"Paraíba","250680","2011",2503,"Agreste Paraibano",250318,"Itabaiana","Ingá",0.63
+25,"Paraíba","250680","2012",2503,"Agreste Paraibano",250318,"Itabaiana","Ingá",0.66
+25,"Paraíba","250690","2008",2503,"Agreste Paraibano",250318,"Itabaiana","Itabaiana",0.15
+25,"Paraíba","250690","2009",2503,"Agreste Paraibano",250318,"Itabaiana","Itabaiana",0.26
+25,"Paraíba","250690","2010",2503,"Agreste Paraibano",250318,"Itabaiana","Itabaiana",0.4
+25,"Paraíba","250690","2011",2503,"Agreste Paraibano",250318,"Itabaiana","Itabaiana",0.53
+25,"Paraíba","250690","2012",2503,"Agreste Paraibano",250318,"Itabaiana","Itabaiana",0.65
+25,"Paraíba","250700","2008",2501,"Sertão Paraibano",250106,"Itaporanga","Itaporanga",0.08
+25,"Paraíba","250700","2009",2501,"Sertão Paraibano",250106,"Itaporanga","Itaporanga",0.07
+25,"Paraíba","250700","2010",2501,"Sertão Paraibano",250106,"Itaporanga","Itaporanga",0.12
+25,"Paraíba","250700","2011",2501,"Sertão Paraibano",250106,"Itaporanga","Itaporanga",0.24
+25,"Paraíba","250700","2012",2501,"Sertão Paraibano",250106,"Itaporanga","Itaporanga",0.11
+25,"Paraíba","250710","2008",2504,"Mata Paraibana",250420,"Litoral Norte","Itapororoca",0.14
+25,"Paraíba","250710","2009",2504,"Mata Paraibana",250420,"Litoral Norte","Itapororoca",0.25
+25,"Paraíba","250710","2010",2504,"Mata Paraibana",250420,"Litoral Norte","Itapororoca",0.28
+25,"Paraíba","250710","2011",2504,"Mata Paraibana",250420,"Litoral Norte","Itapororoca",1.06
+25,"Paraíba","250710","2012",2504,"Mata Paraibana",250420,"Litoral Norte","Itapororoca",0.67
+25,"Paraíba","250720","2008",2503,"Agreste Paraibano",250318,"Itabaiana","Itatuba",0.23
+25,"Paraíba","250720","2009",2503,"Agreste Paraibano",250318,"Itabaiana","Itatuba",0.13
+25,"Paraíba","250720","2010",2503,"Agreste Paraibano",250318,"Itabaiana","Itatuba",0.22
+25,"Paraíba","250720","2011",2503,"Agreste Paraibano",250318,"Itabaiana","Itatuba",0.2
+25,"Paraíba","250720","2012",2503,"Agreste Paraibano",250318,"Itabaiana","Itatuba",0.39
+25,"Paraíba","250730","2008",2504,"Mata Paraibana",250420,"Litoral Norte","Jacaraú",0.23
+25,"Paraíba","250730","2009",2504,"Mata Paraibana",250420,"Litoral Norte","Jacaraú",0.26
+25,"Paraíba","250730","2010",2504,"Mata Paraibana",250420,"Litoral Norte","Jacaraú",0.34
+25,"Paraíba","250730","2011",2504,"Mata Paraibana",250420,"Litoral Norte","Jacaraú",0.79
+25,"Paraíba","250730","2012",2504,"Mata Paraibana",250420,"Litoral Norte","Jacaraú",1.59
+25,"Paraíba","250740","2008",2501,"Sertão Paraibano",250101,"Catolé do Rocha","Jericó",0
+25,"Paraíba","250740","2009",2501,"Sertão Paraibano",250101,"Catolé do Rocha","Jericó",0.01
+25,"Paraíba","250740","2010",2501,"Sertão Paraibano",250101,"Catolé do Rocha","Jericó",0.03
+25,"Paraíba","250740","2011",2501,"Sertão Paraibano",250101,"Catolé do Rocha","Jericó",0.09
+25,"Paraíba","250740","2012",2501,"Sertão Paraibano",250101,"Catolé do Rocha","Jericó",0.19
+25,"Paraíba","250750","2008",2504,"Mata Paraibana",250422,"João Pessoa","João Pessoa",1
+25,"Paraíba","250750","2009",2504,"Mata Paraibana",250422,"João Pessoa","João Pessoa",1.9
+25,"Paraíba","250750","2010",2504,"Mata Paraibana",250422,"João Pessoa","João Pessoa",1.74
+25,"Paraíba","250750","2011",2504,"Mata Paraibana",250422,"João Pessoa","João Pessoa",2.22
+25,"Paraíba","250750","2012",2504,"Mata Paraibana",250422,"João Pessoa","João Pessoa",2.26
+25,"Paraíba","250760","2008",2503,"Agreste Paraibano",250318,"Itabaiana","Juarez Távora",0.32
+25,"Paraíba","250760","2009",2503,"Agreste Paraibano",250318,"Itabaiana","Juarez Távora",0.36
+25,"Paraíba","250760","2010",2503,"Agreste Paraibano",250318,"Itabaiana","Juarez Távora",0.34
+25,"Paraíba","250760","2011",2503,"Agreste Paraibano",250318,"Itabaiana","Juarez Távora",0.36
+25,"Paraíba","250760","2012",2503,"Agreste Paraibano",250318,"Itabaiana","Juarez Távora",0.75
+25,"Paraíba","250770","2008",2502,"Borborema",250209,"Seridó Oriental Paraibano","Juazeirinho",0.15
+25,"Paraíba","250770","2009",2502,"Borborema",250209,"Seridó Oriental Paraibano","Juazeirinho",0.08
+25,"Paraíba","250770","2010",2502,"Borborema",250209,"Seridó Oriental Paraibano","Juazeirinho",0.11
+25,"Paraíba","250770","2011",2502,"Borborema",250209,"Seridó Oriental Paraibano","Juazeirinho",0.35
+25,"Paraíba","250770","2012",2502,"Borborema",250209,"Seridó Oriental Paraibano","Juazeirinho",0.39
+25,"Paraíba","250780","2008",2502,"Borborema",250208,"Seridó Ocidental Paraibano","Junco do Seridó",0.09
+25,"Paraíba","250780","2009",2502,"Borborema",250208,"Seridó Ocidental Paraibano","Junco do Seridó",0.06
+25,"Paraíba","250780","2010",2502,"Borborema",250208,"Seridó Ocidental Paraibano","Junco do Seridó",0.11
+25,"Paraíba","250780","2011",2502,"Borborema",250208,"Seridó Ocidental Paraibano","Junco do Seridó",0.18
+25,"Paraíba","250780","2012",2502,"Borborema",250208,"Seridó Ocidental Paraibano","Junco do Seridó",0.3
+25,"Paraíba","250790","2008",2504,"Mata Paraibana",250421,"Sapé","Juripiranga",0.16
+25,"Paraíba","250790","2009",2504,"Mata Paraibana",250421,"Sapé","Juripiranga",0.31
+25,"Paraíba","250790","2010",2504,"Mata Paraibana",250421,"Sapé","Juripiranga",0.53
+25,"Paraíba","250790","2011",2504,"Mata Paraibana",250421,"Sapé","Juripiranga",1.57
+25,"Paraíba","250790","2012",2504,"Mata Paraibana",250421,"Sapé","Juripiranga",0.57
+25,"Paraíba","250800","2008",2501,"Sertão Paraibano",250107,"Serra do Teixeira","Juru",0.12
+25,"Paraíba","250800","2009",2501,"Sertão Paraibano",250107,"Serra do Teixeira","Juru",0.13
+25,"Paraíba","250800","2010",2501,"Sertão Paraibano",250107,"Serra do Teixeira","Juru",0.14
+25,"Paraíba","250800","2011",2501,"Sertão Paraibano",250107,"Serra do Teixeira","Juru",0.14
+25,"Paraíba","250800","2012",2501,"Sertão Paraibano",250107,"Serra do Teixeira","Juru",0.34
+25,"Paraíba","250810","2008",2501,"Sertão Paraibano",250101,"Catolé do Rocha","Lagoa",0.06
+25,"Paraíba","250810","2009",2501,"Sertão Paraibano",250101,"Catolé do Rocha","Lagoa",0.14
+25,"Paraíba","250810","2010",2501,"Sertão Paraibano",250101,"Catolé do Rocha","Lagoa",0.17
+25,"Paraíba","250810","2011",2501,"Sertão Paraibano",250101,"Catolé do Rocha","Lagoa",0
+25,"Paraíba","250810","2012",2501,"Sertão Paraibano",250101,"Catolé do Rocha","Lagoa",0.3
+25,"Paraíba","250820","2008",2503,"Agreste Paraibano",250316,"Guarabira","Lagoa de Dentro",0.04
+25,"Paraíba","250820","2009",2503,"Agreste Paraibano",250316,"Guarabira","Lagoa de Dentro",0.08
+25,"Paraíba","250820","2010",2503,"Agreste Paraibano",250316,"Guarabira","Lagoa de Dentro",0.28
+25,"Paraíba","250820","2011",2503,"Agreste Paraibano",250316,"Guarabira","Lagoa de Dentro",0.99
+25,"Paraíba","250820","2012",2503,"Agreste Paraibano",250316,"Guarabira","Lagoa de Dentro",0.74
+25,"Paraíba","250830","2008",2503,"Agreste Paraibano",250317,"Campina Grande","Lagoa Seca",0.29
+25,"Paraíba","250830","2009",2503,"Agreste Paraibano",250317,"Campina Grande","Lagoa Seca",0.31
+25,"Paraíba","250830","2010",2503,"Agreste Paraibano",250317,"Campina Grande","Lagoa Seca",0.3
+25,"Paraíba","250830","2011",2503,"Agreste Paraibano",250317,"Campina Grande","Lagoa Seca",0.25
+25,"Paraíba","250830","2012",2503,"Agreste Paraibano",250317,"Campina Grande","Lagoa Seca",0.5
+25,"Paraíba","250840","2008",2501,"Sertão Paraibano",250103,"Sousa","Lastro",0.07
+25,"Paraíba","250840","2009",2501,"Sertão Paraibano",250103,"Sousa","Lastro",0.03
+25,"Paraíba","250840","2010",2501,"Sertão Paraibano",250103,"Sousa","Lastro",0.07
+25,"Paraíba","250840","2011",2501,"Sertão Paraibano",250103,"Sousa","Lastro",0.04
+25,"Paraíba","250840","2012",2501,"Sertão Paraibano",250103,"Sousa","Lastro",0.11
+25,"Paraíba","250850","2008",2502,"Borborema",250210,"Cariri Ocidental","Livramento",0.16
+25,"Paraíba","250850","2009",2502,"Borborema",250210,"Cariri Ocidental","Livramento",0.6
+25,"Paraíba","250850","2010",2502,"Borborema",250210,"Cariri Ocidental","Livramento",0.17
+25,"Paraíba","250850","2011",2502,"Borborema",250210,"Cariri Ocidental","Livramento",0.42
+25,"Paraíba","250850","2012",2502,"Borborema",250210,"Cariri Ocidental","Livramento",0.39
+25,"Paraíba","250855","2008",2503,"Agreste Paraibano",250316,"Guarabira","Logradouro",0.05
+25,"Paraíba","250855","2009",2503,"Agreste Paraibano",250316,"Guarabira","Logradouro",0.1
+25,"Paraíba","250855","2010",2503,"Agreste Paraibano",250316,"Guarabira","Logradouro",0.13
+25,"Paraíba","250855","2011",2503,"Agreste Paraibano",250316,"Guarabira","Logradouro",0.93
+25,"Paraíba","250855","2012",2503,"Agreste Paraibano",250316,"Guarabira","Logradouro",0.65
+25,"Paraíba","250860","2008",2504,"Mata Paraibana",250422,"João Pessoa","Lucena",0.06
+25,"Paraíba","250860","2009",2504,"Mata Paraibana",250422,"João Pessoa","Lucena",0.11
+25,"Paraíba","250860","2010",2504,"Mata Paraibana",250422,"João Pessoa","Lucena",0.39
+25,"Paraíba","250860","2011",2504,"Mata Paraibana",250422,"João Pessoa","Lucena",0.97
+25,"Paraíba","250860","2012",2504,"Mata Paraibana",250422,"João Pessoa","Lucena",0.73
+25,"Paraíba","250870","2008",2501,"Sertão Paraibano",250104,"Patos","Mãe d'Água",0.02
+25,"Paraíba","250870","2009",2501,"Sertão Paraibano",250104,"Patos","Mãe d'Água",0.29
+25,"Paraíba","250870","2010",2501,"Sertão Paraibano",250104,"Patos","Mãe d'Água",0
+25,"Paraíba","250870","2011",2501,"Sertão Paraibano",250104,"Patos","Mãe d'Água",0.02
+25,"Paraíba","250870","2012",2501,"Sertão Paraibano",250104,"Patos","Mãe d'Água",0
+25,"Paraíba","250880","2008",2501,"Sertão Paraibano",250103,"Sousa","Malta",0.03
+25,"Paraíba","250880","2009",2501,"Sertão Paraibano",250103,"Sousa","Malta",0.03
+25,"Paraíba","250880","2010",2501,"Sertão Paraibano",250103,"Sousa","Malta",0.02
+25,"Paraíba","250880","2011",2501,"Sertão Paraibano",250103,"Sousa","Malta",0.11
+25,"Paraíba","250880","2012",2501,"Sertão Paraibano",250103,"Sousa","Malta",0.14
+25,"Paraíba","250890","2008",2504,"Mata Paraibana",250420,"Litoral Norte","Mamanguape",0.32
+25,"Paraíba","250890","2009",2504,"Mata Paraibana",250420,"Litoral Norte","Mamanguape",0.35
+25,"Paraíba","250890","2010",2504,"Mata Paraibana",250420,"Litoral Norte","Mamanguape",0.42
+25,"Paraíba","250890","2011",2504,"Mata Paraibana",250420,"Litoral Norte","Mamanguape",1.23
+25,"Paraíba","250890","2012",2504,"Mata Paraibana",250420,"Litoral Norte","Mamanguape",0.82
+25,"Paraíba","250900","2008",2501,"Sertão Paraibano",250107,"Serra do Teixeira","Manaíra",0.16
+25,"Paraíba","250900","2009",2501,"Sertão Paraibano",250107,"Serra do Teixeira","Manaíra",0.23
+25,"Paraíba","250900","2010",2501,"Sertão Paraibano",250107,"Serra do Teixeira","Manaíra",0.07
+25,"Paraíba","250900","2011",2501,"Sertão Paraibano",250107,"Serra do Teixeira","Manaíra",0.1
+25,"Paraíba","250900","2012",2501,"Sertão Paraibano",250107,"Serra do Teixeira","Manaíra",0.09
+25,"Paraíba","250905","2008",2504,"Mata Paraibana",250420,"Litoral Norte","Marcação",0.07
+25,"Paraíba","250905","2009",2504,"Mata Paraibana",250420,"Litoral Norte","Marcação",0.08
+25,"Paraíba","250905","2010",2504,"Mata Paraibana",250420,"Litoral Norte","Marcação",0.18
+25,"Paraíba","250905","2011",2504,"Mata Paraibana",250420,"Litoral Norte","Marcação",0.66
+25,"Paraíba","250905","2012",2504,"Mata Paraibana",250420,"Litoral Norte","Marcação",0.37
+25,"Paraíba","250910","2008",2504,"Mata Paraibana",250421,"Sapé","Mari",0.28
+25,"Paraíba","250910","2009",2504,"Mata Paraibana",250421,"Sapé","Mari",0.35
+25,"Paraíba","250910","2010",2504,"Mata Paraibana",250421,"Sapé","Mari",0.29
+25,"Paraíba","250910","2011",2504,"Mata Paraibana",250421,"Sapé","Mari",1.32
+25,"Paraíba","250910","2012",2504,"Mata Paraibana",250421,"Sapé","Mari",0.71
+25,"Paraíba","250915","2008",2501,"Sertão Paraibano",250103,"Sousa","Marizópolis",0
+25,"Paraíba","250915","2009",2501,"Sertão Paraibano",250103,"Sousa","Marizópolis",0.05
+25,"Paraíba","250915","2010",2501,"Sertão Paraibano",250103,"Sousa","Marizópolis",0.02
+25,"Paraíba","250915","2011",2501,"Sertão Paraibano",250103,"Sousa","Marizópolis",0.02
+25,"Paraíba","250915","2012",2501,"Sertão Paraibano",250103,"Sousa","Marizópolis",0.06
+25,"Paraíba","250920","2008",2503,"Agreste Paraibano",250317,"Campina Grande","Massaranduba",0.44
+25,"Paraíba","250920","2009",2503,"Agreste Paraibano",250317,"Campina Grande","Massaranduba",0.39
+25,"Paraíba","250920","2010",2503,"Agreste Paraibano",250317,"Campina Grande","Massaranduba",0.3
+25,"Paraíba","250920","2011",2503,"Agreste Paraibano",250317,"Campina Grande","Massaranduba",0.09
+25,"Paraíba","250920","2012",2503,"Agreste Paraibano",250317,"Campina Grande","Massaranduba",0.21
+25,"Paraíba","250930","2008",2504,"Mata Paraibana",250420,"Litoral Norte","Mataraca",0.18
+25,"Paraíba","250930","2009",2504,"Mata Paraibana",250420,"Litoral Norte","Mataraca",0.11
+25,"Paraíba","250930","2010",2504,"Mata Paraibana",250420,"Litoral Norte","Mataraca",0.28
+25,"Paraíba","250930","2011",2504,"Mata Paraibana",250420,"Litoral Norte","Mataraca",0.48
+25,"Paraíba","250930","2012",2504,"Mata Paraibana",250420,"Litoral Norte","Mataraca",0.48
+25,"Paraíba","250933","2008",2503,"Agreste Paraibano",250315,"Brejo Paraibano","Matinhas",0.23
+25,"Paraíba","250933","2009",2503,"Agreste Paraibano",250315,"Brejo Paraibano","Matinhas",0.49
+25,"Paraíba","250933","2010",2503,"Agreste Paraibano",250315,"Brejo Paraibano","Matinhas",0.37
+25,"Paraíba","250933","2011",2503,"Agreste Paraibano",250315,"Brejo Paraibano","Matinhas",0.16
+25,"Paraíba","250933","2012",2503,"Agreste Paraibano",250315,"Brejo Paraibano","Matinhas",0.25
+25,"Paraíba","250937","2008",2501,"Sertão Paraibano",250101,"Catolé do Rocha","Mato Grosso",0.15
+25,"Paraíba","250937","2009",2501,"Sertão Paraibano",250101,"Catolé do Rocha","Mato Grosso",0.33
+25,"Paraíba","250937","2010",2501,"Sertão Paraibano",250101,"Catolé do Rocha","Mato Grosso",0.41
+25,"Paraíba","250937","2011",2501,"Sertão Paraibano",250101,"Catolé do Rocha","Mato Grosso",0.48
+25,"Paraíba","250937","2012",2501,"Sertão Paraibano",250101,"Catolé do Rocha","Mato Grosso",0.95
+25,"Paraíba","250939","2008",2501,"Sertão Paraibano",250107,"Serra do Teixeira","Maturéia",0
+25,"Paraíba","250939","2009",2501,"Sertão Paraibano",250107,"Serra do Teixeira","Maturéia",0
+25,"Paraíba","250939","2010",2501,"Sertão Paraibano",250107,"Serra do Teixeira","Maturéia",0.19
+25,"Paraíba","250939","2011",2501,"Sertão Paraibano",250107,"Serra do Teixeira","Maturéia",0.12
+25,"Paraíba","250939","2012",2501,"Sertão Paraibano",250107,"Serra do Teixeira","Maturéia",0.08
+25,"Paraíba","250940","2008",2503,"Agreste Paraibano",250318,"Itabaiana","Mogeiro",0.06
+25,"Paraíba","250940","2009",2503,"Agreste Paraibano",250318,"Itabaiana","Mogeiro",0.09
+25,"Paraíba","250940","2010",2503,"Agreste Paraibano",250318,"Itabaiana","Mogeiro",0.25
+25,"Paraíba","250940","2011",2503,"Agreste Paraibano",250318,"Itabaiana","Mogeiro",0.31
+25,"Paraíba","250940","2012",2503,"Agreste Paraibano",250318,"Itabaiana","Mogeiro",0.46
+25,"Paraíba","250950","2008",2503,"Agreste Paraibano",250314,"Esperança","Montadas",0.32
+25,"Paraíba","250950","2009",2503,"Agreste Paraibano",250314,"Esperança","Montadas",0.4
+25,"Paraíba","250950","2010",2503,"Agreste Paraibano",250314,"Esperança","Montadas",0.44
+25,"Paraíba","250950","2011",2503,"Agreste Paraibano",250314,"Esperança","Montadas",0.43
+25,"Paraíba","250950","2012",2503,"Agreste Paraibano",250314,"Esperança","Montadas",0.43
+25,"Paraíba","250960","2008",2501,"Sertão Paraibano",250102,"Cajazeiras","Monte Horebe",0.02
+25,"Paraíba","250960","2009",2501,"Sertão Paraibano",250102,"Cajazeiras","Monte Horebe",0.07
+25,"Paraíba","250960","2010",2501,"Sertão Paraibano",250102,"Cajazeiras","Monte Horebe",0
+25,"Paraíba","250960","2011",2501,"Sertão Paraibano",250102,"Cajazeiras","Monte Horebe",0.29
+25,"Paraíba","250960","2012",2501,"Sertão Paraibano",250102,"Cajazeiras","Monte Horebe",0.2
+25,"Paraíba","250970","2008",2502,"Borborema",250210,"Cariri Ocidental","Monteiro",0.68
+25,"Paraíba","250970","2009",2502,"Borborema",250210,"Cariri Ocidental","Monteiro",1.12
+25,"Paraíba","250970","2010",2502,"Borborema",250210,"Cariri Ocidental","Monteiro",1.6
+25,"Paraíba","250970","2011",2502,"Borborema",250210,"Cariri Ocidental","Monteiro",1.97
+25,"Paraíba","250970","2012",2502,"Borborema",250210,"Cariri Ocidental","Monteiro",0.8
+25,"Paraíba","250980","2008",2503,"Agreste Paraibano",250316,"Guarabira","Mulungu",0.11
+25,"Paraíba","250980","2009",2503,"Agreste Paraibano",250316,"Guarabira","Mulungu",0.25
+25,"Paraíba","250980","2010",2503,"Agreste Paraibano",250316,"Guarabira","Mulungu",0.16
+25,"Paraíba","250980","2011",2503,"Agreste Paraibano",250316,"Guarabira","Mulungu",0.54
+25,"Paraíba","250980","2012",2503,"Agreste Paraibano",250316,"Guarabira","Mulungu",0.43
+25,"Paraíba","250990","2008",2503,"Agreste Paraibano",250319,"Umbuzeiro","Natuba",0.09
+25,"Paraíba","250990","2009",2503,"Agreste Paraibano",250319,"Umbuzeiro","Natuba",0.1
+25,"Paraíba","250990","2010",2503,"Agreste Paraibano",250319,"Umbuzeiro","Natuba",0.17
+25,"Paraíba","250990","2011",2503,"Agreste Paraibano",250319,"Umbuzeiro","Natuba",0.33
+25,"Paraíba","250990","2012",2503,"Agreste Paraibano",250319,"Umbuzeiro","Natuba",0.25
+25,"Paraíba","251000","2008",2501,"Sertão Paraibano",250103,"Sousa","Nazarezinho",0
+25,"Paraíba","251000","2009",2501,"Sertão Paraibano",250103,"Sousa","Nazarezinho",0.07
+25,"Paraíba","251000","2010",2501,"Sertão Paraibano",250103,"Sousa","Nazarezinho",0.05
+25,"Paraíba","251000","2011",2501,"Sertão Paraibano",250103,"Sousa","Nazarezinho",0.15
+25,"Paraíba","251000","2012",2501,"Sertão Paraibano",250103,"Sousa","Nazarezinho",0.14
+25,"Paraíba","251010","2008",2503,"Agreste Paraibano",250312,"Curimataú Ocidental","Nova Floresta",0.08
+25,"Paraíba","251010","2009",2503,"Agreste Paraibano",250312,"Curimataú Ocidental","Nova Floresta",0.1
+25,"Paraíba","251010","2010",2503,"Agreste Paraibano",250312,"Curimataú Ocidental","Nova Floresta",0.16
+25,"Paraíba","251010","2011",2503,"Agreste Paraibano",250312,"Curimataú Ocidental","Nova Floresta",0.06
+25,"Paraíba","251010","2012",2503,"Agreste Paraibano",250312,"Curimataú Ocidental","Nova Floresta",0.19
+25,"Paraíba","251020","2008",2501,"Sertão Paraibano",250105,"Piancó","Nova Olinda",0.05
+25,"Paraíba","251020","2009",2501,"Sertão Paraibano",250105,"Piancó","Nova Olinda",0.12
+25,"Paraíba","251020","2010",2501,"Sertão Paraibano",250105,"Piancó","Nova Olinda",0
+25,"Paraíba","251020","2011",2501,"Sertão Paraibano",250105,"Piancó","Nova Olinda",0.17
+25,"Paraíba","251020","2012",2501,"Sertão Paraibano",250105,"Piancó","Nova Olinda",0.22
+25,"Paraíba","251030","2008",2502,"Borborema",250209,"Seridó Oriental Paraibano","Nova Palmeira",0
+25,"Paraíba","251030","2009",2502,"Borborema",250209,"Seridó Oriental Paraibano","Nova Palmeira",0.02
+25,"Paraíba","251030","2010",2502,"Borborema",250209,"Seridó Oriental Paraibano","Nova Palmeira",0.18
+25,"Paraíba","251030","2011",2502,"Borborema",250209,"Seridó Oriental Paraibano","Nova Palmeira",0.07
+25,"Paraíba","251030","2012",2502,"Borborema",250209,"Seridó Oriental Paraibano","Nova Palmeira",0.54
+25,"Paraíba","251040","2008",2501,"Sertão Paraibano",250105,"Piancó","Olho d'Água",0.05
+25,"Paraíba","251040","2009",2501,"Sertão Paraibano",250105,"Piancó","Olho d'Água",0.03
+25,"Paraíba","251040","2010",2501,"Sertão Paraibano",250105,"Piancó","Olho d'Água",0.01
+25,"Paraíba","251040","2011",2501,"Sertão Paraibano",250105,"Piancó","Olho d'Água",0.17
+25,"Paraíba","251040","2012",2501,"Sertão Paraibano",250105,"Piancó","Olho d'Água",0.29
+25,"Paraíba","251050","2008",2503,"Agreste Paraibano",250312,"Curimataú Ocidental","Olivedos",0.17
+25,"Paraíba","251050","2009",2503,"Agreste Paraibano",250312,"Curimataú Ocidental","Olivedos",0.3
+25,"Paraíba","251050","2010",2503,"Agreste Paraibano",250312,"Curimataú Ocidental","Olivedos",0.28
+25,"Paraíba","251050","2011",2503,"Agreste Paraibano",250312,"Curimataú Ocidental","Olivedos",0.74
+25,"Paraíba","251050","2012",2503,"Agreste Paraibano",250312,"Curimataú Ocidental","Olivedos",1.03
+25,"Paraíba","251060","2008",2502,"Borborema",250210,"Cariri Ocidental","Ouro Velho",0.29
+25,"Paraíba","251060","2009",2502,"Borborema",250210,"Cariri Ocidental","Ouro Velho",0.68
+25,"Paraíba","251060","2010",2502,"Borborema",250210,"Cariri Ocidental","Ouro Velho",0.03
+25,"Paraíba","251060","2011",2502,"Borborema",250210,"Cariri Ocidental","Ouro Velho",0.89
+25,"Paraíba","251060","2012",2502,"Borborema",250210,"Cariri Ocidental","Ouro Velho",0.58
+25,"Paraíba","251065","2008",2502,"Borborema",250210,"Cariri Ocidental","Parari",0.86
+25,"Paraíba","251065","2009",2502,"Borborema",250210,"Cariri Ocidental","Parari",1.11
+25,"Paraíba","251065","2010",2502,"Borborema",250210,"Cariri Ocidental","Parari",0.64
+25,"Paraíba","251065","2011",2502,"Borborema",250210,"Cariri Ocidental","Parari",0.48
+25,"Paraíba","251065","2012",2502,"Borborema",250210,"Cariri Ocidental","Parari",0.72
+25,"Paraíba","251070","2008",2501,"Sertão Paraibano",250104,"Patos","Passagem",0
+25,"Paraíba","251070","2009",2501,"Sertão Paraibano",250104,"Patos","Passagem",0.05
+25,"Paraíba","251070","2010",2501,"Sertão Paraibano",250104,"Patos","Passagem",0
+25,"Paraíba","251070","2011",2501,"Sertão Paraibano",250104,"Patos","Passagem",0.04
+25,"Paraíba","251070","2012",2501,"Sertão Paraibano",250104,"Patos","Passagem",0.09
+25,"Paraíba","251080","2008",2501,"Sertão Paraibano",250104,"Patos","Patos",0.33
+25,"Paraíba","251080","2009",2501,"Sertão Paraibano",250104,"Patos","Patos",0.26
+25,"Paraíba","251080","2010",2501,"Sertão Paraibano",250104,"Patos","Patos",0.25
+25,"Paraíba","251080","2011",2501,"Sertão Paraibano",250104,"Patos","Patos",0.26
+25,"Paraíba","251080","2012",2501,"Sertão Paraibano",250104,"Patos","Patos",0.29
+25,"Paraíba","251090","2008",2501,"Sertão Paraibano",250103,"Sousa","Paulista",0.14
+25,"Paraíba","251090","2009",2501,"Sertão Paraibano",250103,"Sousa","Paulista",0.09
+25,"Paraíba","251090","2010",2501,"Sertão Paraibano",250103,"Sousa","Paulista",0.13
+25,"Paraíba","251090","2011",2501,"Sertão Paraibano",250103,"Sousa","Paulista",0.57
+25,"Paraíba","251090","2012",2501,"Sertão Paraibano",250103,"Sousa","Paulista",2.22
+25,"Paraíba","251100","2008",2501,"Sertão Paraibano",250106,"Itaporanga","Pedra Branca",0.05
+25,"Paraíba","251100","2009",2501,"Sertão Paraibano",250106,"Itaporanga","Pedra Branca",0
+25,"Paraíba","251100","2010",2501,"Sertão Paraibano",250106,"Itaporanga","Pedra Branca",0
+25,"Paraíba","251100","2011",2501,"Sertão Paraibano",250106,"Itaporanga","Pedra Branca",0.56
+25,"Paraíba","251100","2012",2501,"Sertão Paraibano",250106,"Itaporanga","Pedra Branca",0.78
+25,"Paraíba","251110","2008",2502,"Borborema",250209,"Seridó Oriental Paraibano","Pedra Lavrada",0.1
+25,"Paraíba","251110","2009",2502,"Borborema",250209,"Seridó Oriental Paraibano","Pedra Lavrada",0.09
+25,"Paraíba","251110","2010",2502,"Borborema",250209,"Seridó Oriental Paraibano","Pedra Lavrada",0.2
+25,"Paraíba","251110","2011",2502,"Borborema",250209,"Seridó Oriental Paraibano","Pedra Lavrada",0.08
+25,"Paraíba","251110","2012",2502,"Borborema",250209,"Seridó Oriental Paraibano","Pedra Lavrada",0.22
+25,"Paraíba","251120","2008",2504,"Mata Paraibana",250423,"Litoral Sul","Pedras de Fogo",0.47
+25,"Paraíba","251120","2009",2504,"Mata Paraibana",250423,"Litoral Sul","Pedras de Fogo",0.9
+25,"Paraíba","251120","2010",2504,"Mata Paraibana",250423,"Litoral Sul","Pedras de Fogo",0.53
+25,"Paraíba","251120","2011",2504,"Mata Paraibana",250423,"Litoral Sul","Pedras de Fogo",0.97
+25,"Paraíba","251120","2012",2504,"Mata Paraibana",250423,"Litoral Sul","Pedras de Fogo",0.87
+25,"Paraíba","251130","2008",2501,"Sertão Paraibano",250105,"Piancó","Piancó",0.12
+25,"Paraíba","251130","2009",2501,"Sertão Paraibano",250105,"Piancó","Piancó",0.12
+25,"Paraíba","251130","2010",2501,"Sertão Paraibano",250105,"Piancó","Piancó",0.16
+25,"Paraíba","251130","2011",2501,"Sertão Paraibano",250105,"Piancó","Piancó",0.16
+25,"Paraíba","251130","2012",2501,"Sertão Paraibano",250105,"Piancó","Piancó",0.43
+25,"Paraíba","251140","2008",2502,"Borborema",250209,"Seridó Oriental Paraibano","Picuí",0.02
+25,"Paraíba","251140","2009",2502,"Borborema",250209,"Seridó Oriental Paraibano","Picuí",0.05
+25,"Paraíba","251140","2010",2502,"Borborema",250209,"Seridó Oriental Paraibano","Picuí",0.96
+25,"Paraíba","251140","2011",2502,"Borborema",250209,"Seridó Oriental Paraibano","Picuí",1.73
+25,"Paraíba","251140","2012",2502,"Borborema",250209,"Seridó Oriental Paraibano","Picuí",5.37
+25,"Paraíba","251150","2008",2504,"Mata Paraibana",250421,"Sapé","Pilar",0.05
+25,"Paraíba","251150","2009",2504,"Mata Paraibana",250421,"Sapé","Pilar",0.09
+25,"Paraíba","251150","2010",2504,"Mata Paraibana",250421,"Sapé","Pilar",0.34
+25,"Paraíba","251150","2011",2504,"Mata Paraibana",250421,"Sapé","Pilar",0.99
+25,"Paraíba","251150","2012",2504,"Mata Paraibana",250421,"Sapé","Pilar",0.81
+25,"Paraíba","251160","2008",2503,"Agreste Paraibano",250315,"Brejo Paraibano","Pilões",0.13
+25,"Paraíba","251160","2009",2503,"Agreste Paraibano",250315,"Brejo Paraibano","Pilões",0.25
+25,"Paraíba","251160","2010",2503,"Agreste Paraibano",250315,"Brejo Paraibano","Pilões",0.37
+25,"Paraíba","251160","2011",2503,"Agreste Paraibano",250315,"Brejo Paraibano","Pilões",1.49
+25,"Paraíba","251160","2012",2503,"Agreste Paraibano",250315,"Brejo Paraibano","Pilões",0.58
+25,"Paraíba","251170","2008",2503,"Agreste Paraibano",250316,"Guarabira","Pilõezinhos",0.04
+25,"Paraíba","251170","2009",2503,"Agreste Paraibano",250316,"Guarabira","Pilõezinhos",0.26
+25,"Paraíba","251170","2010",2503,"Agreste Paraibano",250316,"Guarabira","Pilõezinhos",0.12
+25,"Paraíba","251170","2011",2503,"Agreste Paraibano",250316,"Guarabira","Pilõezinhos",0.8
+25,"Paraíba","251170","2012",2503,"Agreste Paraibano",250316,"Guarabira","Pilõezinhos",0.27
+25,"Paraíba","251180","2008",2503,"Agreste Paraibano",250316,"Guarabira","Pirpirituba",0.16
+25,"Paraíba","251180","2009",2503,"Agreste Paraibano",250316,"Guarabira","Pirpirituba",0.29
+25,"Paraíba","251180","2010",2503,"Agreste Paraibano",250316,"Guarabira","Pirpirituba",0.28
+25,"Paraíba","251180","2011",2503,"Agreste Paraibano",250316,"Guarabira","Pirpirituba",0.71
+25,"Paraíba","251180","2012",2503,"Agreste Paraibano",250316,"Guarabira","Pirpirituba",0.92
+25,"Paraíba","251190","2008",2504,"Mata Paraibana",250423,"Litoral Sul","Pitimbu",0.07
+25,"Paraíba","251190","2009",2504,"Mata Paraibana",250423,"Litoral Sul","Pitimbu",0.14
+25,"Paraíba","251190","2010",2504,"Mata Paraibana",250423,"Litoral Sul","Pitimbu",0.3
+25,"Paraíba","251190","2011",2504,"Mata Paraibana",250423,"Litoral Sul","Pitimbu",0.8
+25,"Paraíba","251190","2012",2504,"Mata Paraibana",250423,"Litoral Sul","Pitimbu",0.51
+25,"Paraíba","251200","2008",2503,"Agreste Paraibano",250312,"Curimataú Ocidental","Pocinhos",0.12
+25,"Paraíba","251200","2009",2503,"Agreste Paraibano",250312,"Curimataú Ocidental","Pocinhos",0.14
+25,"Paraíba","251200","2010",2503,"Agreste Paraibano",250312,"Curimataú Ocidental","Pocinhos",0.26
+25,"Paraíba","251200","2011",2503,"Agreste Paraibano",250312,"Curimataú Ocidental","Pocinhos",0.16
+25,"Paraíba","251200","2012",2503,"Agreste Paraibano",250312,"Curimataú Ocidental","Pocinhos",0.52
+25,"Paraíba","251203","2008",2501,"Sertão Paraibano",250102,"Cajazeiras","Poço Dantas",0
+25,"Paraíba","251203","2009",2501,"Sertão Paraibano",250102,"Cajazeiras","Poço Dantas",0
+25,"Paraíba","251203","2010",2501,"Sertão Paraibano",250102,"Cajazeiras","Poço Dantas",0
+25,"Paraíba","251203","2011",2501,"Sertão Paraibano",250102,"Cajazeiras","Poço Dantas",0.03
+25,"Paraíba","251203","2012",2501,"Sertão Paraibano",250102,"Cajazeiras","Poço Dantas",0.4
+25,"Paraíba","251207","2008",2501,"Sertão Paraibano",250102,"Cajazeiras","Poço de José de Moura",0
+25,"Paraíba","251207","2009",2501,"Sertão Paraibano",250102,"Cajazeiras","Poço de José de Moura",0
+25,"Paraíba","251207","2010",2501,"Sertão Paraibano",250102,"Cajazeiras","Poço de José de Moura",0.05
+25,"Paraíba","251207","2011",2501,"Sertão Paraibano",250102,"Cajazeiras","Poço de José de Moura",0.22
+25,"Paraíba","251207","2012",2501,"Sertão Paraibano",250102,"Cajazeiras","Poço de José de Moura",0.69
+25,"Paraíba","251210","2008",2501,"Sertão Paraibano",250103,"Sousa","Pombal",0.22
+25,"Paraíba","251210","2009",2501,"Sertão Paraibano",250103,"Sousa","Pombal",0.11
+25,"Paraíba","251210","2010",2501,"Sertão Paraibano",250103,"Sousa","Pombal",0.44
+25,"Paraíba","251210","2011",2501,"Sertão Paraibano",250103,"Sousa","Pombal",0.51
+25,"Paraíba","251210","2012",2501,"Sertão Paraibano",250103,"Sousa","Pombal",1.9
+25,"Paraíba","251220","2008",2502,"Borborema",250210,"Cariri Ocidental","Prata",0.67
+25,"Paraíba","251220","2009",2502,"Borborema",250210,"Cariri Ocidental","Prata",0.94
+25,"Paraíba","251220","2010",2502,"Borborema",250210,"Cariri Ocidental","Prata",0.42
+25,"Paraíba","251220","2011",2502,"Borborema",250210,"Cariri Ocidental","Prata",2.62
+25,"Paraíba","251220","2012",2502,"Borborema",250210,"Cariri Ocidental","Prata",1.53
+25,"Paraíba","251230","2008",2501,"Sertão Paraibano",250107,"Serra do Teixeira","Princesa Isabel",0.03
+25,"Paraíba","251230","2009",2501,"Sertão Paraibano",250107,"Serra do Teixeira","Princesa Isabel",0.14
+25,"Paraíba","251230","2010",2501,"Sertão Paraibano",250107,"Serra do Teixeira","Princesa Isabel",0.13
+25,"Paraíba","251230","2011",2501,"Sertão Paraibano",250107,"Serra do Teixeira","Princesa Isabel",0.45
+25,"Paraíba","251230","2012",2501,"Sertão Paraibano",250107,"Serra do Teixeira","Princesa Isabel",0.13
+25,"Paraíba","251240","2008",2503,"Agreste Paraibano",250317,"Campina Grande","Puxinanã",0.36
+25,"Paraíba","251240","2009",2503,"Agreste Paraibano",250317,"Campina Grande","Puxinanã",0.28
+25,"Paraíba","251240","2010",2503,"Agreste Paraibano",250317,"Campina Grande","Puxinanã",0.29
+25,"Paraíba","251240","2011",2503,"Agreste Paraibano",250317,"Campina Grande","Puxinanã",0.32
+25,"Paraíba","251240","2012",2503,"Agreste Paraibano",250317,"Campina Grande","Puxinanã",0.55
+25,"Paraíba","251250","2008",2503,"Agreste Paraibano",250317,"Campina Grande","Queimadas",0.32
+25,"Paraíba","251250","2009",2503,"Agreste Paraibano",250317,"Campina Grande","Queimadas",0.32
+25,"Paraíba","251250","2010",2503,"Agreste Paraibano",250317,"Campina Grande","Queimadas",0.44
+25,"Paraíba","251250","2011",2503,"Agreste Paraibano",250317,"Campina Grande","Queimadas",0.44
+25,"Paraíba","251250","2012",2503,"Agreste Paraibano",250317,"Campina Grande","Queimadas",0.57
+25,"Paraíba","251260","2008",2501,"Sertão Paraibano",250104,"Patos","Quixabá",0.27
+25,"Paraíba","251260","2009",2501,"Sertão Paraibano",250104,"Patos","Quixabá",0.27
+25,"Paraíba","251260","2010",2501,"Sertão Paraibano",250104,"Patos","Quixabá",0.29
+25,"Paraíba","251260","2011",2501,"Sertão Paraibano",250104,"Patos","Quixabá",0.64
+25,"Paraíba","251260","2012",2501,"Sertão Paraibano",250104,"Patos","Quixabá",0.11
+25,"Paraíba","251270","2008",2503,"Agreste Paraibano",250312,"Curimataú Ocidental","Remígio",0.18
+25,"Paraíba","251270","2009",2503,"Agreste Paraibano",250312,"Curimataú Ocidental","Remígio",0.2
+25,"Paraíba","251270","2010",2503,"Agreste Paraibano",250312,"Curimataú Ocidental","Remígio",0.17
+25,"Paraíba","251270","2011",2503,"Agreste Paraibano",250312,"Curimataú Ocidental","Remígio",0.28
+25,"Paraíba","251270","2012",2503,"Agreste Paraibano",250312,"Curimataú Ocidental","Remígio",0.37
+25,"Paraíba","251272","2008",2504,"Mata Paraibana",250420,"Litoral Norte","Pedro Régis",0.1
+25,"Paraíba","251272","2009",2504,"Mata Paraibana",250420,"Litoral Norte","Pedro Régis",0.09
+25,"Paraíba","251272","2010",2504,"Mata Paraibana",250420,"Litoral Norte","Pedro Régis",0.07
+25,"Paraíba","251272","2011",2504,"Mata Paraibana",250420,"Litoral Norte","Pedro Régis",0.45
+25,"Paraíba","251272","2012",2504,"Mata Paraibana",250420,"Litoral Norte","Pedro Régis",1.13
+25,"Paraíba","251274","2008",2503,"Agreste Paraibano",250313,"Curimataú Oriental","Riachão",0.17
+25,"Paraíba","251274","2009",2503,"Agreste Paraibano",250313,"Curimataú Oriental","Riachão",0.22
+25,"Paraíba","251274","2010",2503,"Agreste Paraibano",250313,"Curimataú Oriental","Riachão",0.37
+25,"Paraíba","251274","2011",2503,"Agreste Paraibano",250313,"Curimataú Oriental","Riachão",0.7
+25,"Paraíba","251274","2012",2503,"Agreste Paraibano",250313,"Curimataú Oriental","Riachão",0.51
+25,"Paraíba","251275","2008",2503,"Agreste Paraibano",250318,"Itabaiana","Riachão do Bacamarte",0.23
+25,"Paraíba","251275","2009",2503,"Agreste Paraibano",250318,"Itabaiana","Riachão do Bacamarte",0.05
+25,"Paraíba","251275","2010",2503,"Agreste Paraibano",250318,"Itabaiana","Riachão do Bacamarte",0.05
+25,"Paraíba","251275","2011",2503,"Agreste Paraibano",250318,"Itabaiana","Riachão do Bacamarte",0.14
+25,"Paraíba","251275","2012",2503,"Agreste Paraibano",250318,"Itabaiana","Riachão do Bacamarte",0.42
+25,"Paraíba","251276","2008",2504,"Mata Paraibana",250421,"Sapé","Riachão do Poço",0.09
+25,"Paraíba","251276","2009",2504,"Mata Paraibana",250421,"Sapé","Riachão do Poço",0.09
+25,"Paraíba","251276","2010",2504,"Mata Paraibana",250421,"Sapé","Riachão do Poço",0.22
+25,"Paraíba","251276","2011",2504,"Mata Paraibana",250421,"Sapé","Riachão do Poço",0.62
+25,"Paraíba","251276","2012",2504,"Mata Paraibana",250421,"Sapé","Riachão do Poço",0.35
+25,"Paraíba","251278","2008",2502,"Borborema",250211,"Cariri Oriental","Riacho de Santo Antônio",0.26
+25,"Paraíba","251278","2009",2502,"Borborema",250211,"Cariri Oriental","Riacho de Santo Antônio",0.25
+25,"Paraíba","251278","2010",2502,"Borborema",250211,"Cariri Oriental","Riacho de Santo Antônio",0.29
+25,"Paraíba","251278","2011",2502,"Borborema",250211,"Cariri Oriental","Riacho de Santo Antônio",0.17
+25,"Paraíba","251278","2012",2502,"Borborema",250211,"Cariri Oriental","Riacho de Santo Antônio",0.51
+25,"Paraíba","251280","2008",2501,"Sertão Paraibano",250101,"Catolé do Rocha","Riacho dos Cavalos",0.04
+25,"Paraíba","251280","2009",2501,"Sertão Paraibano",250101,"Catolé do Rocha","Riacho dos Cavalos",0.19
+25,"Paraíba","251280","2010",2501,"Sertão Paraibano",250101,"Catolé do Rocha","Riacho dos Cavalos",0.1
+25,"Paraíba","251280","2011",2501,"Sertão Paraibano",250101,"Catolé do Rocha","Riacho dos Cavalos",0.12
+25,"Paraíba","251280","2012",2501,"Sertão Paraibano",250101,"Catolé do Rocha","Riacho dos Cavalos",0.11
+25,"Paraíba","251290","2008",2504,"Mata Paraibana",250420,"Litoral Norte","Rio Tinto",0.18
+25,"Paraíba","251290","2009",2504,"Mata Paraibana",250420,"Litoral Norte","Rio Tinto",0.21
+25,"Paraíba","251290","2010",2504,"Mata Paraibana",250420,"Litoral Norte","Rio Tinto",0.45
+25,"Paraíba","251290","2011",2504,"Mata Paraibana",250420,"Litoral Norte","Rio Tinto",1.25
+25,"Paraíba","251290","2012",2504,"Mata Paraibana",250420,"Litoral Norte","Rio Tinto",1.05
+25,"Paraíba","251300","2008",2502,"Borborema",250208,"Seridó Ocidental Paraibano","Salgadinho",0.23
+25,"Paraíba","251300","2009",2502,"Borborema",250208,"Seridó Ocidental Paraibano","Salgadinho",0.34
+25,"Paraíba","251300","2010",2502,"Borborema",250208,"Seridó Ocidental Paraibano","Salgadinho",0.29
+25,"Paraíba","251300","2011",2502,"Borborema",250208,"Seridó Ocidental Paraibano","Salgadinho",0.25
+25,"Paraíba","251300","2012",2502,"Borborema",250208,"Seridó Ocidental Paraibano","Salgadinho",0.03
+25,"Paraíba","251310","2008",2503,"Agreste Paraibano",250318,"Itabaiana","Salgado de São Félix",0.02
+25,"Paraíba","251310","2009",2503,"Agreste Paraibano",250318,"Itabaiana","Salgado de São Félix",0.15
+25,"Paraíba","251310","2010",2503,"Agreste Paraibano",250318,"Itabaiana","Salgado de São Félix",0.36
+25,"Paraíba","251310","2011",2503,"Agreste Paraibano",250318,"Itabaiana","Salgado de São Félix",1.42
+25,"Paraíba","251310","2012",2503,"Agreste Paraibano",250318,"Itabaiana","Salgado de São Félix",0.94
+25,"Paraíba","251315","2008",2503,"Agreste Paraibano",250319,"Umbuzeiro","Santa Cecília",0.03
+25,"Paraíba","251315","2009",2503,"Agreste Paraibano",250319,"Umbuzeiro","Santa Cecília",0.25
+25,"Paraíba","251315","2010",2503,"Agreste Paraibano",250319,"Umbuzeiro","Santa Cecília",0.3
+25,"Paraíba","251315","2011",2503,"Agreste Paraibano",250319,"Umbuzeiro","Santa Cecília",0.21
+25,"Paraíba","251315","2012",2503,"Agreste Paraibano",250319,"Umbuzeiro","Santa Cecília",0.29
+25,"Paraíba","251320","2008",2501,"Sertão Paraibano",250103,"Sousa","Santa Cruz",0.05
+25,"Paraíba","251320","2009",2501,"Sertão Paraibano",250103,"Sousa","Santa Cruz",0.07
+25,"Paraíba","251320","2010",2501,"Sertão Paraibano",250103,"Sousa","Santa Cruz",0.25
+25,"Paraíba","251320","2011",2501,"Sertão Paraibano",250103,"Sousa","Santa Cruz",0.02
+25,"Paraíba","251320","2012",2501,"Sertão Paraibano",250103,"Sousa","Santa Cruz",0
+25,"Paraíba","251330","2008",2501,"Sertão Paraibano",250102,"Cajazeiras","Santa Helena",0
+25,"Paraíba","251330","2009",2501,"Sertão Paraibano",250102,"Cajazeiras","Santa Helena",0
+25,"Paraíba","251330","2010",2501,"Sertão Paraibano",250102,"Cajazeiras","Santa Helena",0.06
+25,"Paraíba","251330","2011",2501,"Sertão Paraibano",250102,"Cajazeiras","Santa Helena",0
+25,"Paraíba","251330","2012",2501,"Sertão Paraibano",250102,"Cajazeiras","Santa Helena",0.14
+25,"Paraíba","251335","2008",2501,"Sertão Paraibano",250106,"Itaporanga","Santa Inês",0.1
+25,"Paraíba","251335","2009",2501,"Sertão Paraibano",250106,"Itaporanga","Santa Inês",0
+25,"Paraíba","251335","2010",2501,"Sertão Paraibano",250106,"Itaporanga","Santa Inês",0.03
+25,"Paraíba","251335","2011",2501,"Sertão Paraibano",250106,"Itaporanga","Santa Inês",0.4
+25,"Paraíba","251335","2012",2501,"Sertão Paraibano",250106,"Itaporanga","Santa Inês",0.31
+25,"Paraíba","251340","2008",2502,"Borborema",250208,"Seridó Ocidental Paraibano","Santa Luzia",0.31
+25,"Paraíba","251340","2009",2502,"Borborema",250208,"Seridó Ocidental Paraibano","Santa Luzia",0.14
+25,"Paraíba","251340","2010",2502,"Borborema",250208,"Seridó Ocidental Paraibano","Santa Luzia",0.16
+25,"Paraíba","251340","2011",2502,"Borborema",250208,"Seridó Ocidental Paraibano","Santa Luzia",1.38
+25,"Paraíba","251340","2012",2502,"Borborema",250208,"Seridó Ocidental Paraibano","Santa Luzia",1.28
+25,"Paraíba","251350","2008",2501,"Sertão Paraibano",250106,"Itaporanga","Santana de Mangueira",0.12
+25,"Paraíba","251350","2009",2501,"Sertão Paraibano",250106,"Itaporanga","Santana de Mangueira",0.16
+25,"Paraíba","251350","2010",2501,"Sertão Paraibano",250106,"Itaporanga","Santana de Mangueira",0.19
+25,"Paraíba","251350","2011",2501,"Sertão Paraibano",250106,"Itaporanga","Santana de Mangueira",0.38
+25,"Paraíba","251350","2012",2501,"Sertão Paraibano",250106,"Itaporanga","Santana de Mangueira",0.4
+25,"Paraíba","251360","2008",2501,"Sertão Paraibano",250105,"Piancó","Santana dos Garrotes",0.01
+25,"Paraíba","251360","2009",2501,"Sertão Paraibano",250105,"Piancó","Santana dos Garrotes",0.17
+25,"Paraíba","251360","2010",2501,"Sertão Paraibano",250105,"Piancó","Santana dos Garrotes",0.07
+25,"Paraíba","251360","2011",2501,"Sertão Paraibano",250105,"Piancó","Santana dos Garrotes",0.29
+25,"Paraíba","251360","2012",2501,"Sertão Paraibano",250105,"Piancó","Santana dos Garrotes",0.54
+NA,NA,"251365","2008",NA,NA,NA,NA,"Joca Claudino",0
+NA,NA,"251365","2009",NA,NA,NA,NA,"Joca Claudino",0
+NA,NA,"251365","2010",NA,NA,NA,NA,"Joca Claudino",0
+NA,NA,"251365","2011",NA,NA,NA,NA,"Joca Claudino",0
+NA,NA,"251365","2012",NA,NA,NA,NA,"Joca Claudino",0.04
+25,"Paraíba","251370","2008",2504,"Mata Paraibana",250422,"João Pessoa","Santa Rita",0.11
+25,"Paraíba","251370","2009",2504,"Mata Paraibana",250422,"João Pessoa","Santa Rita",0.23
+25,"Paraíba","251370","2010",2504,"Mata Paraibana",250422,"João Pessoa","Santa Rita",0.21
+25,"Paraíba","251370","2011",2504,"Mata Paraibana",250422,"João Pessoa","Santa Rita",0.7
+25,"Paraíba","251370","2012",2504,"Mata Paraibana",250422,"João Pessoa","Santa Rita",0.95
+25,"Paraíba","251380","2008",2501,"Sertão Paraibano",250104,"Patos","Santa Teresinha",0.25
+25,"Paraíba","251380","2009",2501,"Sertão Paraibano",250104,"Patos","Santa Teresinha",0.15
+25,"Paraíba","251380","2010",2501,"Sertão Paraibano",250104,"Patos","Santa Teresinha",0.33
+25,"Paraíba","251380","2011",2501,"Sertão Paraibano",250104,"Patos","Santa Teresinha",0.11
+25,"Paraíba","251380","2012",2501,"Sertão Paraibano",250104,"Patos","Santa Teresinha",0.11
+25,"Paraíba","251385","2008",2502,"Borborema",250211,"Cariri Oriental","Santo André",0.63
+25,"Paraíba","251385","2009",2502,"Borborema",250211,"Cariri Oriental","Santo André",0.48
+25,"Paraíba","251385","2010",2502,"Borborema",250211,"Cariri Oriental","Santo André",0.57
+25,"Paraíba","251385","2011",2502,"Borborema",250211,"Cariri Oriental","Santo André",1.03
+25,"Paraíba","251385","2012",2502,"Borborema",250211,"Cariri Oriental","Santo André",8.68
+25,"Paraíba","251390","2008",2501,"Sertão Paraibano",250101,"Catolé do Rocha","São Bento",0.12
+25,"Paraíba","251390","2009",2501,"Sertão Paraibano",250101,"Catolé do Rocha","São Bento",0.52
+25,"Paraíba","251390","2010",2501,"Sertão Paraibano",250101,"Catolé do Rocha","São Bento",0.07
+25,"Paraíba","251390","2011",2501,"Sertão Paraibano",250101,"Catolé do Rocha","São Bento",0.48
+25,"Paraíba","251390","2012",2501,"Sertão Paraibano",250101,"Catolé do Rocha","São Bento",1.63
+25,"Paraíba","251392","2008",2501,"Sertão Paraibano",250103,"Sousa","São Bentinho",0
+25,"Paraíba","251392","2009",2501,"Sertão Paraibano",250103,"Sousa","São Bentinho",0
+25,"Paraíba","251392","2010",2501,"Sertão Paraibano",250103,"Sousa","São Bentinho",0
+25,"Paraíba","251392","2011",2501,"Sertão Paraibano",250103,"Sousa","São Bentinho",0.07
+25,"Paraíba","251392","2012",2501,"Sertão Paraibano",250103,"Sousa","São Bentinho",0.33
+25,"Paraíba","251394","2008",2502,"Borborema",250211,"Cariri Oriental","São Domingos do Cariri",0.04
+25,"Paraíba","251394","2009",2502,"Borborema",250211,"Cariri Oriental","São Domingos do Cariri",0.04
+25,"Paraíba","251394","2010",2502,"Borborema",250211,"Cariri Oriental","São Domingos do Cariri",0
+25,"Paraíba","251394","2011",2502,"Borborema",250211,"Cariri Oriental","São Domingos do Cariri",0
+25,"Paraíba","251394","2012",2502,"Borborema",250211,"Cariri Oriental","São Domingos do Cariri",0.61
+25,"Paraíba","251396","2008",2501,"Sertão Paraibano",250103,"Sousa","São Domingos",0
+25,"Paraíba","251396","2009",2501,"Sertão Paraibano",250103,"Sousa","São Domingos",0
+25,"Paraíba","251396","2010",2501,"Sertão Paraibano",250103,"Sousa","São Domingos",0
+25,"Paraíba","251396","2011",2501,"Sertão Paraibano",250103,"Sousa","São Domingos",0.14
+25,"Paraíba","251396","2012",2501,"Sertão Paraibano",250103,"Sousa","São Domingos",0.21
+25,"Paraíba","251398","2008",2501,"Sertão Paraibano",250103,"Sousa","São Francisco",0.11
+25,"Paraíba","251398","2009",2501,"Sertão Paraibano",250103,"Sousa","São Francisco",0.11
+25,"Paraíba","251398","2010",2501,"Sertão Paraibano",250103,"Sousa","São Francisco",0.12
+25,"Paraíba","251398","2011",2501,"Sertão Paraibano",250103,"Sousa","São Francisco",0.09
+25,"Paraíba","251398","2012",2501,"Sertão Paraibano",250103,"Sousa","São Francisco",0.24
+25,"Paraíba","251400","2008",2502,"Borborema",250211,"Cariri Oriental","São João do Cariri",0.33
+25,"Paraíba","251400","2009",2502,"Borborema",250211,"Cariri Oriental","São João do Cariri",0.31
+25,"Paraíba","251400","2010",2502,"Borborema",250211,"Cariri Oriental","São João do Cariri",0.18
+25,"Paraíba","251400","2011",2502,"Borborema",250211,"Cariri Oriental","São João do Cariri",0.39
+25,"Paraíba","251400","2012",2502,"Borborema",250211,"Cariri Oriental","São João do Cariri",0.49
+25,"Paraíba","251410","2008",2502,"Borborema",250210,"Cariri Ocidental","São João do Tigre",0.19
+25,"Paraíba","251410","2009",2502,"Borborema",250210,"Cariri Ocidental","São João do Tigre",0.17
+25,"Paraíba","251410","2010",2502,"Borborema",250210,"Cariri Ocidental","São João do Tigre",0.02
+25,"Paraíba","251410","2011",2502,"Borborema",250210,"Cariri Ocidental","São João do Tigre",0.32
+25,"Paraíba","251410","2012",2502,"Borborema",250210,"Cariri Ocidental","São João do Tigre",0.05
+25,"Paraíba","251420","2008",2501,"Sertão Paraibano",250103,"Sousa","São José da Lagoa Tapada",0.01
+25,"Paraíba","251420","2009",2501,"Sertão Paraibano",250103,"Sousa","São José da Lagoa Tapada",0.01
+25,"Paraíba","251420","2010",2501,"Sertão Paraibano",250103,"Sousa","São José da Lagoa Tapada",0
+25,"Paraíba","251420","2011",2501,"Sertão Paraibano",250103,"Sousa","São José da Lagoa Tapada",0.07
+25,"Paraíba","251420","2012",2501,"Sertão Paraibano",250103,"Sousa","São José da Lagoa Tapada",0
+25,"Paraíba","251430","2008",2501,"Sertão Paraibano",250106,"Itaporanga","São José de Caiana",0.05
+25,"Paraíba","251430","2009",2501,"Sertão Paraibano",250106,"Itaporanga","São José de Caiana",0
+25,"Paraíba","251430","2010",2501,"Sertão Paraibano",250106,"Itaporanga","São José de Caiana",0.03
+25,"Paraíba","251430","2011",2501,"Sertão Paraibano",250106,"Itaporanga","São José de Caiana",0.1
+25,"Paraíba","251430","2012",2501,"Sertão Paraibano",250106,"Itaporanga","São José de Caiana",0.07
+25,"Paraíba","251440","2008",2501,"Sertão Paraibano",250104,"Patos","São José de Espinharas",0.06
+25,"Paraíba","251440","2009",2501,"Sertão Paraibano",250104,"Patos","São José de Espinharas",0.04
+25,"Paraíba","251440","2010",2501,"Sertão Paraibano",250104,"Patos","São José de Espinharas",0.21
+25,"Paraíba","251440","2011",2501,"Sertão Paraibano",250104,"Patos","São José de Espinharas",0.65
+25,"Paraíba","251440","2012",2501,"Sertão Paraibano",250104,"Patos","São José de Espinharas",0.15
+25,"Paraíba","251445","2008",2504,"Mata Paraibana",250421,"Sapé","São José dos Ramos",0.11
+25,"Paraíba","251445","2009",2504,"Mata Paraibana",250421,"Sapé","São José dos Ramos",0.25
+25,"Paraíba","251445","2010",2504,"Mata Paraibana",250421,"Sapé","São José dos Ramos",0.45
+25,"Paraíba","251445","2011",2504,"Mata Paraibana",250421,"Sapé","São José dos Ramos",1.01
+25,"Paraíba","251445","2012",2504,"Mata Paraibana",250421,"Sapé","São José dos Ramos",1
+25,"Paraíba","251450","2008",2501,"Sertão Paraibano",250102,"Cajazeiras","São José de Piranhas",0.02
+25,"Paraíba","251450","2009",2501,"Sertão Paraibano",250102,"Cajazeiras","São José de Piranhas",0.01
+25,"Paraíba","251450","2010",2501,"Sertão Paraibano",250102,"Cajazeiras","São José de Piranhas",0.07
+25,"Paraíba","251450","2011",2501,"Sertão Paraibano",250102,"Cajazeiras","São José de Piranhas",0.06
+25,"Paraíba","251450","2012",2501,"Sertão Paraibano",250102,"Cajazeiras","São José de Piranhas",0.11
+25,"Paraíba","251455","2008",2501,"Sertão Paraibano",250107,"Serra do Teixeira","São José de Princesa",0
+25,"Paraíba","251455","2009",2501,"Sertão Paraibano",250107,"Serra do Teixeira","São José de Princesa",0
+25,"Paraíba","251455","2010",2501,"Sertão Paraibano",250107,"Serra do Teixeira","São José de Princesa",0
+25,"Paraíba","251455","2011",2501,"Sertão Paraibano",250107,"Serra do Teixeira","São José de Princesa",0
+25,"Paraíba","251455","2012",2501,"Sertão Paraibano",250107,"Serra do Teixeira","São José de Princesa",0.02
+25,"Paraíba","251460","2008",2501,"Sertão Paraibano",250104,"Patos","São José do Bonfim",0
+25,"Paraíba","251460","2009",2501,"Sertão Paraibano",250104,"Patos","São José do Bonfim",0.03
+25,"Paraíba","251460","2010",2501,"Sertão Paraibano",250104,"Patos","São José do Bonfim",0.09
+25,"Paraíba","251460","2011",2501,"Sertão Paraibano",250104,"Patos","São José do Bonfim",0.12
+25,"Paraíba","251460","2012",2501,"Sertão Paraibano",250104,"Patos","São José do Bonfim",0.06
+25,"Paraíba","251465","2008",2501,"Sertão Paraibano",250101,"Catolé do Rocha","São José do Brejo do Cruz",0.18
+25,"Paraíba","251465","2009",2501,"Sertão Paraibano",250101,"Catolé do Rocha","São José do Brejo do Cruz",0.06
+25,"Paraíba","251465","2010",2501,"Sertão Paraibano",250101,"Catolé do Rocha","São José do Brejo do Cruz",0.71
+25,"Paraíba","251465","2011",2501,"Sertão Paraibano",250101,"Catolé do Rocha","São José do Brejo do Cruz",0.35
+25,"Paraíba","251465","2012",2501,"Sertão Paraibano",250101,"Catolé do Rocha","São José do Brejo do Cruz",0.7
+25,"Paraíba","251470","2008",2502,"Borborema",250208,"Seridó Ocidental Paraibano","São José do Sabugi",0.63
+25,"Paraíba","251470","2009",2502,"Borborema",250208,"Seridó Ocidental Paraibano","São José do Sabugi",0.05
+25,"Paraíba","251470","2010",2502,"Borborema",250208,"Seridó Ocidental Paraibano","São José do Sabugi",0.12
+25,"Paraíba","251470","2011",2502,"Borborema",250208,"Seridó Ocidental Paraibano","São José do Sabugi",0.1
+25,"Paraíba","251470","2012",2502,"Borborema",250208,"Seridó Ocidental Paraibano","São José do Sabugi",0.12
+25,"Paraíba","251480","2008",2502,"Borborema",250210,"Cariri Ocidental","São José dos Cordeiros",0.2
+25,"Paraíba","251480","2009",2502,"Borborema",250210,"Cariri Ocidental","São José dos Cordeiros",0.2
+25,"Paraíba","251480","2010",2502,"Borborema",250210,"Cariri Ocidental","São José dos Cordeiros",0.1
+25,"Paraíba","251480","2011",2502,"Borborema",250210,"Cariri Ocidental","São José dos Cordeiros",0.25
+25,"Paraíba","251480","2012",2502,"Borborema",250210,"Cariri Ocidental","São José dos Cordeiros",0.4
+25,"Paraíba","251490","2008",2502,"Borborema",250208,"Seridó Ocidental Paraibano","São Mamede",0.59
+25,"Paraíba","251490","2009",2502,"Borborema",250208,"Seridó Ocidental Paraibano","São Mamede",0.03
+25,"Paraíba","251490","2010",2502,"Borborema",250208,"Seridó Ocidental Paraibano","São Mamede",0.14
+25,"Paraíba","251490","2011",2502,"Borborema",250208,"Seridó Ocidental Paraibano","São Mamede",0.53
+25,"Paraíba","251490","2012",2502,"Borborema",250208,"Seridó Ocidental Paraibano","São Mamede",0.82
+25,"Paraíba","251500","2008",2504,"Mata Paraibana",250421,"Sapé","São Miguel de Taipu",0.01
+25,"Paraíba","251500","2009",2504,"Mata Paraibana",250421,"Sapé","São Miguel de Taipu",0.04
+25,"Paraíba","251500","2010",2504,"Mata Paraibana",250421,"Sapé","São Miguel de Taipu",0.12
+25,"Paraíba","251500","2011",2504,"Mata Paraibana",250421,"Sapé","São Miguel de Taipu",0.59
+25,"Paraíba","251500","2012",2504,"Mata Paraibana",250421,"Sapé","São Miguel de Taipu",0.69
+25,"Paraíba","251510","2008",2503,"Agreste Paraibano",250314,"Esperança","São Sebastião de Lagoa de Roça",0.14
+25,"Paraíba","251510","2009",2503,"Agreste Paraibano",250314,"Esperança","São Sebastião de Lagoa de Roça",0.22
+25,"Paraíba","251510","2010",2503,"Agreste Paraibano",250314,"Esperança","São Sebastião de Lagoa de Roça",0.33
+25,"Paraíba","251510","2011",2503,"Agreste Paraibano",250314,"Esperança","São Sebastião de Lagoa de Roça",0.27
+25,"Paraíba","251510","2012",2503,"Agreste Paraibano",250314,"Esperança","São Sebastião de Lagoa de Roça",0.34
+25,"Paraíba","251520","2008",2502,"Borborema",250210,"Cariri Ocidental","São Sebastião do Umbuzeiro",0.16
+25,"Paraíba","251520","2009",2502,"Borborema",250210,"Cariri Ocidental","São Sebastião do Umbuzeiro",0.66
+25,"Paraíba","251520","2010",2502,"Borborema",250210,"Cariri Ocidental","São Sebastião do Umbuzeiro",0.25
+25,"Paraíba","251520","2011",2502,"Borborema",250210,"Cariri Ocidental","São Sebastião do Umbuzeiro",0.34
+25,"Paraíba","251520","2012",2502,"Borborema",250210,"Cariri Ocidental","São Sebastião do Umbuzeiro",0.24
+25,"Paraíba","251530","2008",2504,"Mata Paraibana",250421,"Sapé","Sapé",0.14
+25,"Paraíba","251530","2009",2504,"Mata Paraibana",250421,"Sapé","Sapé",0.23
+25,"Paraíba","251530","2010",2504,"Mata Paraibana",250421,"Sapé","Sapé",0.33
+25,"Paraíba","251530","2011",2504,"Mata Paraibana",250421,"Sapé","Sapé",0.97
+25,"Paraíba","251530","2012",2504,"Mata Paraibana",250421,"Sapé","Sapé",0.84
+25,"Paraíba","251540","2008",2502,"Borborema",250209,"Seridó Oriental Paraibano","Seridó",0.12
+25,"Paraíba","251540","2009",2502,"Borborema",250209,"Seridó Oriental Paraibano","Seridó",0.04
+25,"Paraíba","251540","2010",2502,"Borborema",250209,"Seridó Oriental Paraibano","Seridó",0.32
+25,"Paraíba","251540","2011",2502,"Borborema",250209,"Seridó Oriental Paraibano","Seridó",0.18
+25,"Paraíba","251540","2012",2502,"Borborema",250209,"Seridó Oriental Paraibano","Seridó",0.23
+25,"Paraíba","251550","2008",2502,"Borborema",250210,"Cariri Ocidental","Serra Branca",0.52
+25,"Paraíba","251550","2009",2502,"Borborema",250210,"Cariri Ocidental","Serra Branca",0.5
+25,"Paraíba","251550","2010",2502,"Borborema",250210,"Cariri Ocidental","Serra Branca",0.26
+25,"Paraíba","251550","2011",2502,"Borborema",250210,"Cariri Ocidental","Serra Branca",0.63
+25,"Paraíba","251550","2012",2502,"Borborema",250210,"Cariri Ocidental","Serra Branca",0.76
+25,"Paraíba","251560","2008",2503,"Agreste Paraibano",250316,"Guarabira","Serra da Raiz",0.12
+25,"Paraíba","251560","2009",2503,"Agreste Paraibano",250316,"Guarabira","Serra da Raiz",0.19
+25,"Paraíba","251560","2010",2503,"Agreste Paraibano",250316,"Guarabira","Serra da Raiz",0.22
+25,"Paraíba","251560","2011",2503,"Agreste Paraibano",250316,"Guarabira","Serra da Raiz",1.35
+25,"Paraíba","251560","2012",2503,"Agreste Paraibano",250316,"Guarabira","Serra da Raiz",0.66
+25,"Paraíba","251570","2008",2501,"Sertão Paraibano",250106,"Itaporanga","Serra Grande",0.1
+25,"Paraíba","251570","2009",2501,"Sertão Paraibano",250106,"Itaporanga","Serra Grande",0
+25,"Paraíba","251570","2010",2501,"Sertão Paraibano",250106,"Itaporanga","Serra Grande",0.03
+25,"Paraíba","251570","2011",2501,"Sertão Paraibano",250106,"Itaporanga","Serra Grande",0.2
+25,"Paraíba","251570","2012",2501,"Sertão Paraibano",250106,"Itaporanga","Serra Grande",1.1
+25,"Paraíba","251580","2008",2503,"Agreste Paraibano",250317,"Campina Grande","Serra Redonda",0.29
+25,"Paraíba","251580","2009",2503,"Agreste Paraibano",250317,"Campina Grande","Serra Redonda",0.28
+25,"Paraíba","251580","2010",2503,"Agreste Paraibano",250317,"Campina Grande","Serra Redonda",0.18
+25,"Paraíba","251580","2011",2503,"Agreste Paraibano",250317,"Campina Grande","Serra Redonda",0.37
+25,"Paraíba","251580","2012",2503,"Agreste Paraibano",250317,"Campina Grande","Serra Redonda",0.78
+25,"Paraíba","251590","2008",2503,"Agreste Paraibano",250315,"Brejo Paraibano","Serraria",0.19
+25,"Paraíba","251590","2009",2503,"Agreste Paraibano",250315,"Brejo Paraibano","Serraria",0.13
+25,"Paraíba","251590","2010",2503,"Agreste Paraibano",250315,"Brejo Paraibano","Serraria",0.08
+25,"Paraíba","251590","2011",2503,"Agreste Paraibano",250315,"Brejo Paraibano","Serraria",0.31
+25,"Paraíba","251590","2012",2503,"Agreste Paraibano",250315,"Brejo Paraibano","Serraria",0.24
+25,"Paraíba","251593","2008",2503,"Agreste Paraibano",250316,"Guarabira","Sertãozinho",0.16
+25,"Paraíba","251593","2009",2503,"Agreste Paraibano",250316,"Guarabira","Sertãozinho",0.41
+25,"Paraíba","251593","2010",2503,"Agreste Paraibano",250316,"Guarabira","Sertãozinho",0.34
+25,"Paraíba","251593","2011",2503,"Agreste Paraibano",250316,"Guarabira","Sertãozinho",1.21
+25,"Paraíba","251593","2012",2503,"Agreste Paraibano",250316,"Guarabira","Sertãozinho",1.28
+25,"Paraíba","251597","2008",2504,"Mata Paraibana",250421,"Sapé","Sobrado",0.17
+25,"Paraíba","251597","2009",2504,"Mata Paraibana",250421,"Sapé","Sobrado",0.24
+25,"Paraíba","251597","2010",2504,"Mata Paraibana",250421,"Sapé","Sobrado",0.37
+25,"Paraíba","251597","2011",2504,"Mata Paraibana",250421,"Sapé","Sobrado",1.01
+25,"Paraíba","251597","2012",2504,"Mata Paraibana",250421,"Sapé","Sobrado",0.77
+25,"Paraíba","251600","2008",2503,"Agreste Paraibano",250313,"Curimataú Oriental","Solânea",0.11
+25,"Paraíba","251600","2009",2503,"Agreste Paraibano",250313,"Curimataú Oriental","Solânea",0.16
+25,"Paraíba","251600","2010",2503,"Agreste Paraibano",250313,"Curimataú Oriental","Solânea",0.29
+25,"Paraíba","251600","2011",2503,"Agreste Paraibano",250313,"Curimataú Oriental","Solânea",0.31
+25,"Paraíba","251600","2012",2503,"Agreste Paraibano",250313,"Curimataú Oriental","Solânea",0.59
+25,"Paraíba","251610","2008",2503,"Agreste Paraibano",250312,"Curimataú Ocidental","Soledade",0.56
+25,"Paraíba","251610","2009",2503,"Agreste Paraibano",250312,"Curimataú Ocidental","Soledade",0.21
+25,"Paraíba","251610","2010",2503,"Agreste Paraibano",250312,"Curimataú Ocidental","Soledade",0.22
+25,"Paraíba","251610","2011",2503,"Agreste Paraibano",250312,"Curimataú Ocidental","Soledade",0.32
+25,"Paraíba","251610","2012",2503,"Agreste Paraibano",250312,"Curimataú Ocidental","Soledade",0.39
+25,"Paraíba","251615","2008",2503,"Agreste Paraibano",250312,"Curimataú Ocidental","Sossêgo",0.03
+25,"Paraíba","251615","2009",2503,"Agreste Paraibano",250312,"Curimataú Ocidental","Sossêgo",0.16
+25,"Paraíba","251615","2010",2503,"Agreste Paraibano",250312,"Curimataú Ocidental","Sossêgo",0
+25,"Paraíba","251615","2011",2503,"Agreste Paraibano",250312,"Curimataú Ocidental","Sossêgo",0.06
+25,"Paraíba","251615","2012",2503,"Agreste Paraibano",250312,"Curimataú Ocidental","Sossêgo",0.28
+25,"Paraíba","251620","2008",2501,"Sertão Paraibano",250103,"Sousa","Sousa",0.08
+25,"Paraíba","251620","2009",2501,"Sertão Paraibano",250103,"Sousa","Sousa",0.25
+25,"Paraíba","251620","2010",2501,"Sertão Paraibano",250103,"Sousa","Sousa",1.05
+25,"Paraíba","251620","2011",2501,"Sertão Paraibano",250103,"Sousa","Sousa",0.36
+25,"Paraíba","251620","2012",2501,"Sertão Paraibano",250103,"Sousa","Sousa",0.39
+25,"Paraíba","251630","2008",2502,"Borborema",250210,"Cariri Ocidental","Sumé",0.18
+25,"Paraíba","251630","2009",2502,"Borborema",250210,"Cariri Ocidental","Sumé",0.76
+25,"Paraíba","251630","2010",2502,"Borborema",250210,"Cariri Ocidental","Sumé",0.37
+25,"Paraíba","251630","2011",2502,"Borborema",250210,"Cariri Ocidental","Sumé",0.38
+25,"Paraíba","251630","2012",2502,"Borborema",250210,"Cariri Ocidental","Sumé",0.43
+25,"Paraíba","251640","2008",2503,"Agreste Paraibano",250313,"Curimataú Oriental","Tacima",0.07
+25,"Paraíba","251640","2009",2503,"Agreste Paraibano",250313,"Curimataú Oriental","Tacima",0.16
+25,"Paraíba","251640","2010",2503,"Agreste Paraibano",250313,"Curimataú Oriental","Tacima",0.13
+25,"Paraíba","251640","2011",2503,"Agreste Paraibano",250313,"Curimataú Oriental","Tacima",0.21
+25,"Paraíba","251640","2012",2503,"Agreste Paraibano",250313,"Curimataú Oriental","Tacima",0.28
+25,"Paraíba","251650","2008",2502,"Borborema",250210,"Cariri Ocidental","Taperoá",0.3
+25,"Paraíba","251650","2009",2502,"Borborema",250210,"Cariri Ocidental","Taperoá",0.35
+25,"Paraíba","251650","2010",2502,"Borborema",250210,"Cariri Ocidental","Taperoá",0.29
+25,"Paraíba","251650","2011",2502,"Borborema",250210,"Cariri Ocidental","Taperoá",0.51
+25,"Paraíba","251650","2012",2502,"Borborema",250210,"Cariri Ocidental","Taperoá",0.88
+25,"Paraíba","251660","2008",2501,"Sertão Paraibano",250107,"Serra do Teixeira","Tavares",0.12
+25,"Paraíba","251660","2009",2501,"Sertão Paraibano",250107,"Serra do Teixeira","Tavares",0.14
+25,"Paraíba","251660","2010",2501,"Sertão Paraibano",250107,"Serra do Teixeira","Tavares",0.16
+25,"Paraíba","251660","2011",2501,"Sertão Paraibano",250107,"Serra do Teixeira","Tavares",0.21
+25,"Paraíba","251660","2012",2501,"Sertão Paraibano",250107,"Serra do Teixeira","Tavares",0.21
+25,"Paraíba","251670","2008",2501,"Sertão Paraibano",250107,"Serra do Teixeira","Teixeira",0.06
+25,"Paraíba","251670","2009",2501,"Sertão Paraibano",250107,"Serra do Teixeira","Teixeira",0.13
+25,"Paraíba","251670","2010",2501,"Sertão Paraibano",250107,"Serra do Teixeira","Teixeira",0.19
+25,"Paraíba","251670","2011",2501,"Sertão Paraibano",250107,"Serra do Teixeira","Teixeira",0.23
+25,"Paraíba","251670","2012",2501,"Sertão Paraibano",250107,"Serra do Teixeira","Teixeira",0.17
+25,"Paraíba","251675","2008",2502,"Borborema",250209,"Seridó Oriental Paraibano","Tenório",0.07
+25,"Paraíba","251675","2009",2502,"Borborema",250209,"Seridó Oriental Paraibano","Tenório",0
+25,"Paraíba","251675","2010",2502,"Borborema",250209,"Seridó Oriental Paraibano","Tenório",0
+25,"Paraíba","251675","2011",2502,"Borborema",250209,"Seridó Oriental Paraibano","Tenório",0.14
+25,"Paraíba","251675","2012",2502,"Borborema",250209,"Seridó Oriental Paraibano","Tenório",0.42
+25,"Paraíba","251680","2008",2501,"Sertão Paraibano",250102,"Cajazeiras","Triunfo",0.07
+25,"Paraíba","251680","2009",2501,"Sertão Paraibano",250102,"Cajazeiras","Triunfo",0.12
+25,"Paraíba","251680","2010",2501,"Sertão Paraibano",250102,"Cajazeiras","Triunfo",0.24
+25,"Paraíba","251680","2011",2501,"Sertão Paraibano",250102,"Cajazeiras","Triunfo",0.45
+25,"Paraíba","251680","2012",2501,"Sertão Paraibano",250102,"Cajazeiras","Triunfo",0.64
+25,"Paraíba","251690","2008",2501,"Sertão Paraibano",250102,"Cajazeiras","Uiraúna",0
+25,"Paraíba","251690","2009",2501,"Sertão Paraibano",250102,"Cajazeiras","Uiraúna",0.01
+25,"Paraíba","251690","2010",2501,"Sertão Paraibano",250102,"Cajazeiras","Uiraúna",0.12
+25,"Paraíba","251690","2011",2501,"Sertão Paraibano",250102,"Cajazeiras","Uiraúna",0.23
+25,"Paraíba","251690","2012",2501,"Sertão Paraibano",250102,"Cajazeiras","Uiraúna",0.17
+25,"Paraíba","251700","2008",2503,"Agreste Paraibano",250319,"Umbuzeiro","Umbuzeiro",0.17
+25,"Paraíba","251700","2009",2503,"Agreste Paraibano",250319,"Umbuzeiro","Umbuzeiro",0.18
+25,"Paraíba","251700","2010",2503,"Agreste Paraibano",250319,"Umbuzeiro","Umbuzeiro",0.16
+25,"Paraíba","251700","2011",2503,"Agreste Paraibano",250319,"Umbuzeiro","Umbuzeiro",1.45
+25,"Paraíba","251700","2012",2503,"Agreste Paraibano",250319,"Umbuzeiro","Umbuzeiro",0.56
+25,"Paraíba","251710","2008",2502,"Borborema",250208,"Seridó Ocidental Paraibano","Várzea",0.4
+25,"Paraíba","251710","2009",2502,"Borborema",250208,"Seridó Ocidental Paraibano","Várzea",0.43
+25,"Paraíba","251710","2010",2502,"Borborema",250208,"Seridó Ocidental Paraibano","Várzea",0.04
+25,"Paraíba","251710","2011",2502,"Borborema",250208,"Seridó Ocidental Paraibano","Várzea",0.08
+25,"Paraíba","251710","2012",2502,"Borborema",250208,"Seridó Ocidental Paraibano","Várzea",0.16
+25,"Paraíba","251720","2008",2501,"Sertão Paraibano",250103,"Sousa","Vieirópolis",0.02
+25,"Paraíba","251720","2009",2501,"Sertão Paraibano",250103,"Sousa","Vieirópolis",0.59
+25,"Paraíba","251720","2010",2501,"Sertão Paraibano",250103,"Sousa","Vieirópolis",0.1
+25,"Paraíba","251720","2011",2501,"Sertão Paraibano",250103,"Sousa","Vieirópolis",0.02
+25,"Paraíba","251720","2012",2501,"Sertão Paraibano",250103,"Sousa","Vieirópolis",0.2
+25,"Paraíba","251740","2008",2502,"Borborema",250210,"Cariri Ocidental","Zabelê",0.53
+25,"Paraíba","251740","2009",2502,"Borborema",250210,"Cariri Ocidental","Zabelê",0.67
+25,"Paraíba","251740","2010",2502,"Borborema",250210,"Cariri Ocidental","Zabelê",0.34
+25,"Paraíba","251740","2011",2502,"Borborema",250210,"Cariri Ocidental","Zabelê",0.57
+25,"Paraíba","251740","2012",2502,"Borborema",250210,"Cariri Ocidental","Zabelê",0.19
