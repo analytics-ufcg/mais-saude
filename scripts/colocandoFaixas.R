@@ -111,7 +111,7 @@ addTabela = function(tabela.default, tabela.nova) {
 
 #Recebe um valor do indicador, as tabelas de media e desvio padrao, e o ano do indicador. Retorna quantos desvios o valor esta da média
 classifyOutLiers <- function(obValue, list.quantiles, ano, data.frame){
-  if(!is.na(obValue)) {
+  if(!is.na(obValue)) {#####Mudar essas ordens, melhor do meio para o final
     if(obValue == list.quantiles$q0){
       return(0)
     }
@@ -149,19 +149,26 @@ classifyOutLiers <- function(obValue, list.quantiles, ano, data.frame){
 data.frame.fronteiras <<- data.frame(stringsAsFactors = FALSE)
 data.frame.todas.cidades.ano <<- data.frame(stringsAsFactors = FALSE)
 #recebe o data frame com um indicador e retorna um novo data frame com uma nova coluna informando se o indicador e outlier. Remove NAs dos indicadores.
-generateOutlierColumn <- function(data.df, referencial.outlier, sem.cg.jp, nome.indicador){ 
+generateOutlierColumn <- function(data.df, referencial.outlier, sem.cg.jp, nome.indicador, eh.normal){ 
   
   data.sem.nas = na.omit(data.df,stringsAsFactors = FALSE)
   if(sem.cg.jp == T){
     data.frame.todas.cidades.ano <<- data.frame(stringsAsFactors = FALSE)
     data.frame.todas.cidades.ano <<- rbind(data.frame.todas.cidades.ano, data.sem.nas)
+    if(eh.normal)
+    {
+      print("uhuuuu eu sou normal!!!")
+      central = mean(data.sem.nas$VALOR)
+    }else{
+      central = median(data.sem.nas$VALOR)
+    }
     list.quantiles <<- list(indicador = nome.indicador,
     ano = data.df$ANO[1],
     q4 = quantile(data.sem.nas$VALOR, 0.999),
     q3 = quantile(data.sem.nas$VALOR, 0.978),
     q2 = quantile(data.sem.nas$VALOR, 0.842),
     q1 = quantile(data.sem.nas$VALOR, 0.5),
-    q0 = quantile(data.sem.nas$VALOR, 0.5),
+    q0 = central,
     q1.neg = quantile(data.sem.nas$VALOR, 0.5),
     q2.neg = quantile(data.sem.nas$VALOR, 0.158),
     q3.neg = quantile(data.sem.nas$VALOR, 0.021),
@@ -173,8 +180,8 @@ generateOutlierColumn <- function(data.df, referencial.outlier, sem.cg.jp, nome.
   if(sem.cg.jp == F)
   {
     data.frame.todas.cidades.ano <<- rbind(data.frame.todas.cidades.ano, data.sem.nas)
-   # list.quantiles["max"] = max(data.frame.todas.cidades.ano$VALOR)
-    #list.quantiles["min"] = min(data.frame.todas.cidades.ano$VALOR)
+    list.quantiles["max"] = max(data.frame.todas.cidades.ano$VALOR)
+    list.quantiles["min"] = min(data.frame.todas.cidades.ano$VALOR)
     data.frame.fronteiras <<- rbind(data.frame.fronteiras, list.quantiles)
   }
   #meanAno = aggregate(data.sem.nas[,ncol(data.sem.nas)], list(data.sem.nas$Ano), mean)
@@ -200,45 +207,44 @@ getIndicadorCategoria = function(tabela.nova, tabela.indicador){
 ###############################################----Minha parte------#############################################
 
 
-indicador_01 = gerarIntervalos("data/INDICADOR_001.csv", F, T, F, "UTF-8", ";", 8, 2, "MELHOR")
-indicador_02 = gerarIntervalos("data/INDICADOR_002.csv", F, T, F, "UTF-8", ";", 8, 2, "MELHOR")
-indicador_04 = gerarIntervalos("data/INDICADOR_004.csv", F, T, F, "UTF-8", ";", 8, 2, "MELHOR")
-indicador_07 = gerarIntervalos("data/INDICADOR_007.csv", F, T, F, "UTF-8", ";", 8, 2, "MELHOR")
-indicador_09 = gerarIntervalos("data/INDICADOR_009.csv", F, T, F, "UTF-8", ";", 8, 2, "MELHOR")
-indicador_20 = gerarIntervalos("data/INDICADOR_020.csv", F, F, F, "UTF-8", ";", 8, 2, "MELHOR")
-indicador_21 = gerarIntervalos("data/INDICADOR_021.csv", F, F, F, "UTF-8", ";", 8, 2, "MELHOR")
-indicador_35 = gerarIntervalos("data/INDICADOR_035.csv", F, T, F, "UTF-8", ";", 8, 2, "MELHOR")
-indicador_41 = gerarIntervalos("data/INDICADOR_041.csv", F, T, F, "UTF-8", ";", 8, 2, "MELHOR")
+indicador_01 = gerarIntervalos("data/INDICADOR_001.csv", F, T, F, "UTF-8", ";", 8, 2, "MELHOR", eh.normal=c(F,F,F,F,F,F), "indicador_001")
+indicador_02 = gerarIntervalos("data/INDICADOR_002.csv", F, T, F, "UTF-8", ";", 8, 2, "MELHOR", eh.normal=c(F,F,F,F,F,F), "indicador_002")
+indicador_04 = gerarIntervalos("data/INDICADOR_004.csv", F, T, F, "UTF-8", ";", 8, 2, "MELHOR", eh.normal=c(F,F,F,F,F,F), "indicador_004")
+indicador_07 = gerarIntervalos("data/INDICADOR_007.csv", F, T, F, "UTF-8", ";", 8, 2, "MELHOR", eh.normal=c(F,F,F,F,F,F), "indicador_007")
+indicador_09 = gerarIntervalos("data/INDICADOR_009.csv", F, T, F, "UTF-8", ";", 8, 2, "MELHOR", eh.normal=c(F,F,F,F,F,F), "indicador_009")
+indicador_20 = gerarIntervalos("data/INDICADOR_020.csv", F, F, F, "UTF-8", ";", 8, 2, "MELHOR", eh.normal=c(F,F,F,F,F,F), "indicador_020")
+indicador_21 = gerarIntervalos("data/INDICADOR_021.csv", F, F, F, "UTF-8", ";", 8, 2, "MELHOR", eh.normal=c(F,F,F,F,F,F), "indicador_021")
+indicador_35 = gerarIntervalos("data/INDICADOR_035.csv", F, T, F, "UTF-8", ";", 8, 2, "MELHOR", eh.normal=c(F,F,F,F,F,F), "indicador_035")
+indicador_41 = gerarIntervalos("data/INDICADOR_041.csv", F, T, F, "UTF-8", ";", 8, 2, "MELHOR", eh.normal=c(F,F,F,F,F,F), "indicador_041")
 
-indicador_101 = gerarIntervalos("data/INDICADOR_101.csv", T, T, F, "UTF-8", ",", 8, 2, "MELHOR")
-indicador_102 = gerarIntervalos("data/INDICADOR_102.csv", T, T, F, "UTF-8", ",", 8, 2, "MELHOR")
-indicador_103 = gerarIntervalos("data/INDICADOR_103.csv", T, T, F, "UTF-8", ",", 8, 2, "MELHOR")
-indicador_104 = gerarIntervalos("data/INDICADOR_104.csv", T, T, F, "UTF-8", ",", 8, 2, "MELHOR")
-indicador_105 = gerarIntervalos("data/INDICADOR_105.csv", T, T, F, "UTF-8", ",", 8, 2, "MELHOR")
-indicador_106 = gerarIntervalos("data/INDICADOR_106.csv", T, T, F, "UTF-8", ",", 8, 2, "MELHOR")
-indicador_107 = gerarIntervalos("data/INDICADOR_107.csv", T, T, F, "UTF-8", ",", 8, 2, "MELHOR")
-indicador_108 = gerarIntervalos("data/INDICADOR_108.csv", T, T, F, "UTF-8", ",", 8, 2, "MELHOR")
-indicador_109 = gerarIntervalos("data/INDICADOR_109.csv", T, T, F, "UTF-8", ",", 8, 2, "MELHOR")
-indicador_110 = gerarIntervalos("data/INDICADOR_110.csv", T, T, F, "UTF-8", ",", 8, 2, "MELHOR")
-indicador_111 = gerarIntervalos("data/INDICADOR_111.csv", T, T, F, "UTF-8", ",", 8, 2, "MELHOR")
-indicador_112 = gerarIntervalos("data/INDICADOR_112.csv", T, T, F, "UTF-8", ",", 8, 2, "MELHOR")
-indicador_113 = gerarIntervalos("data/INDICADOR_113.csv", T, T, F, "UTF-8", ",", 8, 2, "MELHOR")
-indicador_114 = gerarIntervalos("data/INDICADOR_114.csv", T, T, F, "UTF-8", ",", 8, 2, "MELHOR")
+indicador_101 = gerarIntervalos("data/INDICADOR_101.csv", T, T, F, "UTF-8", ",", 8, 2, "MELHOR", eh.normal=c(F,F,F,F,F,F), "indicador_101")
+indicador_102 = gerarIntervalos("data/INDICADOR_102.csv", T, T, F, "UTF-8", ",", 8, 2, "MELHOR", eh.normal=c(F,F,F,F,F,F), "indicador_102")
+indicador_103 = gerarIntervalos("data/INDICADOR_103.csv", T, T, F, "UTF-8", ",", 8, 2, "MELHOR", eh.normal=c(F,F,F,F,F,F), "indicador_103")
+indicador_104 = gerarIntervalos("data/INDICADOR_104.csv", T, T, F, "UTF-8", ",", 8, 2, "MELHOR", eh.normal=c(F,F,F,F,F,F), "indicador_104")
+indicador_105 = gerarIntervalos("data/INDICADOR_105.csv", T, T, F, "UTF-8", ",", 8, 2, "MELHOR", eh.normal=c(F,F,F,F,F,F), "indicador_105")
+indicador_106 = gerarIntervalos("data/INDICADOR_106.csv", T, T, F, "UTF-8", ",", 8, 2, "MELHOR", eh.normal=c(F,F,F,F,F,F), "indicador_106")
+indicador_107 = gerarIntervalos("data/INDICADOR_107.csv", T, T, F, "UTF-8", ",", 8, 2, "MELHOR", eh.normal=c(F,F,F,F,F,F), "indicador_107")
+indicador_108 = gerarIntervalos("data/INDICADOR_108.csv", T, T, F, "UTF-8", ",", 8, 2, "MELHOR", eh.normal=c(F,F,F,F,F,F), "indicador_108")
+indicador_109 = gerarIntervalos("data/INDICADOR_109.csv", T, T, F, "UTF-8", ",", 8, 2, "MELHOR", eh.normal=c(F,F,F,F,F,F), "indicador_109")
+indicador_110 = gerarIntervalos("data/INDICADOR_110.csv", T, T, F, "UTF-8", ",", 8, 2, "MELHOR", eh.normal=c(F,F,F,F,F,F), "indicador_110")
+indicador_111 = gerarIntervalos("data/INDICADOR_111.csv", T, T, F, "UTF-8", ",", 8, 2, "MELHOR", eh.normal=c(F,F,F,F,F,F), "indicador_111")
+indicador_112 = gerarIntervalos("data/INDICADOR_112.csv", T, T, F, "UTF-8", ",", 8, 2, "MELHOR", eh.normal=c(F,F,F,F,F,F), "indicador_112")
+indicador_113 = gerarIntervalos("data/INDICADOR_113.csv", T, T, F, "UTF-8", ",", 8, 2, "MELHOR", eh.normal=c(F,F,F,F,F,F), "indicador_113")
+indicador_114 = gerarIntervalos("data/INDICADOR_114.csv", T, T, F, "UTF-8", ",", 8, 2, "MELHOR", eh.normal=c(F,F,F,F,F,F), "indicador_114")
 
 
-indicador_201 = gerarIntervalos("data/INDICADOR_201.csv", F, F, T, "UTF-8", ",", 8, 7, "MELHOR")
-indicador_202 = gerarIntervalos("data/INDICADOR_202.csv", F, F, T, "UTF-8", ",", 8, 7, "MELHOR")
-indicador_203 = gerarIntervalos("data/INDICADOR_203.csv", F, T, T, "UTF-8", ",", 8, 7, "MELHOR")
-indicador_204 = gerarIntervalos("data/INDICADOR_204.csv", F, T, T, "UTF-8", ",", 8, 7, "MELHOR")
-indicador_205 = gerarIntervalos("data/INDICADOR_205.csv", F, T, T, "UTF-8", ",", 8, 7, "MELHOR")
-indicador_206 = gerarIntervalos("data/INDICADOR_206.csv", F, F, T, "UTF-8", ",", 8, 7, "MELHOR")
-indicador_207 = gerarIntervalos("data/INDICADOR_207.csv", F, F, T, "UTF-8", ",", 8, 7, "MELHOR")
-indicador_208 = gerarIntervalos("data/INDICADOR_208.csv", F, T, T, "UTF-8", ",", 8, 7, "MELHOR")
+indicador_201 = gerarIntervalos("data/INDICADOR_201.csv", F, F, T, "UTF-8", ",", 8, 7, "MELHOR", eh.normal=c(F,F,F,F,F,F), "indicador_201")
+indicador_202 = gerarIntervalos("data/INDICADOR_202.csv", F, F, T, "UTF-8", ",", 8, 7, "MELHOR", eh.normal=c(F,F,F,F,F,F), "indicador_202")
+indicador_203 = gerarIntervalos("data/INDICADOR_203.csv", F, T, T, "UTF-8", ",", 8, 7, "MELHOR", eh.normal=c(F,F,F,F,F,F), "indicador_203")
+indicador_204 = gerarIntervalos("data/INDICADOR_204.csv", F, T, T, "UTF-8", ",", 8, 7, "MELHOR", eh.normal=c(F,F,F,F,F,F), "indicador_204")
+indicador_205 = gerarIntervalos("data/INDICADOR_205.csv", F, T, T, "UTF-8", ",", 8, 7, "MELHOR", eh.normal=c(F,F,F,F,F,F), "indicador_205")
+indicador_206 = gerarIntervalos("data/INDICADOR_206.csv", F, F, T, "UTF-8", ",", 8, 7, "MELHOR", eh.normal=c(F,F,F,F,F,F), "indicador_206")
+indicador_207 = gerarIntervalos("data/INDICADOR_207.csv", F, F, T, "UTF-8", ",", 8, 7, "MELHOR", eh.normal=c(F,F,F,F,F,F), "indicador_207")
+indicador_208 = gerarIntervalos("data/INDICADOR_208.csv", F, T, T, "UTF-8", ",", 8, 7, "MELHOR", eh.normal=c(F,F,F,F,F,F), "indicador_208")
 
-gerarIntervalos = function(arquivo, com.2007, com.2012, soh.2010,  encode.arq, separador, col.valor, col.ano, categoria.indicador){
+gerarIntervalos = function(arquivo, com.2007, com.2012, soh.2010,  encode.arq, separador, col.valor, col.ano, categoria.indicador, eh.normal, nome.indicador){
   
 
-  nome.indicador <<- "INDICADOR_101"
   #df = read.csv(file="Downloads/INDICADOR_1.csv", fileEncoding="UTF-8", stringsAsFactors=F, header=T)
   df = read.csv(file=arquivo, fileEncoding=encode.arq, stringsAsFactors=F, header=T, sep = separador)
   
@@ -278,25 +284,25 @@ gerarIntervalos = function(arquivo, com.2007, com.2012, soh.2010,  encode.arq, s
   if(soh.2010 == F){
 
     if(com.2007){
-      saida.sem.CG.e.JP.2007 = generateOutlierColumn(df.sem.CG.e.JP.2007, categoria.indicador, T, nome.indicador)#tem que ser nessa ordem: sem e depois com
-      saida.CG.e.JP.2007 = generateOutlierColumn(df.CG.e.JP.2007, categoria.indicador, F, nome.indicador)
+      saida.sem.CG.e.JP.2007 = generateOutlierColumn(df.sem.CG.e.JP.2007, categoria.indicador, T, nome.indicador, eh.normal[1])#tem que ser nessa ordem: sem e depois com
+      saida.CG.e.JP.2007 = generateOutlierColumn(df.CG.e.JP.2007, categoria.indicador, F, nome.indicador, eh.normal[1])
     }
     
-    saida.sem.CG.e.JP.2008 = generateOutlierColumn(df.sem.CG.e.JP.2008, categoria.indicador, T, nome.indicador)#tem que ser nessa ordem: sem e depois com
-    saida.CG.e.JP.2008 = generateOutlierColumn(df.CG.e.JP.2008, categoria.indicador, F, nome.indicador)
+    saida.sem.CG.e.JP.2008 = generateOutlierColumn(df.sem.CG.e.JP.2008, categoria.indicador, T, nome.indicador, eh.normal[2])#tem que ser nessa ordem: sem e depois com
+    saida.CG.e.JP.2008 = generateOutlierColumn(df.CG.e.JP.2008, categoria.indicador, F, nome.indicador, eh.normal[2])
     
-    saida.sem.CG.e.JP.2009 = generateOutlierColumn(df.sem.CG.e.JP.2009, categoria.indicador, T, nome.indicador)#tem que ser nessa ordem: sem e depois com
-    saida.CG.e.JP.2009 = generateOutlierColumn(df.CG.e.JP.2009, categoria.indicador, F, nome.indicador)
+    saida.sem.CG.e.JP.2009 = generateOutlierColumn(df.sem.CG.e.JP.2009, categoria.indicador, T, nome.indicador, eh.normal[3])#tem que ser nessa ordem: sem e depois com
+    saida.CG.e.JP.2009 = generateOutlierColumn(df.CG.e.JP.2009, categoria.indicador, F, nome.indicador, eh.normal[3])
     
-    saida.sem.CG.e.JP.2010 = generateOutlierColumn(df.sem.CG.e.JP.2010, categoria.indicador, T, nome.indicador)#tem que ser nessa ordem: sem e depois com
-    saida.CG.e.JP.2010 = generateOutlierColumn(df.CG.e.JP.2010, categoria.indicador, F, nome.indicador)
+    saida.sem.CG.e.JP.2010 = generateOutlierColumn(df.sem.CG.e.JP.2010, categoria.indicador, T, nome.indicador, eh.normal[4])#tem que ser nessa ordem: sem e depois com
+    saida.CG.e.JP.2010 = generateOutlierColumn(df.CG.e.JP.2010, categoria.indicador, F, nome.indicador, eh.normal[4])
     
-    saida.sem.CG.e.JP.2011 = generateOutlierColumn(df.sem.CG.e.JP.2011, categoria.indicador, T, nome.indicador)#tem que ser nessa ordem: sem e depois com
-    saida.CG.e.JP.2011 = generateOutlierColumn(df.CG.e.JP.2011, categoria.indicador, F, nome.indicador)
+    saida.sem.CG.e.JP.2011 = generateOutlierColumn(df.sem.CG.e.JP.2011, categoria.indicador, T, nome.indicador, eh.normal[5])#tem que ser nessa ordem: sem e depois com
+    saida.CG.e.JP.2011 = generateOutlierColumn(df.CG.e.JP.2011, categoria.indicador, F, nome.indicador, eh.normal[5])
     
     if(com.2012){
-      saida.sem.CG.e.JP.2012 = generateOutlierColumn(df.sem.CG.e.JP.2012, categoria.indicador, T, nome.indicador)#tem que ser nessa ordem: sem e depois com
-      saida.CG.e.JP.2012 = generateOutlierColumn(df.CG.e.JP.2012, categoria.indicador, F, nome.indicador)
+      saida.sem.CG.e.JP.2012 = generateOutlierColumn(df.sem.CG.e.JP.2012, categoria.indicador, T, nome.indicador, eh.normal[6])#tem que ser nessa ordem: sem e depois com
+      saida.CG.e.JP.2012 = generateOutlierColumn(df.CG.e.JP.2012, categoria.indicador, F, nome.indicador, eh.normal[6])
     }
     #print(saida.sem.CG.e.JP.2011)
     
@@ -329,8 +335,8 @@ gerarIntervalos = function(arquivo, com.2007, com.2012, soh.2010,  encode.arq, s
     saida = saida[with(saida, order(NOME_MUNICIPIO, ANO)), ]
   }
   else{
-    saida.sem.CG.e.JP.2010 = generateOutlierColumn(df.sem.CG.e.JP.2010, categoria.indicador, T, nome.indicador)#tem que ser nessa ordem: sem e depois com
-    saida.CG.e.JP.2010 = generateOutlierColumn(df.CG.e.JP.2010, categoria.indicador, F, nome.indicador)
+    saida.sem.CG.e.JP.2010 = generateOutlierColumn(df.sem.CG.e.JP.2010, categoria.indicador, T, nome.indicador, eh.normal[4])#tem que ser nessa ordem: sem e depois com
+    saida.CG.e.JP.2010 = generateOutlierColumn(df.CG.e.JP.2010, categoria.indicador, F, nome.indicador, eh.normal[4])
     saida.2010 = rbind(saida.sem.CG.e.JP.2010, saida.CG.e.JP.2010)
     saida.2010 = saida.2010[with(saida.2010, order(NOME_MUNICIPIO, ANO)), ]
     saida = saida.2010

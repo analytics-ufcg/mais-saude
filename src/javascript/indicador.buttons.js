@@ -82,7 +82,8 @@ function getMenuOption(selection) {
 		.data(dicionario)
 		.attr("class", function(d) {
 
-			return "indicador " + getButtonColor(d.desvio);        	
+			return "indicador " + getButtonColor(d.desvio);
+//			return "indicador " + getButtonColor_new(d.id, cidade);
 	    })
 		.attr("value", function (d){return d.name.replace("(%)","").replace("(em Reais)","");}) 
 		.attr("id", function (d, i){return d.id;})
@@ -120,6 +121,39 @@ function cleanContainers(){
 }
 
 //Retorna a cor do Botao
+
+var color_scale_buttons = ["indicador_verde2","indicador_verde","indicador_branco", "indicador_branco", "indicador_branco", "indicador_amarelo","indicador_laranja","indicador_vermelho"];
+
+function get_color_scale_buttons(indicador){
+//      if (indicador == "INDICADOR_???"){
+//              return outra_color_scale;
+//      }
+        return color_scale_buttons
+}
+
+function getButtonColor_new(id, nome_municipio) {
+	
+	var valor = getRecentValueIndicadorColuna(id);
+	
+	if (valor == "NA" && cidade == "Visão Geral") {
+	        return "indicador_map";
+	}
+
+	if (valor == "NA") {
+        	return "indicador_cinza";
+	}
+	
+	var current_year = getCurrentYearNotNA(rawdata, nome_municipio, id);
+ 	var faixa = desvios.filter(function(d){return d.indicador == id && d.ano == current_year})[0]
+                                        .bounds
+                                        .map(function(value) { return {x : parseFloat(value)};})
+					.sort(function(a, b){
+				                return d3.descending(a.x, b.x);
+					});
+	return get_cor_indicador(id, valor, faixa, get_color_scale_buttons(id));
+
+}
+
 function getButtonColor(colunaDesvio) {
 
 	var valor = getRecentValueIndicadorColuna(colunaDesvio);

@@ -174,8 +174,15 @@ function get_cor_indicador(indicador, valor, faixa, color_scale){
 	var filtro = faixa.filter(function(d){
 		return valor <= d.x;
 	});
+
+	var min_v_faixa = filtro[filtro.length-1]
 	
-	return color_scale[faixa.indexOf(filtro[filtro.length-1])];
+	filtro = faixa.filter(function(d){
+		return d.x == min_v_faixa.x 
+	});
+	
+	
+	return color_scale[faixa.indexOf(filtro[0])];
 }
 
 
