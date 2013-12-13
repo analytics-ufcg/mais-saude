@@ -8,7 +8,10 @@ require("stats")
 
 #calcula os p.valores do teste shapiro-wilk dos anos
 p.values = function(df, index, file_name, significance) {
-
+  outliers = c(250750, 250400, 250630, 251080, 250370, 250970)
+  df = subset(df, !df$COD_MUNICIPIO %in% outliers)
+  #df = subset(df, df$COD_MUNICIPIO!=250750 & df$COD_MUNICIPIO!=250400 & df$COD_MUNICIPIO!=250630 & df$COD_MUNICIPIO!=251080 & df$COD_MUNICIPIO!=250370 & df$COD_MUNICIPIO!=250970)#cg, jp, gua, pat, caj, mont
+  
 	indicador_name = colnames(df)[index]
 	
 	sink(file=file_name, append=TRUE)
