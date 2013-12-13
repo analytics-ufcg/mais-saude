@@ -90,7 +90,7 @@ function resetMap(dataset) {
 }
 
 
-function plotColorMap(indicador_nome, colunaDesvio, dataset) {
+function plotColorMap(indicador_nome) {
 	
 	var todas_cidades = dataset.map(function(d){return d.NOME_MUNICIPIO;}).unique().sort(sortComparer);
 	var div_municipios = d3.select("#Municípios");
@@ -103,8 +103,8 @@ function plotColorMap(indicador_nome, colunaDesvio, dataset) {
 	//laço que itera em todas as cidades do mapa
 	for (var i = 0; i < todas_cidades.length; i++) {
 
-		indicador_result = getDesvioIndicador(indicador_nome, colunaDesvio, todas_cidades[i], dataset);
-		lastYear = getlastYear(indicador_nome, colunaDesvio, todas_cidades[i], dataset);
+		indicador_result = getDesvioIndicador(indicador_nome, todas_cidades[i], dataset);
+		lastYear = getlastYear(indicador_nome, todas_cidades[i], dataset);
 		indicador_valor = indicador_result[0];
 
 		var indicador_desvio = indicador_result[1];
@@ -137,7 +137,7 @@ function plotColorMap(indicador_nome, colunaDesvio, dataset) {
 				cidade = cidade.replace(/d Água/, "d'Água");
 			}
 
-			var indicador_result = getDesvioIndicador(indicador_nome, colunaDesvio, cidade, dataset);
+			var indicador_result = getDesvioIndicador(indicador_nome, cidade, dataset);
 			var indicador_valor = indicador_result[0];
 			var indicador_desvio = indicador_result[1];
 
@@ -165,7 +165,7 @@ function plotColorMap(indicador_nome, colunaDesvio, dataset) {
 				cidade = cidade.replace(/d Água/, "d'Água");
 			}
 
-			var indicador_result = getDesvioIndicador(indicador_nome, colunaDesvio, cidade, dataset);
+			var indicador_result = getDesvioIndicador(indicador_nome, cidade, dataset);
 			var indicador_desvio = indicador_result[1];
 
 			cidadeID.css("fill", getClassColor( indicador_desvio));
@@ -181,7 +181,7 @@ function plotColorMap(indicador_nome, colunaDesvio, dataset) {
 				cidade = cidade.replace(/d Água/, "d'Água");
 			}
 
-			var indicador_result = getDesvioIndicador(indicador_nome, colunaDesvio, cidade, dataset);
+			var indicador_result = getDesvioIndicador(indicador_nome, cidade, dataset);
 
 			var selection = $("#myList").val(cidade);
 
@@ -202,16 +202,16 @@ function plotColorMap(indicador_nome, colunaDesvio, dataset) {
 }
 
 // Retorna o ultimo ano de um dado indicador para uma cidade especifica
-function getlastYear(indicador, colunaDesvio, cidade, dataset) {
-	var rawdata = dataset.filter(function(i){return i.NOME_MUNICIPIO == cidade;});	
+function getlastYear(indicador, cidade, dataset) {
+	var rawdata = dataset.filter(function(i){return i.COD_MUNICIPIO == cidade;});	
 	var maxYear = rawdata.filter(function(d){return d[indicador] != "NA";}).map(function(d){return parseInt(d.ANO);});
 	return maxYear;
 
 }
 
 //Retorna o desvio padrão do ultimo ano disponível para um indicador e uma cidade
-function getDesvioIndicador(indicador, colunaDesvio, cidade, dataset) {
-	var rawdata = dataset.filter(function(i){return i.NOME_MUNICIPIO == cidade;});	
+function getDesvioIndicador(indicador, cidade, dataset) {
+	var rawdata = dataset.filter(function(i){return i.COD_MUNICIPIO == cidade;});	
 	var maxYear = rawdata.filter(function(d){return d[indicador] != "NA";}).map(function(d){return parseInt(d.ANO);});
 	if (maxYear.length == 0) {
 		return ["NA","NA"];
@@ -219,7 +219,12 @@ function getDesvioIndicador(indicador, colunaDesvio, cidade, dataset) {
 	else {
 		maxYear = d3.max(maxYear);
 		var currentYearData = rawdata.filter(function(d){return d.ANO == maxYear;})[0];
-		return [currentYearData[indicador], currentYearData[colunaDesvio]];
+		
+		color = get_color_scale_buttons(indicador)[
+			calc_index_cor_indicador(indicador, currentYearData[indicador],desvios.filter(function(d){return d.indicador == a.id && d.ano == year_a})[0].bounds)
+		]
+		console.log(currentYearData[indicador]);
+		return [currentYearData[indicador], 0];
 	}
 }
 

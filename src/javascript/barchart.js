@@ -1,66 +1,46 @@
-var color_scale_indicador = ["#006400","#92B879","#E0E0E0","#E0E0E0","#E0E0E0","#FFFF00","#FF7F00","#ff3333"];
-var color_scale_cidades = ["#003300","#6b954f","#C0C0C0","#C0C0C0","#C0C0C0","#FFCC00","#CC5200","#670000"];
 
-var color_scale_meso = ["#F0F0F0","#E0E0E0","#F0F0F0"];
-var color_scale_cidades_meso = ["#F0F0F0","#C0C0C0","#F0F0F0"];
-var estado_faixas = [];
-
-function get_color_scale(indicador){
-//	if (indicador == "INDICADOR_???"){
-//		return outra_color_scale;
-//	}
-	return color_scale_cidades
-}
-
-function plot_barra_indicador(cidade, indicador_nome) {
-   //console.log(cidade);
+function plot_barra_indicador(cod_cidade, indicador_nome) {
   
   if(dataset!='null'){
-    plot_bars(dataset, cidade, indicador_nome);
+    plot_bars(dataset, cod_cidade, indicador_nome);
   }
   else{
     d3.csv("data/tabela_com_todos_os_indicadores_selecionados_e_desvios.csv" , function (data){   
-      plot_bars(data, cidade, indicador_nome);
+      plot_bars(data, cod_cidade, indicador_nome);
     });
   }
 }
 
-function plot_bars(data, cidade_nome, indicador){
+function plot_bars(data, cod_cidade, indicador){
 	var h1 = 60;
 	var	h2 = h1 + 60;
 	var h3 = h2 + 60;
-	var h4 = h3 + 60;
 
-	var current_year = getCurrentYearNotNA(data, cidade_nome, indicador);
+	var current_year = getCurrentYearNotNA(cod_cidade, indicador);
 	
 	var bounds = desvios.filter(function(d){return d.indicador == indicador && d.ano == current_year})[0]
-					.bounds
-					.map(parseFloat);
+					.bounds;
 	
 	var estado = data.filter(function(d){return d.ANO == current_year;});
 	
-	var cidade = estado.filter(function(d){return d.NOME_MUNICIPIO == cidade_nome})[0];
+	var cidade_selecionada = estado.filter(function(d){return d.COD_MUNICIPIO == cod_cidade})[0];
 
-	var meso = estado.filter(function(d){return d.NOME_MESO == cidade.NOME_MESO;});
+	var meso = estado.filter(function(d){return d.NOME_MESO == cidade_selecionada.NOME_MESO;});
 
-	var micro = rawdata.filter(function(d){return d.NOME_MICRO == cidade.NOME_MICRO;});
+	var micro = estado.filter(function(d){return d.NOME_MICRO == cidade_selecionada.NOME_MICRO;});
 
-	estado_faixas = bounds.map(function(d){ return {'x': d, 'y': h1};}).sort(function(a, b){ 
-		return d3.descending(a.x, b.x); 
-	});;
+	var estado_faixas = bounds;
 					
-	var meso_faixas =[
-	                  {'x': (d3.max(estado,function(d){return parseFloat(d[indicador]);})), 'y' : h2},
-	                  {'x': (d3.max(meso,function(d){return parseFloat(d[indicador]);})), 'y' : h2},
-	               	  {'x' : d3.min(meso,function(d){return parseFloat(d[indicador]);}) , 'y' : h2}, 
-	                  {'x' : d3.min(estado,function(d){return parseFloat(d[indicador]);}) , 'y' : h2}
+	var meso_faixas =[d3.max( estado,function(d){return parseFloat(d[indicador]);}),
+	                  d3.max(meso,function(d){return parseFloat(d[indicador]);}),
+	               	  d3.min(meso,function(d){return parseFloat(d[indicador]);}), 
+	                  d3.min(estado,function(d){return parseFloat(d[indicador]);})
 					];
 		
-	var micro_faixas = [
-	                    {'x': (d3.max(estado,function(d){return parseFloat(d[indicador]);})), 'y' : h3},
-	                    {'x': (d3.max(micro,function(d){return parseFloat(d[indicador]);})), 'y' : h3},
-    					{'x' :d3.min(micro,function(d){return parseFloat(d[indicador]);}) , 'y' : h3},
-						{'x' : d3.min(estado,function(d){return parseFloat(d[indicador]);}) , 'y' : h3}
+	var micro_faixas = [d3.max(estado,function(d){return parseFloat(d[indicador]);}),
+	                    d3.max(micro,function(d){return parseFloat(d[indicador]);}),
+    					d3.min(micro,function(d){return parseFloat(d[indicador]);}),
+						d3.min(estado,function(d){return parseFloat(d[indicador]);})
 						];
 	
 	var width = 800;
@@ -73,25 +53,25 @@ function plot_bars(data, cidade_nome, indicador){
 		.attr('width', width)
 		.attr('height', height);
 		
-	plotTitulosGraficos(svg, indicador, current_year,cidade.NOME_MESO,cidade.NOME_MICRO);
+	plotTitulosGraficos(svg, indicador, current_year,cidade_selecionada.NOME_MESO,cidade_selecionada.NOME_MICRO);
 	
-	plot_bar(svg, estado, estado_faixas, x_start, x_end, color_scale_indicador,indicador);
-	plot_bar(svg, meso, meso_faixas, x_start, x_end, color_scale_meso,indicador);
-	plot_bar(svg, micro, micro_faixas, x_start, x_end, color_scale_meso,indicador);
+	plot_bar(svg, estado, estado_faixas, x_start, x_end, get_color_scale_buttons(indicador),indicador, h1);
+	plot_bar(svg, meso, meso_faixas, x_start, x_end, color_scale_meso,indicador, h2);
+	plot_bar(svg, micro, micro_faixas, x_start, x_end, color_scale_meso,indicador, h3);
 	
-	plot_cidades(svg,micro,micro_faixas,x_start, x_end, indicador, color_scale_cidades_meso);
-	plot_cidades(svg,meso,meso_faixas,x_start, x_end, indicador, color_scale_cidades_meso);
-	plot_cidades(svg,estado,estado_faixas,x_start, x_end, indicador, get_color_scale(indicador));
+	plot_cidades(svg,estado,estado_faixas,x_start, x_end, indicador, get_color_scale_buttons(indicador), h1);
+	plot_cidades(svg,meso,meso_faixas,x_start, x_end, indicador, color_scale_meso, h2);
+	plot_cidades(svg,micro,micro_faixas,x_start, x_end, indicador, color_scale_meso, h3);
 	
-	plot_cidade(svg,estado_faixas, x_start, x_end,cidade,indicador);
+	plot_cidade(svg,estado_faixas, x_start, x_end,cidade_selecionada,indicador, h1);
 	
 }
 
-function plot_bar(svg_element, cidades, faixas, x_start, x_end, color_scale,indicador){
+function plot_bar(svg_element, cidades, faixas, x_start, x_end, color_scale,indicador, bar_height){
 	
-	var min_x = faixas[faixas.length-1].x;
-	var max_x = faixas[0].x;
-	var y_default = faixas[0].y;
+	var min_x = faixas[faixas.length-1];
+	var max_x = faixas[0];
+	var y_default = bar_height;
 	
 	var x_scale = d3.scale.linear()
 				    .domain([parseFloat(min_x), parseFloat(max_x)])
@@ -113,18 +93,18 @@ function plot_bar(svg_element, cidades, faixas, x_start, x_end, color_scale,indi
 						.append("line")
 						.transition().duration(1000).delay(200)
 						.attr("x1", x_scale(min_x))
-						.attr("x2", function(d){ return x_scale(d.x);})
+						.attr("x2", function(d){ return x_scale(d);})
 						.attr("y1",y_default)
 						.attr("y2",y_default)
 						.attr("id","barra_indicador_altura_" + y_default)
-						.style("stroke",function(d,i){return color_scale[i]})
+						.style("stroke",function(d,i){return color_scale[i].faixa})
 						.attr("stroke-width",25);
 }
 
-function plot_cidades(svg,cidades, faixas, x_start, x_end, indicador, color_scale){
-    var min_x = faixas[faixas.length-1].x;
-	var max_x = faixas[0].x;
-	var y_default = faixas[0].y;
+function plot_cidades(svg,cidades, faixas, x_start, x_end, indicador, color_scale, bar_height){
+    var min_x = faixas[faixas.length-1];
+	var max_x = faixas[0];
+	var y_default = bar_height;
 	
 	cidades = cidades.filter(function(d){return d[indicador] != "NA";});
 	var mapa_municipios = geraMapa(cidades,indicador);
@@ -144,7 +124,8 @@ function plot_cidades(svg,cidades, faixas, x_start, x_end, indicador, color_scal
 						.attr("y1",y_default)
 						.attr("y2",y_default)
 						.attr("id","barra_indicador_altura_" + y_default)
-						.style("stroke",function(d){ return get_cor_indicador(indicador, d[indicador], faixas, color_scale); })
+						.style("stroke",function(d){
+							return color_scale[calc_index_cor_indicador(indicador, d[indicador], faixas)].cidade; })
 						.attr("opacity",0.6)
 						.attr("stroke-width",25)
 						.on("mouseover", function(d) {
@@ -170,25 +151,12 @@ function plot_cidades(svg,cidades, faixas, x_start, x_end, indicador, color_scal
 
 }
 
-function get_cor_indicador(indicador, valor, faixa, color_scale){
-	var filtro = faixa.filter(function(d){
-		return valor <= d.x;
-	});
-
-	var min_v_faixa = filtro[filtro.length-1]
-	
-	filtro = faixa.filter(function(d){
-		return d.x == min_v_faixa.x 
-	});
-	
-	return color_scale[faixa.indexOf(filtro[valor == min_v_faixa?0:filtro.length-1])];
-}
 
 
-function plot_cidade(svg, faixas, x_start, x_end, cidade, indicador){
-	var min_x = faixas[faixas.length-1].x;
-	var max_x = faixas[0].x;
-	var y_default = faixas[0].y;
+function plot_cidade(svg, faixas, x_start, x_end, cidade, indicador, bar_height){
+	var min_x = faixas[faixas.length-1];
+	var max_x = faixas[0];
+	var y_default = bar_height;
 	
 	var x_scale = d3.scale.linear()
 				    .domain([parseFloat(min_x), parseFloat(max_x)])
@@ -247,14 +215,6 @@ Array.prototype.contains = function(obj) {
     return false;
 }
 
-function getCurrentYearNotNA(data, cidade, indicador) {
-    
-    var city = data.filter(function(d){return d.NOME_MUNICIPIO == cidade && d[indicador] != "NA";});
-    var value = city.map(function(d){return d[indicador];});
-    var years = city.map(function(d){return d.ANO;});
-
-    return current_year = d3.max(years);   
-}
 
 function plotTitulosGraficos(svg,indicador, ano, micro, meso){
 
@@ -269,7 +229,7 @@ function plotTitulosGraficos(svg,indicador, ano, micro, meso){
     d3.select("#div_nome_cidade")
     .append("h1")
     .attr("class", "nome_cidade")
-    .text(cidade + " - " + ano);
+    .text(cidades.filter(function(d){return d.COD_MUNICIPIO == cidade})[0].NOME_MUNICIPIO + " - " + ano);
     
     d3.select("#div_indicador_titulo")
     .append("h1")

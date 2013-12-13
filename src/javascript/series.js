@@ -104,10 +104,11 @@ function getLineValues(data, cidade, indicador) {
     var obj_paraiba = [];
     
 
-    var city = data.filter(function(d){return d.NOME_MUNICIPIO == cidade;});
+    var city = data.filter(function(d){return d.COD_MUNICIPIO == cidade && d[indicador] != "NA";});
     var nome_microregiao = city.map(function(d){return d.NOME_MICRO;})[0];
     var nome_mesoregiao  = city.map(function(d){return d.NOME_MESO;})[0];
     var value = city.map(function(d){return d[indicador];});
+    console.log(value);
     var years = city.map(function(d){return d.ANO;});
    
 
