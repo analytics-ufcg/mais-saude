@@ -24,6 +24,19 @@ for i in ../data/faixas/DESVIOS_*.csv; do
     fi
 done
 
+echo "arquivos de médias/medianas"
+
+for i in ../data/centro/CENTRO_*.csv; do
+    echo "Checking $i"
+
+    if [ -e ../data/tabelas/centro.csv ]; then
+        ./join_centro.R ../data/tabelas/centro.csv $i
+    else
+        cp $i ../data/tabelas/centro.csv
+    fi
+done
+
+
 
 echo "Check results at data/tabelas/"
 
