@@ -37,7 +37,7 @@ function resetMap(dataset) {
 			
 		  	
 			var cidadeID = $(this);
-			cidadeID.css("fill", "#BFD8FF");
+			cidadeID.css("fill", "#bfffc6");
 			
 
 			var xPosition = cidadeID.offset().left + 100;

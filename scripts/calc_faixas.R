@@ -24,12 +24,57 @@ calc_bounds <- function(data, is_normal){
         m <- mean(data)
         s <- sd(data)
         results = c(m-3*s, m-2*s, m-1*s, m, m+1*s, m+2*s, m+3*s)
+        results = c( min(data), results, max(data) );
     }else{
         results = quantile(data, c(0.001, 0.022, 0.158, 0.5, 0.842, 0.978, 0.999));
-    }
-    c( min(data), results, max(data) );
+        results = c( min(data), results, max(data) );
+        
+        #print(results)
+        
+        #parte que remove as fronteiras repetidas
+        valores = as.vector(results)
+        count = 1
+        while(count!=9){
+          valor_atual = valores[count]
+          
+          #percorre o vetor e conta as ocorrencias
+          posicao_atual = count + 1
+          ocorrencia = 1
+          while(posicao_atual!=9){
+            if(isTRUE(as.numeric(valor_atual)==as.numeric(valores[posicao_atual]))){
+              posicao_atual = posicao_atual + 1
+              ocorrencia = ocorrencia + 1
+            }else{
+             break
+            }
+          }
+          
+          #calcula a nova fronteira
+          if(isTRUE( ocorrencia > 1 & posicao_atual > 8)){
+            segundo_maior = max(data[data < max(data)])
+            new_bound = (valor_atual - segundo_maior)/ocorrencia
+            posicao = 0
+            for(i in count:8){
+              results[i] = (segundo_maior) + (posicao*new_bound)
+              posicao = posicao + 1
+            }
+            break
+          }else if(isTRUE( ocorrencia > 1 & posicao_atual < 8)){
+            segundo_menor = min(data[data > min(data)])
+            new_bound = (segundo_menor -valor_atual)/ocorrencia
+            posicao = 0
+            for(i in count:(posicao_atual-1)){
+              results[i] = valor_atual + (posicao*new_bound)
+              posicao = posicao + 1
+            }
+          }
+          count = posicao_atual
+        } 
+  }
+    return (results)
 }
 
+    
 for(ano in anos){
     current_data <- data[data$ANO == ano,]
     

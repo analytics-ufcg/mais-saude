@@ -71,11 +71,12 @@ function getMenuOption(selection) {
 		return {'ANO':getCurrentYearNotNA(cidade, d.id), 'INDICADOR': d.id};
 	});
 	
+	
 	dicionario.sort(function (a, b) {
 		
 		var year_a = cidade_ano_nao_na.filter(function(d){return d.INDICADOR == a.id;})[0].ANO;
 		var year_b = cidade_ano_nao_na.filter(function(d){return d.INDICADOR == b.id;})[0].ANO;
-		
+
 		var valor_a = dataset_cidade.filter( function(d){return d.ANO == year_a;} )[0][a.id];
 		var valor_b = dataset_cidade.filter( function(d){return d.ANO == year_b;} )[0][b.id];
 		
