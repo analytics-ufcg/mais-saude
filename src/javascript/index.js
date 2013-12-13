@@ -101,7 +101,7 @@ function loadData() {
 	    }});
 	});
 
-	d3.csv("data/medianas_para_todos_indicadores_agrupados_por_ano_e_regiao.csv" , function (data){
+	d3.csv("data/centro.csv" , function (data){
 		medianas = data;
 	});
 

@@ -8,7 +8,7 @@ function plot_cidade_indicador(cidade, indicador_nome) {
     plot(dataset, cidade, indicador_nome);
   }
   else{
-    d3.csv("data/tabela_com_todos_os_indicadores_selecionados_e_desvios.csv" , function (data){   
+    d3.csv("data/centro.csv" , function (data){   
       plot(data, cidade, indicador_nome);
 
     });
@@ -105,16 +105,17 @@ function getLineValues(data, cidade, indicador) {
     
 
     var city = data.filter(function(d){return d.COD_MUNICIPIO == cidade && d[indicador] != "NA";});
-    var nome_microregiao = city.map(function(d){return d.NOME_MICRO;})[0];
-    var nome_mesoregiao  = city.map(function(d){return d.NOME_MESO;})[0];
+    var cod_microregiao = city.map(function(d){return {'COD_MICRO':d.COD_MICRO, 'NOME_MICRO':d.NOME_MICRO};})[0];
+    var cod_mesoregiao  = city.map(function(d){return {'COD_MESO':d.COD_MESO, 'NOME_MESO':d.NOME_MESO};})[0];
     var value = city.map(function(d){return d[indicador];});
     console.log(value);
     var years = city.map(function(d){return d.ANO;});
    
 
-    var microregiao = medianas.filter(function(d){return d.REGIAO == nome_microregiao;});
-    var mesoregiao = medianas.filter(function(d){return d.REGIAO == nome_mesoregiao;});
-    var paraiba = medianas.filter(function(d){return d.REGIAO == "Paraíba";});
+    var microregiao = medianas.filter(function(d){return d.REGIAO == cod_microregiao.COD_MICRO && d[indicador] != "NA";});
+    console.log(microregiao);
+    var mesoregiao = medianas.filter(function(d){return d.REGIAO == cod_mesoregiao.COD_MESO && d[indicador] != "NA";});
+    var paraiba = medianas.filter(function(d){return d.REGIAO == 25 && d[indicador] != "NA";});
 
     var value_meso = mesoregiao.map(function(d){return d[indicador];});
     var years_meso = mesoregiao.map(function(d){return d.ANO;});
@@ -150,17 +151,17 @@ function getLineValues(data, cidade, indicador) {
     return [
       {
         values: obj_municipio,
-        key: "Município: "+cidade,
+        key: "Município: "+ cidades.filter(function(d){return d.COD_MUNICIPIO == cidade})[0].NOME_MUNICIPIO,
         color: "#ff7f0e"
       },
       {
         values: obj_mesoregiao,
-        key: "Mesoregião: "+nome_mesoregiao,
+        key: "Mesoregião: "+cod_mesoregiao.NOME_MESO,
         color: "#33FF00"
       },
       {
         values: obj_microregiao,
-        key: "Microregião: "+nome_microregiao,
+        key: "Microregião: "+cod_microregiao.NOME_MICRO,
         color: "#00B2EE"
       },
       {
