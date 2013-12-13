@@ -1,4 +1,4 @@
-#!/usr/bin/RScript
+#!/usr/bin/Rscript
 
 args	<- commandArgs(TRUE)
 
