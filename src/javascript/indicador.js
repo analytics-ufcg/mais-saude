@@ -17,7 +17,6 @@ function loadData() {
 	$("#button_back_map").click(function() { 
 			
 			var selection = $("#myList").val("Visão Geral");
-
 			selection.change();
 	});
 

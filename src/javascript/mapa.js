@@ -2,7 +2,7 @@
 
 //   valor_pessimo, valor_muito_ruim, valor_ruim, valor_bom, valor_muito_bom, neutro
 var colors = [ "#FF0000", "#FF6600", "#FFCC00", "green", "#006400", "#F0F0F0", "#BFD8FF"]
-
+var cidades_color;
 
 
 //compara unicode characters
@@ -94,32 +94,55 @@ function plotColorMap(indicador_nome) {
 	
 	var todas_cidades = dataset.map(function(d){return d.NOME_MUNICIPIO;}).unique().sort(sortComparer);
 	var div_municipios = d3.select("#Municípios");
+	//var map_dataset_cidade = dataset.map(function(d){return {"NOME_MUNICIPIO":d.NOME_MUNICIPIO, "COD_MUNICIPIO":d.COD_MUNICIPIO}; });
 	var indicador_result;
 	var indicador_valor;
 	var indicador_desvio;
 	var lastYear;
+	var cidades_color_new = [];
 
-
+	//console.log(map_dataset_cidade);
 	//laço que itera em todas as cidades do mapa
 	for (var i = 0; i < todas_cidades.length; i++) {
 
-		indicador_result = getDesvioIndicador(indicador_nome, todas_cidades[i], dataset);
-		lastYear = getlastYear(indicador_nome, todas_cidades[i], dataset);
-		indicador_valor = indicador_result[0];
+		
 
-		var indicador_desvio = indicador_result[1];
-		var cidade = todas_cidades[i].replace(/ /g, "_");
-		//console.log(cidade);
+		
 		var cidade = todas_cidades[i].replace(/ /g, "_");
 		if(cidade == "Mãe_d'Água" || cidade == "Olho_d'Água") {
 			cidade = cidade.replace(/'/, "_");
 		}
+		
+		//console.log(cidade);
+		var map_dataset_cidade = dataset.filter(function(d){return d.NOME_MUNICIPIO == todas_cidades[i];});
+		//console.log(map_dataset_cidade);
+
+		var cod_cidade = map_dataset_cidade.map(function(d){ return d.COD_MUNICIPIO; })[0];
+		//console.log(cod_cidade);
+		
+		lastYear = getCurrentYearNotNA(cod_cidade, indicador_nome);
+
+
+		var valor_a = map_dataset_cidade.filter( function(d){return d.ANO == lastYear;} )[0][indicador_nome];
+		//console.log(valor_a);
+
+		var bounds_a = desvios.filter(function(d){return d.indicador == indicador_nome && d.ano == lastYear})[0].bounds;
+		//console.log(bounds_a);
+		var color_a = get_color_scale_buttons(indicador_nome)[calc_index_cor_indicador(indicador_nome, valor_a, bounds_a)].faixa;
+		//console.log(color_a);
+		
+		cidades_color_new.push({"cidade":todas_cidades[i],"color":color_a, "valor":valor_a});
+		cidades_color = cidades_color_new;
+
+
+		
 		var cidadeID = div_municipios.select("#" + cidade);
+
 		
 		cidadeID
 			.transition()
 			.duration(Math.floor((Math.random()*1000)+1))
-			.style("fill", getClassColor( indicador_desvio))
+			.style("fill", color_a)
 			//.attr("class", "str2 " + getClassColor(indicador_valor, indicador_desvio, indicador_nome))
 			;
 
@@ -137,9 +160,9 @@ function plotColorMap(indicador_nome) {
 				cidade = cidade.replace(/d Água/, "d'Água");
 			}
 
-			var indicador_result = getDesvioIndicador(indicador_nome, cidade, dataset);
-			var indicador_valor = indicador_result[0];
-			var indicador_desvio = indicador_result[1];
+			
+
+			var indicador_valor = cidades_color.filter(function(d){return d.cidade == cidade;})[0].valor;
 
 			if(indicador_valor == "NA") {
 				d3.select("#tooltip").style("left", xPosition + "px")
@@ -157,6 +180,7 @@ function plotColorMap(indicador_nome) {
 	
 		//mouse out
 		cidadeID.on("mouseout", function(d) {
+
 			var cidadeID = $(this);
 
 			var cidade = cidadeID.attr("id").replace(/_/g, " ");
@@ -164,15 +188,16 @@ function plotColorMap(indicador_nome) {
 			if(cidade == "Mãe d Água" || cidade == "Olho d Água") {
 				cidade = cidade.replace(/d Água/, "d'Água");
 			}
+			console.log(cidade);
+			var color = cidades_color.filter(function(d){return d.cidade == cidade;});
+			
 
-			var indicador_result = getDesvioIndicador(indicador_nome, cidade, dataset);
-			var indicador_desvio = indicador_result[1];
-
-			cidadeID.css("fill", getClassColor( indicador_desvio));
+			cidadeID.css("fill",color[0].color);
 			d3.select("#tooltip").classed("hidden", true);
 		});
 
 		cidadeID.on("click", function(d){
+			console.log("ssdsdsdasdasdfsgdgdryryselection");
 			var cidadeID = $(this);
 
 			var cidade = cidadeID.attr("id").replace(/_/g, " ");
@@ -181,19 +206,23 @@ function plotColorMap(indicador_nome) {
 				cidade = cidade.replace(/d Água/, "d'Água");
 			}
 
-			var indicador_result = getDesvioIndicador(indicador_nome, cidade, dataset);
+			var indicador_result = cidades_color.filter(function(d){return d.cidade == cidade;});
+			console.log(indicador_result);
 
-			var selection = $("#myList").val(cidade);
+			var cod_municipio = cidades.filter(function(d){return d.NOME_MUNICIPIO == cidade;})[0].COD_MUNICIPIO;
+			
+			var selection = $("#myList").val(cod_municipio);
 
 			selection.change();
 
 			if(indicador_result[0] != "NA") {
+
 				cleanContainers();
 				plot_barra_indicador(cidade, indicador_nome);
 				plot_cidade_indicador(cidade, indicador_nome);
-
-				
 			}
+
+
 
 			
 		});
