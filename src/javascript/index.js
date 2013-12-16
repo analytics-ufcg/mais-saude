@@ -175,7 +175,7 @@ function get_color_scale_buttons(indicador){
 	} else if ( referencial == "pior") {
 		return color_scale_buttons_descending;
 	} else {
-		return color_scale_buttons_ascending; // color_scale_buttons_middle
+		return color_scale_buttons_middle;
 	}
 }
 

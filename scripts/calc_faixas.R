@@ -19,15 +19,15 @@ data = read.csv(file_name)
 
 anos <- unique(data$ANO)
 
-calc_bounds <- function(data, is_normal){
+calc_bounds <- function(data, complete_data, is_normal){
     if(is_normal){
         m <- mean(data)
         s <- sd(data)
         results = c(m-3*s, m-2*s, m-1*s, m, m+1*s, m+2*s, m+3*s)
-        results = c( min(data), results, max(data) );
+        results = c( min(complete_data), results, max(complete_data) );
     }else{
         results = quantile(data, c(0.001, 0.022, 0.158, 0.5, 0.842, 0.978, 0.999));
-        results = c( min(data), results, max(data) );
+        results = c( min(complete_data), results, max(complete_data) );
         
         #print(results)
         
@@ -81,7 +81,7 @@ for(ano in anos){
     current_data_without_outliers = subset(current_data, !current_data$COD_MUNICIPIO %in% outliers)
     current_data_outliers = subset(current_data, current_data$COD_MUNICIPIO %in% outliers)
     
-    bounds <- calc_bounds(current_data_without_outliers[,index_indicador],
+    bounds <- calc_bounds(current_data_without_outliers[,index_indicador], current_data[,index_indicador],
         norm_results[norm_results$INDICADOR == colnames(data)[index_indicador] & norm_results$ANO == ano,]$NORMAL
     );
     
