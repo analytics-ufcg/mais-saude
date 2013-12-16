@@ -732,6 +732,8 @@ class UploadHandler
 		
 		// Nome das tabelas inseridas como parametro no script R 
 		$nome_tab2 = $name;
+
+		echo $file->name;
 		
 		// Diretorio atual das tabelas a serem substituidas
 		$dir_arquivos = "../../../data/";
@@ -749,6 +751,9 @@ class UploadHandler
 		
 		// Executando o script R 
 		exec("/usr/lib/R/bin/Rscript agrega_novos_dados.R \"$file_path\" $dir_arquivo2 $dir_arquivo2 ");
+
+		exec("./rebuild_data.sh");
+		
 		return $file;
     }
 
