@@ -56,6 +56,13 @@ var cinza_claro = {
 	'valor': 7
 };
 
+var cor_do_mapa = {
+	'botao': "indicador_map",
+	'faixa':  "#FFFFFF",
+	'cidade': "#FFFFFF",
+	'valor': 8
+};
+
 var color_scale_buttons_ascending = [verde, verde_claro, branco, branco, branco, amarelo, laranja, vermelho, vermelho];
 var color_scale_buttons_descending = [vermelho, laranja, amarelo, branco, branco, branco, verde_claro, verde, verde];
 var color_scale_buttons_middle = [vermelho, laranja, amarelo, branco, branco, amarelo, laranja, vermelho, vermelho];

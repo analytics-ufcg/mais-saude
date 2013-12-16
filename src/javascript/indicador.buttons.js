@@ -23,7 +23,7 @@ function loadUpButtons(data) {
 		        .attr("class", "indicador indicador_map")
 		        .on("click", function(d) {
 					if(cidade == 0){
-						$("#map_title").text(d.name);
+						$("#map_title").text(d.name + " em " + getlastYear(d.id));
 						plotColorMap(d.id);
 					}
 					else{
@@ -62,12 +62,11 @@ function getMenuOption(selection) {
 	}
 	else {
 		$("#map_area").hide();
-	}
 
-	dataset_cidade = dataset.filter(function(d){return d.COD_MUNICIPIO == cidade;});
-	
-	cidade_ano_nao_na = dicionario.map(function(d){
-		return {'ANO':getCurrentYearNotNA(cidade, d.id), 'INDICADOR': d.id};
+		dataset_cidade = dataset.filter(function(d){return d.COD_MUNICIPIO == cidade;});
+		
+		cidade_ano_nao_na = dicionario.map(function(d){
+			return {'ANO':getCurrentYearNotNA(cidade, d.id), 'INDICADOR': d.id};
 	});
 	
 	
@@ -91,6 +90,7 @@ function getMenuOption(selection) {
 		
 		return color_b.valor-color_a.valor;
 	});
+	}
 	
 	d3.selectAll(".indicador")
 		.data(dicionario)
@@ -128,16 +128,16 @@ function cleanContainers(){
 // retorna a cor para o botão com base na faixa do indicador
 function getButtonColor_new(indicador) {
 	
+	if (cidade == 0) {
+	        return cor_do_mapa.botao;
+	}
+
 	var current_year = cidade_ano_nao_na.filter(function(d){return d.INDICADOR == indicador;})[0].ANO;
 	
 	var valor = dataset_cidade.filter( function(d){return d.ANO == current_year;} )[0][indicador];
-	
-	if (valor == "NA" && cidade == 0) {
-	        return "indicador_map";
-	}
 
 	if (valor == "NA") {
-        	return "indicador_cinza";
+        	return cinza.botao;
 	}
 	
  	var faixa = desvios.filter(function(d){return d.indicador == indicador && d.ano == current_year})[0]

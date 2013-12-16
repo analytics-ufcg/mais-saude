@@ -100,14 +100,14 @@ function plotColorMap(indicador_nome) {
 			var xPosition = cidadeID.offset().left + 100;
 			var yPosition = cidadeID.offset().top;
 
-			var cidade_na_lista = mapa_to_municipio(cidadeID.attr("id"));
+			var cidade_na_lista = mapa2municipio(cidadeID.attr("id"));
 			var cidade_selecionada = cidades.filter(function(d){return d.NOME_MUNICIPIO == cidade_na_lista})[0];
 			var result = calcValorEDesvio(indicador_nome, cidade_selecionada.COD_MUNICIPIO, lastYear);
 
 			if(result[0] == "NA") {
 				d3.select("#tooltip").style("left", xPosition + "px")
 				.style("top", yPosition + "px")
-				.select("#value").text(cidade_selecionada.NOME_MUNICIPIO + " não possui dados para este indicador.");
+				.select("#value").text(cidade_selecionada.NOME_MUNICIPIO + " não possui dados para este indicador para o ano de " + lastYear);
 			}
 			else {
 				d3.select("#tooltip").style("left", xPosition + "px")
@@ -120,7 +120,7 @@ function plotColorMap(indicador_nome) {
 		//mouse out
 		cidadeID.on("mouseout", function(d) {
 			var cidadeID = $(this);
-			var cidade_no_mapa = mapa_to_municipio(cidadeID.attr("id"));
+			var cidade_no_mapa = mapa2municipio(cidadeID.attr("id"));
 			var cidade_selecionada = cidades.filter(function(d){return d.NOME_MUNICIPIO == cidade_no_mapa})[0];
 			var result = calcValorEDesvio(indicador_nome, cidade_selecionada.COD_MUNICIPIO, lastYear);
 
@@ -145,11 +145,11 @@ function plotColorMap(indicador_nome) {
 
 			selection.change();
 
-			if(indicador_result[0] != "NA") {
+//			if(indicador_result[0] != "NA") {
 				cleanContainers();
 				plot_barra_indicador(cidade, indicador_nome);
 				plot_cidade_indicador(cidade, indicador_nome);
-			}
+//			}
 		});
 
 	}
