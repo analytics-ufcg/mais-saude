@@ -45,8 +45,8 @@ var vermelho = {
 };
 var cinza = {
 	'botao': "indicador_cinza",
-	'faixa':  "#000000",
-	'cidade': "#000000",
+	'faixa':  "#FFFFFF",
+	'cidade': "#FFFFFF",
 	'valor': 6
 };
 var cinza_claro = {
@@ -107,7 +107,7 @@ function loadData() {
 
 	// ativa o icone back to map
 	$("#button_back_map").click(function() { 	
-			var selection = $("#myList").val("Visão Geral");
+			var selection = $("#myList").val(0);
 			selection.change();
 	});
 
@@ -133,21 +133,6 @@ function getCurrentYearNotNA(cod_cidade, indicador) {
 }
 
 // calcula índice para a cor do indicador (usado para escolher a cor do botão, faixa, cidade; e para ordenar)
-////function calc_index_cor_indicador(indicador, valor, faixa){
-//	var filtro = faixa.filter(function(d){
-//		return valor <= d;
-//	});
-
-//	var min_v_faixa = filtro[filtro.length-1]
-//	
-//	filtro = faixa.filter(function(d){
-//		return d == min_v_faixa.x 
-//	});
-//	
-//	return faixa.indexOf(filtro[valor == min_v_faixa?0:filtro.length-1]);
-//}
-
-
 function calc_index_cor_indicador(indicador, valor, faixa){
 	var filtro = faixa.filter(function(d){
 		return valor > d;

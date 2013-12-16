@@ -23,8 +23,7 @@ function loadUpButtons(data) {
 		        .attr("class", "indicador indicador_map")
 		        .on("click", function(d) {
 					if(cidade == 0){
-						$("#map_title")
-						.text(d.name);
+						$("#map_title").text(d.name);
 						plotColorMap(d.id);
 					}
 					else{
