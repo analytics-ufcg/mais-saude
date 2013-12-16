@@ -752,9 +752,7 @@ class UploadHandler
 		copy("$dir_arquivo1","$backup");
 		
 		// Executando o script R 
-		exec("/usr/lib/R/bin/Rscript agrega_novos_dados_nas_tabelas_de_indicadores_e_medianas.R \"$file_path\" $dir_arquivo2 $dir_arquivo1 $dir_arquivo2 $dir_arquivo1 ");
-		//exec("$dir_R agrega_novos_dados_nas_tabelas_de_indicadores_e_medianas.R \"$file_path\" $dir_arquivo2 $dir_arquivo1 saida/tabela_com_todos_os_indicadores_selecionados_e_desvios.csv saida/medianas_para_todos_os_indicadores_agrupados_por_ano_e_regiao.csv $dir_perl");
-        //exec("C:/\"Program Files\"/R/R-3.0.0/bin/i386/Rscript.exe agrega_novos_dados_nas_tabelas_de_indicadores_e_medianas.R \"$file_path\" 1.csv 2.csv saida/tabela_com_todos_os_indicadores_selecionados_e_desvios.csv saida/medianas_para_todos_os_indicadores_agrupados_por_ano_e_regiao.csv C:/strawberry/perl/bin/perl.exe");
+		exec("/usr/lib/R/bin/Rscript agrega_novos_dados.R \"$file_path\" $dir_arquivo2 $dir_arquivo2 ");
 		return $file;
     }
 
