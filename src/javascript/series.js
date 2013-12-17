@@ -37,7 +37,7 @@ function plot(data, cidade, indicador){
 
     chart.yAxis
         .axisLabel('anos')
-        .tickFormat(d3.format(',.4f'));
+        .tickFormat(d3.format(',.3f'));
 
     d3.select('#div_series')
       .append("svg")
