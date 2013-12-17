@@ -8,3 +8,4 @@
 
 ./scripts/build_data.sh
 
+zip -r data/dados.zip data/INDICADOR_&* data/dicionario.csv
