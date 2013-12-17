@@ -22,7 +22,7 @@ centro = function(file_name, norm_results){
 
 		centro.meso <<- rbind( aggregate( df[df$ANO==ano,c(5,4,10)], list(REGIAO = df[df$ANO==ano,c(5,4,10)]$COD_MESO), if(eh_normal){ mean }else{ median } ) , centro.meso)
 		centro.micro <<- rbind( aggregate( df[df$ANO==ano,c(7, 4, 10)], list(REGIAO = df[df$ANO==ano,c(7,4,10)]$COD_MICRO), if(eh_normal){ mean }else{ median }), centro.micro)
-	        centro.estado <<- rbind( data.frame(REGIAO="25", ANO=ano, VALOR=if(eh_normal){mean(df[df$ANO==ano,10], na.rm=T)}else{median(df[df$ANO==ano,10], na.rm=T)}), centro.estado)
+	    centro.estado <<- rbind( data.frame(REGIAO="25", ANO=ano, VALOR=if(eh_normal){mean(df[df$ANO==ano,10], na.rm=T)}else{median(df[df$ANO==ano,10], na.rm=T)}), centro.estado)
 	}
   	
 	centro.meso$COD_MESO <- NULL

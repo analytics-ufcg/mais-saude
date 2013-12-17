@@ -1,5 +1,6 @@
 var city = [];
 var maxY = 0;
+var allyears = [];
 
 function plot_cidade_indicador(cidade, indicador_nome) {
    //console.log(cidade);
@@ -27,13 +28,16 @@ function plot(data, cidade, indicador){
 
     chart.useInteractiveGuideline(true);
     
+	allyears = [];
+    var datum_values = getLineValues(data, cidade, indicador); //collateral damage to allyears
 
     chart.xAxis
-        .tickFormat(d3.format('d'));
+        .tickFormat(d3.format('d'))
+        .tickValues(allyears);
 
     chart.yAxis
         .axisLabel('anos')
-        .tickFormat(d3.format(',.2f'));
+        .tickFormat(d3.format(',.4f'));
 
     d3.select('#div_series')
       .append("svg")
@@ -41,7 +45,7 @@ function plot(data, cidade, indicador){
       .attr('perserveAspectRatio', 'xMinYMid')
       .attr('width', width)
       .attr('height', height)
-      .datum(getLineValues(data, cidade, indicador));
+      .datum(datum_values);
 
     chart.forceY([0,maxY]);
 
@@ -128,6 +132,9 @@ function getLineValues(data, cidade, indicador) {
 
 
     var allvalues = value.concat(value_meso, value_micro, value_paraiba);
+    
+    allyears = allyears.concat(years, years_meso, years_micro, years_paraiba);
+    
     maxY = d3.max(allvalues, function(d) {  if(d!="NA"){  return +d;}} );
 
     //console.log(mesoregiao);
