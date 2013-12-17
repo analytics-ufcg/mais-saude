@@ -152,22 +152,22 @@ function getLineValues(data, cidade, indicador) {
       {
         values: obj_municipio,
         key: "Município: "+ cidades.filter(function(d){return d.COD_MUNICIPIO == cidade})[0].NOME_MUNICIPIO,
-        color: "#ff7f0e"
+        color: "#C51B7D"
       },
       {
         values: obj_mesoregiao,
         key: "Mesoregião: "+cod_mesoregiao.NOME_MESO,
-        color: "#33FF00"
+        color: "#41B6C4"
       },
       {
         values: obj_microregiao,
         key: "Microregião: "+cod_microregiao.NOME_MICRO,
-        color: "#00B2EE"
+        color: "#2C7FB8"
       },
       {
         values: obj_paraiba,
         key: "Estado: Paraíba",
-        color: "#ff0000"
+        color: "#253494"
       }
       
     ];
