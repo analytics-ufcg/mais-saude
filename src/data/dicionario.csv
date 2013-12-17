@@ -8,25 +8,25 @@
 "INDICADOR_021","Nascidos vivos com 7 ou mais consultas pré-natal(%)","melhor","Proporção de nascidos vivos com 7 ou mais consulas de pré-natal",6,1
 "INDICADOR_035","Vacinas com cobertura adequada(%)","melhor","Proporção de vacinas do Calendário Básico de Vacinação da Criança com cobertura vacinais alcançadas",7,1
 "INDICADOR_041","Ações de vigilância sanitária realizadas(%)","melhor","Percentual de ações de vigilância sanitária consideradas necessárias realizadas",8,1
-"INDICADOR_101","GPS","neutro","Gasto per capta com saúde total",9,0
-"INDICADOR_102","GPS corrente","neutro","Gasto per capta com saúde corrente",10,0
-"INDICADOR_103","PGTS (%)","neutro","Participação do gasto total na função Saúde",11,1
-"INDICADOR_104","InvSaude (%)","neutro","Participação dos investimento em saúde",12,1
-"INDICADOR_105","GTScor (%)","neutro","Proporção dos gastos em saúde com despesas corrente",13,1
-"INDICADOR_106","GTScap (%)","neutro","Proporção dos gastos em saúde com despesas de capital ",14,1
-"INDICADOR_107","GSATB (%)","neutro","Proporção dos gastos da saúde com atenção básica",15,1
-"INDICADOR_108","GSAHA (%)","neutro","Proporção dos gastos da saúde com Assistência Hospitalar e Ambulatorial ",16,1
-"INDICADOR_109","GSSPT (%)","neutro","Proporção dos gastos da saúde com Suporte Profilático e Terapêutico ",17,1
-"INDICADOR_110","GSV (%)","neutro","Proporção dos gastos da saúde com Vigilância ",18,1
-"INDICADOR_111","GSVE (%)","neutro","Proporção dos gastos da saúde com Vigilância Epidemiológica ",19,1
-"INDICADOR_112","GSAG (%)","neutro","Proporção dos gastos da saúde com atividades gestão ",20,1
-"INDICADOR_113","GP (%)","neutro","Percentual do gasto com pessoal ",21,1
-"INDICADOR_114","RPEC (%)","neutro","Relação de gasto total com pessoal em relação ao pessoal contatado ",22,1
+"INDICADOR_101","Gasto Per Capita com Saúde Total","neutro","Gasto per capta com saúde total",9,0
+"INDICADOR_102","Gasto Per Capita com Saúde Corrente","neutro","Gasto per capta com saúde corrente",10,0
+"INDICADOR_103","Gasto Total com Saúde (%)","neutro","Participação do gasto total na função Saúde",11,1
+"INDICADOR_104","Investimento em Saude (%)","neutro","Participação dos investimento em saúde",12,1
+"INDICADOR_105","Gastos em saúde com despesas de corrente (%)","neutro","Proporção dos gastos em saúde com despesas corrente",13,1
+"INDICADOR_106","Gastos em saúde com despesas de capital (%)","neutro","Proporção dos gastos em saúde com despesas de capital ",14,1
+"INDICADOR_107","Gastos com Atenção Básica (%)","neutro","Proporção dos gastos da saúde com atenção básica",15,1
+"INDICADOR_108","Gastos com Assistência Hospitalar e Ambulatorial (%)","neutro","Proporção dos gastos da saúde com Assistência Hospitalar e Ambulatorial ",16,1
+"INDICADOR_109","Gastos com Suporte Profilático e Terapêutico (%)","neutro","Proporção dos gastos da saúde com Suporte Profilático e Terapêutico ",17,1
+"INDICADOR_110","Gastos com Vigilância (%)","neutro","Proporção dos gastos da saúde com Vigilância ",18,1
+"INDICADOR_111","Gastos com Vigilância Epidemiológica (%)","neutro","Proporção dos gastos da saúde com Vigilância Epidemiológica ",19,1
+"INDICADOR_112","Gastos com Atividades Gestão (%)","neutro","Proporção dos gastos da saúde com atividades gestão ",20,1
+"INDICADOR_113","Gasto com Pessoal (%)","neutro","Percentual do gasto com pessoal ",21,1
+"INDICADOR_114","Relação entre Gasto Total com Pessoal e com Pessoal Contratado (%)","neutro","Relação de gasto total com pessoal em relação ao pessoal contatado ",22,1
 "INDICADOR_201","Esperança de vida ao nascer","melhor","Número médio de anos que as pessoas deverão viver a partir do nascimento, se permanecerem constantes ao longo da vida o nível e o padrão de mortalidade por idade prevalecentes no ano do Censo.",23,2
 "INDICADOR_202","Taxa de fecundidade total","melhor","Número médio de filhos que uma mulher deverá ter ao terminar o período reprodutivo (15 a 49 anos de idade).",24,2
 "INDICADOR_203","Mortalidade Infantil","pior","Número de crianças que não deverão sobreviver ao primeiro ano de vida em cada 1000 crianças nascidas vivas.",25,2
 "INDICADOR_204","Mortalidade até 5 anos de idade","pior","Probabilidade de morrer entre o nascimento e a idade exata de 5 anos, por 1000 crianças nascidas vivas.",26,2
 "INDICADOR_205","Probabilidade de sobrevivência até 60 anos","melhor","Probabilidade de uma criança recém-nascida viver até os 60 anos, se permanecerem constantes ao longo da vida o nível e o padrão de mortalidade por idade prevalecentes no ano do Censo.",27,1
 "INDICADOR_206","Taxa de envelhecimento (%)","melhor","Razão entre a população de 65 anos ou mais de idade e a população total multiplicado por 100.",28,1
-"INDICADOR_207","IDHM","melhor","Índice de Desenvolvimento Humano Municipal",28,2
-"INDICADOR_208","IDHM-L","melhor","Índice de Desenvolvimento Humano Municipal  - Dimensão Longevidade",28,2
+"INDICADOR_207","IDH Municipal","melhor","Índice de Desenvolvimento Humano Municipal",28,2
+"INDICADOR_208","IDH Municipal - Longevidade","melhor","Índice de Desenvolvimento Humano Municipal  - Dimensão Longevidade",28,2
